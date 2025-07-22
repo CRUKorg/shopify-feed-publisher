@@ -2349,7 +2349,7 @@
      <g:brand>Creekwood</g:brand>
      <g:product_type>Pot</g:product_type>
 
-     <g:color>Aqua</g:color>
+     <g:color>Off White</g:color>
      <g:size>30cm</g:size>
      <g:size_type>regular</g:size_type>
      <g:size_system>UK</g:size_system>
@@ -2389,7 +2389,7 @@
      <g:brand>Creekwood</g:brand>
      <g:product_type>Pot</g:product_type>
 
-     <g:color>Aqua</g:color>
+     <g:color>Off White</g:color>
      <g:size>30cm</g:size>
      <g:size_type>regular</g:size_type>
      <g:size_system>UK</g:size_system>
@@ -2429,7 +2429,7 @@
      <g:brand>Creekwood</g:brand>
      <g:product_type>Pot</g:product_type>
 
-     <g:color>Aqua</g:color>
+     <g:color>Off White</g:color>
      <g:size>30cm</g:size>
      <g:size_type>regular</g:size_type>
      <g:size_system>UK</g:size_system>
@@ -2469,7 +2469,7 @@
      <g:brand>Creekwood</g:brand>
      <g:product_type>Pot</g:product_type>
 
-     <g:color>Aqua</g:color>
+     <g:color>Off White</g:color>
      <g:size>30cm</g:size>
      <g:size_type>regular</g:size_type>
      <g:size_system>UK</g:size_system>
@@ -2487,7 +2487,7 @@
      <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=55332629676407</g:link>
      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84718-BlenheimPotAqua-Cancer-Research-UK-Online-Shop_400x.png?v=1750256756</g:image_link>
      <g:condition>new</g:condition>
-     <g:availability>in_stock</g:availability>
+     <g:availability>out_of_stock</g:availability>
      <g:price>9.99 GBP</g:price>
 
     <g:shipping>
@@ -2509,7 +2509,7 @@
      <g:brand>Creekwood</g:brand>
      <g:product_type>Pot</g:product_type>
 
-     <g:color>Aqua</g:color>
+     <g:color>Off White</g:color>
      <g:size>30cm</g:size>
      <g:size_type>regular</g:size_type>
      <g:size_system>UK</g:size_system>
@@ -2549,7 +2549,7 @@
      <g:brand>Creekwood</g:brand>
      <g:product_type>Pot</g:product_type>
 
-     <g:color>Aqua</g:color>
+     <g:color>Off White</g:color>
      <g:size>30cm</g:size>
      <g:size_type>regular</g:size_type>
      <g:size_system>UK</g:size_system>
@@ -12521,7 +12521,7 @@ Lining 100% Cotton</g:material>
      <g:item_group_id>14965469938039</g:item_group_id>
      
      <g:title>Citrus Striped Large Coolbag Backpack</g:title>
-     <g:description>Keep your drinks and snacks cool this summer with this handy cool bag featuring a bold stripey design.The backpack design makes it easy and convenient to carry.Features:Striped Cool Bag BackpackApprox 27 x 35 x 18cm, 380g17 litre capacityAluminium foil lined with foam insulation and a polyester outerCare instructions:Wipe clean with a damp cloth</g:description>
+     <g:description>Keep your drinks and snacks cool this summer with this handy cool bag featuring a bold stripy design.The backpack design makes it easy and convenient to carry.Approx 27 x 35 x 18cm, 380g17 litre capacity</g:description>
      <g:link>https://shop.cancerresearchuk.org/products/citrus-stripe-rucksack-cooler-bag?variant=55150565163383</g:link>
      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82903-Citrus-Stripe-Rucksack-Cooler-Bag-Cancer-Research-UK-Online-Shop_400x.jpg?v=1745425002</g:image_link>
      <g:condition>new</g:condition>
@@ -12546,6 +12546,7 @@ Lining 100% Cotton</g:material>
 
      <g:product_type>Coolbags</g:product_type>
 
+     <g:material>Polyester</g:material>
      <g:custom_label_0>General Merchandise</g:custom_label_0>
      <g:custom_label_1>General Merchandise</g:custom_label_1>
      <g:custom_label_2>Homeware</g:custom_label_2>
@@ -25689,7 +25690,7 @@ Lining 100% Cotton</g:material>
      <g:link>https://shop.cancerresearchuk.org/products/moogoo-fresh-cream-sensitive-deodorant?variant=49004033245501</g:link>
      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42341-MooGoo-Deodorant-Sensitive-Cancer-Research-UK-Online-Shop_9f95b30b-7c4c-4fca-be5b-7716c585c749_400x.jpg?v=1719230311</g:image_link>
      <g:condition>new</g:condition>
-     <g:availability>in_stock</g:availability>
+     <g:availability>out_of_stock</g:availability>
      <g:price>6.99 GBP</g:price>
 
     <g:shipping>
@@ -67192,7 +67193,7 @@ Navy: 52% Modal/18% Cotton/15% Polyester/9% Polyamide/6% Elastane </g:material>
      <g:link>https://shop.cancerresearchuk.org/products/trulife-initial-softie-breastform-bag-beige?variant=49004421316925</g:link>
      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_400x.jpg?v=1719231712</g:image_link>
      <g:condition>new</g:condition>
-     <g:availability>in_stock</g:availability>
+     <g:availability>out_of_stock</g:availability>
      <g:price>30.00 GBP</g:price>
 
     <g:shipping>
