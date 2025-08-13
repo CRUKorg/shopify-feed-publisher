@@ -13264,7 +13264,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/stripe-duo-of-tea-towels?variant=55149636977015</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82900-Citrus-Stripe-Tea-Towel-2-Pack-Cancer-Research-UK-Online-Shop_400x.jpg?v=1745412460</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>2.49 GBP</g:sale_price>
 
@@ -15528,7 +15528,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/cygnet-pato-everyday-dk-knitting-yarn?variant=49003781620029</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30582-Cygnet-Pato-Everyday-DK-Knitting-Yarn-White-999-Cancer-Research-UK-Online-Shop_400x.jpg?v=1738759769</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>1.79 GBP</g:price>
 
       <g:shipping>
@@ -17495,7 +17495,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14671609889143</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Eco Nature Let It Snow Recycled Large Gift Bag</g:title>
-      <g:description>Made in the UK, this snow-inspired gift bag by Eco Nature is also fully reusable and recyclable. Large size, approximately 36 x 26 x 10cm.</g:description>
+      <g:description>Made in the UK, this snow-inspired gift bag by Eco Nature is also fully reusable and recyclable.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/eco-nature-let-it-snow-recycled-large-gift-bag?variant=53484869681527</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81888-Eco-Nature-Let-It-Snow-Large-Gift-Bag-Cancer-Research-UK-Online-Shop_400x.jpg?v=1729177447</g:image_link>
       <g:condition>new</g:condition>
@@ -17524,6 +17524,9 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>10 cm </g:product_length>
+      <g:product_width>26 cm </g:product_width>
+      <g:product_height>36 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -28216,7 +28219,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-fresh-cream-deodorant-oats-honey?variant=49004032393533</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81500-MooGoo-Fresh-Cream-Deodorant-Oats-Honey-Cancer-Research-UK-Online-Shop_57f18a67-27ab-48f0-86ef-f9ce937a481f_400x.jpg?v=1719230309</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -28543,7 +28546,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-hydrating-buttermilk-cleansing-soap-bar?variant=49004035604797</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81497-MooGoo-Cleansers-Soap-Bar-Buttermilk-Cancer-Research-UK-Online-Shop_1058b24f-948e-442a-8fc5-86e83dfcbae0_400x.jpg?v=1719230318</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -28707,7 +28710,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-milk-shampoo?variant=49004038619453</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42335-MooGoo-Milk-Shampoo-500ml-3-Cancer-Research-UK-Online-Shop_3b11c740-0c8b-413a-9f29-d7ca6264351f_400x.jpg?v=1719230326</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>13.49 GBP</g:price>
 
       <g:shipping>
@@ -28912,7 +28915,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-natural-lip-balm-strawberry-tinted?variant=49004043698493</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81502-MooGoo-Body-Care-Lip-Balm-Strawberry-Cancer-Research-UK-Online-Shop_0_28a7ed70-39f9-45bc-a616-f8acdaaba54f_400x.jpg?v=1719230338</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -29359,7 +29362,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9521050845501</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
       <g:title>MooGoo Sensitive Skin Balm</g:title>
-      <g:description>Suitable for all ages, MooGoo's Sensitive Skin Balm helps sooth dry and itchy skin, especially those prone to eczema, dermatitis, psoriasis, and radiotherapy-affected skin. Features:  MooGoo Sensitive Skin Balm, 120g, Made with natural oils like sweet almond and olive oil, Full of soothing ingredients, including aloe vera and centella asiatica, Naturally preserved with hops extract - free of parabens and phenoxyethanol,  9335955000166</g:description>
+      <g:description>Suitable for all ages, MooGoo's Sensitive Skin Balm helps sooth dry and itchy skin, especially those prone to eczema, dermatitis, psoriasis, and radiotherapy-affected skin. Features:  MooGoo Sensitive Skin Balm, 120g, Made with natural oils like sweet almond and olive oil, Full of soothing ingredients, including aloe vera and centella asiatica, Naturally preserved with hops extract - free of parabens and phenoxyethanol, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-sensitive-skin-balm?variant=49004048122173</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42328-MooGoo-Sensitive-Skin-Balm-120g-Cancer-Research-UK-Online-Shop_b2d98d7f-4377-4560-a9c9-0df31d653900_400x.jpg?v=1719230349</g:image_link>
       <g:condition>new</g:condition>
@@ -55543,7 +55546,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-silver-post-surgery-bra?variant=55488990839159</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Silver-Bra_6cf1a3a0-7e40-47f6-b302-f858d1b73e53_400x.jpg?v=1753430863</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -74209,7 +74212,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/wordsearch?variant=49004470731069</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43800-9781398804791-Wordsearch-Puzzles-Cancer-Research-UK-Online-Shop-1_a4ff5a93-3e26-4417-8dbe-16812f40740d_400x.jpg?v=1719231851</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
