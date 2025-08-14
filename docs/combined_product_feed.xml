@@ -131,7 +131,7 @@
       <g:item_group_id>14991993340279</g:item_group_id>
       
       <g:title>A Garden is a Friend Watering Can Hanging Decoration</g:title>
-      <g:description>Spread the love with this cute hanging decoration. Perfect for a garden lover, the wooden, watering can-shaped decoration with hanging ribbon is printed with the motto: "A garden is a friend you can visit anytime". 14 x 9.5 x 1cm</g:description>
+      <g:description>Spread the love with this cute hanging decoration. Perfect for a garden lover, the wooden, watering can-shaped decoration with hanging ribbon is printed with the motto: "A garden is a friend you can visit anytime".</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/a-garden-is-a-friend-watering-can-hanging-decoration?variant=55252482294135</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80098-Garden-Is-A-Friend-Watering-Can-Hanging-Decoration-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748355818</g:image_link>
       <g:condition>new</g:condition>
@@ -160,10 +160,9 @@
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>MDF/polyester</g:material>
-      <g:product_length>14 cm </g:product_length>
-      <g:product_width>9.5 cm </g:product_width>
-      <g:product_height>1 cm </g:product_height>
-      <g:product_weight>300 g </g:product_weight>
+      <g:product_length>1 cm </g:product_length>
+      <g:product_width>14 cm </g:product_width>
+      <g:product_height>9.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -259,7 +258,7 @@
       <g:item_group_id>14992097050999</g:item_group_id>
       
       <g:title>Always in our Thoughts Guardian Angel Remembrance Decoration</g:title>
-      <g:description>A simply beautiful way to remember a loved one who is no longer with you, but always watching over you. Measuring approximately 9 x 8 x 2cm, these angels bring year-round heartfelt comfort.</g:description>
+      <g:description>A simply beautiful way to remember a loved one who is no longer with you, but always watching over you. With elegant simplicity, these angels bring year-round heartfelt comfort.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/always-in-our-thoughts-guardian-angel-remembrance-decoration?variant=55252947435895</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80531-Remembrance-Angel-Decoration-Hearts-2-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748361558</g:image_link>
       <g:condition>new</g:condition>
@@ -292,7 +291,6 @@
       <g:product_length>2 cm </g:product_length>
       <g:product_width>8 cm </g:product_width>
       <g:product_height>9 cm </g:product_height>
-      <g:product_weight>39 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -764,6 +762,49 @@
 
 	
     <item>
+      <g:id>SU23713</g:id>
+      <g:item_group_id>9520701178173</g:item_group_id>
+      <g:google_product_category>4502</g:google_product_category>
+      <g:title>Bake Sale Kit</g:title>
+      <g:description>Raising some dough with your own baking event? Get your hands on everything you need to host in style, all in Stand Up To Cancer colours. With presentation like this, Paul and Prue would be proud. This exclusive kit includes:  3m of double sided bunting, 20 food flags, 20 x 33cm napkins, 20 cupcake cases,  Raise some dough for life-saving research by hosting your own Great Stand Up To Cancer Bake Off. Find out more here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/bake-sale-kits?variant=49003662344509</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Merchandise_20_06_16_0531_20_282_29_0_b68c97a1-6fe6-4c27-8f89-9582ff63b616_400x.jpg?v=1719229034</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>10.00 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU23713</g:mpn>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Accessories</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW43805</g:id>
       <g:item_group_id>9520713695549</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -796,6 +837,8 @@
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>14 cm </g:product_height>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
@@ -1469,7 +1512,7 @@
       <g:item_group_id>14988531401079</g:item_group_id>
       
       <g:title>Bee Kind Artificial Succulent Plant</g:title>
-      <g:description>A cute little gift for a loved one, this miniature artificial succulent plant not only looks adorable, it also shares a heartfelt motto. Includes the phrase "Bee kind to everyone". Approximately 13cm tall x 9cm diameter.</g:description>
+      <g:description>A cute little gift for a loved one, this miniature artificial succulent plant not only looks adorable, it also shares a heartfelt motto. Includes the phrase "Bee kind to everyone".</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/bee-kind-artificial-succulent-plant?variant=55237624136055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80088-Bee-Kind-To-Everyone-Succulent-Cancer-Research-UK-Online-Shop_400x.jpg?v=1747913864</g:image_link>
       <g:condition>new</g:condition>
@@ -1500,7 +1543,6 @@
       <g:product_length>9 cm </g:product_length>
       <g:product_width>9 cm </g:product_width>
       <g:product_height>13 cm </g:product_height>
-      <g:product_weight>360 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -4353,7 +4395,7 @@
       <g:item_group_id>9520738402621</g:item_group_id>
       <g:google_product_category>2169</g:google_product_category>
       <g:title>Bowelbabe Fund Find A Life Travel Cup</g:title>
-      <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. Travel cup adorned with Dame Deborah James' inspiring message: "Find a life worth enjoying, take risks, love deeply, have no regrets and always, always have rebellious hope." Features:  Co-ordinating items also available, 16.5cm tall x 6-8.5cm diameter, 400ml capacity, Keeps drinks warm for up to 100 minutes unopened ,  The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
+      <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. Travel cup adorned with Dame Deborah James' inspiring message: "Find a life worth enjoying, take risks, love deeply, have no regrets and always, always have rebellious hope." Keeps drinks warm for up to 100 minutes if unopened. The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-find-life-travel-cup?variant=49003700814141</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80611-Bowelbabe-Find-A-Life-Cup-Cancer-Research-UK-Online-Shop_f07b5d57-ee29-47b6-82eb-73c59e256170_400x.jpg?v=1719229153</g:image_link>
       <g:condition>new</g:condition>
@@ -4383,6 +4425,8 @@
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>8.5 cm </g:product_width>
+      <g:product_height>16.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Bowelbabe</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -13301,7 +13345,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14965469938039</g:item_group_id>
       
       <g:title>Citrus Striped Large Coolbag Backpack</g:title>
-      <g:description>Keep your drinks and snacks cool this summer with this handy cool bag featuring a bold stripy design. The backpack design makes it easy and convenient to carry.  Approx 27 x 35 x 18cm, 380g, 17 litre capacity , </g:description>
+      <g:description>Keep your drinks and snacks cool this summer with this handy cool bag featuring a bold stripy design. The backpack design makes it easy and convenient to carry.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/citrus-stripe-rucksack-cooler-bag?variant=55150565163383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82903-Citrus-Stripe-Rucksack-Cooler-Bag-Cancer-Research-UK-Online-Shop_400x.jpg?v=1745425002</g:image_link>
       <g:condition>new</g:condition>
@@ -13332,6 +13376,9 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Polyester</g:material>
+      <g:product_length>18 cm </g:product_length>
+      <g:product_width>27 cm </g:product_width>
+      <g:product_height>35 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -13915,6 +13962,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>15 cm </g:product_width>
+      <g:product_height>24 cm </g:product_height>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
@@ -15608,7 +15657,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14991995371895</g:item_group_id>
       
       <g:title>Dad Guardian Angel Remembrance Decoration</g:title>
-      <g:description>A simply beautiful way to remember a father who is no longer with you, but always watching over you. Measuring approximately 9 x 8 x 2cm, these angels bring year-round heartfelt comfort.</g:description>
+      <g:description>A simply beautiful way to remember a father who is no longer with you, but always watching over you. With simple elegance, these angels bring year-round heartfelt comfort.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/dad-guardian-angel-remembrance-decoration?variant=55252489961847</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80531-Remembrance-Angel-Decoration-Dad-3-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748357555</g:image_link>
       <g:condition>new</g:condition>
@@ -15641,7 +15690,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>2 cm </g:product_length>
       <g:product_width>8 cm </g:product_width>
       <g:product_height>9 cm </g:product_height>
-      <g:product_weight>39 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -17006,7 +17054,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520841720125</g:item_group_id>
       <g:google_product_category>499805</g:google_product_category>
       <g:title>Easter Bunny Bag</g:title>
-      <g:description>Ideal for an Easter egg hunt or to store some treats, this Easter bunny bag is a fun addition to your theming. Please note: the design may vary from what's shown in the photograph. Features:  Easter Bunny Bag , Measures approximately 21 x 9 x 6cm,  5024418518266</g:description>
+      <g:description>Ideal for an Easter egg hunt or to store some treats, this Easter bunny bag is a fun addition to your theming. Please note: the design may vary from what's shown in the photograph.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/easter-bunny-bag?variant=49003824546109</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79692-Easter-Range-Bunny-Bag-Cancer-Research-UK-Online-Shop_f0a6e894-dd00-4445-a208-6176fa21787c_400x.jpg?v=1719229523</g:image_link>
       <g:condition>new</g:condition>
@@ -17035,6 +17083,9 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>100% polyester construction</g:material>
+      <g:product_length>6 cm </g:product_length>
+      <g:product_width>9 cm </g:product_width>
+      <g:product_height>21 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -17818,6 +17869,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>13 cm </g:product_width>
+      <g:product_height>20 cm </g:product_height>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
@@ -17913,7 +17966,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Hot Water Bottle - Blush</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in two colour options, we also have a neck and long body bottle available too. Features:  Natural rubber hot water bottle with faux fur cover, 22 x 34cm, 425g, </g:description>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a range of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-hot-water-bottle?variant=49003847942461</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81339-Fur-2-Litre-HWB-Pink-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683114</g:image_link>
       <g:condition>new</g:condition>
@@ -17944,6 +17997,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>22 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -17955,7 +18010,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Hot Water Bottle - White</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in two colour options, we also have a neck and long body bottle available too. Features:  Natural rubber hot water bottle with faux fur cover, 22 x 34cm, 425g, </g:description>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a range of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-hot-water-bottle?variant=49365476213053</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81338-Fur-2-litre-HWB-Winter-White-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683114</g:image_link>
       <g:condition>new</g:condition>
@@ -17986,9 +18041,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>34 cm </g:product_length>
       <g:product_width>22 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18000,7 +18054,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Hot Water Bottle - Brown</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in two colour options, we also have a neck and long body bottle available too. Features:  Natural rubber hot water bottle with faux fur cover, 22 x 34cm, 425g, </g:description>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a range of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-hot-water-bottle?variant=49005497123133</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76383-Natural-Fur-2-Litre-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683114</g:image_link>
       <g:condition>new</g:condition>
@@ -18032,6 +18086,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>22 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18043,7 +18099,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Hot Water Bottle - Green</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in two colour options, we also have a neck and long body bottle available too. Features:  Natural rubber hot water bottle with faux fur cover, 22 x 34cm, 425g, </g:description>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a range of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-hot-water-bottle?variant=49005497090365</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76382-Green-Fur-2-Litre-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683114</g:image_link>
       <g:condition>new</g:condition>
@@ -18075,6 +18131,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>22 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18086,7 +18144,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Hot Water Bottle - Lavender</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in two colour options, we also have a neck and long body bottle available too. Features:  Natural rubber hot water bottle with faux fur cover, 22 x 34cm, 425g, </g:description>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a range of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-hot-water-bottle?variant=49005497057597</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76381-Lavender-Fur-2-Litre-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_0_f5e103d9-3576-4966-b5cb-81f8b2c6fbba_400x.jpg?v=1734683114</g:image_link>
       <g:condition>new</g:condition>
@@ -18118,6 +18176,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>22 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18129,7 +18189,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Hot Water Bottle - Grey</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in two colour options, we also have a neck and long body bottle available too. Features:  Natural rubber hot water bottle with faux fur cover, 22 x 34cm, 425g, </g:description>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a range of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-hot-water-bottle?variant=49005497024829</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76380-Charcoal-Fur-2-Litre-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683114</g:image_link>
       <g:condition>new</g:condition>
@@ -18161,6 +18221,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>22 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18172,7 +18234,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Hot Water Bottle - Light Grey</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in two colour options, we also have a neck and long body bottle available too. Features:  Natural rubber hot water bottle with faux fur cover, 22 x 34cm, 425g, </g:description>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a range of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-hot-water-bottle?variant=53496439964023</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81340-Fur-2-Litre-HWB-Grey-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683114</g:image_link>
       <g:condition>new</g:condition>
@@ -18203,6 +18265,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>22 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18214,7 +18278,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Hot Water Bottle - Charcoal</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in two colour options, we also have a neck and long body bottle available too. Features:  Natural rubber hot water bottle with faux fur cover, 22 x 34cm, 425g, </g:description>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a range of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-hot-water-bottle?variant=49005496992061</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70664-Charcoal-Grey-Faux-Fur-2l-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683114</g:image_link>
       <g:condition>new</g:condition>
@@ -18246,6 +18310,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>22 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18258,7 +18324,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Pink</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=53496071258487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81345-Long-Hot-Water-Bottle-Pink-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18289,6 +18355,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>16 cm </g:product_width>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18300,7 +18368,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - White</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=49365495775549</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81344-Long-Hot-Water-Bottle-Winter-White-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18332,9 +18400,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>74 cm </g:product_length>
       <g:product_width>16 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18346,7 +18413,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Light Grey</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=53496071225719</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81346-Long-Hot-Water-Bottle-Grey-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18377,6 +18444,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>16 cm </g:product_width>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18388,7 +18457,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Brown</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=49005497450813</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76391-Natural-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18420,9 +18489,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>74 cm </g:product_length>
       <g:product_width>16 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18434,7 +18502,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Charcoal</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=49003848532285</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70667-Faux-Fur-Long-Grey-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18465,9 +18533,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>74 cm </g:product_length>
       <g:product_width>16 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18479,7 +18546,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Lavender</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=49005497385277</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76389-Lavender-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_0_4eed1133-e789-4ea4-bcf3-5fc65c0ed101_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18511,9 +18578,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>74 cm </g:product_length>
       <g:product_width>16 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18525,7 +18591,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Grey</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=49005497352509</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76388-Charcoal-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683113</g:image_link>
       <g:condition>new</g:condition>
@@ -18557,9 +18623,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>74 cm </g:product_length>
       <g:product_width>16 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18571,7 +18636,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Green</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=49005497418045</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76390-Green-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18603,9 +18668,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>74 cm </g:product_length>
       <g:product_width>16 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18617,7 +18681,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Blush</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=49005497319741</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70668-Faux-Fur-Long-Blush-Pink-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18649,9 +18713,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>74 cm </g:product_length>
       <g:product_width>16 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18663,7 +18726,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864297277</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Long Hot Water Bottle - Burgundy</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Features:  Natural rubber hot water bottle with faux fur cover, 74 x 16cm, </g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=49005497483581</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76392-Burgundy-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734683112</g:image_link>
       <g:condition>new</g:condition>
@@ -18695,9 +18758,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>74 cm </g:product_length>
       <g:product_width>16 cm </g:product_width>
-      <g:product_weight>425 g </g:product_weight>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18797,7 +18859,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Green</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Features:  Natural rubber hot water bottle with faux fur cover , 40 x 30cm, 460g, </g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497614653</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
@@ -18829,9 +18891,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>30 cm </g:product_length>
       <g:product_width>40 cm </g:product_width>
-      <g:product_weight>475 g </g:product_weight>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18843,7 +18904,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - White</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Features:  Natural rubber hot water bottle with faux fur cover , 40 x 30cm, 460g, </g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49365484470589</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
@@ -18875,9 +18936,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>30 cm </g:product_length>
       <g:product_width>40 cm </g:product_width>
-      <g:product_weight>475 g </g:product_weight>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18889,7 +18949,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Blush</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Features:  Natural rubber hot water bottle with faux fur cover , 40 x 30cm, 460g, </g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497516349</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
@@ -18920,9 +18980,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>30 cm </g:product_length>
       <g:product_width>40 cm </g:product_width>
-      <g:product_weight>475 g </g:product_weight>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18934,7 +18993,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Light Grey</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Features:  Natural rubber hot water bottle with faux fur cover , 40 x 30cm, 460g, </g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=53495917707639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
@@ -18964,6 +19023,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18975,7 +19036,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Brown</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Features:  Natural rubber hot water bottle with faux fur cover , 40 x 30cm, 460g, </g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497647421</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
@@ -19007,9 +19068,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>30 cm </g:product_length>
       <g:product_width>40 cm </g:product_width>
-      <g:product_weight>475 g </g:product_weight>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -19021,7 +19081,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Grey</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Features:  Natural rubber hot water bottle with faux fur cover , 40 x 30cm, 460g, </g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497549117</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
@@ -19053,9 +19113,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>30 cm </g:product_length>
       <g:product_width>40 cm </g:product_width>
-      <g:product_weight>475 g </g:product_weight>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -19067,7 +19126,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Lavender</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Features:  Natural rubber hot water bottle with faux fur cover , 40 x 30cm, 460g, </g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497581885</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
@@ -19099,9 +19158,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>30 cm </g:product_length>
       <g:product_width>40 cm </g:product_width>
-      <g:product_weight>475 g </g:product_weight>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -19113,7 +19171,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Charcoal</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Features:  Natural rubber hot water bottle with faux fur cover , 40 x 30cm, 460g, </g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in two colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49003849253181</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
@@ -19144,9 +19202,8 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
-      <g:product_length>30 cm </g:product_length>
       <g:product_width>40 cm </g:product_width>
-      <g:product_weight>475 g </g:product_weight>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -19159,7 +19216,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14994649940343</g:item_group_id>
       
       <g:title>Feathers Appear Guardian Angel Remembrance Decoration</g:title>
-      <g:description>A touching way to remember a loved one who is no longer with you, but always watching over you. This wooden angel features the motto: "Feathers appear when angels are near". Measuring approximately 9 x 8 x 2cm, these angels bring year-round heartfelt comfort.</g:description>
+      <g:description>A touching way to remember a loved one who is no longer with you, but always watching over you. This wooden angel features the motto: "Feathers appear when angels are near". With simple elegance, these angels bring year-round heartfelt comfort.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/feathers-appear-guardian-angel-remembrance-decoration?variant=55257973195127</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80531-Remembrance-Angel-Decoration-Feathers-1-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748428279</g:image_link>
       <g:condition>new</g:condition>
@@ -19192,7 +19249,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>2 cm </g:product_length>
       <g:product_width>8 cm </g:product_width>
       <g:product_height>9 cm </g:product_height>
-      <g:product_weight>39 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -21530,7 +21586,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520912597309</g:item_group_id>
       <g:google_product_category>328</g:google_product_category>
       <g:title>Gonk Gnome Hand Soap</g:title>
-      <g:description>Bring some festive magic in to your gnome. Sorry, home. With a red hat covering his eyes, and a long white beard down to his feet, this refillable gonk hand soap is sure to become a festive hit year after year. Features:  320ml, 18 x 8 x 6cm, Vanilla Frost fragrance, Do not apply around the eyes or on lips. ,   </g:description>
+      <g:description>Bring some festive magic in to your gnome. Sorry, home. With a red hat covering his eyes, and a long white beard down to his feet, this refillable gonk hand soap is sure to become a festive hit year after year.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/gonk-gnome-hand-soap?variant=49003899355453</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70546-Gonk-Soap-Cancer-Research-UK-Online-Shop_15ab95ae-efac-4ea8-bd3e-656e365c5ecb_400x.jpg?v=1734683105</g:image_link>
       <g:condition>new</g:condition>
@@ -21560,6 +21616,9 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>6 cm </g:product_length>
+      <g:product_width>8 cm </g:product_width>
+      <g:product_height>18 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -21612,7 +21671,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14992001302903</g:item_group_id>
       
       <g:title>Grandad Guardian Angel Remembrance Decoration</g:title>
-      <g:description>A simply beautiful way to remember a grandfather who is no longer with you, but always watching over you. Measuring approximately 9 x 8 x 2cm, these angels bring year-round heartfelt comfort.</g:description>
+      <g:description>A simply beautiful way to remember a grandfather who is no longer with you, but always watching over you. With simple elegance, these angels bring year-round heartfelt comfort.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/grandad-guardian-angel-remembrance-decoration?variant=55252524499319</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80531-Remembrance-Angel-Decoration-Grandad-2-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748357550</g:image_link>
       <g:condition>new</g:condition>
@@ -21645,7 +21704,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>2 cm </g:product_length>
       <g:product_width>8 cm </g:product_width>
       <g:product_height>9 cm </g:product_height>
-      <g:product_weight>39 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -21658,7 +21716,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14992003465591</g:item_group_id>
       
       <g:title>Grandma Guardian Angel Remembrance Decoration</g:title>
-      <g:description>A simply beautiful way to remember a grandmother who is no longer with you, but always watching over you. Measuring approximately 9 x 8 x 2cm, these angels bring year-round heartfelt comfort.</g:description>
+      <g:description>A simply beautiful way to remember a grandmother who is no longer with you, but always watching over you. With simple elegance, these angels bring year-round heartfelt comfort.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/grandma-guardian-angel-remembrance-decoration?variant=55252534559095</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80531-Remembrance-Angel-Decoration-Grandma-2-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748361619</g:image_link>
       <g:condition>new</g:condition>
@@ -21691,7 +21749,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>2 cm </g:product_length>
       <g:product_width>8 cm </g:product_width>
       <g:product_height>9 cm </g:product_height>
-      <g:product_weight>39 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -21784,7 +21841,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14992003858807</g:item_group_id>
       
       <g:title>Guardian Angel Remembrance Decoration</g:title>
-      <g:description>A simply beautiful way to remember someone who is no longer with you, but always watching over you. Measuring approximately 9 x 8 x 2cm, these angels bring year-round heartfelt comfort.</g:description>
+      <g:description>A simply beautiful way to remember someone who is no longer with you, but always watching over you. With simple elegance, these angels bring year-round heartfelt comfort.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/guardian-angel-remembrance-decoration?variant=55252537278839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80531-Remembrance-Angel-Decoration-Guardian-Angel-2-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748357316</g:image_link>
       <g:condition>new</g:condition>
@@ -21817,7 +21874,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>2 cm </g:product_length>
       <g:product_width>8 cm </g:product_width>
       <g:product_height>9 cm </g:product_height>
-      <g:product_weight>39 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -22903,9 +22959,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82180</g:id>
       <g:item_group_id>9520961585469</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -22943,7 +22997,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW42178</g:id>
       <g:item_group_id>9520962371901</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -23114,7 +23170,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14988528222583</g:item_group_id>
       
       <g:title>If Friends Were Flowers Artificial Succulent Plant</g:title>
-      <g:description>A cute little gift for a loved one, this miniature artificial succulent plant not only looks adorable, it also shares a heartfelt motto. Includes the phrase "if friends were flowers I'd pick you". Approximately 13cm tall x 9cm diameter.</g:description>
+      <g:description>A cute little gift for a loved one, this miniature artificial succulent plant not only looks adorable, it also shares a heartfelt motto. Includes the phrase "if friends were flowers I'd pick you".</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/if-friends-were-flowers-artificial-succulent-plant?variant=55237610406263</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80086-If-Friends-Were-Flowers-Succulent-Cancer-Research-UK-Online-Shop_400x.jpg?v=1747912556</g:image_link>
       <g:condition>new</g:condition>
@@ -23145,7 +23201,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>9 cm </g:product_length>
       <g:product_width>9 cm </g:product_width>
       <g:product_height>13 cm </g:product_height>
-      <g:product_weight>360 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -23187,10 +23242,9 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Ceramic</g:material>
-      <g:product_length>11 cm </g:product_length>
-      <g:product_width>7.5 cm </g:product_width>
+      <g:product_length>7.5 cm </g:product_length>
+      <g:product_width>11 cm </g:product_width>
       <g:product_height>8 cm </g:product_height>
-      <g:product_weight>280 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -23203,7 +23257,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14991994192247</g:item_group_id>
       
       <g:title>If Friends Were Flowers Watering Can Hanging Decoration</g:title>
-      <g:description>Spread the love with this cute hanging decoration. Perfect for a garden lover, the wooden, watering can-shaped decoration with hanging ribbon is printed with the motto: "If friends were flowers I'd pick you". 14 x 9.5 x 1cm</g:description>
+      <g:description>Spread the love with this cute hanging decoration. Perfect for a garden lover, the wooden, watering can-shaped decoration with hanging ribbon is printed with the motto: "If friends were flowers I'd pick you".</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/if-friends-were-flowers-watering-can-hanging-decoration?variant=55252485800311</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80099-If-Friends-Were-Flowers-Watering-Can-Hanging-Decoration-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748355964</g:image_link>
       <g:condition>new</g:condition>
@@ -23232,10 +23286,9 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>MDF/polyester</g:material>
-      <g:product_length>14 cm </g:product_length>
+      <g:product_length>1 cm </g:product_length>
       <g:product_width>9.5 cm </g:product_width>
-      <g:product_height>1 cm </g:product_height>
-      <g:product_weight>300 g </g:product_weight>
+      <g:product_height>14 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -24109,6 +24162,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>16 cm </g:product_width>
+      <g:product_height>24 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
@@ -26204,6 +26259,9 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1 cm </g:product_length>
+      <g:product_width>22 cm </g:product_width>
+      <g:product_height>25 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
@@ -27269,7 +27327,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9676224397629</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
       <g:title>MooGoo Anti-Ageing Antioxidant Face Cream</g:title>
-      <g:description>Help keep your skin hydrated and young-looking naturally with the MooGoo Anti-Ageing Antioxidant Face Cream. Packed with natural oils that mimic the oils produced by younger skin, this face cream is easily absorbed into the skin, helping to reduce lines forming. The antioxidants, Resveratrol and oil-soluble vitamin C, ascorbyl tetraisopalmitate, target free-radicals to reduce the damage they can cause to the skin. Added milk protein helps improve skin elasticity. Features:  MooGoo Anti-Ageing Antioxidant Face Cream, 75g pump action bottle, A natural moisturiser to help improve sun damaged and ageing skin, Olive squalene mimics the oil younger skin naturally produces, High concentrations of antioxidants to combat free radical damage, Resveratrol is a natural antioxidant found in plants, Oil-soluble Vitamin C easily absorbs into skin and assists with sun damage, Naturally preserved with hops extract – free of parabens and phenoxyethanol,  </g:description>
+      <g:description>Help keep your skin hydrated and young-looking naturally with the MooGoo Anti-Ageing Antioxidant Face Cream. Packed with natural oils that mimic the oils produced by younger skin, this face cream is easily absorbed into the skin, helping to reduce lines forming. The antioxidants, Resveratrol and oil-soluble vitamin C, ascorbyl tetraisopalmitate, target free-radicals to reduce the damage they can cause to the skin. Added milk protein helps improve skin elasticity. Features:  MooGoo Anti-Ageing Antioxidant Face Cream, A natural moisturiser to help improve sun damaged and ageing skin, Olive squalene mimics the oil younger skin naturally produces, High concentrations of antioxidants to combat free radical damage, Resveratrol is a natural antioxidant found in plants, Oil-soluble Vitamin C easily absorbs into skin and assists with sun damage, Naturally preserved with hops extract – free of parabens and phenoxyethanol,  </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-anti-ageing-antioxidant-face-cream?variant=49421155565885</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42330-MooGoo-Anti-Ageing-Antioxidant-Cream-2-Cancer-Research-UK-Online-Shop_400x.jpg?v=1727348697</g:image_link>
       <g:condition>new</g:condition>
@@ -27301,7 +27359,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>4 cm </g:product_length>
       <g:product_width>4 cm </g:product_width>
       <g:product_height>18.3 cm </g:product_height>
-      <g:product_weight>75 g </g:product_weight>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Skincare</g:custom_label_2>
@@ -27355,7 +27412,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14912818741623</g:item_group_id>
       
       <g:title>MooGoo Baby &amp; Child 2-in-1 Bubbly Wash</g:title>
-      <g:description>MooGoo Baby &amp; Child 2-in-1 Bubbly Wash Features:  Dermatologically Tested &amp;amp; approved for sensitive skin, Paediatrician Approved, Hypoallergenic, A natural, gentle cleansing wash that also makes bubbles for bath time, Made with a combination of coconut and glucose-based cleansers, Free from harsh synthetic detergents (SLS) that can dry and irritate skin, Contains Rice Bran to condition, replenish and soothe skin, Can be used as a bubble bath, directly on skin as a wash, or a natural shampoo, The formula is fragrance-free for even the most sensitive bubs, </g:description>
+      <g:description>MooGoo Baby &amp; Child 2-in-1 Bubbly Wash - a natural, gentle cleansing wash that also makes bubbles for bath time! Features:  Dermatologically tested and approved for sensitive skin, Paediatrician approved, Hypoallergenic, Made with a combination of coconut and glucose-based cleansers, Free from harsh synthetic detergents (SLS) that can dry and irritate skin, Contains Rice Bran to condition, replenish and soothe skin, Can be used as a bubble bath, directly on skin as a wash, or a natural shampoo , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-baby-child-2-in-1-bubbly-wash?variant=54957158269303</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82400-MooGoo-MiniMooBubblyWash-500ml-Cancer-Research-UK-Online-Shop_400x.jpg?v=1739375704</g:image_link>
       <g:condition>new</g:condition>
@@ -29932,7 +29989,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14992004219255</g:item_group_id>
       
       <g:title>Mum Guardian Angel Remembrance Decoration</g:title>
-      <g:description>A simply beautiful way to remember a mother who is no longer with you, but always watching over you. Measuring approximately 9 x 8 x 2cm, these angels bring year-round heartfelt comfort.</g:description>
+      <g:description>A simply beautiful way to remember a mother who is no longer with you, but always watching over you. With simple elegance, these angels bring year-round heartfelt comfort.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mum-guardian-angel-remembrance-decoration?variant=55252539113847</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80531-Remembrance-Angel-Decoration-Mum-2-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748357433</g:image_link>
       <g:condition>new</g:condition>
@@ -29965,7 +30022,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>2 cm </g:product_length>
       <g:product_width>8 cm </g:product_width>
       <g:product_height>9 cm </g:product_height>
-      <g:product_weight>39 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -32500,6 +32556,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>20 cm </g:product_width>
+      <g:product_height>25 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
@@ -41510,7 +41568,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>14909015982455</g:item_group_id>
       
       <g:title>Rattan 45 x 60cm Christmas Wreath</g:title>
-      <g:description>A beautifully decorated, large rattan wreath with frosted pine cone, berry and jute ribbon decorations. Suitable for indoor or sheltered outdoor use, it's approximately 45 x 60cm, and includes a hanging loop.</g:description>
+      <g:description>A beautifully decorated, large rattan wreath with frosted pine cone, berry and jute ribbon decorations. Suitable for indoor or sheltered outdoor use, a hanging loop is included for easy display.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/rattan-45-x-60cm-christmas-wreath?variant=54945222820215</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX32006-Rattan-Wreath-Cancer-Research-UK-Online-Shop_400x.jpg?v=1738931708</g:image_link>
       <g:condition>new</g:condition>
@@ -41539,6 +41597,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>60 cm </g:product_length>
+      <g:product_width>45 cm </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -42448,9 +42508,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82187</g:id>
       <g:item_group_id>9521214357821</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -42488,7 +42546,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF77006</g:id>
       <g:item_group_id>9521214587197</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -48503,7 +48563,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-jasmine-pocketed-softcup-bra?variant=55485449732471</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-1-Cancer-Research-UK-Online-Shop_400x.jpg?v=1753352865</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out_of_stock</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -55024,7 +55084,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485609050487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_400x.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
+      <g:availability>out_of_stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -56014,7 +56074,6 @@ Outsole synthetic</g:material>
       <g:product_length>0.5 cm </g:product_length>
       <g:product_width>11.5 cm </g:product_width>
       <g:product_height>21.5 cm </g:product_height>
-      <g:product_weight>30 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -61264,7 +61323,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>14992004743543</g:item_group_id>
       
       <g:title>Someone Special Guardian Angel Remembrance Decoration</g:title>
-      <g:description>A simply beautiful way to remember a loved one who is no longer with you, but always watching over you. Measuring approximately 9 x 8 x 2cm, these angels bring year-round heartfelt comfort.</g:description>
+      <g:description>A simply beautiful way to remember a loved one who is no longer with you, but always watching over you. With simple elegance, these angels bring year-round heartfelt comfort.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/someone-special-guardian-angel-remembrance-decoration?variant=55252542980471</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80531-Remembrance-Angel-Decoration-Someone-Special-2-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748357506</g:image_link>
       <g:condition>new</g:condition>
@@ -61297,7 +61356,6 @@ Outsole synthetic</g:material>
       <g:product_length>2 cm </g:product_length>
       <g:product_width>8 cm </g:product_width>
       <g:product_height>9 cm </g:product_height>
-      <g:product_weight>39 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -62314,7 +62372,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9522294653245</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
       <g:title>Stand Up To Cancer Oval Pet Bed - S</g:title>
-      <g:description>Treat your four-legged friend to this comfortable pet bed and you'll be supporting Stand Up To Cancer as they relax after their walkies. Exclusive to Cancer Research UK, the bed features a grey sleeping area with the outside adorned with a white, orange, red and black bone design. Features:  Stand Up To Cancer Oval Pet Bed, Available in three sizes: small (53 cm dia. x 17cm), medium (68 cm dia. x 17cm), and large (80 cm dia. x 20cm)., Polyester cover with olefin base and polyester filling., </g:description>
+      <g:description>Treat your four-legged friend to this comfortable pet bed and you'll be supporting Stand Up To Cancer as they relax after their walkies. Exclusive to Cancer Research UK, the bed features a grey sleeping area with the outside adorned with a white, orange, red and black bone design. Available in three sizes: small (53 cm), medium (68 cm), and large (80 cm).</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/stand-cancer-oval-pet-bed?variant=49005595853117</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU80556-Stand-Up-To-Cancer-Oval-Dog-Bed-Cancer-Research-UK-Online-Shop_400x.jpg?v=1719231507</g:image_link>
       <g:condition>new</g:condition>
@@ -62345,6 +62403,9 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_width>53 cm </g:product_width>
+      <g:product_height>17 cm </g:product_height>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -62356,7 +62417,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9522294653245</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
       <g:title>Stand Up To Cancer Oval Pet Bed - M</g:title>
-      <g:description>Treat your four-legged friend to this comfortable pet bed and you'll be supporting Stand Up To Cancer as they relax after their walkies. Exclusive to Cancer Research UK, the bed features a grey sleeping area with the outside adorned with a white, orange, red and black bone design. Features:  Stand Up To Cancer Oval Pet Bed, Available in three sizes: small (53 cm dia. x 17cm), medium (68 cm dia. x 17cm), and large (80 cm dia. x 20cm)., Polyester cover with olefin base and polyester filling., </g:description>
+      <g:description>Treat your four-legged friend to this comfortable pet bed and you'll be supporting Stand Up To Cancer as they relax after their walkies. Exclusive to Cancer Research UK, the bed features a grey sleeping area with the outside adorned with a white, orange, red and black bone design. Available in three sizes: small (53 cm), medium (68 cm), and large (80 cm).</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/stand-cancer-oval-pet-bed?variant=54936435097975</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU80556-Stand-Up-To-Cancer-Oval-Dog-Bed-Cancer-Research-UK-Online-Shop_400x.jpg?v=1719231507</g:image_link>
       <g:condition>new</g:condition>
@@ -62387,6 +62448,9 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_width>68 cm </g:product_width>
+      <g:product_height>17 cm </g:product_height>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -62398,7 +62462,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9522294653245</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
       <g:title>Stand Up To Cancer Oval Pet Bed - L</g:title>
-      <g:description>Treat your four-legged friend to this comfortable pet bed and you'll be supporting Stand Up To Cancer as they relax after their walkies. Exclusive to Cancer Research UK, the bed features a grey sleeping area with the outside adorned with a white, orange, red and black bone design. Features:  Stand Up To Cancer Oval Pet Bed, Available in three sizes: small (53 cm dia. x 17cm), medium (68 cm dia. x 17cm), and large (80 cm dia. x 20cm)., Polyester cover with olefin base and polyester filling., </g:description>
+      <g:description>Treat your four-legged friend to this comfortable pet bed and you'll be supporting Stand Up To Cancer as they relax after their walkies. Exclusive to Cancer Research UK, the bed features a grey sleeping area with the outside adorned with a white, orange, red and black bone design. Available in three sizes: small (53 cm), medium (68 cm), and large (80 cm).</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/stand-cancer-oval-pet-bed?variant=49005595885885</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU80556-Stand-Up-To-Cancer-Oval-Dog-Bed-Cancer-Research-UK-Online-Shop_400x.jpg?v=1719231507</g:image_link>
       <g:condition>new</g:condition>
@@ -62429,6 +62493,9 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_width>80 cm </g:product_width>
+      <g:product_height>18 cm </g:product_height>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -62441,7 +62508,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9522294718781</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
       <g:title>Stand Up To Cancer Pet Cushion - M</g:title>
-      <g:description>A super-comfy cushion for your dog to make their own sleep space. Exclusive to Cancer Research UK, the grey cushion is adorned with a white, orange, red and black bone design. Features:  Stand Up To Cancer Pet Cushion, Available in three sizes: medium (50 x 70 x 8cm), large (60 x 80 x 10cm), and extra large (80 x 90 x 12cm), Polyester cover with olefin base and polyester filling, </g:description>
+      <g:description>A super-comfy cushion for your dog to make their own sleep space. Exclusive to Cancer Research UK, the grey cushion is adorned with a white, orange, red and black bone design. Available in three sizes: medium (50 x 70cm), large (60 x 80cm), and extra large (80 x 90cm).</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/stand-cancer-pet-cushion?variant=49005595951421</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU80558-Stand-Up-To-Cancer-Rectangular-Dog-Bed-Cancer-Research-UK-Online-Shop_2_400x.jpg?v=1719231510</g:image_link>
       <g:condition>new</g:condition>
@@ -62472,6 +62539,9 @@ Outsole synthetic</g:material>
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>50 cm </g:product_length>
+      <g:product_width>70 cm </g:product_width>
+      <g:product_height>8 cm </g:product_height>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -62483,7 +62553,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9522294718781</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
       <g:title>Stand Up To Cancer Pet Cushion - L</g:title>
-      <g:description>A super-comfy cushion for your dog to make their own sleep space. Exclusive to Cancer Research UK, the grey cushion is adorned with a white, orange, red and black bone design. Features:  Stand Up To Cancer Pet Cushion, Available in three sizes: medium (50 x 70 x 8cm), large (60 x 80 x 10cm), and extra large (80 x 90 x 12cm), Polyester cover with olefin base and polyester filling, </g:description>
+      <g:description>A super-comfy cushion for your dog to make their own sleep space. Exclusive to Cancer Research UK, the grey cushion is adorned with a white, orange, red and black bone design. Available in three sizes: medium (50 x 70cm), large (60 x 80cm), and extra large (80 x 90cm).</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/stand-cancer-pet-cushion?variant=49005595984189</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU80558-Stand-Up-To-Cancer-Rectangular-Dog-Bed-Cancer-Research-UK-Online-Shop_2_400x.jpg?v=1719231510</g:image_link>
       <g:condition>new</g:condition>
@@ -62514,6 +62584,9 @@ Outsole synthetic</g:material>
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>60 cm </g:product_length>
+      <g:product_width>80 cm </g:product_width>
+      <g:product_height>10 cm </g:product_height>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -62525,7 +62598,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9522294718781</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
       <g:title>Stand Up To Cancer Pet Cushion - XL</g:title>
-      <g:description>A super-comfy cushion for your dog to make their own sleep space. Exclusive to Cancer Research UK, the grey cushion is adorned with a white, orange, red and black bone design. Features:  Stand Up To Cancer Pet Cushion, Available in three sizes: medium (50 x 70 x 8cm), large (60 x 80 x 10cm), and extra large (80 x 90 x 12cm), Polyester cover with olefin base and polyester filling, </g:description>
+      <g:description>A super-comfy cushion for your dog to make their own sleep space. Exclusive to Cancer Research UK, the grey cushion is adorned with a white, orange, red and black bone design. Available in three sizes: medium (50 x 70cm), large (60 x 80cm), and extra large (80 x 90cm).</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/stand-cancer-pet-cushion?variant=49005596016957</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU80558-Stand-Up-To-Cancer-Rectangular-Dog-Bed-Cancer-Research-UK-Online-Shop_2_400x.jpg?v=1719231510</g:image_link>
       <g:condition>new</g:condition>
@@ -62556,6 +62629,9 @@ Outsole synthetic</g:material>
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>80 cm </g:product_length>
+      <g:product_width>90 cm </g:product_width>
+      <g:product_height>12 cm </g:product_height>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -63516,6 +63592,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.5 m </g:product_length>
+      <g:product_width>90 cm </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63557,6 +63635,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.5 m </g:product_length>
+      <g:product_width>90 cm </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63598,6 +63678,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.5 m </g:product_length>
+      <g:product_width>90 cm </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63639,6 +63721,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.5 m </g:product_length>
+      <g:product_width>90 cm </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63680,6 +63764,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.5 m </g:product_length>
+      <g:product_width>90 cm </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63721,6 +63807,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.8 m </g:product_length>
+      <g:product_width>1.2 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63762,6 +63850,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.8 m </g:product_length>
+      <g:product_width>1.2 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63803,6 +63893,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.8 m </g:product_length>
+      <g:product_width>1.2 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63844,6 +63936,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.8 m </g:product_length>
+      <g:product_width>1.2 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63885,6 +63979,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1.8 m </g:product_length>
+      <g:product_width>1.2 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63926,6 +64022,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>2 m </g:product_length>
+      <g:product_width>1.5 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -63967,6 +64065,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>2 m </g:product_length>
+      <g:product_width>1.5 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -64008,6 +64108,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>2 m </g:product_length>
+      <g:product_width>1.5 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -64049,6 +64151,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>2 m </g:product_length>
+      <g:product_width>1.5 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -64090,6 +64194,8 @@ Outsole synthetic</g:material>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>2 m </g:product_length>
+      <g:product_width>1.5 m </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -64900,6 +65006,187 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>SU79631</g:id>
+      <g:item_group_id>9520924655933</g:item_group_id>
+      <g:google_product_category>639</g:google_product_category>
+      <g:title>The Great Stand Up To Cancer Bake Off 2024 Star Baker Adult &amp; Kid Apron Bundle</g:title>
+      <g:description>Have fun in the kitchen with the kids with this matching Great Stand Up to Cancer Bake Off Star Baker apron bundle. This bundle includes:  1 x Star Baker 2024 adult apron, 1 x Star Baker 2024 children's apron,  Please note, our next day delivery service is not available for this item. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2024.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-2024-star-baker-adult-kid-apron-bundle?variant=49003912167741</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79631-Great-Stand-Up-To-Cancer-Bake-Off-2024-Star-Baker-Adult-Kids-Apron-Bundle-Cancer-Research-UK-Online-Shop_fe0143c5-0950-41e1-89ab-9e1c8dfbc48f_400x.jpg?v=1719229808</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>13.99 GBP</g:price>
+      <g:sale_price>12.59 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU79631</g:mpn>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>•	100% cotton
+•	70 x 85cm/208g (adult)/43 x 58cm/89g (child&amp;#39;s - suitable for ages 3-8 years approx)
+•	Also sold separately
+</g:material>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU79625</g:id>
+      <g:item_group_id>9520925180221</g:item_group_id>
+      <g:google_product_category>639</g:google_product_category>
+      <g:title>The Great Stand Up To Cancer Bake Off 2024 Star Baker Apron</g:title>
+      <g:description>Whether you're rustling up a Signature, Technical or Showstopper, look the part in the kitchen with your very own Great Stand up to Cancer Bake Off Star Baker Apron. This year, why not get the kids involved too? Check out our special edition kid's version. Features:  70 x 85cm, 210g, Also available in child's size, and as part of a bundle,  Please note, our next day delivery service is not available for this item. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2024.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-2024-star-baker-apron?variant=49003912692029</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79625-Great-Stand-Up-To-Cancer-Bake-Off-2024-Star-Baker-Apron-Cancer-Research-UK-Online-Shop_8374cd3c-a8ea-4802-b265-73b7ae8fe0c2_400x.jpg?v=1719229810</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674226687</g:gtin>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Apron</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% cotton</g:material>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU79630</g:id>
+      <g:item_group_id>9520925770045</g:item_group_id>
+      <g:google_product_category>639</g:google_product_category>
+      <g:title>The Great Stand Up To Cancer Bake Off 2024 Star Baker Bundle</g:title>
+      <g:description>You'll have everything you need to bake in style with this Great Stand up to Cancer Bake Off Star Baker bundle. The bundle includes:  1 x Star Baker Apron, 1 x Star Baker Double Oven Gloves, 3 x Star Baker Tea Towels,  Please note, our next day delivery service is not available for this item. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2024.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-2024-star-baker-bundle?variant=49003913249085</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79630-Great-Stand-Up-To-Cancer-Bake-Off-2024-Star-Baker-Bundle-Cancer-Research-UK-Online-Shop_6c82916b-b227-4c1c-9178-fc87bfd226e0_400x.jpg?v=1719229812</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>23.99 GBP</g:price>
+      <g:sale_price>21.59 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU79630</g:mpn>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU79632</g:id>
+      <g:item_group_id>9520926622013</g:item_group_id>
+      <g:google_product_category>639</g:google_product_category>
+      <g:title>The Great Stand Up To Cancer Bake Off 2024 Star Baker Kid Apron &amp; Hat Bundle</g:title>
+      <g:description>Whatever's being created in the kitchen, let the kids look the part in this Mini Star Baker kid's chef hat and apron combo. This bundle includes:  1 x Star Baker 2024 Kid's Apron, 1 x Star Baker 2024 Kid's Chef Hat,  Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2024.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-2024-star-baker-kid-apron-hat-bundle?variant=49003914133821</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79632-Great-Stand-Up-To-Cancer-Bake-Off-2024-Kids-Star-Baker-Apron-Hat-Bundle-1-Cancer-Research-UK-Online-Shop_a146228c-72ca-44bb-a909-14407a6311ad_400x.jpg?v=1719229814</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU79632</g:mpn>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>•	100% cotton
+•	Hat: 18 x 25cm/62g Apron: 43 x 58cm/89g
+•	Suitable for approximate ages 3-8 years
+•	Also available to purchase separately
+</g:material>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>SU82405</g:id>
       <g:item_group_id>14902312927607</g:item_group_id>
       
@@ -64989,6 +65276,174 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>SU82402</g:id>
+      <g:item_group_id>14902231466359</g:item_group_id>
+      
+      <g:title>The Great Stand Up To Cancer Bake Off 2025 Star Baker Apron</g:title>
+      <g:description>Whether you're rustling up a Signature, Technical or Showstopper, look the part in the kitchen with your very own Great Stand Up to Cancer Bake Off Star Baker Apron. This year, why not get the kids involved too? Check out our special edition kid's version. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2025.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-2025-star-baker-apron?variant=54925672415607</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU82402-SU2C-Bake-Off-2025-Adult-Star-Baker-Apron-Cancer-Research-UK-Online-Shop_400x.jpg?v=1738326038</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674235757</g:gtin>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Apron</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:material>100% cotton</g:material>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU82407</g:id>
+      <g:item_group_id>14902356345207</g:item_group_id>
+      <g:google_product_category>639</g:google_product_category>
+      <g:title>The Great Stand Up To Cancer Bake Off 2025 Star Baker Bundle</g:title>
+      <g:description>You'll have everything you need to bake in style with this Great Stand up to Cancer Bake Off Star Baker bundle. The bundle includes:  1 x Star Baker Apron, 1 x Star Baker Double Oven Gloves, 3 x Star Baker Tea Towels,  Items also available separately. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2025.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-2025-star-baker-bundle?variant=54926058193271</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU82407-SU2C-Bake-Off-2025-Star-Baker-Bundle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1738337988</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>23.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU82407</g:mpn>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU82403</g:id>
+      <g:item_group_id>14902237528439</g:item_group_id>
+      
+      <g:title>The Great Stand Up To Cancer Bake Off 2025 Star Baker Double Oven Gloves</g:title>
+      <g:description>Keep your hands safe and bake in style for Stand Up To Cancer with our Great Stand Up to Cancer Star Baker double oven gloves. Also available as part of a bundle. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2025.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-2025-star-baker-double-oven-gloves?variant=54925707936119</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU82403-SU2C-Bake-Off-2025-Oven-Glove-Cancer-Research-UK-Online-Shop_400x.jpg?v=1738327529</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>7.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674235764</g:gtin>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Oven Gloves</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU82404</g:id>
+      <g:item_group_id>14902238052727</g:item_group_id>
+      
+      <g:title>The Great Stand Up To Cancer Bake Off 2025 Star Baker Tea Towels - Pack of 3</g:title>
+      <g:description>Planning to whip up a storm in the kitchen? Keep it spick and span with this set of three The Great Stand Up to Cancer Bake Off Star Baker tea towels. Also available as part of a bundle. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2025.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-2025-star-baker-tea-towels-pack-of-3?variant=54925708951927</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU82404-SU2C-Bake-Off-2025-Tea-Towels-Triple-Stack-Cancer-Research-UK-Online-Shop_400x.jpg?v=1738330866</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>8.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674235788</g:gtin>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Tea Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>SU81902</g:id>
       <g:item_group_id>9520927080765</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
@@ -65065,6 +65520,48 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU79629</g:id>
+      <g:item_group_id>9520924033341</g:item_group_id>
+      <g:google_product_category>7237</g:google_product_category>
+      <g:title>The Great Stand Up To Cancer Bake Off Kids Star Baker Chef Hat</g:title>
+      <g:description>Whatever's being created in the kitchen, let the kids look the part in this Mini Star Baker kid's chef hat. Features:  18 x 25cm, 62g, Suitable for approximate ages 3-8 years ,  Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2024.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-kids-star-baker-chef-hat?variant=49003911512381</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79629-Great-Stand-Up-To-Cancer-Bake-Off-2024-Kids-Star-Baker-Chefs-Hat-1-Cancer-Research-UK-Online-Shop_3d64c66d-f76b-4d0b-8d60-ca3ef0ca6158_400x.jpg?v=1719229807</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674226724</g:gtin>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Hat</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Cotton</g:material>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Bake Off</g:custom_label_1>
       <g:custom_label_2>Bake Off</g:custom_label_2>
@@ -72959,6 +73456,9 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>1 cm </g:product_length>
+      <g:product_width>23 cm </g:product_width>
+      <g:product_height>28 cm </g:product_height>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
@@ -73095,7 +73595,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521402052925</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
       <g:title>Where's The Unicorn? A Magical Search and Find Book</g:title>
-      <g:description>This where's the unicorn? A magical search &amp; find book is a colourful puzzle book, following the adventures of the mystical unicorn.Keep yourself entertained, pass the time and escape into a magical, adventure quest of globetrotting unicorns. Including 17 detailed designs to devour, gallop your way through film premieres, canter to campsites under the stars and even trot to Antarctica to join the whale-watching penguins.Features:  48 pages, Ages 5+, 280x216mm, Paperback, </g:description>
+      <g:description>Where's the Unicorn? is a colourful puzzle book, following the adventures of the mystical unicorn. Keep yourself entertained, pass the time and escape into a magical, adventure quest of globetrotting unicorns. Including 17 detailed designs to devour, gallop your way through film premieres, canter to campsites under the stars and even trot to Antarctica to join the whale-watching penguins.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/wheres-unicorn-magical-search-find-book?variant=49004446122301</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW41842-UNICORNBOOK_bf40bd6f-fd83-4942-91d2-0b08f3f13849_400x.jpg?v=1719231764</g:image_link>
       <g:condition>new</g:condition>
@@ -73123,6 +73623,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>21.6 cm </g:product_width>
+      <g:product_height>28 cm </g:product_height>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
@@ -74377,7 +74879,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>14988529959287</g:item_group_id>
       
       <g:title>You Are Blooming Lovely Artificial Succulent Plant</g:title>
-      <g:description>A cute little gift for a loved one, this miniature artificial succulent plant not only looks adorable, it also shares a heartfelt motto. Includes the phrase "you are blooming lovely". Approximately 13cm tall x 9cm diameter.</g:description>
+      <g:description>A cute little gift for a loved one, this miniature artificial succulent plant not only looks adorable, it also shares a heartfelt motto. Includes the phrase "you are blooming lovely".</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/you-are-blooming-lovely-artificial-succulent-plant?variant=55237619941751</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80087-You-Are-Blooming-Lovely-Succulent-Cancer-Research-UK-Online-Shop_400x.jpg?v=1747913786</g:image_link>
       <g:condition>new</g:condition>
@@ -74405,10 +74907,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:product_length>9 cm </g:product_length>
       <g:product_width>9 cm </g:product_width>
       <g:product_height>13 cm </g:product_height>
-      <g:product_weight>360 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -74450,10 +74950,9 @@ Outsole synthetic</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Ceramic</g:material>
-      <g:product_length>11 cm </g:product_length>
-      <g:product_width>7.5 cm </g:product_width>
+      <g:product_length>7.5 cm </g:product_length>
+      <g:product_width>11 cm </g:product_width>
       <g:product_height>8 cm </g:product_height>
-      <g:product_weight>280 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -74466,7 +74965,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>14991991013751</g:item_group_id>
       
       <g:title>You Are Blooming Lovely Watering Can Hanging Decoration</g:title>
-      <g:description>Spread the love with this cute hanging decoration. Perfect for a garden lover, the wooden, watering can-shaped decoration with hanging ribbon is printed with the motto: "You are blooming lovely". 14 x 9.5 x 1cm</g:description>
+      <g:description>Spread the love with this cute hanging decoration. Perfect for a garden lover, the wooden, watering can-shaped decoration with hanging ribbon is printed with the motto: "You are blooming lovely".</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/you-are-blooming-lovely-watering-can-hanging-decoration?variant=55252470595959</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80097-You-Are-Blooming-Lovely-Watering-Can-Hanging-Decoration-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748355541</g:image_link>
       <g:condition>new</g:condition>
@@ -74495,10 +74994,9 @@ Outsole synthetic</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>MDF/polyester</g:material>
-      <g:product_length>14 cm </g:product_length>
-      <g:product_width>9.5 cm </g:product_width>
-      <g:product_height>1 cm </g:product_height>
-      <g:product_weight>300 g </g:product_weight>
+      <g:product_length>1 cm </g:product_length>
+      <g:product_width>14 cm </g:product_width>
+      <g:product_height>9.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -74744,10 +75242,9 @@ Outsole synthetic</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Ceramic</g:material>
-      <g:product_length>11 cm </g:product_length>
-      <g:product_width>7.5 cm </g:product_width>
+      <g:product_length>7.5 cm </g:product_length>
+      <g:product_width>11 cm </g:product_width>
       <g:product_height>8 cm </g:product_height>
-      <g:product_weight>280 g </g:product_weight>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -74800,7 +75297,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>14991989866871</g:item_group_id>
       
       <g:title>You Make The World Watering Can Hanging Decoration</g:title>
-      <g:description>Spread the love with this cute hanging decoration. The wooden, watering can-shaped decoration with hanging ribbon is printed with a motto that's ideal to give to a loved one: "You make the world a little nicer and a little brighter". 14 x 9.5 x 1cm</g:description>
+      <g:description>Spread the love with this cute hanging decoration. The wooden, watering can-shaped decoration with hanging ribbon is printed with a motto that's ideal to give to a loved one: "You make the world a little nicer and a little brighter".</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/you-make-the-world-watering-can-hanging-decoration?variant=55252463550839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80096-You-Make-The-World-Watering-Can-Decoration-Cancer-Research-UK-Online-Shop_400x.jpg?v=1748355237</g:image_link>
       <g:condition>new</g:condition>
@@ -74829,10 +75326,9 @@ Outsole synthetic</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>MDF/polyester</g:material>
-      <g:product_length>14 cm </g:product_length>
-      <g:product_width>9.5 cm </g:product_width>
-      <g:product_height>1 cm </g:product_height>
-      <g:product_weight>300 g </g:product_weight>
+      <g:product_length>1 cm </g:product_length>
+      <g:product_width>14 cm </g:product_width>
+      <g:product_height>9.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
