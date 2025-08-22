@@ -13344,7 +13344,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/citrus-stripe-beach-bag-and-cooler?variant=55150200717687</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82904-Citrus-Stripe-Cooler-Beach-Bag-Cancer-Research-UK-Online-Shop_400x.jpg?v=1745418041</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -18286,6 +18286,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CD83950</g:id>
+      <g:item_group_id>15063147118967</g:item_group_id>
+      
+      <g:title>Family Farmyard Scene 10 Welsh Bilingual Christmas Cards</g:title>
+      <g:description>This charming Christmas card captures a heart-warming winter moment on the farm complete with snowy fields, sheep, and a cosy stone cottage glowing in the distance. With a family tending to animals and sharing the season together, it's easy to imagine your own loved ones in this peaceful, festive scene. A perfect card for those who treasure countryside Christmases. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/family-farmyard-scene-10-welsh-bilingual-christmas-cards?variant=55490109473143</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83950-Family-Farmyard-Scene-Welsh-Bilingual-Christmas-Cards-Cancer-Research-UK-Online-Shop_a37858f2-bb9e-491e-b366-ad2950e4e9c9_400x.jpg?v=1755185410</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558658</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81339</g:id>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -18775,18 +18816,19 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
+
 	
     <item>
-      <g:id>CX83777</g:id>
-      <g:item_group_id>9520864297277</g:item_group_id>
+      <g:id>CX76386</g:id>
+      <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
-      <g:title>Faux Fur Long Hot Water Bottle - Nougat</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=55637837513079</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83777-Fur-Long-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755702999</g:image_link>
+      <g:title>Faux Fur Neck Hot Water Bottle - Green</g:title>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497614653</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_400x.jpg?v=1754644078</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>11.99 GBP</g:price>
+      <g:availability>in stock</g:availability>
+      <g:price>8.49 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18803,16 +18845,18 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin />
-      <g:mpn>CX83777</g:mpn>
+      <g:mpn>CX76386</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Pink</g:color>
-      <g:size>0</g:size>
+      <g:color>Green</g:color>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rubber/polyester</g:material>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18820,16 +18864,16 @@ Lining 100% Cotton</g:material>
     </item>
 	
     <item>
-      <g:id>CX83778</g:id>
-      <g:item_group_id>9520864297277</g:item_group_id>
+      <g:id>CX83774</g:id>
+      <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
-      <g:title>Faux Fur Long Hot Water Bottle - Rose</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=55637837545847</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83778-Fur-Long-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755703048</g:image_link>
+      <g:title>Faux Fur Neck Hot Water Bottle - Nougat</g:title>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629289587063</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83774-Fur-Neck-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_9bbff1ad-76ef-4a40-9fd3-baa8c0694fa5_400x.jpg?v=1755701328</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
-      <g:price>11.99 GBP</g:price>
+      <g:price>9.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18846,16 +18890,15 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin />
-      <g:mpn>CX83778</g:mpn>
+      <g:mpn>CX83774</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Pink</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -18863,16 +18906,16 @@ Lining 100% Cotton</g:material>
     </item>
 	
     <item>
-      <g:id>CX83779</g:id>
-      <g:item_group_id>9520864297277</g:item_group_id>
+      <g:id>CX83775</g:id>
+      <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
-      <g:title>Faux Fur Long Hot Water Bottle - Charcoal</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-long-hot-water-bottle?variant=55637837578615</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83779-Fur-Long-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755703096</g:image_link>
+      <g:title>Faux Fur Neck Hot Water Bottle - Rose</g:title>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629289619831</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83775-Fur-Neck-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755701328</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
-      <g:price>11.99 GBP</g:price>
+      <g:price>9.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18889,35 +18932,32 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin />
-      <g:mpn>CX83779</g:mpn>
+      <g:mpn>CX83775</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Pink</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
 	
     <item>
-      <g:id>CX81361</g:id>
-      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:id>CX83776</g:id>
+      <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
-      <g:title>Faux Fur Mini Hand Warmer - Blush</g:title>
-      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in two colour options, we also have regular size and long hot water bottles available too. Measures approximately 10 x 14cm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=53498730709367</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81361-Hand-Warmer-Pink-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734682410</g:image_link>
+      <g:title>Faux Fur Neck Hot Water Bottle - Charcoal</g:title>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629298663799</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83776-Fur-Neck-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755701328</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:price>9.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18933,59 +18973,16 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674233043</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83776</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Blush</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:material>100% polyester cover</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81362</g:id>
-      <g:item_group_id>14798686224759</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Faux Fur Mini Hand Warmer - Light Grey</g:title>
-      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in two colour options, we also have regular size and long hot water bottles available too. Measures approximately 10 x 14cm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=53498730905975</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81362-Hand-Warmer-Grey-Cancer-Research-UK-Online-Shop_400x.jpg?v=1734682410</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674233050</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Blush</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester cover</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -19283,6 +19280,47 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD83948</g:id>
+      <g:item_group_id>9611078697277</g:item_group_id>
+      
+      <g:title>Festive Welsh Ladies 10 Welsh Bilingual Christmas Cards</g:title>
+      <g:description>Share your season's greetings in traditional Welsh style with these bilingual Christmas cards. Features three girls in traditional Welsh dress standing in a snowy festive scene. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/festive-welsh-ladies-10-welsh-bilingual-christmas-cards?variant=49262644887869</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83948-Trio-of-Welsh-Ladies-Welsh-Bilingual-Christmas-Cards-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755185443</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558634</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -22245,9 +22283,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80766</g:id>
       <g:item_group_id>14952339374455</g:item_group_id>
       
@@ -22326,7 +22362,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR80764</g:id>
       <g:item_group_id>14950503383415</g:item_group_id>
       
@@ -26636,6 +26674,47 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD83951</g:id>
+      <g:item_group_id>15063138500983</g:item_group_id>
+      
+      <g:title>Magical Christmas 10 Welsh Bilingual Christmas Cards</g:title>
+      <g:description>Celebrate Christmas in style with this charming village scene. Featuring a festive tree, merry-go-round, and decorated shops, it captures the joy of the season. A perfect piece to spread cheer and say Nadolig Llawen! Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/magical-christmas-10-welsh-bilingual-christmas-cards?variant=55490086404471</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83951-Magical-Christmas-Welsh-Bilingual-Christmas-Cards-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755185412</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558665</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -34052,8 +34131,8 @@ Lining 100% Cotton</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Lights</g:product_type>
 
-      <g:color>Gold</g:color>
-<g:size>60cm</g:size>
+      <g:color>90cm</g:color>
+<g:size>Gold</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -34093,8 +34172,8 @@ Lining 100% Cotton</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Lights</g:product_type>
 
-      <g:color>Gold</g:color>
-<g:size>60cm</g:size>
+      <g:color>90cm</g:color>
+<g:size>Gold</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -34134,8 +34213,8 @@ Lining 100% Cotton</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Lights</g:product_type>
 
-      <g:color>Gold</g:color>
-<g:size>60cm</g:size>
+      <g:color>90cm</g:color>
+<g:size>Gold</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -34153,7 +34232,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/premier-star-led-light-decoration?variant=49004120604989</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX32813-Premier-60cm-Gold-LED-Cluster-Star-Decoration-Cancer-Research-UK-Online-Shop_f0a5e13d-e261-4106-8d5b-bbb0e6026025_400x.jpg?v=1734683070</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>99.99 GBP</g:price>
 
       <g:shipping>
@@ -34175,8 +34254,8 @@ Lining 100% Cotton</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Lights</g:product_type>
 
-      <g:color>Gold</g:color>
-<g:size>60cm</g:size>
+      <g:color>90cm</g:color>
+<g:size>Gold</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -34217,8 +34296,8 @@ Lining 100% Cotton</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Lights</g:product_type>
 
-      <g:color>Gold</g:color>
-<g:size>60cm</g:size>
+      <g:color>90cm</g:color>
+<g:size>Gold</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -34258,8 +34337,8 @@ Lining 100% Cotton</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Lights</g:product_type>
 
-      <g:color>Gold</g:color>
-<g:size>60cm</g:size>
+      <g:color>90cm</g:color>
+<g:size>Gold</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -41352,9 +41431,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC72864</g:id>
       <g:item_group_id>9521152229693</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -41482,7 +41559,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC38912</g:id>
       <g:item_group_id>9521154916669</g:item_group_id>
       <g:google_product_category>3509</g:google_product_category>
@@ -58480,7 +58559,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/serenity-revive-candle-orange-blossom-jasmine-saffron?variant=49005589102909</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32304-Serenity-Revive-Small-Candle-Orange-Jasmine-Cancer-Research-UK-Online-Shop_400x.jpg?v=1719231283</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -58503,7 +58582,7 @@ Outsole synthetic</g:material>
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candles</g:product_type>
 
-<g:size>M</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -58544,7 +58623,7 @@ Outsole synthetic</g:material>
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candles</g:product_type>
 
-<g:size>M</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -61333,7 +61412,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_400x.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>4.49 GBP</g:price>
+      <g:price>2.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -61376,7 +61455,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_400x.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>4.49 GBP</g:price>
+      <g:price>2.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -61419,7 +61498,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_400x.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>4.49 GBP</g:price>
+      <g:price>2.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -61462,7 +61541,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_400x.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>4.49 GBP</g:price>
+      <g:price>2.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -61505,7 +61584,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_400x.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>4.49 GBP</g:price>
+      <g:price>2.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -61548,7 +61627,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_400x.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>4.49 GBP</g:price>
+      <g:price>2.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -61575,6 +61654,90 @@ Outsole synthetic</g:material>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83795</g:id>
+      <g:item_group_id>9659089027389</g:item_group_id>
+      
+      <g:title>Slouch Socks - Nougat / S/M</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511095671</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_400x.jpg?v=1755787604</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX83795</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>White</g:color>
+<g:size>S/M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83796</g:id>
+      <g:item_group_id>9659089027389</g:item_group_id>
+      
+      <g:title>Slouch Socks - Nougat / L/XL</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511128439</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_400x.jpg?v=1755787604</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX83796</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>White</g:color>
+<g:size>S/M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -62009,7 +62172,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-animal-print-ladies-wellington-socks?variant=55037032759671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU81078-SUTC-Wellie-Socks-Online-Shop-Cancer-Research-UK_400x.jpg?v=1741952462</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -67871,47 +68034,6 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CD76884</g:id>
-      <g:item_group_id>9521375772989</g:item_group_id>
-      <g:google_product_category>95</g:google_product_category>
-      <g:title>Tree in Winter Welsh Bilingual Christmas Cards - Pack of 10</g:title>
-      <g:description>This simple, yet highly effective Christmas card design is sure to be appreciated by traditionalists and those who prefer something more contemporary alike. Features:  Tree in Winter Christmas Cards, Contains 10 cards and envelopes per pack, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year, 15 x 15cm, posts as Royal Mail letter, High quality uncoated 250gsm FSC board with silver holo foil finish, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com.,   </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tree-winter-welsh-bilingual-christmas-cards-pack-10?variant=49004416008509</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD76884-Tree-In-Winter-Welsh-Bilingual-Charity-Christmas-Cards-Cancer-Research-UK-Online-Shop_69e428d5-a5c5-4143-a4dc-b4545e873550_400x.jpg?v=1719231699</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5056238550294</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Cards</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Cards</g:custom_label_1>
-      <g:custom_label_2>Cards</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CW81823TREES</g:id>
       <g:item_group_id>9521374265661</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -69210,6 +69332,47 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_3>Own Brand</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD83952</g:id>
+      <g:item_group_id>15063141089655</g:item_group_id>
+      
+      <g:title>Trio in a Tangle 10 Welsh Bilingual Christmas Cards</g:title>
+      <g:description>Spread festive cheer with this delightful Christmas card, featuring three charming sheep decked in colourful lights and party hats. Set against a vibrant red backdrop with falling snow, it's finished with a cheerful "Happy Christmas" message in elegant white script. A whimsical way to share warmth and joy this season. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/trio-in-a-tangle-welsh-bilingual-christmas-cards?variant=55490098102647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83952-Trio-in-a-Tangle-Welsh-Bilingual-Christmas-Cards-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755185411</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558672</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -73484,6 +73647,47 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CD83953</g:id>
+      <g:item_group_id>15063143547255</g:item_group_id>
+      
+      <g:title>Twilight Tree 10 Welsh Bilingual Christmas Cards</g:title>
+      <g:description>Celebrate the season with this classic Christmas card featuring a beautifully decorated tree glowing in a snowy landscape. The baubles shine in pink and blue, colours inspired by Cancer Research UK's branding, adding a meaningful touch to your festive greetings under a starry winter sky. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/twilight-tree-10-welsh-bilingual-christmas-cards?variant=55490104066423</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83953-Twilight-Tree-Welsh-Bilingual-Christmas-Cards-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755185411</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558689</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD83938</g:id>
       <g:item_group_id>15062477046135</g:item_group_id>
       
@@ -75008,9 +75212,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83939</g:id>
       <g:item_group_id>15062471180663</g:item_group_id>
       
@@ -75211,7 +75413,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83942</g:id>
       <g:item_group_id>15062461645175</g:item_group_id>
       
@@ -75748,6 +75952,47 @@ Outsole synthetic</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD83949</g:id>
+      <g:item_group_id>15063158227319</g:item_group_id>
+      
+      <g:title>Y Ddraig Goch 10 Welsh Bilingual Christmas Cards</g:title>
+      <g:description>Celebrate a classic Cymru Christmas with this bold Welsh Dragon card. This adorable dragon is wearing his Welsh flag Christmas jumper whilst firing up some festive magic. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/y-ddraig-goch-10-welsh-bilingual-christmas-cards?variant=55490141618551</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83949-Y-Ddraig-Goch-Welsh-Bilingual-Christmas-Cards-Cancer-Research-UK-Online-Shop_400x.jpg?v=1755185409</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558641</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
