@@ -1306,7 +1306,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Merchandise_20_06_16_0531_20_282_29_0_b68c97a1-6fe6-4c27-8f89-9582ff63b616_1024x1024.jpg?v=1719229034</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Merchandise_20_06_16_0536_20_282_29_1024x1024.jpg?v=1719405928</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.00 GBP</g:price>
       <g:sale_price>5.99 GBP</g:sale_price>
 
@@ -14560,12 +14560,100 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83131Ghost</g:id>
+      <g:id>SN83131GHOST9</g:id>
       <g:item_group_id>15095108567415</g:item_group_id>
       
-      <g:title>Children's 2 Pack Halloween Socks - Pumpkin &amp; Ghost</g:title>
+      <g:title>Children's 2 Pack Halloween Socks - Pumpkin &amp; Ghost / 9-12</g:title>
       <g:description>Step into spooky season with our Children's Halloween Socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55636698595703</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-Cancer-Research-UK-Online-Shop_4323872a-1214-426f-bc1c-096f90f89acc_1024x1024.jpg?v=1755692788</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83131GHOST9</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83131GHOST12</g:id>
+      <g:item_group_id>15095108567415</g:item_group_id>
+      
+      <g:title>Children's 2 Pack Halloween Socks - Pumpkin &amp; Ghost / Kids 12½ -3½</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579045751</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-Cancer-Research-UK-Online-Shop_4323872a-1214-426f-bc1c-096f90f89acc_1024x1024.jpg?v=1755692788</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83131GHOST12</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83131GHOST4</g:id>
+      <g:item_group_id>15095108567415</g:item_group_id>
+      
+      <g:title>Children's 2 Pack Halloween Socks - Pumpkin &amp; Ghost / 4-5½</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579078519</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-Cancer-Research-UK-Online-Shop_4323872a-1214-426f-bc1c-096f90f89acc_1024x1024.jpg?v=1755692788</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
@@ -14590,7 +14678,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:size>0</g:size>
+<g:size>9-12</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -14603,12 +14691,100 @@ Lining 100% Cotton</g:material>
     </item>
 	
     <item>
-      <g:id>SN83131Cat</g:id>
+      <g:id>SN83131CAT9</g:id>
       <g:item_group_id>15095108567415</g:item_group_id>
       
-      <g:title>Children's 2 Pack Halloween Socks - Pumpkin &amp; Cat</g:title>
+      <g:title>Children's 2 Pack Halloween Socks - Pumpkin &amp; Cat / 9-12</g:title>
       <g:description>Step into spooky season with our Children's Halloween Socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55636698628471</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-2-Cancer-Research-UK-Online-Shop_37a9c3d1-1707-4035-aa9b-1fb5a9960daa_1024x1024.jpg?v=1755692800</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83131CAT9</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83131CAT12</g:id>
+      <g:item_group_id>15095108567415</g:item_group_id>
+      
+      <g:title>Children's 2 Pack Halloween Socks - Pumpkin &amp; Cat / Kids 12½ -3½</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579111287</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-2-Cancer-Research-UK-Online-Shop_37a9c3d1-1707-4035-aa9b-1fb5a9960daa_1024x1024.jpg?v=1755692800</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83131CAT12</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83131CAT4</g:id>
+      <g:item_group_id>15095108567415</g:item_group_id>
+      
+      <g:title>Children's 2 Pack Halloween Socks - Pumpkin &amp; Cat / 4-5½</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579144055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-2-Cancer-Research-UK-Online-Shop_37a9c3d1-1707-4035-aa9b-1fb5a9960daa_1024x1024.jpg?v=1755692800</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
@@ -14633,7 +14809,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:size>0</g:size>
+<g:size>9-12</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -23809,7 +23985,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/grey-hat-garden-gonk-decoration?variant=55729462542711</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR71227-Grey-Hat-Gonk-Gnome-Garden-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757081328</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
       <g:sale_price>13.49 GBP</g:sale_price>
 
@@ -24292,9 +24468,9 @@ Lining 100% Cotton</g:material>
       <g:id>CC81792</g:id>
       <g:item_group_id>9520939565373</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
-      <g:title>Hasbro Guess Who 6 Christmas Crackers</g:title>
+      <g:title>Hasbro Guess Who 6 Christmas Crackers - Blue</g:title>
       <g:description>Can you guess who's sitting around your table? The fun family game of Guess Who? has been brought to life with these brilliant novelty crackers. Each 12.5" cracker includes a hat, motto, and Guess Who? game cards. The box also contains a headband, large and small face cards, and instructions. Officially licenced product. Recyclable packaging and crackers. </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/hasbro-guess-who-6-christmas-crackers?variant=55729778884983</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/hasbro-guess-who-6-christmas-crackers?variant=55757545865591</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC76554-Hasbro-Guess-Who-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_72bc5573-c2fa-4558-a0db-dc0a58f18377_1024x1024.jpg?v=1734683101</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -24319,6 +24495,48 @@ Lining 100% Cotton</g:material>
       <g:brand>Hasbro</g:brand>
       <g:product_type>Christmas Crackers</g:product_type>
 
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CC84461</g:id>
+      <g:item_group_id>9520939565373</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Hasbro Guess Who 6 Christmas Crackers - Yellow</g:title>
+      <g:description>Can you guess who's sitting around your table? The fun family game of Guess Who? has been brought to life with these brilliant novelty crackers. Each 12.5" cracker includes a hat, motto, and Guess Who? game cards. The box also contains a headband, large and small face cards, and instructions. Officially licenced product. Recyclable packaging and crackers. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hasbro-guess-who-6-christmas-crackers?variant=55757545898359</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84461-Guess-Who-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756379091</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586009</g:gtin>
+ 
+      <g:brand>Hasbro</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:color>Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -32632,7 +32850,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-sensitive-skin-balm?variant=49004048122173</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42328-MooGoo-Sensitive-Skin-Balm-120g-Cancer-Research-UK-Online-Shop_b2d98d7f-4377-4560-a9c9-0df31d653900_1024x1024.jpg?v=1719230349</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.99 GBP</g:price>
 
       <g:shipping>
@@ -67575,55 +67793,10 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>SN83435Brown</g:id>
-      <g:item_group_id>15088086909303</g:item_group_id>
-      
-      <g:title>Spider Door Stop - Brown</g:title>
-      <g:description>Add a spooky yet practical touch to your home this Halloween with the Spider Door Stop. This door stop is a must-have for Halloween or spider enthusiasts!</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/spider-door-stop?variant=55679054152055</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83435-Spider-Door-Stop-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756301858</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238680</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Door Stop</g:product_type>
-
-      <g:color>Brown</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester/100% polyester filling and aggregate</g:material>
-      <g:product_length>28 cm </g:product_length>
-      <g:product_width>32 cm </g:product_width>
-      <g:product_height>12 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>SN83435Black</g:id>
       <g:item_group_id>15088086909303</g:item_group_id>
       
-      <g:title>Spider Door Stop - Black</g:title>
+      <g:title>Spider Door Stop</g:title>
       <g:description>Add a spooky yet practical touch to your home this Halloween with the Spider Door Stop. This door stop is a must-have for Halloween or spider enthusiasts!</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/spider-door-stop?variant=55679054184823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83435-Spider-Door-Stop-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756301858</g:image_link>
@@ -67650,7 +67823,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Door Stop</g:product_type>
 
-      <g:color>Brown</g:color>
+      <g:color>Black</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
