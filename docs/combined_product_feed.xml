@@ -6116,7 +6116,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-folding-floral-tote-bag?variant=49005485654333</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80631-Bowelbabe-Folding-Tote-Bag-Floral-Green-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1719229188</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
       <g:sale_price>1.69 GBP</g:sale_price>
 
@@ -13920,7 +13920,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83675Brown</g:id>
+      <g:id>CX83675BROWN</g:id>
       <g:item_group_id>15107716415863</g:item_group_id>
       
       <g:title>Ceramic Nativity Decoration - Brown</g:title>
@@ -13962,7 +13962,7 @@ Lining 100% Cotton</g:material>
     </item>
 	
     <item>
-      <g:id>CX83675White</g:id>
+      <g:id>CX83675WHITE</g:id>
       <g:item_group_id>15107716415863</g:item_group_id>
       
       <g:title>Ceramic Nativity Decoration - White</g:title>
@@ -14568,7 +14568,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55636698595703</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-Cancer-Research-UK-Online-Shop_4323872a-1214-426f-bc1c-096f90f89acc_1024x1024.jpg?v=1755692788</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -14612,7 +14612,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579045751</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-Cancer-Research-UK-Online-Shop_4323872a-1214-426f-bc1c-096f90f89acc_1024x1024.jpg?v=1755692788</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -14656,7 +14656,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579078519</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-Cancer-Research-UK-Online-Shop_4323872a-1214-426f-bc1c-096f90f89acc_1024x1024.jpg?v=1755692788</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -14699,7 +14699,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55636698628471</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-2-Cancer-Research-UK-Online-Shop_37a9c3d1-1707-4035-aa9b-1fb5a9960daa_1024x1024.jpg?v=1755692800</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -14743,7 +14743,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579111287</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-2-Cancer-Research-UK-Online-Shop_37a9c3d1-1707-4035-aa9b-1fb5a9960daa_1024x1024.jpg?v=1755692800</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -14787,7 +14787,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579144055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-2-Cancer-Research-UK-Online-Shop_37a9c3d1-1707-4035-aa9b-1fb5a9960daa_1024x1024.jpg?v=1755692800</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -14947,6 +14947,276 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN83133-9</g:id>
+      <g:item_group_id>15099007959415</g:item_group_id>
+      
+      <g:title>Children's Single Pack Halloween Welly Socks - Pink / 9-12</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Welly Socks, designed especially for wellies or long boots. Made from soft, durable fabric, these socks are perfect for those muddy and chilly autumn walks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-single-pack-halloween-welly-socks?variant=55756556534135</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83133-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755694750</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83133-9</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83133-12</g:id>
+      <g:item_group_id>15099007959415</g:item_group_id>
+      
+      <g:title>Children's Single Pack Halloween Welly Socks - Pink / 12½ -3½</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Welly Socks, designed especially for wellies or long boots. Made from soft, durable fabric, these socks are perfect for those muddy and chilly autumn walks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-single-pack-halloween-welly-socks?variant=55756556501367</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83133-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755694750</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83133-12</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83133-4</g:id>
+      <g:item_group_id>15099007959415</g:item_group_id>
+      
+      <g:title>Children's Single Pack Halloween Welly Socks - Pink / 4-5½</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Welly Socks, designed especially for wellies or long boots. Made from soft, durable fabric, these socks are perfect for those muddy and chilly autumn walks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-single-pack-halloween-welly-socks?variant=55748280746359</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83133-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755694750</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033325831334</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83971-9</g:id>
+      <g:item_group_id>15099007959415</g:item_group_id>
+      
+      <g:title>Children's Single Pack Halloween Welly Socks - Blue / 9-12</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Welly Socks, designed especially for wellies or long boots. Made from soft, durable fabric, these socks are perfect for those muddy and chilly autumn walks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-single-pack-halloween-welly-socks?variant=55756556599671</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83971-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757412985</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83971-9</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83971-12</g:id>
+      <g:item_group_id>15099007959415</g:item_group_id>
+      
+      <g:title>Children's Single Pack Halloween Welly Socks - Blue / 12½ -3½</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Welly Socks, designed especially for wellies or long boots. Made from soft, durable fabric, these socks are perfect for those muddy and chilly autumn walks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-single-pack-halloween-welly-socks?variant=55756556566903</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83971-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757412985</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83971-12</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83971-4</g:id>
+      <g:item_group_id>15099007959415</g:item_group_id>
+      
+      <g:title>Children's Single Pack Halloween Welly Socks - Blue / 4-5½</g:title>
+      <g:description>Step into spooky season with our Children's Halloween Welly Socks, designed especially for wellies or long boots. Made from soft, durable fabric, these socks are perfect for those muddy and chilly autumn walks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-single-pack-halloween-welly-socks?variant=55748280779127</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83971-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757412985</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SN83971-4</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -21657,6 +21927,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84281</g:id>
+      <g:item_group_id>15087309488503</g:item_group_id>
+      
+      <g:title>Flora &amp; Fauna 1000-Piece Jigsaw Puzzle</g:title>
+      <g:description>Explore the wonders of nature with the Flora &amp; Fauna Jigsaw. This 1000-piece puzzle (68 x 48 cm) showcases a vibrant collection of British wildlife, featuring animals, birds, insects, and plants. A delightful challenge for nature lovers and puzzle enthusiasts alike, it’s perfect for cosy evenings or gifting. Features:  1000-piece Flora &amp; Fauna design jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK ,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/flora-fauna-1000-piece-jigsaw-puzzle?variant=55594088956279</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84281-Flora-Fauna-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185386</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558870</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Puzzles</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR83086</g:id>
       <g:item_group_id>15019196088695</g:item_group_id>
       
@@ -22162,6 +22473,88 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84284</g:id>
+      <g:item_group_id>15087311880567</g:item_group_id>
+      
+      <g:title>Frosty Farmyard 1000-Piece Jigsaw Puzzle</g:title>
+      <g:description>Step into a charming countryside winter with the Frosty Farmyard Jigsaw. This 1000-piece puzzle (68 x 48 cm) features a snowy farm scene with sheep, chickens, dogs, and a classic green Land Rover. With farm buildings and friendly faces, it’s a delightful challenge for puzzle fans and rural life enthusiasts. Features:  Frosty Farmyard design 1000-piece jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK ,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/frosty-farmyard-1000-piece-jigsaw-puzzle?variant=55594140631415</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84284-Frosty-Farmyard-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185385</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558900</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Puzzles</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84282</g:id>
+      <g:item_group_id>15087310995831</g:item_group_id>
+      
+      <g:title>Furry Friends 500-Piece Jigsaw Puzzle</g:title>
+      <g:description>Enjoy a heart warming winter scene with the Furry Friends Jigsaw. This 500-piece puzzle (61 x 46 cm) is perfect for ages 10+, featuring dogs, birds, and squirrels gathered around a bench in a snowy forest. A delightful activity for cosy afternoons and a charming gift for animal lovers. Features:  500-piece Furry Friends design jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK ,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/furry-friends-500-piece-jigsaw-puzzle?variant=55594122772855</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84282-Furry-Friends-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185385</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558887</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Puzzles</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR83410</g:id>
       <g:item_group_id>15017169355127</g:item_group_id>
       
@@ -22170,7 +22563,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/garden-birds-1000-piece-jigsaw-puzzle?variant=55332946936183</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Garden_Birds_1000-Piece_Jigsaw_Puzzle_1024x1024.jpg?v=1750321667</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -22363,9 +22756,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82851GREY</g:id>
       <g:item_group_id>9522268045629</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -22696,7 +23087,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SN83407</g:id>
       <g:item_group_id>15088088187255</g:item_group_id>
       
@@ -24111,7 +24504,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83431Cat</g:id>
+      <g:id>SN83431CAT</g:id>
       <g:item_group_id>15097274204535</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
       <g:title>Halloween Pom Pom Candle - Cat</g:title>
@@ -24157,7 +24550,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83431Ghost</g:id>
+      <g:id>SN83431GHOST</g:id>
       <g:item_group_id>15097281675639</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
       <g:title>Halloween Pom Pom Candle - Ghost</g:title>
@@ -24203,7 +24596,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83431Pumpkin</g:id>
+      <g:id>SN83431PUMPKIN</g:id>
       <g:item_group_id>15097286918519</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
       <g:title>Halloween Pom Pom Candle - Pumpkin</g:title>
@@ -24249,7 +24642,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83431Spider</g:id>
+      <g:id>SN83431SPIDER</g:id>
       <g:item_group_id>15097284198775</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
       <g:title>Halloween Pom Pom Candle - Spider</g:title>
@@ -25308,7 +25701,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83458-Battery-Operated-Lit-Pumpkin-Table-Topper-Orange-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755608684</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83458-Battery-Operated-Lit-Pumpkin-Table-Topper-Black-1-Cancer-Research-UK-Online-Shop_c23b14cc-f65b-42f3-96ba-95b1cb800691_1024x1024.jpg?v=1755608701</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -25350,7 +25743,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83458-Battery-Operated-Lit-Pumpkin-Table-Topper-Black-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755608659</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83458-Battery-Operated-Lit-Pumpkin-Table-Topper-Black-1-Cancer-Research-UK-Online-Shop_c23b14cc-f65b-42f3-96ba-95b1cb800691_1024x1024.jpg?v=1755608701</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -32479,7 +32872,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-natural-lip-balm-vanilla-dream?variant=49004045467965</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81504-MooGoo-Body-Care-Lip-Balm-Vanilla-Dream-Cancer-Research-UK-Online-Shop_d10afa20-29fb-441f-997e-25bfa49425a3_1024x1024.jpg?v=1719230342</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -34433,7 +34826,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83461Mushroom</g:id>
+      <g:id>SN83461MUSHROOM</g:id>
       <g:item_group_id>15088087662967</g:item_group_id>
       
       <g:title>Mushroom Plant Pot Ornament</g:title>
@@ -34649,7 +35042,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/nautical-stripe-cooling-beach-bag?variant=55150233387383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82907-Navy-Nautical-Stripe-Cooler-Beach-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1745418994</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -36208,7 +36601,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83459Bat</g:id>
+      <g:id>SN83459BAT</g:id>
       <g:item_group_id>15097105056119</g:item_group_id>
       
       <g:title>Pom Pom Headband - Bat</g:title>
@@ -36250,7 +36643,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83459Cat</g:id>
+      <g:id>SN83459CAT</g:id>
       <g:item_group_id>15097105678711</g:item_group_id>
       
       <g:title>Pom Pom Headband - Cat</g:title>
@@ -36291,7 +36684,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83459Spider</g:id>
+      <g:id>SN83459SPIDER</g:id>
       <g:item_group_id>15097105514871</g:item_group_id>
       
       <g:title>Pom Pom Headband - Spider</g:title>
@@ -36500,9 +36893,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42348</g:id>
       <g:item_group_id>9521081483581</g:item_group_id>
       <g:google_product_category>3094</g:google_product_category>
@@ -36850,7 +37241,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX29668</g:id>
       <g:item_group_id>9521082499389</g:item_group_id>
       <g:google_product_category>276</g:google_product_category>
@@ -40318,7 +40711,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
-      <g:id>SN83445Orange</g:id>
+      <g:id>SN83445ORANGE</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Small / Orange</g:title>
@@ -40363,7 +40756,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83445Gold</g:id>
+      <g:id>SN83445GOLD</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Small / Gold</g:title>
@@ -40408,7 +40801,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83445Brown</g:id>
+      <g:id>SN83445BROWN</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Small / Brown</g:title>
@@ -40453,7 +40846,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83445Green</g:id>
+      <g:id>SN83445GREEN</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Small / Green</g:title>
@@ -40498,7 +40891,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83446Orange</g:id>
+      <g:id>SN83446ORANGE</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Medium / Orange</g:title>
@@ -40543,7 +40936,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83446Gold</g:id>
+      <g:id>SN83446GOLD</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Medium / Gold</g:title>
@@ -40588,7 +40981,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83446Brown</g:id>
+      <g:id>SN83446BROWN</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Medium / Brown</g:title>
@@ -40633,7 +41026,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83446Green</g:id>
+      <g:id>SN83446GREEN</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Medium / Green</g:title>
@@ -40678,7 +41071,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83447Orange</g:id>
+      <g:id>SN83447ORANGE</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Large / Orange</g:title>
@@ -40723,7 +41116,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83447Gold</g:id>
+      <g:id>SN83447GOLD</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Large / Gold</g:title>
@@ -40768,7 +41161,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83447Brown</g:id>
+      <g:id>SN83447BROWN</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Large / Brown</g:title>
@@ -40813,7 +41206,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83447Green</g:id>
+      <g:id>SN83447GREEN</g:id>
       <g:item_group_id>15088089596279</g:item_group_id>
       
       <g:title>Pumpkin Decorations - Large / Green</g:title>
@@ -40859,7 +41252,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
-      <g:id>SN83434Yellow</g:id>
+      <g:id>SN83434YELLOW</g:id>
       <g:item_group_id>15088086876535</g:item_group_id>
       
       <g:title>Pumpkin Door Stop - Yellow</g:title>
@@ -40904,7 +41297,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83434Brown</g:id>
+      <g:id>SN83434BROWN</g:id>
       <g:item_group_id>15088086876535</g:item_group_id>
       
       <g:title>Pumpkin Door Stop - Brown</g:title>
@@ -40949,7 +41342,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83434Green</g:id>
+      <g:id>SN83434GREEN</g:id>
       <g:item_group_id>15088086876535</g:item_group_id>
       
       <g:title>Pumpkin Door Stop - Green</g:title>
@@ -40995,7 +41388,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
-      <g:id>SN83438Pumpkin</g:id>
+      <g:id>SN83438PUMPKIN</g:id>
       <g:item_group_id>15097647366519</g:item_group_id>
       
       <g:title>Pumpkin Easy Wipe-Clean Tablecloth</g:title>
@@ -41039,7 +41432,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
-      <g:id>SN83437Orange</g:id>
+      <g:id>SN83437ORANGE</g:id>
       <g:item_group_id>15088086974839</g:item_group_id>
       
       <g:title>Pumpkin Guest Towels - 2 pack - Orange</g:title>
@@ -41083,7 +41476,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83437Green</g:id>
+      <g:id>SN83437GREEN</g:id>
       <g:item_group_id>15088086974839</g:item_group_id>
       
       <g:title>Pumpkin Guest Towels - 2 pack - Sage Green</g:title>
@@ -41257,7 +41650,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
-      <g:id>SN83436Pumpkin</g:id>
+      <g:id>SN83436PUMPKIN</g:id>
       <g:item_group_id>15095058792823</g:item_group_id>
       
       <g:title>Pumpkin Tea Towel Duo</g:title>
@@ -61828,6 +62221,47 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CX84283</g:id>
+      <g:item_group_id>15087288090999</g:item_group_id>
+      
+      <g:title>Santa Special 1000-Piece Jigsaw Puzzle</g:title>
+      <g:description>Celebrate the festive season with the Santa Special Jigsaw – a charming 1000-piece puzzle measuring 68 x 48 cm. Featuring a heart-warming winter scene with woodland animals gathered around a decorated steam train, this puzzle offers hours of joyful entertainment. A perfect gift or cosy activity for chilly evenings. Features:  1000-piece Santa Special design jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK ,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/santa-special-1000-piece-jigsaw-puzzle?variant=55594049831287</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84283-Santa-Special-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185387</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558894</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Puzzles</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81440</g:id>
       <g:item_group_id>9678415167805</g:item_group_id>
       
@@ -67358,7 +67792,7 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CX83680Cream</g:id>
+      <g:id>CX83680CREAM</g:id>
       <g:item_group_id>15107341877623</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Small Hanging Angels Decoration - Cream</g:title>
@@ -67384,7 +67818,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin />
-      <g:mpn>CX83680Cream</g:mpn>
+      <g:mpn>CX83680CREAM</g:mpn>
  
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Decorations</g:product_type>
@@ -67402,7 +67836,7 @@ Outsole synthetic</g:material>
     </item>
 	
     <item>
-      <g:id>CX83680Pink</g:id>
+      <g:id>CX83680PINK</g:id>
       <g:item_group_id>15107341877623</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Small Hanging Angels Decoration - Pink</g:title>
@@ -67428,7 +67862,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin />
-      <g:mpn>CX83680Pink</g:mpn>
+      <g:mpn>CX83680PINK</g:mpn>
  
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Decorations</g:product_type>
@@ -67446,7 +67880,7 @@ Outsole synthetic</g:material>
     </item>
 	
     <item>
-      <g:id>CX83680Grey</g:id>
+      <g:id>CX83680GREY</g:id>
       <g:item_group_id>15107341877623</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Small Hanging Angels Decoration - Grey</g:title>
@@ -67472,7 +67906,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin />
-      <g:mpn>CX83680Grey</g:mpn>
+      <g:mpn>CX83680GREY</g:mpn>
  
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Decorations</g:product_type>
@@ -67717,7 +68151,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82247SparkytheSpringerStandardUmbrella2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733415276</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82247SparkytheSpringerStandardUmbrella3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733415276</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -67793,7 +68227,7 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>SN83435Black</g:id>
+      <g:id>SN83435BLACK</g:id>
       <g:item_group_id>15088086909303</g:item_group_id>
       
       <g:title>Spider Door Stop</g:title>
@@ -67884,7 +68318,7 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>SN83438Spider</g:id>
+      <g:id>SN83438SPIDER</g:id>
       <g:item_group_id>15088087007607</g:item_group_id>
       
       <g:title>Spider Easy Wipe-Clean Tablecloth</g:title>
@@ -67973,7 +68407,7 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>SN83436Spider</g:id>
+      <g:id>SN83436SPIDER</g:id>
       <g:item_group_id>15088086942071</g:item_group_id>
       
       <g:title>Spider Tea Towel Duo</g:title>
@@ -71569,9 +72003,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU31667</g:id>
       <g:item_group_id>9520916693309</g:item_group_id>
       <g:google_product_category>670</g:google_product_category>
@@ -71797,7 +72229,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU71327</g:id>
       <g:item_group_id>9520920527165</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
@@ -81751,6 +82185,47 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CX84285</g:id>
+      <g:item_group_id>15087300739447</g:item_group_id>
+      
+      <g:title>Winter Riverbank 1000-Piece Jigsaw Puzzle</g:title>
+      <g:description>Immerse yourself in the tranquil beauty of the Winter Riverbank Jigsaw. This 1000-piece puzzle (68 x 48 cm) features a serene snowy scene with deer, ducks, swans, and birds by a peaceful river. With a charming bridge, cosy houses, and a starry night sky, it’s a perfect winter pastime for puzzle lovers. Features:  1000-piece Winter Riverbank design jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK ,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/winter-riverbank-1000-piece-jigsaw-puzzle?variant=55594071458167</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84285-Winter-Riverbank-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185386</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558917</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Puzzles</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW81762</g:id>
       <g:item_group_id>9659071889725</g:item_group_id>
       
@@ -82582,6 +83057,47 @@ Outsole synthetic</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84280</g:id>
+      <g:item_group_id>15087278260599</g:item_group_id>
+      
+      <g:title>Woodland Treehouse 500-Piece Jigsaw Puzzle</g:title>
+      <g:description>Escape into a magical winter scene with the Woodland Treehouse Jigsaw. This 500-piece puzzle (61 x 46 cm) features a cosy treehouse nestled in a snowy forest, complete with festive décor and charming woodland animals. Ideal for ages 10+, it's perfect for family fun or a thoughtful seasonal gift. Features:  500-piece Woodland Treehouse design jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK ,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/woodland-treehouse-500-piece-jigsaw-puzzle?variant=55594039279991</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84280-Woodland-Treehouse-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185388</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558863</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Puzzles</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
