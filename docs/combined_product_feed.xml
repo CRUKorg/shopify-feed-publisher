@@ -464,7 +464,7 @@
       <g:gtin>5063322126150</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -592,7 +592,7 @@
       <g:gtin>5063322126174</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -684,7 +684,7 @@
       <g:gtin>5063322126143</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -16124,6 +16124,48 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83875</g:id>
+      <g:item_group_id>15077031084407</g:item_group_id>
+      
+      <g:title>Clover Highland Cow Oven Gloves</g:title>
+      <g:description>Bring festive cheer to your kitchen with these festive-themed Highland Cow Oven Gloves. Designed with a traditional red plaid pattern and finished with bold red trim, it features a playful illustration of a highland cow wearing a Santa hat and holding a sprig of holly.  Crafted from durable, heat-resistant materials, this mitt offers both style and safety while handling hot cookware. A built-in hanging loop makes it easy to store and display during the Christmas season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/clover-the-highland-cow-oven-gloves?variant=55554639528311</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83875-Clover-Highland-Cow-Oven-Gloves-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185401</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83875-Clover-Highland-Cow-Oven-Gloves-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815545</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674242281</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Oven Gloves</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>WF77001</g:id>
       <g:item_group_id>9520797319485</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -16282,7 +16324,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322121834</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -19323,7 +19365,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322121810</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -20966,6 +21008,88 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CW81881</g:id>
+      <g:item_group_id>14671593734519</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Eco Nature Festive Foraging Recycled Medium Gift Bag</g:title>
+      <g:description>Add a touch of festive foliage to your gift giving with this Eco Nature gift bag. Made in the UK from recycled materials, it's also fully reusable and recyclable. Medium size, approximately 22 x 27 x 11cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/eco-nature-festive-foraging-recycled-medium-gift-bag?variant=53484801360247</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81881-Eco-Nature-Festive-Foraging-Medium-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1729176167</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.59 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213536684</g:gtin>
+ 
+      <g:brand>Eco Nature</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW81887</g:id>
+      <g:item_group_id>9521225007421</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Eco Nature Festive Santa Recycled Large Gift Bag</g:title>
+      <g:description>A jolly Santa giftbag, made in the UK from recycled materials. It's fully reusable and recyclable. Features:  Large size, approximately 26 x 35 x 12cm, Co-ordinating wrapping paper available, Made in the UK, Fully recyclable, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/santa-recycled-large-gift-bag?variant=49004247155005</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW76543-Eco-Nature-FSC-Santa-Large-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_cc6c3390-b7c3-4cda-be3c-e72e017c7164_1024x1024.jpg?v=1719231231</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.89 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213558938</g:gtin>
+ 
+      <g:brand>Eco Nature</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW81890</g:id>
       <g:item_group_id>14671857451383</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -21118,6 +21242,47 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012213558761</g:gtin>
+ 
+      <g:brand>Eco Nature</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW81883</g:id>
+      <g:item_group_id>14671594520951</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Eco Nature Winter Foliage Recycled Medium Gift Bag</g:title>
+      <g:description>Filled with beautifully illustrated sprigs of holly, mistletoe, and other wintry foliage, this beautifully designed gift bag is sure to delight just as much as the gifts inside. Made in the UK from recycled materials, it's also fully reusable and recyclable. Medium size, approximately 22 x 27 x 11cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/eco-nature-winter-foliage-recycled-medium-gift-bag?variant=53484804079991</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81883-Eco-Nature-Winter-Foliage-Medium-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1729176473</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.59 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213510875</g:gtin>
  
       <g:brand>Eco Nature</g:brand>
       <g:product_type>Gift Bags</g:product_type>
@@ -22612,9 +22777,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82185</g:id>
       <g:item_group_id>9520881991997</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -22783,7 +22946,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF73932</g:id>
       <g:item_group_id>9520884547901</g:item_group_id>
       <g:google_product_category>543562</g:google_product_category>
@@ -26773,6 +26938,7 @@ Lining 100% Cotton</g:material>
       <g:description>Add a touch of woodland wonder to your Christmas tree with this delightful ceramic bauble, featuring our exclusive Humphrey the Hare design. Surrounded by pine branches and cheerful decorations, it's a charming way to bring nature-inspired joy to your seasonal setup. Other co-ordinating products also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/humphrey-the-hare-bauble?variant=55594787799415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83658-Humphrey-Hare-Bauble-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185369</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83658-Humphrey-Hare-Bauble-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757795971</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
@@ -26794,7 +26960,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322121803</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -32234,7 +32400,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322126167</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -36937,9 +37103,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80716</g:id>
       <g:item_group_id>9521076306237</g:item_group_id>
       <g:google_product_category>4143</g:google_product_category>
@@ -37338,7 +37502,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR79687</g:id>
       <g:item_group_id>9521079222589</g:item_group_id>
       <g:google_product_category>499805</g:google_product_category>
@@ -42860,7 +43026,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-pot-ornament?variant=55677126902135</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83461-Pumpkin-Stakes-Duo-Cancer-Research-UK-Online-Shop-1_2841d866-23f8-41b3-9c07-3d75a273f0d1_1024x1024.jpg?v=1756306189</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -48383,7 +48549,7 @@ Outsole synthetic</g:material>
       <g:gtin>5063322121797</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -49643,6 +49809,97 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83670CREAM</g:id>
+      <g:item_group_id>9521210229053</g:item_group_id>
+      <g:google_product_category>5359</g:google_product_category>
+      <g:title>Robin Advent Candle - Cream</g:title>
+      <g:description>Count down the days of Advent with this charming robin advent candle. This classic pillar candle is numbered down the centre in gold, allowing you to burn the candle each day in the countdown to Christmas. Available in two colour options, white and cream, sold separately. Each candle measures approximately 20cm tall x 5cm diameter, and has its own presentation box and clear glass base.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/robin-advent-candle?variant=53484948717943</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683064</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063004</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063037</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX83670CREAM</g:mpn>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Advent Calendars</g:product_type>
+
+      <g:color>Cream</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Paraffin wax</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83670IVORY</g:id>
+      <g:item_group_id>9521210229053</g:item_group_id>
+      <g:google_product_category>5359</g:google_product_category>
+      <g:title>Robin Advent Candle - White</g:title>
+      <g:description>Count down the days of Advent with this charming robin advent candle. This classic pillar candle is numbered down the centre in gold, allowing you to burn the candle each day in the countdown to Christmas. Available in two colour options, white and cream, sold separately. Each candle measures approximately 20cm tall x 5cm diameter, and has its own presentation box and clear glass base.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/robin-advent-candle?variant=53484948750711</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683064</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063004</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063037</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX83670IVORY</g:mpn>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Advent Calendars</g:product_type>
+
+      <g:color>Cream</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Paraffin wax</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -58060,7 +58317,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70204,9 +70461,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU80560</g:id>
       <g:item_group_id>9521300308285</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -70833,7 +71088,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>VFSU2CSOCKM</g:id>
       <g:item_group_id>9521309712701</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -74575,7 +74832,7 @@ Outsole synthetic</g:material>
       <g:gtin>5063322121827</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -74706,7 +74963,7 @@ Outsole synthetic</g:material>
       <g:gtin>5063322121841</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
+      <g:product_type>Baubles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82841,7 +83098,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Cushion</g:product_type>
 
-      <g:color>Sage Green</g:color>
+      <g:color>Dark Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -82860,7 +83117,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/velvet-bee-cushion?variant=55336104984951</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Green_Cushion_1024x1024.jpg?v=1751038593</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -82882,7 +83139,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Cushion</g:product_type>
 
-      <g:color>Sage Green</g:color>
+      <g:color>Dark Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -83749,7 +84006,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/wind-up-walking-christmas-toy?variant=55682884927863</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83681-Wind-Up-Christmas-Toys-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757670776</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
