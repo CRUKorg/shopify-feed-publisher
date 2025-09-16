@@ -9,7 +9,7 @@
       <g:item_group_id>15088087990647</g:item_group_id>
       
       <g:title>10 LED Ghost Lights</g:title>
-      <g:description>Light up your Halloween with these battery-operated ghost lights. Featuring 10 colour-changing LEDs on a clear cable, they're perfect for adding spooky charm indoors or out. With a 90cm lit length, they're easy to hang and can add a delightfully eerie presence to any space. These light up in six different colours. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:description>Light up your Halloween with these battery-operated ghost lights. Featuring 10 colour-changing LEDs on a clear cable, they're perfect for adding spooky charm indoors or out. With a 90cm lit length, they're easy to hang and can add a delightfully eerie presence to any space. These light up and cycle through six different colours. Each ghost is approximately 2 x 2cm, and there's 30cm between the battery box and first light. Sink your teeth into the rest of our Halloween merch.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/led-ghost-lights?variant=55596181258615</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83457-Battery-Operated-10-Colour-Changing-Ghost-Lights-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117802</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83457-Battery-Operated-10-Colour-Changing-Ghost-Lights-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756814003</g:additional_image_link>
@@ -342,6 +342,8 @@
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>6.5 cm </g:product_length>
+      <g:product_width>7 cm </g:product_width>
       <g:product_height>8 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
@@ -1437,7 +1439,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83908-Beautiful-Branches-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185434</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>3.49 GBP</g:price>
+      <g:price>2.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -13962,7 +13964,7 @@ Lining 100% Cotton</g:material>
     </item>
 	
     <item>
-      <g:id>CX83675WHITE</g:id>
+      <g:id>CX83675GOLD</g:id>
       <g:item_group_id>15107716415863</g:item_group_id>
       
       <g:title>Ceramic Nativity Decoration - White</g:title>
@@ -18532,7 +18534,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30592-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Yellow-996-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738759869</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_d88b160c-9d93-41d9-aaeb-f87dd38bd876_1024x1024.jpg?v=1719229415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.79 GBP</g:price>
 
       <g:shipping>
@@ -21558,6 +21560,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83758</g:id>
+      <g:item_group_id>15100948316535</g:item_group_id>
+      
+      <g:title>Fast-Warming Heated Scarf</g:title>
+      <g:description>Combat the chill with this stylish and practical heated scarf. It's the perfect companion for the autumn breeze and winter freeze. Featuring three adjustable heat settings, you can tailor the warmth to suit your comfort level. Its fast-warming technology ensures you feel snug in seconds, ideal for brisk morning commutes or frosty evening strolls.  Power Bank heated, Use a USB cable for recharging, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/fast-warming-heated-scarf?variant=55648910541175</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83758-Heated-Scarf-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857348</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83758-Heated-Scarf-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857348</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241840</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Scarves</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester</g:material>
+      <g:product_width>142 cm </g:product_width>
+      <g:product_height>18 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81339</g:id>
       <g:item_group_id>9520863674685</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -22736,9 +22783,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>GC30323</g:id>
       <g:item_group_id>9520880025917</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -22777,7 +22822,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR82185</g:id>
       <g:item_group_id>9520881991997</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -26767,7 +26814,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15062572925303</g:item_group_id>
       
       <g:title>Humphrey Hare 10/20 Christmas Cards - 10</g:title>
-      <g:description>Celebrate the festive season with the charming Humphrey Hare Christmas Cards. Featuring a beautifully illustrated hare, these cards bring warmth and joy to your season's greetings. Spread kindness and cheer with this delightful set of 10 or 20 cards. Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas., 15 x15 cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Celebrate the festive season with the charming Humphrey Hare Christmas Cards. Featuring a beautifully illustrated hare, these cards bring warmth and joy to your season's greetings. Spread kindness and cheer with this delightful set of 10 or 20 cards. Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas., 15 x15 cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/humphrey-hare-10-20-christmas-cards?variant=55486238753143</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83920-Humphrey-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185414</g:image_link>
       <g:condition>new</g:condition>
@@ -26807,7 +26854,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15062572925303</g:item_group_id>
       
       <g:title>Humphrey Hare 10/20 Christmas Cards - 20</g:title>
-      <g:description>Celebrate the festive season with the charming Humphrey Hare Christmas Cards. Featuring a beautifully illustrated hare, these cards bring warmth and joy to your season's greetings. Spread kindness and cheer with this delightful set of 10 or 20 cards. Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas., 15 x15 cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Celebrate the festive season with the charming Humphrey Hare Christmas Cards. Featuring a beautifully illustrated hare, these cards bring warmth and joy to your season's greetings. Spread kindness and cheer with this delightful set of 10 or 20 cards. Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas., 15 x15 cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/humphrey-hare-10-20-christmas-cards?variant=55486238785911</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83920-Humphrey-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185414</g:image_link>
       <g:condition>new</g:condition>
@@ -33273,7 +33320,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>9335955005680</g:gtin>
  
       <g:brand>MooGoo</g:brand>
-      <g:product_type>Hair Mist</g:product_type>
+      <g:product_type>Skincare Pack</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -34035,7 +34082,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-milk-wash?variant=49004039373117</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42338-MooGoo-Milk-Wash-500ml-4-Cancer-Research-UK-Online-Shop_0_32051718-8ca0-4d9d-ba08-2b8285fd2a36_1024x1024.jpg?v=1719230328</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.49 GBP</g:price>
 
       <g:shipping>
@@ -37061,9 +37108,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80677</g:id>
       <g:item_group_id>14907874050423</g:item_group_id>
       <g:google_product_category>4143</g:google_product_category>
@@ -37103,7 +37148,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR80716</g:id>
       <g:item_group_id>9521076306237</g:item_group_id>
       <g:google_product_category>4143</g:google_product_category>
@@ -55558,7 +55605,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -64233,7 +64280,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521229922621</g:item_group_id>
       <g:google_product_category>2618</g:google_product_category>
       <g:title>Serenity 1,500-Piece Jigsaw Puzzle</g:title>
-      <g:description>Find the time to pause and unwind from the stresses of everyday life with this brain-engaging jigsaw puzzle.Designed to encourage problem solving and promote mental clarity and focus, the puzzle features a calming photograph of a pebbly beach.Part of our Serenity collection - a range of self-care gifts designed to help you press pause on the stresses of everyday life.Features:	1 1,500-piece jigsaw puzzle,	Completed size 73.5 x 51cm,	5017224916548, </g:description>
+      <g:description>Find the time to pause and unwind from the stresses of everyday life with this brain-engaging jigsaw puzzle. Designed to encourage problem solving and promote mental clarity and focus, the puzzle features a calming photograph of a pebbly beach. Part of our Serenity collection - a range of self-care gifts designed to help you press pause on the stresses of everyday life. Features:  1x 1,500-piece jigsaw puzzle, Completed size 73.5 x 51cm, 5017224916548, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/serenity-1500-piece-jigsaw-puzzle?variant=49004252397885</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32321-Serenity-1500-Piece-Jigsaw-Puzzle-1-Cancer-Research-UK-Online-Shop_f59f4a8d-9366-43b2-8ed3-2678d36f9fea_1024x1024.jpg?v=1719231245</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32321-Serenity-1500-Piece-Jigsaw-Puzzle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404554</g:additional_image_link>
@@ -68235,7 +68282,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42213-Silentnight-Cooling-Pillow-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404482</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42213-Silentnight-Cooling-Pillow-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404482</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -69168,7 +69215,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - White / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922923837</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
@@ -69211,7 +69258,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - White / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922956605</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
@@ -69254,7 +69301,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Blush / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922989373</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
@@ -69297,7 +69344,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Blush / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923022141</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
@@ -69340,7 +69387,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Grey / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923054909</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
@@ -69383,7 +69430,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Grey / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923087677</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1734683000</g:image_link>
       <g:condition>new</g:condition>
@@ -69426,7 +69473,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Nougat / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511095671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1755787604</g:image_link>
       <g:condition>new</g:condition>
@@ -69467,7 +69514,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Nougat / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks.Co-ordinating items also available.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511128439</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1755787604</g:image_link>
       <g:condition>new</g:condition>
@@ -70414,9 +70461,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU81077</g:id>
       <g:item_group_id>14933588377975</g:item_group_id>
       
@@ -70459,7 +70504,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU80560</g:id>
       <g:item_group_id>9521300308285</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -82397,7 +82444,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15063143547255</g:item_group_id>
       
       <g:title>Twilight Tree 10 Welsh Bilingual Christmas Cards</g:title>
-      <g:description>Celebrate the season with this classic Christmas card featuring a beautifully decorated tree glowing in a snowy landscape. The baubles shine in pink and blue, colours inspired by Cancer Research UK's branding, adding a meaningful touch to your festive greetings under a starry winter sky. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Celebrate the season with this classic Christmas card featuring a beautifully decorated tree glowing in a snowy landscape. The baubles shine in pink and blue, colours inspired by Cancer Research UK's branding, adding a meaningful touch to your festive greetings under a starry winter sky. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., Features silver foil highlights., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/twilight-tree-10-welsh-bilingual-christmas-cards?variant=55490104066423</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83953-Twilight-Tree-Welsh-Bilingual-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185411</g:image_link>
       <g:condition>new</g:condition>
@@ -84003,6 +84050,7 @@ Outsole synthetic</g:material>
       <g:description>Delight children this festive season with our Wind Up Walking Christmas Toys. These charming toys are perfect stocking fillers that combine nostalgia with endless fun. Simple to use and wonderfully entertaining. Sold separately.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/wind-up-walking-christmas-toy?variant=55682884927863</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83681-Wind-Up-Christmas-Toys-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757670776</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83681-Wind-Up-Christmas-Toys-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757927593</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
@@ -84043,6 +84091,7 @@ Outsole synthetic</g:material>
       <g:description>Delight children this festive season with our Wind Up Walking Christmas Toys. These charming toys are perfect stocking fillers that combine nostalgia with endless fun. Simple to use and wonderfully entertaining. Sold separately.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/wind-up-walking-christmas-toy?variant=55682884960631</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83681-Wind-Up-Christmas-Toys-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757670776</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83681-Wind-Up-Christmas-Toys-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757927593</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
