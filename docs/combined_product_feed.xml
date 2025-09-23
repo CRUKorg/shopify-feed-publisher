@@ -5125,7 +5125,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -5146,7 +5146,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82036-Bowelbabe-Fund-T-Shirt-3-Cancer-Research-UK-Online-Shop_8055d9d3-5daf-48ca-93fa-e9bd17bf2973_1024x1024.jpg?v=1719229141</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82036-Bowelbabe-Fund-T-Shirt-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405795</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.00 GBP</g:price>
 
       <g:shipping>
@@ -5169,7 +5169,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -5213,7 +5213,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -5257,7 +5257,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -5301,7 +5301,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -15169,6 +15169,7 @@ Lining 100% Cotton</g:material>
       <g:description>Get creative this festive season with this fun-filled Paint Your Own Tree Decorations kit! Inside you’ll find 10 charming plaster ornaments—from snowflakes to stockings—each with a pre-attached hanging cord, ready to decorate your tree.  Features:  Set of 10 festive plaster tree decorations, Includes 6 paint colours and a paintbrush, Water-based paint, Each ornament comes with a hanging cord, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-paint-own-christmas-characters?variant=55800178737527</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83672-Paint-your-own-Christmas-Characters-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758207728</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83672-Paint-your-own-Christmas-Characters-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758556791</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
@@ -20373,7 +20374,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128529153</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Christmas Hat</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -21843,7 +21844,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128616792</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Wrapping</g:product_type>
+      <g:product_type>Gift Bags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -29050,6 +29051,89 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR80762</g:id>
+      <g:item_group_id>14950502334839</g:item_group_id>
+      
+      <g:title>Highland Cow TeaBag Tidy - Green</g:title>
+      <g:description>Save your worktop from tea drips and stains with this handy teabag tidy. Available in green and white Co-ordinating items also available</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-teabag-tidy-1?variant=55095956013431</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80762-Highland-Cow-Green-Tea-Bagtidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743780247</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123807623</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Teabag Tidy</g:product_type>
+
+      <g:color>Green</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR80763</g:id>
+      <g:item_group_id>14950502334839</g:item_group_id>
+      
+      <g:title>Highland Cow TeaBag Tidy - White</g:title>
+      <g:description>Save your worktop from tea drips and stains with this handy teabag tidy. Available in green and white Co-ordinating items also available</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-teabag-tidy-1?variant=55095956046199</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80763-Highland-Cow-White-Tea-Bagtidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743780247</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123807630</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Teabag Tidy</g:product_type>
+
+      <g:color>Green</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR80764</g:id>
       <g:item_group_id>14950503383415</g:item_group_id>
       
@@ -32296,11 +32380,11 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14868051624311</g:item_group_id>
       
       <g:title>Ladies Velour Loungewear Set - Grey / 8-10</g:title>
-      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, getting dressed is easy and festive-ready. Designed to fit all sizes, this cosy set keeps you snug and stylish through the chilly season.</g:description>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119503735</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873338</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873374</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873376</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537300</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537410</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537478</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -32342,11 +32426,11 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14868051624311</g:item_group_id>
       
       <g:title>Ladies Velour Loungewear Set - Grey / 12-14</g:title>
-      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, getting dressed is easy and festive-ready. Designed to fit all sizes, this cosy set keeps you snug and stylish through the chilly season.</g:description>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119536503</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873338</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873374</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873376</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537300</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537410</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537478</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -32388,11 +32472,11 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14868051624311</g:item_group_id>
       
       <g:title>Ladies Velour Loungewear Set - Grey / 16-18</g:title>
-      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, getting dressed is easy and festive-ready. Designed to fit all sizes, this cosy set keeps you snug and stylish through the chilly season.</g:description>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119569271</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873338</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873374</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873376</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537300</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537410</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537478</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -32434,11 +32518,11 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14868051624311</g:item_group_id>
       
       <g:title>Ladies Velour Loungewear Set - Grey / 20-22</g:title>
-      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, getting dressed is easy and festive-ready. Designed to fit all sizes, this cosy set keeps you snug and stylish through the chilly season.</g:description>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119602039</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873338</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873374</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873376</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537300</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537410</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537478</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -32480,11 +32564,11 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14868051624311</g:item_group_id>
       
       <g:title>Ladies Velour Loungewear Set - Pink / 8-10</g:title>
-      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, getting dressed is easy and festive-ready. Designed to fit all sizes, this cosy set keeps you snug and stylish through the chilly season.</g:description>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119634807</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873346</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873374</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873376</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537605</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537410</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537478</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -32526,11 +32610,11 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14868051624311</g:item_group_id>
       
       <g:title>Ladies Velour Loungewear Set - Pink / 12-14</g:title>
-      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, getting dressed is easy and festive-ready. Designed to fit all sizes, this cosy set keeps you snug and stylish through the chilly season.</g:description>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119667575</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873346</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873374</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873376</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537605</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537410</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537478</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -32572,11 +32656,11 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14868051624311</g:item_group_id>
       
       <g:title>Ladies Velour Loungewear Set - Pink / 16-18</g:title>
-      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, getting dressed is easy and festive-ready. Designed to fit all sizes, this cosy set keeps you snug and stylish through the chilly season.</g:description>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119700343</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873346</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873374</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873376</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537605</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537410</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537478</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -32618,11 +32702,11 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14868051624311</g:item_group_id>
       
       <g:title>Ladies Velour Loungewear Set - Pink / 20-22</g:title>
-      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, getting dressed is easy and festive-ready. Designed to fit all sizes, this cosy set keeps you snug and stylish through the chilly season.</g:description>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119733111</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873346</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873374</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732873376</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537605</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537410</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758537478</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -37083,9 +37167,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42342</g:id>
       <g:item_group_id>9521029841213</g:item_group_id>
       <g:google_product_category>543573</g:google_product_category>
@@ -37124,7 +37206,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW42336</g:id>
       <g:item_group_id>9521030693181</g:item_group_id>
       <g:google_product_category>543616</g:google_product_category>
@@ -40496,7 +40580,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82126-Lavender-Mushroom-Tin-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732188831</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82126-Mushroom-Tin-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732188832</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -42540,6 +42624,50 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CW81783</g:id>
+      <g:item_group_id>9659101053245</g:item_group_id>
+      
+      <g:title>Paw Patrol Large Christmas Gift Bag</g:title>
+      <g:description>If anyone's going to look after your presents well, it's these four-legged members of the Paw Patrol! Fully recyclable with co-ordinating wrapping paper also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/paw-patrol-large-christmas-gift-bag?variant=49371950514493</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81783-Giftmaker-Paw-Patrol-Large-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1726228907</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213544740</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>14 cm </g:product_length>
+      <g:product_width>26.6 cm </g:product_width>
+      <g:product_height>33 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD83925</g:id>
       <g:item_group_id>15062550741367</g:item_group_id>
       
@@ -43463,7 +43591,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128606069</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Gifts</g:product_type>
+      <g:product_type>Accessories</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54256,6 +54384,130 @@ Outsole synthetic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW84468SILVER</g:id>
+      <g:item_group_id>9521164681533</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 4m Midnight Blue Christmas Wrapping Paper - Navy</g:title>
+      <g:description>Inspired by the wintry sparkle of Lapland, the Midnight Blue range of wrapping papers will give your gifts a beautiful contemporary look under the tree. Three wrapping paper designs, sold separately, are available. Features:  1 x 4m gift wrapping paper, Available in 3 styles: Let it Snow, White Snowflakes and Merry Christmas, Fully recyclable, Co-ordinating styles and accessories available, Made in the UK , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-midnight-blue-christmas-wrapping-paper?variant=49004176638269</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84468-Midnight-Blue-Christmas-Wrapping_Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037540</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566063</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Navy</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84468WHITE</g:id>
+      <g:item_group_id>9521164681533</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 4m Midnight Blue Christmas Wrapping Paper - Silver</g:title>
+      <g:description>Inspired by the wintry sparkle of Lapland, the Midnight Blue range of wrapping papers will give your gifts a beautiful contemporary look under the tree. Three wrapping paper designs, sold separately, are available. Features:  1 x 4m gift wrapping paper, Available in 3 styles: Let it Snow, White Snowflakes and Merry Christmas, Fully recyclable, Co-ordinating styles and accessories available, Made in the UK , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-midnight-blue-christmas-wrapping-paper?variant=49005577011517</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84468-Midnight-Blue-Christmas-Wrapping_Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037540</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566063</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Navy</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84468BLUE</g:id>
+      <g:item_group_id>9521164681533</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 4m Midnight Blue Christmas Wrapping Paper - White</g:title>
+      <g:description>Inspired by the wintry sparkle of Lapland, the Midnight Blue range of wrapping papers will give your gifts a beautiful contemporary look under the tree. Three wrapping paper designs, sold separately, are available. Features:  1 x 4m gift wrapping paper, Available in 3 styles: Let it Snow, White Snowflakes and Merry Christmas, Fully recyclable, Co-ordinating styles and accessories available, Made in the UK , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-midnight-blue-christmas-wrapping-paper?variant=49005577044285</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84468-Midnight-Blue-Christmas-Wrapping_Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037540</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566063</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Navy</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -69777,6 +70029,167 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CW84471SANTA</g:id>
+      <g:item_group_id>14670491517303</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Santa and Friends 4m Christmas Wrapping Paper - Santa</g:title>
+      <g:description>Featuring a range of festive characters, this wrapping paper is something a little fun for the family's gifts. Four co-ordinating wrapping paper designs available, sold separately. 4m length, 69cm wide, and fully recyclable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/santa-and-friends-4m-christmas-wrapping-paper?variant=55757575192951</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84471-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757516177</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586122</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84471PENGUIN</g:id>
+      <g:item_group_id>14670491517303</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Santa and Friends 4m Christmas Wrapping Paper - Penguins</g:title>
+      <g:description>Featuring a range of festive characters, this wrapping paper is something a little fun for the family's gifts. Four co-ordinating wrapping paper designs available, sold separately. 4m length, 69cm wide, and fully recyclable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/santa-and-friends-4m-christmas-wrapping-paper?variant=55757575225719</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84471-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757516177</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586122</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84471MIX</g:id>
+      <g:item_group_id>14670491517303</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Santa and Friends 4m Christmas Wrapping Paper - Mixed</g:title>
+      <g:description>Featuring a range of festive characters, this wrapping paper is something a little fun for the family's gifts. Four co-ordinating wrapping paper designs available, sold separately. 4m length, 69cm wide, and fully recyclable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/santa-and-friends-4m-christmas-wrapping-paper?variant=55757575258487</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84471-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757516177</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586122</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84471GONK</g:id>
+      <g:item_group_id>14670491517303</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Santa and Friends 4m Christmas Wrapping Paper - Gonks</g:title>
+      <g:description>Featuring a range of festive characters, this wrapping paper is something a little fun for the family's gifts. Four co-ordinating wrapping paper designs available, sold separately. 4m length, 69cm wide, and fully recyclable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/santa-and-friends-4m-christmas-wrapping-paper?variant=55757575291255</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84471-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757516177</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586122</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW81820</g:id>
       <g:item_group_id>9521072472381</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -70192,9 +70605,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83932</g:id>
       <g:item_group_id>15062476816759</g:item_group_id>
       
@@ -70362,7 +70773,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84398</g:id>
       <g:item_group_id>15106171142519</g:item_group_id>
       
@@ -81493,6 +81906,89 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CW84513CREAM</g:id>
+      <g:item_group_id>14671812919671</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Tom Smith 12 Days of Christmas 4m Christmas Wrapping Paper - Cream</g:title>
+      <g:description>Wrap your gifts in timeless festive charm with these gorgeous 12 Days of Christmas wrapping papers from Tom Smith. Featuring beautifully illustrated designs on rich white and deep purple backgrounds, each roll captures the magic of the classic carol—from partridges to drummers drumming.  Available in two colours, purple and cream (sold separately), these 4m rolls of paper also feature a handy cutting grid on the reverse to keep your trimming on track. Co-ordinating gift tags, gift bags, and Christmas crackers also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/12-days-of-christmas-4m-christmas-wrapping-paper?variant=53485722829175</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84513-12-Days-of-Christmas-Gift-WrapCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757518974</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213579841</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Cream</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84513PURPLE</g:id>
+      <g:item_group_id>14671812919671</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Tom Smith 12 Days of Christmas 4m Christmas Wrapping Paper - Purple</g:title>
+      <g:description>Wrap your gifts in timeless festive charm with these gorgeous 12 Days of Christmas wrapping papers from Tom Smith. Featuring beautifully illustrated designs on rich white and deep purple backgrounds, each roll captures the magic of the classic carol—from partridges to drummers drumming.  Available in two colours, purple and cream (sold separately), these 4m rolls of paper also feature a handy cutting grid on the reverse to keep your trimming on track. Co-ordinating gift tags, gift bags, and Christmas crackers also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/12-days-of-christmas-4m-christmas-wrapping-paper?variant=53485722861943</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84513-12-Days-of-Christmas-Gift-WrapCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757518974</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213579841</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Cream</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW84515</g:id>
       <g:item_group_id>14671815704951</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -82502,6 +82998,89 @@ Outsole synthetic</g:material>
       <g:product_type>Gift Bags</g:product_type>
 
 <g:size>S</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW84512BEIGE</g:id>
+      <g:item_group_id>15128575902071</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Tom Smith Red Robin 4m Christmas Wrapping Paper - Beige</g:title>
+      <g:description>Wrap your gifts in timeless festive charm with these gorgeous Red Robin wrapping papers from Tom Smith. Featuring beautifully illustrated designs of delicate birds nestled in seasonal greenery, each roll brings a touch of elegance to your Christmas wrapping. Available in two colours, red and beige (sold separately), these 4m rolls of paper also feature a handy cutting grid on the reverse to keep your trimming on track. Co-ordinating gift tags, gift bags, and Christmas crackers also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-red-robin-4m-christmas-wrapping-paper?variant=55757773996407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/XAQTW504-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757520195</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213579865</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84512RED</g:id>
+      <g:item_group_id>15128575902071</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Tom Smith Red Robin 4m Christmas Wrapping Paper - Red</g:title>
+      <g:description>Wrap your gifts in timeless festive charm with these gorgeous Red Robin wrapping papers from Tom Smith. Featuring beautifully illustrated designs of delicate birds nestled in seasonal greenery, each roll brings a touch of elegance to your Christmas wrapping. Available in two colours, red and beige (sold separately), these 4m rolls of paper also feature a handy cutting grid on the reverse to keep your trimming on track. Co-ordinating gift tags, gift bags, and Christmas crackers also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-red-robin-4m-christmas-wrapping-paper?variant=55757774029175</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/XAQTW504-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757520195</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213579865</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -91378,9 +91957,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84026</g:id>
       <g:item_group_id>15090029003127</g:item_group_id>
       
@@ -91747,7 +92324,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83750</g:id>
       <g:item_group_id>15079875969399</g:item_group_id>
       
