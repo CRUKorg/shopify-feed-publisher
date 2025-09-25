@@ -14941,6 +14941,90 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83671REINDEER</g:id>
+      <g:item_group_id>15101555114359</g:item_group_id>
+      
+      <g:title>Children's Christmas Reindeer Plate Painting Kit</g:title>
+      <g:description>Encourage creativity this Christmas with the Children's Christmas Reindeer and Tree Painting Kit. This delightful DIY set lets kids design their own festive plates, offering hours of fun and artistic expression. Perfect for holiday downtime, it’s a wonderful way to keep children engaged while making cherished seasonal keepsakes. Features  Set of 10 plaster trees ready to paint, Water based paint, 6 different colours, 1 brush , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-christmas-character-painting-kit?variant=55651336225143</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/83671-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756376837</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/cx83671-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758556667</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844454107</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Crafts</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83671SANTA</g:id>
+      <g:item_group_id>15101552755063</g:item_group_id>
+      
+      <g:title>Children's Christmas Santa Plate Painting Kit</g:title>
+      <g:description>Encourage creativity this Christmas with the Children's Santa and Reindeer Plate Painting Kit. This delightful DIY set lets kids design their own festive plates, offering hours of fun and artistic expression. Perfect for holiday downtime, it’s a wonderful way to keep children engaged while making cherished seasonal keepsakes. Features  Water based paint, 6 different colours, 1 brush , Plate measures 12 cm x 12 cm, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-reindeer-plate-painting-kit?variant=55651333505399</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/cx83671-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758556654</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/cx83671-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758556667</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844454107</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Crafts</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>SN83451</g:id>
       <g:item_group_id>15088087761271</g:item_group_id>
       
@@ -22237,9 +22321,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR79699</g:id>
       <g:item_group_id>9520844538173</g:item_group_id>
       <g:google_product_category>499805</g:google_product_category>
@@ -22318,7 +22400,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW81879</g:id>
       <g:item_group_id>9522255987005</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -37041,9 +37125,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW82395</g:id>
       <g:item_group_id>9676825821501</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
@@ -37123,7 +37205,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW82387</g:id>
       <g:item_group_id>9676278464829</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
@@ -37215,7 +37299,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-cow-lick-natural-lip-balm?variant=49004026495293</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42342-MooGoo-Lip-Balm-Cow-Lick-Group-2-Cancer-Research-UK-Online-Shop_1_1fd1bfc6-1506-4205-9d7c-0b9055421990_1024x1024.jpg?v=1719230292</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -37650,6 +37734,90 @@ Lining 100% Cotton</g:material>
  
       <g:brand>MooGoo</g:brand>
       <g:product_type>Lotion</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Skincare</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW85012</g:id>
+      <g:item_group_id>15142401769847</g:item_group_id>
+      
+      <g:title>MooGoo Flake Free Anti-Dandruff Conditioner</g:title>
+      <g:description>Fuss-Free Conditioner To Restore &amp; Hydrate Hair.  A conditioner that does more than just detangle. MooGoo's Anti-Dandruff Conditioner is designed for flaky, irritated scalps that need more care. Lightweight yet nourishing, this targeted formula works to calm inflammation, rehydrate the scalp and support a healthier scalp microbiome, all while leaving your hair silky, smooth and manageable Features:  Softens, smooths and strengthens hair while reducing frizz, With Ceramides and Glycerin for hair health, Silicone-free = no residue, no build-up, Nourishes the scalp and restores moisture balance, Improves fungal imbalances for long-term scalp health, Maintains a healthy scalp microbiome and microflora, Cooling Menthol calms itch and irritation with a refreshing, soothing sensation, Supports scalp conditions like Dandruff, Psoriasis and Seborrheic Dermatitis, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/moogoo-flake-free-anti-dandruff-conditioner?variant=55823568503159</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85012-MooGoo-Flakefree-Conditioner-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758641017</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW85012</g:mpn>
+ 
+      <g:brand>MooGoo</g:brand>
+      <g:product_type>Conditioner</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Skincare</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW85013</g:id>
+      <g:item_group_id>15142389842295</g:item_group_id>
+      
+      <g:title>MooGoo Flake Free Anti-Dandruff Shampoo</g:title>
+      <g:description>Fuss-Free Shampoo For Flaky, Itchy &amp; Dry Scalps MooGoo's Anti-Dandruff Shampoo is designed to treat the root cause of flakes while calming and conditioning your scalp. Whether you're struggling with mild Dandruff or more persistent scalp concerns like Seborrheic Dermatitis or Psoriasis, this shampoo helps restore balance where it matters most. Features:  Targets Dandruff at the root, fighting flakes fast with a dual anti-fungal formula, Restores moisture balance, rehydrating a dry, flaky scalp, Maintains a healthy scalp microbiome and microflora, Helps relieve symptoms of Dandruff, Seborrheic Dermatitis and Psoriasis, Milk Protein strengthens hair, reducing breakage and split ends, No harsh ingredients (SLS, SLES, Zinc Pyrithione or Selenium Sulfide) that strip your hair and scalp's natural oils, Gentle on sensitive and irritated scalps, suitable for the whole family, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/moogoo-flake-free-anti-dandruff-shampoo?variant=55823491465591</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85013-MooGoo-Flakefree-Shampoo-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758641041</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW85013</g:mpn>
+ 
+      <g:brand>MooGoo</g:brand>
+      <g:product_type>Shampoo</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54555,6 +54723,130 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CW84466FALA</g:id>
+      <g:item_group_id>9521164091709</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 4m Mixed Metallic Christmas Wrapping Paper - Silver Falala</g:title>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49004176015677</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586146</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Silver Falala</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84466REIN</g:id>
+      <g:item_group_id>9521164091709</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 4m Mixed Metallic Christmas Wrapping Paper - Reindeers</g:title>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49005576880445</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586146</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Silver Falala</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84466TREE</g:id>
+      <g:item_group_id>9521164091709</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 4m Mixed Metallic Christmas Wrapping Paper - Gold Trees</g:title>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49005576913213</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586146</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Silver Falala</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW84470RED</g:id>
       <g:item_group_id>15128541004151</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -55934,7 +56226,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/robin-duo-wooden-stump-decoration?variant=55651315876215</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/cx83676-robin-stump-decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757593936</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -62176,7 +62468,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -63685,7 +63977,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -69105,7 +69397,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608984951</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70237,9 +70529,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW81820</g:id>
       <g:item_group_id>9521072472381</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -70570,7 +70860,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84283</g:id>
       <g:item_group_id>15087288090999</g:item_group_id>
       
@@ -81661,7 +81953,7 @@ Outsole synthetic</g:material>
       <g:id>CD83907</g:id>
       <g:item_group_id>15062562374007</g:item_group_id>
       
-      <g:title>Titch The Tiny Mouse 10/20 Christmas Cards - 10</g:title>
+      <g:title>Titch the Tiny Mouse 10/20 Christmas Cards - 10</g:title>
       <g:description>A sweet Christmas card featuring a festive mouse holding a pine sprig with berries. Set against a snowy backdrop, it brings a charming nature-inspired twist to the season. A lovely way to send warm Christmas wishes. Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year., 12x12cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/titch-the-tiny-mouse-10-20-christmas-cards?variant=55486163517815</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83907-Titch-the-Tiny-Mouse-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185415</g:image_link>
@@ -81703,7 +81995,7 @@ Outsole synthetic</g:material>
       <g:id>CD83901</g:id>
       <g:item_group_id>15062562374007</g:item_group_id>
       
-      <g:title>Titch The Tiny Mouse 10/20 Christmas Cards - 20</g:title>
+      <g:title>Titch the Tiny Mouse 10/20 Christmas Cards - 20</g:title>
       <g:description>A sweet Christmas card featuring a festive mouse holding a pine sprig with berries. Set against a snowy backdrop, it brings a charming nature-inspired twist to the season. A lovely way to send warm Christmas wishes. Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year., 12x12cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/titch-the-tiny-mouse-10-20-christmas-cards?variant=55486163550583</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83907-Titch-the-Tiny-Mouse-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185415</g:image_link>
@@ -91475,9 +91767,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SN80984</g:id>
       <g:item_group_id>15088087695735</g:item_group_id>
       
@@ -91883,7 +92173,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83940</g:id>
       <g:item_group_id>15062477406583</g:item_group_id>
       
