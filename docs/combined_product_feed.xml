@@ -4412,7 +4412,7 @@
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84643-Bordlite-ABS-Luggage-Light-Blue-Closeup-Wheels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1747756733</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84643-Bordlite-ABS-Luggage-Light-Blue-Closeup-Lock-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1747756733</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>32.49 GBP</g:price>
 
       <g:shipping>
@@ -14950,7 +14950,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/83671-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756376837</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/cx83671-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758556667</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -21851,13 +21851,142 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83807</g:id>
+      <g:item_group_id>9659091026237</g:item_group_id>
+      
+      <g:title>Ear Muffs - Nougat</g:title>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226049911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83807-Ear-Muffs-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815780</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241604</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Accessories</g:product_type>
+
+      <g:color>White</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83809</g:id>
+      <g:item_group_id>9659091026237</g:item_group_id>
+      
+      <g:title>Ear Muffs - Charcoal</g:title>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226115447</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83809-Ear-Muffs-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815780</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241628</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Accessories</g:product_type>
+
+      <g:color>White</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83808</g:id>
+      <g:item_group_id>9659091026237</g:item_group_id>
+      
+      <g:title>Ear Muffs - Rose</g:title>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226082679</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83808-Ear-Muffs-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815780</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241611</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Accessories</g:product_type>
+
+      <g:color>White</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
       <g:id>CX81363</g:id>
       <g:item_group_id>9659091026237</g:item_group_id>
       
       <g:title>Ear Muffs - White</g:title>
       <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=49371927183677</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81363-Ear-Muffs-Winter-White-Cancer-Research-UK-Online-Shop_707f36b6-8b95-4cea-a58e-ccd945ffc7e2_1024x1024.jpg?v=1734682994</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81363-Ear-Muffs-Winter-White-Cancer-Research-UK-Online-Shop_707f36b6-8b95-4cea-a58e-ccd945ffc7e2_1024x1024.jpg?v=1758815186</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -21902,7 +22031,7 @@ Lining 100% Cotton</g:material>
       <g:title>Ear Muffs - Blush</g:title>
       <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=49371927216445</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81364-Ear-Muffs-Pink-Cancer-Research-UK-Online-Shop_d4519338-f64d-43a5-bc1a-76e336ab4c24_1024x1024.jpg?v=1734682994</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81364-Ear-Muffs-Pink-Cancer-Research-UK-Online-Shop_d4519338-f64d-43a5-bc1a-76e336ab4c24_1024x1024.jpg?v=1758815186</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -21947,7 +22076,7 @@ Lining 100% Cotton</g:material>
       <g:title>Ear Muffs - Grey</g:title>
       <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=49371927249213</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81365-Ear-Muffs-Grey-Cancer-Research-UK-Online-Shop_377bbae7-dc1c-431e-9294-ea53b4017a1f_1024x1024.jpg?v=1734682994</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81365-Ear-Muffs-Grey-Cancer-Research-UK-Online-Shop_377bbae7-dc1c-431e-9294-ea53b4017a1f_1024x1024.jpg?v=1758815186</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -21979,135 +22108,6 @@ Lining 100% Cotton</g:material>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83807</g:id>
-      <g:item_group_id>9659091026237</g:item_group_id>
-      
-      <g:title>Ear Muffs - Nougat</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226049911</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83807-Ear-Muffs-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755619041</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241604</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
-
-      <g:color>White</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83808</g:id>
-      <g:item_group_id>9659091026237</g:item_group_id>
-      
-      <g:title>Ear Muffs - Rose</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226082679</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83808-Ear-Muffs-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755619052</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241611</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
-
-      <g:color>White</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83809</g:id>
-      <g:item_group_id>9659091026237</g:item_group_id>
-      
-      <g:title>Ear Muffs - Charcoal</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226115447</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83809-Ear-Muffs-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755619061</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241628</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
-
-      <g:color>White</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -24029,60 +24029,13 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX76386</g:id>
-      <g:item_group_id>9520864952637</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Faux Fur Neck Hot Water Bottle - Green</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497614653</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754644078</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-8-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701328</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX76386</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Nougat</g:color>
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
-      <g:product_width>40 cm </g:product_width>
-      <g:product_height>30 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX83774</g:id>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Nougat</g:title>
       <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629289587063</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83774-Fur-Neck-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_9bbff1ad-76ef-4a40-9fd3-baa8c0694fa5_1024x1024.jpg?v=1755701328</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83774-Fur-Neck-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_9bbff1ad-76ef-4a40-9fd3-baa8c0694fa5_1024x1024.jpg?v=1758815651</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-8-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701328</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -24125,7 +24078,7 @@ Lining 100% Cotton</g:material>
       <g:title>Faux Fur Neck Hot Water Bottle - Rose</g:title>
       <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629289619831</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83775-Fur-Neck-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701328</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83775-Fur-Neck-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815651</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-8-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701328</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -24168,7 +24121,7 @@ Lining 100% Cotton</g:material>
       <g:title>Faux Fur Neck Hot Water Bottle - Charcoal</g:title>
       <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629298663799</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83776-Fur-Neck-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701328</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83776-Fur-Neck-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815651</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-8-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701328</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -24198,6 +24151,53 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX76386</g:id>
+      <g:item_group_id>9520864952637</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Faux Fur Neck Hot Water Bottle - Green</g:title>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497614653</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815390</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-8-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701328</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>8.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX76386</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Rubber/polyester</g:material>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>30 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -27412,49 +27412,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83752</g:id>
-      <g:item_group_id>15138246164855</g:item_group_id>
-      
-      <g:title>Glitter Spinner Light Up Tree</g:title>
-      <g:description>Bring extra sparkle to your festive décor with this glitter spinner light up Christmas tree.  Turn it on and the glitter-filled water inside will spin and sparkle, with its crystal-clear design and glowing lights creating a dazzling display that's more fun than your usual decorations. Perfect for mantlepieces, tabletops, or adding magic to any room.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/glitter-spinner-light-up-tree?variant=55803177894263</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83752-LED-Light-Up-28cm-Spinner-Tree-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758271569</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83752-LED-Light-Up-28cm-Spinner-Tree-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758271569</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>19.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460361875</g:gtin>
-
-      <g:product_type>Christmas Lights</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>12 cm </g:product_width>
-      <g:product_height>28.5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>WF71168</g:id>
       <g:item_group_id>9520905027901</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -28538,6 +28495,50 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Crackers</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX81337</g:id>
+      <g:item_group_id>9520939827517</g:item_group_id>
+      <g:google_product_category>1985</g:google_product_category>
+      <g:title>Heated Electric Over Blanket</g:title>
+      <g:description>Snuggle up on the sofa or add an extra warming layer to your bed with this super-soft heated over blanket. Mains powered, the grey blanket offers 10 heat settings and an auto shut-off feature (selectable for 1, 2, 4, 6, or 8 hours).</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/heated-electric-over-blanket?variant=49003928846653</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81337-Heated-Throw-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683100</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674232800</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Blankets</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester</g:material>
+      <g:product_length>160 cm </g:product_length>
+      <g:product_width>130 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -34803,56 +34804,13 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83771</g:id>
-      <g:item_group_id>15100896674167</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Hot Water Bottle - Nougat</g:title>
-      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a three of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665403767</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83771-Fur-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755854688</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1755854757</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>8.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241277</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Nougat</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX83772</g:id>
       <g:item_group_id>15100896674167</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Luxury Faux Fur Hot Water Bottle - Rose</g:title>
       <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a three of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665436535</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83772-Fut-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755854703</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83772-Fut-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815217</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1755854757</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -34877,7 +34835,50 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Rose</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Rubber/polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83771</g:id>
+      <g:item_group_id>15100896674167</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Hot Water Bottle - Nougat</g:title>
+      <g:description>Stay toasty warm with this super-soft, faux fur covered hot water bottle. Available in a three of colour options, we also have a neck and long body bottle available too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665403767</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83771-Fur-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815217</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1755854757</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241277</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -34920,7 +34921,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -34931,100 +34932,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
-	
-    <item>
-      <g:id>CX83777</g:id>
-      <g:item_group_id>15099834433911</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Long Hot Water Bottle - Nougat</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=55641988989303</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83777-Fur-Long-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702999</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>11.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241338</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Nougat</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
-      <g:product_width>16 cm </g:product_width>
-      <g:product_height>74 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83778</g:id>
-      <g:item_group_id>15099834433911</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Long Hot Water Bottle - Rose</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=55641989022071</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83778-Fur-Long-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755703048</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>11.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241345</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Nougat</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
-      <g:product_width>16 cm </g:product_width>
-      <g:product_height>74 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
 	
     <item>
       <g:id>CX83779</g:id>
@@ -35033,7 +34940,7 @@ Lining 100% Cotton</g:material>
       <g:title>Luxury Faux Fur Long Hot Water Bottle - Charcoal</g:title>
       <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=55641989054839</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83779-Fur-Long-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755703096</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83779-Fur-Long-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815696</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
@@ -35060,7 +34967,101 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Charcoal</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Rubber/polyester</g:material>
+      <g:product_width>16 cm </g:product_width>
+      <g:product_height>74 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83777</g:id>
+      <g:item_group_id>15099834433911</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Long Hot Water Bottle - Nougat</g:title>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=55641988989303</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83777-Fur-Long-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815696</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>11.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241338</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Charcoal</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Rubber/polyester</g:material>
+      <g:product_width>16 cm </g:product_width>
+      <g:product_height>74 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83778</g:id>
+      <g:item_group_id>15099834433911</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Long Hot Water Bottle - Rose</g:title>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=55641989022071</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83778-Fur-Long-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815696</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>11.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241345</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Charcoal</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -48346,15 +48347,15 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
-      <g:id>SN83434YELLOW</g:id>
+      <g:id>SN83434ORANGE</g:id>
       <g:item_group_id>15088086876535</g:item_group_id>
       
-      <g:title>Pumpkin Door Stop - Yellow</g:title>
-      <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, while combining practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:title>Pumpkin Door Stop - Orange</g:title>
+      <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, blending practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-door-stop?variant=55636161790327</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117967</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -48376,7 +48377,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Door Stop</g:product_type>
 
-      <g:color>Yellow</g:color>
+      <g:color>Brown</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -48395,7 +48396,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:item_group_id>15088086876535</g:item_group_id>
       
       <g:title>Pumpkin Door Stop - Brown</g:title>
-      <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, while combining practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, blending practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-door-stop?variant=55636161823095</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117967</g:image_link>
       <g:condition>new</g:condition>
@@ -48421,7 +48422,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Door Stop</g:product_type>
 
-      <g:color>Yellow</g:color>
+      <g:color>Brown</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -48440,7 +48441,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:item_group_id>15088086876535</g:item_group_id>
       
       <g:title>Pumpkin Door Stop - Green</g:title>
-      <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, while combining practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, blending practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-door-stop?variant=55636161855863</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117967</g:image_link>
       <g:condition>new</g:condition>
@@ -48466,7 +48467,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Door Stop</g:product_type>
 
-      <g:color>Yellow</g:color>
+      <g:color>Brown</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -75685,60 +75686,15 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CX81307-CANDY</g:id>
-      <g:item_group_id>14781842063735</g:item_group_id>
-      
-      <g:title>Sitting Gingerbread Character - Candy Cane</g:title>
-      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Available in two options, one carrying a present, the other a candy cane, sold separately. Smaller standing versions are also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/sitting-gingerbread-character?variant=53495836180855</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Christmas-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-      <g:sale_price>4.89 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5037543058590</g:gtin>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>71% polyester/15% sand/8% plastic/6% bamboo</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX81307-PRESENT</g:id>
       <g:item_group_id>14781842063735</g:item_group_id>
       
       <g:title>Sitting Gingerbread Character - Present</g:title>
-      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Available in two options, one carrying a present, the other a candy cane, sold separately. Smaller standing versions are also available.</g:description>
+      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Sold separately. Smaller standing versions are also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/sitting-gingerbread-character?variant=53495836213623</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Christmas-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -75773,16 +75729,58 @@ Outsole synthetic</g:material>
     </item>
 	
     <item>
+      <g:id>CX81307-CANDY</g:id>
+      <g:item_group_id>14781842063735</g:item_group_id>
+      
+      <g:title>Sitting Gingerbread Character - Candy Cane</g:title>
+      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Sold separately. Smaller standing versions are also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/sitting-gingerbread-character?variant=53495836180855</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5037543058590</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>71% polyester/15% sand/8% plastic/6% bamboo</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
       <g:id>CX83736HAT</g:id>
       <g:item_group_id>14781842063735</g:item_group_id>
       
       <g:title>Sitting Gingerbread Character - Christmas Hat</g:title>
-      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Available in two options, one carrying a present, the other a candy cane, sold separately. Smaller standing versions are also available.</g:description>
+      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Sold separately. Smaller standing versions are also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/sitting-gingerbread-character?variant=55683268706679</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Christmas-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_a7770090-705c-4eff-9e99-88fc6032deea_1024x1024.jpg?v=1757688926</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Christmas-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Christmas-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_a7770090-705c-4eff-9e99-88fc6032deea_1024x1024.jpg?v=1758802631</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
@@ -75820,12 +75818,11 @@ Outsole synthetic</g:material>
       <g:item_group_id>14781842063735</g:item_group_id>
       
       <g:title>Sitting Gingerbread Character - Chefs Hat</g:title>
-      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Available in two options, one carrying a present, the other a candy cane, sold separately. Smaller standing versions are also available.</g:description>
+      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Sold separately. Smaller standing versions are also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/sitting-gingerbread-character?variant=55683268673911</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Chef-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Christmas-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757688926</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Chef-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
@@ -75905,148 +75902,13 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CX81366</g:id>
-      <g:item_group_id>9659071070525</g:item_group_id>
-      
-      <g:title>Slip-On Fleece Slippers - Blush / 3-4</g:title>
-      <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634688375</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81366-CX81367-CX81368-Slippers-Pink-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_a7b4006f-67a9-4a39-b86e-3bc964c07082_1024x1024.jpg?v=1734683007</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX81366</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Slippers</g:product_type>
-
-      <g:color>Blush</g:color>
-<g:size>3-4</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:material>Polyester/EPE/TPR</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81367</g:id>
-      <g:item_group_id>9659071070525</g:item_group_id>
-      
-      <g:title>Slip-On Fleece Slippers - Blush / 5-6</g:title>
-      <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634721143</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81366-CX81367-CX81368-Slippers-Pink-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_a7b4006f-67a9-4a39-b86e-3bc964c07082_1024x1024.jpg?v=1734683007</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX81367</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Slippers</g:product_type>
-
-      <g:color>Blush</g:color>
-<g:size>3-4</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:material>Polyester/EPE/TPR</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81368</g:id>
-      <g:item_group_id>9659071070525</g:item_group_id>
-      
-      <g:title>Slip-On Fleece Slippers - Blush / 7-8</g:title>
-      <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634753911</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81366-CX81367-CX81368-Slippers-Pink-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_a7b4006f-67a9-4a39-b86e-3bc964c07082_1024x1024.jpg?v=1734683007</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX81368</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Slippers</g:product_type>
-
-      <g:color>Blush</g:color>
-<g:size>3-4</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:material>Polyester/EPE/TPR</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX81369</g:id>
       <g:item_group_id>9659071070525</g:item_group_id>
       
       <g:title>Slip-On Fleece Slippers - Grey / 3-4</g:title>
       <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634786679</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81369-CX81370-CX81371-Slippers-Grey-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_94275f37-df11-4619-8a43-4b8dcf8cc340_1024x1024.jpg?v=1734683007</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81369-CX81370-CX81371-Slippers-Grey-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_94275f37-df11-4619-8a43-4b8dcf8cc340_1024x1024.jpg?v=1758815438</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
@@ -76071,7 +75933,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Slippers</g:product_type>
 
-      <g:color>Blush</g:color>
+      <g:color>Grey</g:color>
 <g:size>3-4</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -76091,7 +75953,7 @@ Outsole synthetic</g:material>
       <g:title>Slip-On Fleece Slippers - Grey / 5-6</g:title>
       <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634819447</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81369-CX81370-CX81371-Slippers-Grey-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_94275f37-df11-4619-8a43-4b8dcf8cc340_1024x1024.jpg?v=1734683007</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81369-CX81370-CX81371-Slippers-Grey-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_94275f37-df11-4619-8a43-4b8dcf8cc340_1024x1024.jpg?v=1758815438</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
@@ -76116,7 +75978,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Slippers</g:product_type>
 
-      <g:color>Blush</g:color>
+      <g:color>Grey</g:color>
 <g:size>3-4</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -76136,7 +75998,7 @@ Outsole synthetic</g:material>
       <g:title>Slip-On Fleece Slippers - Grey / 7-8</g:title>
       <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634852215</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81369-CX81370-CX81371-Slippers-Grey-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_94275f37-df11-4619-8a43-4b8dcf8cc340_1024x1024.jpg?v=1734683007</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81369-CX81370-CX81371-Slippers-Grey-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_94275f37-df11-4619-8a43-4b8dcf8cc340_1024x1024.jpg?v=1758815438</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
@@ -76161,7 +76023,142 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Slippers</g:product_type>
 
-      <g:color>Blush</g:color>
+      <g:color>Grey</g:color>
+<g:size>3-4</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Polyester/EPE/TPR</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81366</g:id>
+      <g:item_group_id>9659071070525</g:item_group_id>
+      
+      <g:title>Slip-On Fleece Slippers - Blush / 3-4</g:title>
+      <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634688375</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81366-CX81367-CX81368-Slippers-Pink-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_a7b4006f-67a9-4a39-b86e-3bc964c07082_1024x1024.jpg?v=1758815438</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX81366</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Slippers</g:product_type>
+
+      <g:color>Grey</g:color>
+<g:size>3-4</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Polyester/EPE/TPR</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81367</g:id>
+      <g:item_group_id>9659071070525</g:item_group_id>
+      
+      <g:title>Slip-On Fleece Slippers - Blush / 5-6</g:title>
+      <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634721143</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81366-CX81367-CX81368-Slippers-Pink-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_a7b4006f-67a9-4a39-b86e-3bc964c07082_1024x1024.jpg?v=1758815438</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX81367</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Slippers</g:product_type>
+
+      <g:color>Grey</g:color>
+<g:size>3-4</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Polyester/EPE/TPR</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81368</g:id>
+      <g:item_group_id>9659071070525</g:item_group_id>
+      
+      <g:title>Slip-On Fleece Slippers - Blush / 7-8</g:title>
+      <g:description>Keep your feet toasty warm with these soft slip-on slippers.Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slip-on-fleece-slippers?variant=54827634753911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81366-CX81367-CX81368-Slippers-Pink-Sizes-3-4_-5-6_-7-8-Cancer-Research-UK-Online-Shop_a7b4006f-67a9-4a39-b86e-3bc964c07082_1024x1024.jpg?v=1758815438</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX81368</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Slippers</g:product_type>
+
+      <g:color>Grey</g:color>
 <g:size>3-4</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -76176,271 +76173,13 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CX81355</g:id>
-      <g:item_group_id>9659089027389</g:item_group_id>
-      
-      <g:title>Slouch Socks - White / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922923837</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1734683000</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674232985</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:color>White</g:color>
-<g:size>S/M</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81356</g:id>
-      <g:item_group_id>9659089027389</g:item_group_id>
-      
-      <g:title>Slouch Socks - White / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922956605</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1734683000</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674232992</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:color>White</g:color>
-<g:size>S/M</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81357</g:id>
-      <g:item_group_id>9659089027389</g:item_group_id>
-      
-      <g:title>Slouch Socks - Blush / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922989373</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1734683000</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674233005</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:color>White</g:color>
-<g:size>S/M</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81358</g:id>
-      <g:item_group_id>9659089027389</g:item_group_id>
-      
-      <g:title>Slouch Socks - Blush / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923022141</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1734683000</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674233012</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:color>White</g:color>
-<g:size>S/M</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81359</g:id>
-      <g:item_group_id>9659089027389</g:item_group_id>
-      
-      <g:title>Slouch Socks - Grey / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923054909</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1734683000</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674233029</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:color>White</g:color>
-<g:size>S/M</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81360</g:id>
-      <g:item_group_id>9659089027389</g:item_group_id>
-      
-      <g:title>Slouch Socks - Grey / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923087677</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1734683000</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674233036</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:color>White</g:color>
-<g:size>S/M</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX83795</g:id>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Nougat / S/M</g:title>
       <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511095671</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1755787604</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
@@ -76464,7 +76203,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:color>White</g:color>
+      <g:color>Nougat</g:color>
 <g:size>S/M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -76481,7 +76220,7 @@ Outsole synthetic</g:material>
       <g:title>Slouch Socks - Nougat / L/XL</g:title>
       <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511128439</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1755787604</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
@@ -76505,10 +76244,268 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:color>White</g:color>
+      <g:color>Nougat</g:color>
 <g:size>S/M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81359</g:id>
+      <g:item_group_id>9659089027389</g:item_group_id>
+      
+      <g:title>Slouch Socks - Grey / S/M</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923054909</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1758815017</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674233029</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Nougat</g:color>
+<g:size>S/M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81360</g:id>
+      <g:item_group_id>9659089027389</g:item_group_id>
+      
+      <g:title>Slouch Socks - Grey / L/XL</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923087677</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1758815017</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674233036</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Nougat</g:color>
+<g:size>S/M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81355</g:id>
+      <g:item_group_id>9659089027389</g:item_group_id>
+      
+      <g:title>Slouch Socks - White / S/M</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922923837</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1758815017</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674232985</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Nougat</g:color>
+<g:size>S/M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81356</g:id>
+      <g:item_group_id>9659089027389</g:item_group_id>
+      
+      <g:title>Slouch Socks - White / L/XL</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922956605</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1758815017</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674232992</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Nougat</g:color>
+<g:size>S/M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81357</g:id>
+      <g:item_group_id>9659089027389</g:item_group_id>
+      
+      <g:title>Slouch Socks - Blush / S/M</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922989373</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1758815017</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674233005</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Nougat</g:color>
+<g:size>S/M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81358</g:id>
+      <g:item_group_id>9659089027389</g:item_group_id>
+      
+      <g:title>Slouch Socks - Blush / L/XL</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923022141</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1758815017</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674233012</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Nougat</g:color>
+<g:size>S/M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
@@ -77258,6 +77255,49 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CX83752</g:id>
+      <g:item_group_id>15138246164855</g:item_group_id>
+      
+      <g:title>Spinning Light Up Tree</g:title>
+      <g:description>Bring extra sparkle to your festive décor with this glitter spinning light up Christmas tree.  Turn it on and the glitter-filled water inside will spin and sparkle, with its crystal-clear design and glowing lights creating a dazzling display that's more fun than your usual decorations. Perfect for mantlepieces, tabletops, or adding magic to any room.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/glitter-spinner-light-up-tree?variant=55803177894263</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83752-LED-Light-Up-28cm-Spinner-Tree-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758271569</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83752-LED-Light-Up-28cm-Spinner-Tree-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758271569</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5052460361875</g:gtin>
+
+      <g:product_type>Christmas Lights</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>12 cm </g:product_width>
+      <g:product_height>28.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81808</g:id>
       <g:item_group_id>9659072839997</g:item_group_id>
       
@@ -77465,6 +77505,228 @@ Outsole synthetic</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU84276</g:id>
+      <g:item_group_id>15144619540855</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer 3 Pack Ladies Pattern Ankle Socks</g:title>
+      <g:description>A triple pack of patterned socks that are perfect for Standing Up To Cancer. Features:  Stand Up To Cancer Ladies Ankle Socks, 3 pairs of socks, 3 different designs , One size, UK 4-7, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-3-pack-ladies-pattern-ankle-socks?variant=55831925326199</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84276-SUTC-Ladies-Ankle-Socks-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758720888</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84276-SUTC-Ladies-Ankle-Socks-4-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758721834</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84276-SUTC-Ladies-Ankle-Socks-3-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758721834</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84276-SUTC-Ladies-Ankle-Socks-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758721834</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU84276</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU84277</g:id>
+      <g:item_group_id>15144546533751</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer 3 Pack Ladies Patterned Trainer Socks</g:title>
+      <g:description>Show your support with the Stand Up To Cancer 3 Pack Ladies Patterned Trainer Socks. This set includes three designs perfect for everyday wear with your trainers.  Features:  Stand Up To Cancer Ladies Trainer Socks, 3 pairs of socks, 3 different designs  , Size 4-7, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-3-pack-ladies-patterned-trainer-socks?variant=55831577657719</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84277-SUTC-Ladies-Trainer-Socks-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758718119</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84277-SUTC-Ladies-Trainer-Socks-Online-Shop-2-Cancer-Research-UK_1024x1024.jpg?v=1758718181</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84277-SUTC-Ladies-Trainer-Socks-3-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758718205</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84277-SUTC-Ladies-Trainer-Socks-4-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758718245</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033325842774</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU84273</g:id>
+      <g:item_group_id>15144655159671</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer 3 Pack Men's Pattern Ankle Socks</g:title>
+      <g:description>A triple pack of patterned socks that are perfect for Standing Up To Cancer. Features:  Stand Up To Cancer Men's Ankle Socks, 3 pairs of socks, 3 different designs, One size, UK 4-7, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-3-pack-mens-pattern-ankle-socks?variant=55832053449079</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84273-SUTC-Mens-Ankle-Socks-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758722782</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84273-SUTC-Mens-Ankle-Socks-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758722805</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84273-SUTC-Mens-Ankle-Socks-4-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758722826</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84273-SUTC-Mens-Ankle-Socks-3-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758722849</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU84273</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU84274</g:id>
+      <g:item_group_id>15144570683767</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer 3 Pack Men's Patterned Trainer Socks</g:title>
+      <g:description>Show your support with the Stand Up To Cancer 3 Pack Men's Patterned Trainer Socks. This set includes three designs perfect for everyday wear with your trainers.  Features:  Stand Up To Cancer Men's Trainer Socks, 3 pairs of socks, 3 different designs  , Size 4-7, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-3-pack-mens-patterned-trainer-socks?variant=55831677665655</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84274-SUTC-Mens-Trainer-Socks-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758719615</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84274-SUTC-Mens-Trainer-Socks-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758719638</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84274-SUTC-Mens-Trainer-Socks-3-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758719662</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84274-SUTC-Mens-Trainer-Socks-4-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758719692</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033325842743</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:gender>male</g:gender>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU84275</g:id>
+      <g:item_group_id>15144665743735</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer 3 Pack Men's Thermal Socks</g:title>
+      <g:description>Stand Up To Cancer whilst keeping your feet warm with this triple pack of men's thermal socks. Features:  Stand Up To Cancer Men's Thermal Socks, 3 pairs of socks, 3 different designs , One size, UK 6-11, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-mens-thermal-socks?variant=55832080941431</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84275-SUTC-Mens-Thermal-Socks-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758723340</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU84275</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
 
 	
@@ -77692,6 +77954,93 @@ Outsole synthetic</g:material>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU84279</g:id>
+      <g:item_group_id>15144672723319</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer Ladies Wellington Socks - Leopard Print</g:title>
+      <g:description>Perfect for a country walk with the dog, jobs in the garden, or just Standing Up To Cancer, keep your feet warm with these wellie socks. Features:  1 pair ladies wellington socks, One size: 4-7, Available two different designs, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-ladies-wellington-socks?variant=55832117281143</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84279-SUTC-Ladies-Wellington-1-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724198</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84278-SUTC-Ladies-Wellington-Star-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724147</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84279-SUTC-Ladies-Wellington-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724253</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU84279</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SU84278</g:id>
+      <g:item_group_id>15144672723319</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer Ladies Wellington Socks - Star Print</g:title>
+      <g:description>Perfect for a country walk with the dog, jobs in the garden, or just Standing Up To Cancer, keep your feet warm with these wellie socks. Features:  1 pair ladies wellington socks, One size: 4-7, Available two different designs, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-ladies-wellington-socks?variant=55832117313911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84278-SUTC-Ladies-Wellington-Star-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724160</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84278-SUTC-Ladies-Wellington-Star-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724147</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84279-SUTC-Ladies-Wellington-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724253</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU84278</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
 
 	
@@ -83464,6 +83813,167 @@ Outsole synthetic</g:material>
       <g:product_type>Gift Tags</g:product_type>
 
       <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW81858</g:id>
+      <g:item_group_id>14671823503735</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Tom Smith Winter Garden Gift Bag - Bottle</g:title>
+      <g:description>Celebrate the season in style with the Tom Smith Winter Garden Gift Bag. Whether you're wrapping a fine wine or a generous present, these bags combine premium quality with timeless seasonal design, making them perfect for Christmas and winter celebrations. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-winter-garden-gift-bag?variant=53485756744055</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81858-Tom-Smith-Winter-Garden-B-Online-Shop-Cancer-Research-UK_9c2934ab-1ded-4d8c-a17e-1a26329f9552_1024x1024.jpg?v=1758711503</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.29 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566360</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+<g:size>Bottle</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW81861</g:id>
+      <g:item_group_id>14671823503735</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Tom Smith Winter Garden Gift Bag - S</g:title>
+      <g:description>Celebrate the season in style with the Tom Smith Winter Garden Gift Bag. Whether you're wrapping a fine wine or a generous present, these bags combine premium quality with timeless seasonal design, making them perfect for Christmas and winter celebrations. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-winter-garden-gift-bag?variant=53485756776823</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81861-Tom-Smith-Winter-Garden-Online-Shop-Cancer-Research-UK_33b14a39-af89-47cb-98e4-9ff387e3fdf9_1024x1024.jpg?v=1758711522</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566407</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+<g:size>Bottle</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW81860</g:id>
+      <g:item_group_id>14671823503735</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Tom Smith Winter Garden Gift Bag - M</g:title>
+      <g:description>Celebrate the season in style with the Tom Smith Winter Garden Gift Bag. Whether you're wrapping a fine wine or a generous present, these bags combine premium quality with timeless seasonal design, making them perfect for Christmas and winter celebrations. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-winter-garden-gift-bag?variant=53485756809591</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81860-Tom-Smith-Winter-Garden-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758711477</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566384</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+<g:size>Bottle</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW81859</g:id>
+      <g:item_group_id>14671823503735</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Tom Smith Winter Garden Gift Bag - L</g:title>
+      <g:description>Celebrate the season in style with the Tom Smith Winter Garden Gift Bag. Whether you're wrapping a fine wine or a generous present, these bags combine premium quality with timeless seasonal design, making them perfect for Christmas and winter celebrations. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-winter-garden-gift-bag?variant=53485756842359</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81858-Tom-Smith-Winter-Garden-B-Online-Shop-Cancer-Research-UK_9c2934ab-1ded-4d8c-a17e-1a26329f9552_1024x1024.jpg?v=1758711503</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566391</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+<g:size>Bottle</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -90623,55 +91133,13 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CX83768</g:id>
-      <g:item_group_id>9521394254141</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Waist Warmer Hot Water Bottle Belt - Nougat</g:title>
-      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=55629255770487</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83768-Waist-Warmer-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757669041</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241246</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Nougat</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX83769</g:id>
       <g:item_group_id>9521394254141</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Waist Warmer Hot Water Bottle Belt - Rose</g:title>
       <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=55629255803255</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83769-Waist-Warmer-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757669041</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83769-Waist-Warmer-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815328</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -90695,7 +91163,49 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Rose</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Rubber/polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83768</g:id>
+      <g:item_group_id>9521394254141</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Waist Warmer Hot Water Bottle Belt - Nougat</g:title>
+      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=55629255770487</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83768-Waist-Warmer-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815328</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241246</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -90713,7 +91223,7 @@ Outsole synthetic</g:material>
       <g:title>Waist Warmer Hot Water Bottle Belt - Charcoal</g:title>
       <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=55629255836023</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83770-Waist-Warmer-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757669041</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83770-Waist-Warmer-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815328</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -90737,7 +91247,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -90779,7 +91289,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -90821,7 +91331,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -90865,7 +91375,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -91391,9 +91901,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF30437</g:id>
       <g:item_group_id>9521404150077</g:item_group_id>
       <g:google_product_category>5455</g:google_product_category>
@@ -91767,7 +92275,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SN80984</g:id>
       <g:item_group_id>15088087695735</g:item_group_id>
       
