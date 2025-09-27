@@ -7661,7 +7661,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/breast-cancer-awareness-pink-polka-dot-travel-cup?variant=49003720769853</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR76646-BCA-Polka-Dots-Reusable-Cup-Cancer-Research-UK-Online-Shop_07f3fb17-1668-4628-8fe6-c0337c774404_1024x1024.jpg?v=1719229246</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
       <g:sale_price>2.79 GBP</g:sale_price>
 
@@ -15072,8 +15072,8 @@ Lining 100% Cotton</g:material>
       <g:title>Children's Nativity Light Up House Decoration</g:title>
       <g:description>This children's themed nativity scene container is a sweet and meaningful addition to your holiday décor. With its charming cartoon-style artwork of Mary, Joseph, and baby Jesus under a starry night sky, it brings a warm, festive feel to any room. The conical lid includes star-shaped cut-outs that lets the warm white light shine around the room with a beautiful touch of magic. Perfect for shelves, side tables, or even as part of a Christmas display.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-nativity-light-up-house-decoration?variant=55569462362487</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83753-LED-Lit-Nativity-Kids-House-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185390</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83753-LED-Lit-Nativity-Kids-House-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185390</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83753-LED-Lit-Nativity-Kids-House-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758896775</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83753-LED-Lit-Nativity-Kids-House-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758896775</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -17424,6 +17424,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83867</g:id>
+      <g:item_group_id>15077061624183</g:item_group_id>
+      <g:google_product_category>696</g:google_product_category>
+      <g:title>Clover Highland Cow Doorstop</g:title>
+      <g:description>Keep doors propped open in with the help of our adorable Clover the Highland Cow door stop. Exclusive to Cancer Research UK, he's wearing an adorable little Santa hat, and weighs just over 1kg to help keep doors in place. Complete the look with our co-ordinating Highland Cow homewares, gifts, and accessories.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/clover-highland-cow-door-stop?variant=55554715943287</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83867-Highland-Cow-Doorstop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754478724</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83867-Highland-Cow-Doorstop-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758878434</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674242205</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Doorstops</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester/aggregate</g:material>
+      <g:product_width>18 cm </g:product_width>
+      <g:product_height>25 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83847</g:id>
       <g:item_group_id>15076740694391</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -17777,7 +17822,7 @@ Lining 100% Cotton</g:material>
       <g:id>CX83756</g:id>
       <g:item_group_id>15088792109431</g:item_group_id>
       
-      <g:title>Clover the Highland Cow Glass House</g:title>
+      <g:title>Clover the Highland Cow LED Lit Glass House Decoration</g:title>
       <g:description>Add a touch of countryside charm to your festive décor with this delightful Highland cow light-up glass house decoration. Featuring a conical roof and a warm glow, it's a heart warming decoration that brings rustic joy to any Christmas setting. Perfect for shelves, side tables or windowsills, this cheerful decoration makes a lovely seasonal gift or a standout addition to your own collection.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/clover-the-highland-cow-glass-house?variant=55598598816119</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83756-Clover-Highland-Cow-LED-Glass-House-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185359</g:image_link>
@@ -17813,6 +17858,48 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83887</g:id>
+      <g:item_group_id>15089098064247</g:item_group_id>
+      
+      <g:title>Clover the Highland Cow Tote Bag</g:title>
+      <g:description>Celebrate the season with this festive tote bag, starring a Highland cow in a Father Christmas hat, complete with holly and a cheeky bird companion.  With its wintry charm and practical appeal, it’s a thoughtful and reusable gift for animal lovers and anyone embracing the Christmas spirit.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/clover-the-highland-cow-tote-bag?variant=55599666037111</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83887-Clover-Highland-Cow-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755189720</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123838870</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_height>35 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -20815,6 +20902,90 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83869</g:id>
+      <g:item_group_id>15077066080631</g:item_group_id>
+      <g:google_product_category>696</g:google_product_category>
+      <g:title>Dinky the Dachshund Doorstop</g:title>
+      <g:description>Let Dinky lend a helping paw to stop your doors from banging shut with this adorable dachshund doorstop. At just over 1kg, it's an ideal weight and style for propping doors open in any room.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/dinky-the-dachshund-door-stop?variant=55554727674231</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83869-Dinky-Dachshund-Doorstop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754478542</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83869-Dinky-Dachshund-Doorstop-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758879167</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674242229</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Doorstops</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83888</g:id>
+      <g:item_group_id>15089098260855</g:item_group_id>
+      
+      <g:title>Dinky the Dachshund Tote Bag</g:title>
+      <g:description>Make gifting extra special with this festive reusable shopping bag, featuring a charming dachshund in a Father Christmas hat and cosy jumper. With its cheerful design and practical use, it’s a delightful seasonal treat for dog lovers and Christmas enthusiasts alike.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/dinky-the-dacshund-tote-bag?variant=55599666102647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83888-Dinky-Dachshund-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755189671</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123838887</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_height>35 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW42123</g:id>
       <g:item_group_id>9520820584765</g:item_group_id>
       <g:google_product_category>6038</g:google_product_category>
@@ -21423,8 +21594,8 @@ Lining 100% Cotton</g:material>
       <g:id>CX76937</g:id>
       <g:item_group_id>9520827302205</g:item_group_id>
       <g:google_product_category>2169</g:google_product_category>
-      <g:title>Disney Winnie 3D Relief Christmas Mug</g:title>
-      <g:description>Let Winnie help keep your cup of tea, coffee or hot chocolate hot this winter in this adorable mug. Not only does Winnie look cute, the Santa hat he's wearing is actually a lid to help keep the heat in! Features:  Earthenware (dolomite) mug, 13 x 12 x 14cm, 412g,   </g:description>
+      <g:title>Disney Winnie the Pooh 3D Relief Christmas Mug</g:title>
+      <g:description>Let Winnie help keep your cup of tea, coffee or hot chocolate hot this winter in this adorable mug. That jolly red hat? It’s actually a sneaky little lid, designed to keep your tea, coffee, or hot chocolate warm while you potter around like it’s the Hundred Acre Wood. A perfect gift for kids, Disney fans, or anyone who thinks mugs should come with a side of honey and holiday cheer. Features:  Earthenware (dolomite) mug, 13 x 12 x 14cm,   </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/disney-winnie-3d-relief-christmas-mug?variant=49003806851389</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76937-Disney-Winnie-the-Pooh-3D-Mug-1-Cancer-Research-UK-Online-Shop_8413888e-31b3-4f1b-b221-a9906b797afe_1024x1024.jpg?v=1734683118</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76937-Disney-Winnie-the-Pooh-3D-Mug-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683118</g:additional_image_link>
@@ -21454,7 +21625,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Disney</g:brand>
       <g:product_type>Mug</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -22158,9 +22329,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR79688</g:id>
       <g:item_group_id>9520842178877</g:item_group_id>
       <g:google_product_category>499805</g:google_product_category>
@@ -22321,7 +22490,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR79699</g:id>
       <g:item_group_id>9520844538173</g:item_group_id>
       <g:google_product_category>499805</g:google_product_category>
@@ -25970,7 +26141,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14907856257399</g:item_group_id>
       
       <g:title>Geometric Design Draught Excluder</g:title>
-      <g:description>Keep cold breezes at bay with this black and white geometric design draught excluder. Measures approximately 90 x 20cm, 574g.</g:description>
+      <g:description>Bring a touch of modern charm to your home with this stylish Geometric Draught Excluder.  Expertly made from durable materials, it’s built to last and generously filled with plush polyester fibres to keep it firmly in place. The soft, textured fabric not only adds a contemporary flair but also works wonders at blocking out chilly draughts and locking in warmth. Ideal for placing along doors or windows, it’s a practical yet eye-catching addition to any room.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/geometric-design-draught-excluder?variant=54942484922743</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81413-Geometric-Draft-Excluder-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738854082</g:image_link>
       <g:condition>new</g:condition>
@@ -27108,6 +27279,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83669</g:id>
+      <g:item_group_id>14738777670007</g:item_group_id>
+      <g:google_product_category>328</g:google_product_category>
+      <g:title>Gingerbread Hand Soap</g:title>
+      <g:description>Add a little festive fun to your bathroom with this adorable gingerbread-shaped hand soap dispenser. Contains 330ml of vanilla fragrance hand soap. Refillable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-hand-soap?variant=53491933610359</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81321-Gingerbread-Soap-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682896</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844454084</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Soap</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Plastic</g:material>
+      <g:product_length>8 cm </g:product_length>
+      <g:product_width>5.5 cm </g:product_width>
+      <g:product_height>16.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD83919</g:id>
       <g:item_group_id>15062458761591</g:item_group_id>
       
@@ -27991,7 +28207,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Candles-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789817</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Cancer-Research-UK-Online-Shop_a635f386-ca41-471c-b3a5-91fb78d9fa38_1024x1024.jpg?v=1755789817</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -30355,6 +30571,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83886</g:id>
+      <g:item_group_id>15089097998711</g:item_group_id>
+      
+      <g:title>Humphrey the Hare Tote Bag</g:title>
+      <g:description>Add a touch of festive charm to your gift-giving with this reusable shopping bag, featuring a sweet hare clutching a ribbon-tied carrot marked “Happy Christmas.”  Adorned with pine branches and baubles, it’s a delightful and practical present for nature lovers and seasonal shoppers alike.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/humphrey-hare-tote-bag?variant=55599665938807</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83886-Humphrey-Hare-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755189753</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123838863</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>GC32932</g:id>
       <g:item_group_id>9520966697277</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -31891,7 +32148,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/kids-fairy-pyjama-set?variant=54787659923831</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81574-Kids-Fairy-PJ-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732639442</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -36880,9 +37137,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW82400</g:id>
       <g:item_group_id>14912818741623</g:item_group_id>
       
@@ -37126,7 +37381,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW82395</g:id>
       <g:item_group_id>9676825821501</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
@@ -40282,8 +40539,8 @@ Lining 100% Cotton</g:material>
       <g:id>CX82131-RED</g:id>
       <g:item_group_id>14870720348535</g:item_group_id>
       
-      <g:title>Mushroom Design Gift Bags - 19X23CM / Red</g:title>
-      <g:description>Mushroom Design Gift bags with ribbon  These unique gift bags come in two sizes and two colours, perfect for any occasion. Make every gift special with our Mushroom Design Gift Bags. Available in Green and Red Sizes: 19X23X9CM and 26X33X13CM</g:description>
+      <g:title>Mushroom Design Gift Bags - Small / Red</g:title>
+      <g:description>Add a touch of woodland charm to your gift-giving with these beautifully illustrated Mushroom Design Gift Bags. Featuring a rich, nature-inspired design of mushrooms, ferns, and delicate florals in earthy tones, it’s perfect for presenting thoughtful gifts all year round. Its sturdy build and elegant finish make it ideal for birthdays, celebrations, and festive occasions like Christmas.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mushroom-design-gift-bags?variant=54799248687479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82131-Mushroom-Gift-Bag-26x33-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733314072</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82131-Mushroom-Gift-Bag-26x33-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733314072</g:additional_image_link>
@@ -40311,9 +40568,12 @@ Lining 100% Cotton</g:material>
       <g:product_type>Gift Bags</g:product_type>
 
       <g:color>Red</g:color>
-<g:size>19X23CM</g:size>
+<g:size>Small</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>9 cm </g:product_length>
+      <g:product_width>19 cm </g:product_width>
+      <g:product_height>23 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -40324,8 +40584,8 @@ Lining 100% Cotton</g:material>
       <g:id>CX82131-GREEN</g:id>
       <g:item_group_id>14870720348535</g:item_group_id>
       
-      <g:title>Mushroom Design Gift Bags - 19X23CM / Green</g:title>
-      <g:description>Mushroom Design Gift bags with ribbon  These unique gift bags come in two sizes and two colours, perfect for any occasion. Make every gift special with our Mushroom Design Gift Bags. Available in Green and Red Sizes: 19X23X9CM and 26X33X13CM</g:description>
+      <g:title>Mushroom Design Gift Bags - Small / Green</g:title>
+      <g:description>Add a touch of woodland charm to your gift-giving with these beautifully illustrated Mushroom Design Gift Bags. Featuring a rich, nature-inspired design of mushrooms, ferns, and delicate florals in earthy tones, it’s perfect for presenting thoughtful gifts all year round. Its sturdy build and elegant finish make it ideal for birthdays, celebrations, and festive occasions like Christmas.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mushroom-design-gift-bags?variant=54799248720247</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82131-Mushroom-Gift-Bag-26x33-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733314072</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82131-Mushroom-Gift-Bag-26x33-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733314072</g:additional_image_link>
@@ -40353,9 +40613,12 @@ Lining 100% Cotton</g:material>
       <g:product_type>Gift Bags</g:product_type>
 
       <g:color>Red</g:color>
-<g:size>19X23CM</g:size>
+<g:size>Small</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>9 cm </g:product_length>
+      <g:product_width>19 cm </g:product_width>
+      <g:product_height>23 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -40366,8 +40629,8 @@ Lining 100% Cotton</g:material>
       <g:id>CX82132-RED</g:id>
       <g:item_group_id>14870720348535</g:item_group_id>
       
-      <g:title>Mushroom Design Gift Bags - 26X33CM / Red</g:title>
-      <g:description>Mushroom Design Gift bags with ribbon  These unique gift bags come in two sizes and two colours, perfect for any occasion. Make every gift special with our Mushroom Design Gift Bags. Available in Green and Red Sizes: 19X23X9CM and 26X33X13CM</g:description>
+      <g:title>Mushroom Design Gift Bags - Large / Red</g:title>
+      <g:description>Add a touch of woodland charm to your gift-giving with these beautifully illustrated Mushroom Design Gift Bags. Featuring a rich, nature-inspired design of mushrooms, ferns, and delicate florals in earthy tones, it’s perfect for presenting thoughtful gifts all year round. Its sturdy build and elegant finish make it ideal for birthdays, celebrations, and festive occasions like Christmas.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mushroom-design-gift-bags?variant=54799248753015</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82132-Mushroom-Gift-Bag-26x33-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733314072</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82131-Mushroom-Gift-Bag-26x33-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733314072</g:additional_image_link>
@@ -40395,9 +40658,12 @@ Lining 100% Cotton</g:material>
       <g:product_type>Gift Bags</g:product_type>
 
       <g:color>Red</g:color>
-<g:size>19X23CM</g:size>
+<g:size>Small</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>13 cm </g:product_length>
+      <g:product_width>26 cm </g:product_width>
+      <g:product_height>33 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -40408,8 +40674,8 @@ Lining 100% Cotton</g:material>
       <g:id>CX82132-GREEN</g:id>
       <g:item_group_id>14870720348535</g:item_group_id>
       
-      <g:title>Mushroom Design Gift Bags - 26X33CM / Green</g:title>
-      <g:description>Mushroom Design Gift bags with ribbon  These unique gift bags come in two sizes and two colours, perfect for any occasion. Make every gift special with our Mushroom Design Gift Bags. Available in Green and Red Sizes: 19X23X9CM and 26X33X13CM</g:description>
+      <g:title>Mushroom Design Gift Bags - Large / Green</g:title>
+      <g:description>Add a touch of woodland charm to your gift-giving with these beautifully illustrated Mushroom Design Gift Bags. Featuring a rich, nature-inspired design of mushrooms, ferns, and delicate florals in earthy tones, it’s perfect for presenting thoughtful gifts all year round. Its sturdy build and elegant finish make it ideal for birthdays, celebrations, and festive occasions like Christmas.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mushroom-design-gift-bags?variant=54799248785783</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82132-Mushroom-Gift-Bag-26x33-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733314072</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82131-Mushroom-Gift-Bag-26x33-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733314072</g:additional_image_link>
@@ -40437,220 +40703,15 @@ Lining 100% Cotton</g:material>
       <g:product_type>Gift Bags</g:product_type>
 
       <g:color>Red</g:color>
-<g:size>19X23CM</g:size>
+<g:size>Small</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>13 cm </g:product_length>
+      <g:product_width>26 cm </g:product_width>
+      <g:product_height>33 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX82124-GREEN</g:id>
-      <g:item_group_id>14847547015543</g:item_group_id>
-      
-      <g:title>Mushroom LED Light - Green</g:title>
-      <g:description>Add a touch of nature to your home décor with this Mushroom LED Light. Choose from 3 different colours to light up your room.  Size: 13.5x13.5x16cm</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mushroom-led-light?variant=54780804268407</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187838</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418550266</g:gtin>
-
-      <g:product_type>Home Decorations</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX82124-PURPLE</g:id>
-      <g:item_group_id>14847547015543</g:item_group_id>
-      
-      <g:title>Mushroom LED Light - Purple</g:title>
-      <g:description>Add a touch of nature to your home décor with this Mushroom LED Light. Choose from 3 different colours to light up your room.  Size: 13.5x13.5x16cm</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mushroom-led-light?variant=54780804301175</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Purple-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX82124-PURPLE</g:mpn>
-
-      <g:product_type>Home Decorations</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX82124-ORANGE</g:id>
-      <g:item_group_id>14847547015543</g:item_group_id>
-      
-      <g:title>Mushroom LED Light - Orange</g:title>
-      <g:description>Add a touch of nature to your home décor with this Mushroom LED Light. Choose from 3 different colours to light up your room.  Size: 13.5x13.5x16cm</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mushroom-led-light?variant=54780804333943</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX82124-ORANGE</g:mpn>
-
-      <g:product_type>Home Decorations</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX82129-DARKOAK</g:id>
-      <g:item_group_id>14847615992183</g:item_group_id>
-      
-      <g:title>Mushroom Pattern Candle - Dark Oak and Moss</g:title>
-      <g:description>Light up your space with these candles, perfect for creating a cozy and inviting space. Available in two different fragrances:  Dark Oak and Moss, Wild Lavender and Fern ,  Size: 8.8X8.8X10CM</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mushroom-candle?variant=54781228122487</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82129-Mushroom-Candle-Box-Oak-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732199673</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82129-Mushroom-Candle-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732199672</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>5.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418577515</g:gtin>
-
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX82129-LAVENDER</g:id>
-      <g:item_group_id>14847615992183</g:item_group_id>
-      
-      <g:title>Mushroom Pattern Candle - Wild Lavender and Fern</g:title>
-      <g:description>Light up your space with these candles, perfect for creating a cozy and inviting space. Available in two different fragrances:  Dark Oak and Moss, Wild Lavender and Fern ,  Size: 8.8X8.8X10CM</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mushroom-candle?variant=54781228155255</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82129-Mushroom-Candle-Box-Lavender-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732199672</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82129-Mushroom-Candle-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732199672</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>5.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX82129-LAVENDER</g:mpn>
-
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -40728,129 +40789,6 @@ Lining 100% Cotton</g:material>
       <g:mpn>CX82130-LAVENDER</g:mpn>
 
       <g:product_type>Home Fragrance</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83461MUSHROOM</g:id>
-      <g:item_group_id>15088087662967</g:item_group_id>
-      
-      <g:title>Mushroom Plant Pot Ornament</g:title>
-      <g:description>Bring a touch of woodland charm to your indoor or outdoor planters with this delightful Mushroom Plant Pot Ornament. Crafted with a rustic detailing, it's the perfect accent for plant lovers who enjoy a bit of nature-inspired décor. Simply nestle it into the soil of your favourite pot to create a magical garden scene, or incorporate into your indoor flower arrangements.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mushroom-planter-decoration?variant=55596180930935</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83461-Muskroom-Stakes-Duo-Cancer-Research-UK-Online-Shop-1_1024x1024.jpg?v=1756306171</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5025773834619</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX82126-DARKOAK</g:id>
-      <g:item_group_id>14847550325111</g:item_group_id>
-      
-      <g:title>Mushroom Tin Candle - Dark Oak and Moss</g:title>
-      <g:description>Light up your space with these Tin Candles, perfect for creating a cozy and inviting space. Available in two different fragrances:  Dark Oak and Moss, Wild Lavender and Fern ,  Size: 8X8X5CM</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mushroom-tin-candles?variant=54780813377911</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82126-Dark-Oak-Mushroom-Tin-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732188832</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82126-Mushroom-Tin-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732188832</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418575986</g:gtin>
-
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX82126-LAVENDER</g:id>
-      <g:item_group_id>14847550325111</g:item_group_id>
-      
-      <g:title>Mushroom Tin Candle - Wild Lavender and Fern</g:title>
-      <g:description>Light up your space with these Tin Candles, perfect for creating a cozy and inviting space. Available in two different fragrances:  Dark Oak and Moss, Wild Lavender and Fern ,  Size: 8X8X5CM</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mushroom-tin-candles?variant=54780813410679</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82126-Lavender-Mushroom-Tin-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732188831</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82126-Mushroom-Tin-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732188832</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX82126-LAVENDER</g:mpn>
-
-      <g:product_type>Candles</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44842,6 +44780,87 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83507</g:id>
+      <g:item_group_id>9680622813501</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier Multi-Coloured LED Indoor/Outdoor Battery Operated Timer Lights - 50 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered, multi-coloured LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Why keep them just for Christmas? These lights look beautiful all year round! Features:  Multi-coloured LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-multi-coloured-led-indoor-outdoor-battery-operated-timer-lights?variant=49433381404989</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81329-Premier-Timelights-MultiAction-Battery-50-LEDs-Rainbow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682948</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450697</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83511</g:id>
+      <g:item_group_id>9680622813501</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier Multi-Coloured LED Indoor/Outdoor Battery Operated Timer Lights - 100 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered, multi-coloured LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Why keep them just for Christmas? These lights look beautiful all year round! Features:  Multi-coloured LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-multi-coloured-led-indoor-outdoor-battery-operated-timer-lights?variant=49433381437757</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81333-Premier-Timelights-MultiAction-Battery-100-LEDs-Rainbow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682948</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450734</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR79423</g:id>
       <g:item_group_id>9521108156733</g:item_group_id>
       <g:google_product_category>6265</g:google_product_category>
@@ -44922,6 +44941,87 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Summer)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83508</g:id>
+      <g:item_group_id>9680624288061</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier Rainbow LED Indoor/Outdoor Battery Operated Timer Lights - 50 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered rainbow LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Why keep them just for Christmas? These lights look beautiful all year round! Features:  Rainbow LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-rainbow-led-indoor-outdoor-battery-operated-timer-lights?variant=49433385959741</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81329-Premier-Timelights-MultiAction-Battery-50-LEDs-Rainbow-Cancer-Research-UK-Online-Shop_64a5ad44-7e11-49de-8e44-3281300de133_1024x1024.jpg?v=1734682947</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450703</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83512</g:id>
+      <g:item_group_id>9680624288061</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier Rainbow LED Indoor/Outdoor Battery Operated Timer Lights - 100 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered rainbow LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Why keep them just for Christmas? These lights look beautiful all year round! Features:  Rainbow LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-rainbow-led-indoor-outdoor-battery-operated-timer-lights?variant=49433385992509</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81333-Premier-Timelights-MultiAction-Battery-100-LEDs-Rainbow-Cancer-Research-UK-Online-Shop_38f514e4-6828-473b-a454-5057d4069da7_1024x1024.jpg?v=1734682947</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450741</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -45253,6 +45353,168 @@ Lining 100% Cotton</g:material>
 
       <g:color>Gold</g:color>
 <g:size>60cm</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83505</g:id>
+      <g:item_group_id>9680619536701</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier Warm White LED Indoor/Outdoor Battery Operated Timer Lights - 50 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered warm white LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Features:  Warm white LEDs, available in 2 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-warm-white-led-indoor-outdoor-battery-operated-timer-lights?variant=49433372229949</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81326-Premier-Timelights-MultiAction-Battery-50-LEDs-Warm-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682950</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450673</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83509</g:id>
+      <g:item_group_id>9680619536701</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier Warm White LED Indoor/Outdoor Battery Operated Timer Lights - 100 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered warm white LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Features:  Warm white LEDs, available in 2 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-warm-white-led-indoor-outdoor-battery-operated-timer-lights?variant=49433370493245</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81330-Premier-Timelights-MultiAction-Battery-100-LEDs-Warm-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682950</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450710</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83506</g:id>
+      <g:item_group_id>9680621601085</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier White LED Indoor/Outdoor Battery Operated Timer Lights - 50 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered white LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Features:  Cool white LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-white-led-indoor-outdoor-battery-operated-timer-lights?variant=49433375736125</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81327-Premier-Timelights-MultiAction-Battery-50-LEDs-Cool-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682949</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450680</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83510</g:id>
+      <g:item_group_id>9680621601085</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier White LED Indoor/Outdoor Battery Operated Timer Lights - 100 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered white LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Features:  Cool white LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-white-led-indoor-outdoor-battery-operated-timer-lights?variant=49433375768893</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81331-Premier-Timelights-MultiAction-Battery-100-LEDs-Cool-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682949</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450727</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -48350,10 +48612,10 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:id>SN83434ORANGE</g:id>
       <g:item_group_id>15088086876535</g:item_group_id>
       
-      <g:title>Pumpkin Door Stop - Orange</g:title>
+      <g:title>Pumpkin Doorstop - Orange</g:title>
       <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, blending practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-door-stop?variant=55636161790327</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117967</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758879515</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -48375,7 +48637,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5023674238673</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Door Stop</g:product_type>
+      <g:product_type>Doorstops</g:product_type>
 
       <g:color>Brown</g:color>
       <g:size>0</g:size>
@@ -48395,10 +48657,10 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:id>SN83434BROWN</g:id>
       <g:item_group_id>15088086876535</g:item_group_id>
       
-      <g:title>Pumpkin Door Stop - Brown</g:title>
+      <g:title>Pumpkin Doorstop - Brown</g:title>
       <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, blending practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-door-stop?variant=55636161823095</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117967</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758879515</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -48420,7 +48682,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5023674238673</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Door Stop</g:product_type>
+      <g:product_type>Doorstops</g:product_type>
 
       <g:color>Brown</g:color>
       <g:size>0</g:size>
@@ -48440,10 +48702,10 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:id>SN83434GREEN</g:id>
       <g:item_group_id>15088086876535</g:item_group_id>
       
-      <g:title>Pumpkin Door Stop - Green</g:title>
+      <g:title>Pumpkin Doorstop - Green</g:title>
       <g:description>Available in yellow, green and brown, these Pumpkin Door Stops are designed to keep doors securely open or closed, blending practical function with a fun, autumnal vibe. Sink your teeth into our matching Halloween merch.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-door-stop?variant=55636161855863</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117967</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758879515</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -48465,7 +48727,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5023674238673</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Door Stop</g:product_type>
+      <g:product_type>Doorstops</g:product_type>
 
       <g:color>Brown</g:color>
       <g:size>0</g:size>
@@ -54381,6 +54643,48 @@ Outsole synthetic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83885</g:id>
+      <g:item_group_id>15089097933175</g:item_group_id>
+      
+      <g:title>Ralph Robin &amp; Family Tote Bag</g:title>
+      <g:description>Perfect for those who adore robins, this festive reusable bag features three charming birds decked out in boots, gifts and a golden star.  With its snowy backdrop and cheerful design, it’s a heart warming and practical Christmas gift for nature enthusiasts and seasonal shoppers alike.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ralph-robin-family-tote-bag?variant=55599665742199</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83885-Ralph-Robin-and-Family-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755189799</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123838856</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_height>35 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -63165,9 +63469,7 @@ Outsole synthetic</g:material>
 
 
 
-
-	
-    <item>
+<item>
       <g:id>LW41765</g:id>
       <g:item_group_id>9521216979261</g:item_group_id>
       <g:google_product_category>2562</g:google_product_category>
@@ -70530,7 +70832,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW81820</g:id>
       <g:item_group_id>9521072472381</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -73912,9 +74216,10 @@ Outsole synthetic</g:material>
       <g:item_group_id>14909061398903</g:item_group_id>
       
       <g:title>Set of 4 Posy Vases</g:title>
-      <g:description>Elevate your home decor with the Set of 4 Posy Vases. Each set includes 4 beautifully designed vases, perfect for displaying your favourite flowers and adding a touch of elegance to any room. </g:description>
+      <g:description>Refresh your home styling with this elegant Set of 4 Posy Vases. Each set features four finely crafted vessels, ideal for presenting your favourite flowers and infusing any room with a graceful, decorative touch. Their compact size and timeless design make them perfect for adorning mantlepieces, sideboards, or shelves, adding subtle sophistication wherever they're placed. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/set-of-4-posy-vases?variant=54945362411895</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82125-Mushroom-Vase-Bottles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738937164</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82125-Mushroom-Vase-Bottles-1-Cancer-Research-UK-Online-Shop_bfa473c8-4251-42a7-811d-ceced36f32c0_1024x1024.jpg?v=1758884357</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
@@ -73935,7 +74240,7 @@ Outsole synthetic</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418577232</g:gtin>
 
-      <g:product_type>vase</g:product_type>
+      <g:product_type>Vase</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -76990,7 +77295,7 @@ Outsole synthetic</g:material>
       <g:id>SN83435BLACK</g:id>
       <g:item_group_id>15088086909303</g:item_group_id>
       
-      <g:title>Spider Door Stop</g:title>
+      <g:title>Spider Doorstop</g:title>
       <g:description>Add a spooky yet practical touch to your home this Halloween with the Spider Door Stop. This door stop is a must-have for Halloween or spider enthusiasts! Sink your teeth into our matching Halloween merch.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/spider-door-stop?variant=55679054184823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83435-Spider-Door-Stop-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756301858</g:image_link>
@@ -77015,7 +77320,7 @@ Outsole synthetic</g:material>
       <g:gtin>5023674238680</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Door Stop</g:product_type>
+      <g:product_type>Doorstops</g:product_type>
 
       <g:color>Black</g:color>
       <g:size>0</g:size>
@@ -84665,8 +84970,8 @@ Outsole synthetic</g:material>
       <g:title>Traditional Nativity Light Up House Decoration</g:title>
       <g:description>This light-up nativity decoration is a lovely way to bring the Christmas story into your home. With its tall, house-like shape and beautifully illustrated scene of Mary, Joseph, baby Jesus, and the shepherds under a starry sky, it's full of festive charm. It's a great mix of tradition and style that's perfect for creating a cosy, meaningful vibe at home.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/traditional-nativity-light-up-house-decoration?variant=55569470194039</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83754-LED-Lit-Traditional-Nativity-House-2-Cancer-Research-UK-Online-Shop_4bb2d756-b339-4c1e-ac89-cf9719b632e9_1024x1024.jpg?v=1755185389</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83754-LED-Lit-Traditional-Nativity-House-1-Cancer-Research-UK-Online-Shop_52390f76-5926-4419-9b0a-fdba79a53f91_1024x1024.jpg?v=1755185389</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83754-LED-Lit-Traditional-Nativity-House-1-Cancer-Research-UK-Online-Shop_52390f76-5926-4419-9b0a-fdba79a53f91_1024x1024.jpg?v=1758896789</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83754-LED-Lit-Traditional-Nativity-House-2-Cancer-Research-UK-Online-Shop_4bb2d756-b339-4c1e-ac89-cf9719b632e9_1024x1024.jpg?v=1758896789</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -91476,9 +91781,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF76999</g:id>
       <g:item_group_id>9521398874429</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -91901,7 +92204,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF30437</g:id>
       <g:item_group_id>9521404150077</g:item_group_id>
       <g:google_product_category>5455</g:google_product_category>
