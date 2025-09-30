@@ -648,7 +648,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/a-garden-is-a-friend-watering-can-hanging-decoration?variant=55252482294135</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80098-Garden-Is-A-Friend-Watering-Can-Hanging-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1748355818</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -14036,6 +14036,95 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83675BROWN</g:id>
+      <g:item_group_id>15107716415863</g:item_group_id>
+      
+      <g:title>Ceramic Nativity Decoration - Brown</g:title>
+      <g:description>Celebrate the season with this beautifully crafted ceramic nativity decoration. Featuring delicate detailing and a timeless design, it brings a peaceful, traditional touch to your festive décor. Perfect for mantelpieces, shelves, Nativity displays, or as a heartfelt gift.  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ceramic-nativity-decoration?variant=55682603483511</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83675Brown-Ceramic_Nativity_Decoration-Cancer-Research-Online-Shop_1024x1024.jpg?v=1756373866</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844454145</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Brown</g:color>
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyresin</g:material>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>11.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83675WHITE</g:id>
+      <g:item_group_id>15107716415863</g:item_group_id>
+      
+      <g:title>Ceramic Nativity Decoration - White</g:title>
+      <g:description>Celebrate the season with this beautifully crafted ceramic nativity decoration. Featuring delicate detailing and a timeless design, it brings a peaceful, traditional touch to your festive décor. Perfect for mantelpieces, shelves, Nativity displays, or as a heartfelt gift.  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ceramic-nativity-decoration?variant=55682603516279</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83675White-Ceramic_Nativity_Decoration-Cancer-Research-Online-Shop_1024x1024.jpg?v=1756373855</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844454145</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Brown</g:color>
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyresin</g:material>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>11.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW42436</g:id>
       <g:item_group_id>9522261131581</g:item_group_id>
       <g:google_product_category>624</g:google_product_category>
@@ -14085,7 +14174,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/cheeky-panda-100-bamboo-facial-tissues?variant=49005489783101</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42437-Cheeky-Panda-Bamboo-Facial-Tissue-Flat-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1724946690</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.29 GBP</g:price>
 
       <g:shipping>
@@ -15922,6 +16011,49 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84626GINGER</g:id>
+      <g:item_group_id>15090030150007</g:item_group_id>
+      
+      <g:title>Christmas Gingerbread Cookie Cutters - 5 pack</g:title>
+      <g:description>Get into the Christmas spirit with this delightful pack of cookie cutters. Perfect for whipping up batches of cheerful cookies, this set brings joy to kitchens of all ages. Whether you're crafting treats for Santa or keeping little hands busy during the holidays, these cutters make baking fun, creative, and mess-free. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-cookie-cutters-5-pack?variant=55604445380983</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84626Gingerbread-Gingerbread-Cookie-Cutters-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823310</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84626Gingerbread-Gingerbread-Cookie-Cutters-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823296</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418397137</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cookie Cutters</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polypropylene (PP)</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84394</g:id>
       <g:item_group_id>15106145845623</g:item_group_id>
       
@@ -15958,6 +16090,218 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84620R</g:id>
+      <g:item_group_id>15090029461879</g:item_group_id>
+      
+      <g:title>Christmas Hat Shape Candle - Red</g:title>
+      <g:description>Add a touch of winter charm to your home with these adorable candles shaped like festive knitted hats.  Available in red, white, and green, each candle features intricate knit-style detailing and a textured pom-pom top for a cosy, handcrafted look.  Sold separately This product measures 7.5 x 7.5 x 9.3 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-hat-shape-candle?variant=55650667954551</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84620-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755874956</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418640332</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Candles</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% wax</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84620W</g:id>
+      <g:item_group_id>15090029461879</g:item_group_id>
+      
+      <g:title>Christmas Hat Shape Candle - White</g:title>
+      <g:description>Add a touch of winter charm to your home with these adorable candles shaped like festive knitted hats.  Available in red, white, and green, each candle features intricate knit-style detailing and a textured pom-pom top for a cosy, handcrafted look.  Sold separately This product measures 7.5 x 7.5 x 9.3 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-hat-shape-candle?variant=55650667987319</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84620-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755874956</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418640332</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Candles</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% wax</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84620G</g:id>
+      <g:item_group_id>15090029461879</g:item_group_id>
+      
+      <g:title>Christmas Hat Shape Candle - Green</g:title>
+      <g:description>Add a touch of winter charm to your home with these adorable candles shaped like festive knitted hats.  Available in red, white, and green, each candle features intricate knit-style detailing and a textured pom-pom top for a cosy, handcrafted look.  Sold separately This product measures 7.5 x 7.5 x 9.3 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-hat-shape-candle?variant=55650668020087</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84620-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755874956</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418640332</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Candles</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% wax</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84032R</g:id>
+      <g:item_group_id>15090029134199</g:item_group_id>
+      
+      <g:title>Christmas House with Gonk - Red</g:title>
+      <g:description>Add a cosy seasonal touch to your home with this charming Christmas decoration featuring a festive house scene and a gonk character. Complete with a wreath, birds, a Christmas tree, and a cheerful gonk, it’s perfect for shelves, mantels, or tabletops.  Available in red or white, Red variant reads: "Warm wishes for a cosy Christmas.", White variant reads: "We wish you a merry Christmas.", This product measures 14 x 6 x 20 cm., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-house-with-gonk?variant=55650711994743</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84032-red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755875336</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418634072</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>80% MDF/10% resin/10% polypropylene (PP)</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84032W</g:id>
+      <g:item_group_id>15090029134199</g:item_group_id>
+      
+      <g:title>Christmas House with Gonk - White</g:title>
+      <g:description>Add a cosy seasonal touch to your home with this charming Christmas decoration featuring a festive house scene and a gonk character. Complete with a wreath, birds, a Christmas tree, and a cheerful gonk, it’s perfect for shelves, mantels, or tabletops.  Available in red or white, Red variant reads: "Warm wishes for a cosy Christmas.", White variant reads: "We wish you a merry Christmas.", This product measures 14 x 6 x 20 cm., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-house-with-gonk?variant=55650712027511</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84032-white-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755875348</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418634072</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>80% MDF/10% resin/10% polypropylene (PP)</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -16126,6 +16470,130 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84618HOHOHO</g:id>
+      <g:item_group_id>15090029199735</g:item_group_id>
+      
+      <g:title>Christmas Jumper Napkins - 12 pack - Ho Ho Ho</g:title>
+      <g:description>Spread the fun of silly Christmas jumpers to your tables! These festive napkins bring all the fun of the classic Christmas knit to your dining setup. Available in three different styles, dress your table to impress.  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-jumper-napkins-12-pack?variant=55650029732215</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84618-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755868992</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418559726</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% paper</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84618SNOWMAN</g:id>
+      <g:item_group_id>15090029199735</g:item_group_id>
+      
+      <g:title>Christmas Jumper Napkins - 12 pack - Snowman</g:title>
+      <g:description>Spread the fun of silly Christmas jumpers to your tables! These festive napkins bring all the fun of the classic Christmas knit to your dining setup. Available in three different styles, dress your table to impress.  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-jumper-napkins-12-pack?variant=55650029764983</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84618-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755868992</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418559726</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% paper</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84618SANTA</g:id>
+      <g:item_group_id>15090029199735</g:item_group_id>
+      
+      <g:title>Christmas Jumper Napkins - 12 pack - Father Christmas</g:title>
+      <g:description>Spread the fun of silly Christmas jumpers to your tables! These festive napkins bring all the fun of the classic Christmas knit to your dining setup. Available in three different styles, dress your table to impress.  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-jumper-napkins-12-pack?variant=55650029797751</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84618-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755868992</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418559726</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% paper</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -16661,6 +17129,89 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84028WISHES</g:id>
+      <g:item_group_id>15090029068663</g:item_group_id>
+      
+      <g:title>Christmas Shops Plaque - Warm Wishes</g:title>
+      <g:description>Celebrate the season with this charming wooden plaque, featuring a heart-warming message and a beautifully illustrated winter village scene.  With snow-dusted rooftops, festive trees, and cosy cottages, it’s the perfect piece to add warmth and cheer to your holiday décor. Ideal for mantels, entryways, or kitchen walls, this sign brings a touch of nostalgic charm to any festive setting. One reads "Warm Wishes for a cosy Christmas", while the other reads "It's the most Wonderful time of the year". This product measures 80 x 1.5 x 10 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-shops-plaque?variant=55650536030583</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84028Cosy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755871876</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418634591</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Plaque</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% MDF</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84028WONDER</g:id>
+      <g:item_group_id>15090029068663</g:item_group_id>
+      
+      <g:title>Christmas Shops Plaque - Wonderful Time</g:title>
+      <g:description>Celebrate the season with this charming wooden plaque, featuring a heart-warming message and a beautifully illustrated winter village scene.  With snow-dusted rooftops, festive trees, and cosy cottages, it’s the perfect piece to add warmth and cheer to your holiday décor. Ideal for mantels, entryways, or kitchen walls, this sign brings a touch of nostalgic charm to any festive setting. One reads "Warm Wishes for a cosy Christmas", while the other reads "It's the most Wonderful time of the year". This product measures 80 x 1.5 x 10 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-shops-plaque?variant=55650536063351</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84028Wonderful-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755871887</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418634591</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Plaque</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% MDF</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84411</g:id>
       <g:item_group_id>15129303810423</g:item_group_id>
       
@@ -16738,6 +17289,49 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84626TREE</g:id>
+      <g:item_group_id>15101252141431</g:item_group_id>
+      
+      <g:title>Christmas Tree Cookie Cutters - 5 pack</g:title>
+      <g:description>Get into the Christmas spirit with this delightful pack of cookie cutters. Perfect for whipping up batches of cheerful cookies, this set brings joy to kitchens of all ages. Whether you're crafting treats for Santa or keeping little hands busy during the holidays, these cutters make baking fun, creative, and mess-free. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-cookie-cutters-5-pack?variant=55649628356983</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84626Tree-Tree-Cookie-Cutters-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823185</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84626Tree-Tree-Cookie-Cutters-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823230</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418397137</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cookie Cutters</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polypropylene (PP)</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -16865,6 +17459,48 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84623</g:id>
+      <g:item_group_id>15090029789559</g:item_group_id>
+      
+      <g:title>Christmas Tree Row Decoration</g:title>
+      <g:description>Festive wooden trees spell out “CHRISTMAS” in this charming decoration, perfect for mantlepieces and shelves. With snowy white detailing and cosy knitted hats, each tree adds warmth and whimsy to your seasonal display. A cheerful centrepiece that brings holiday spirit to any room. This product measures 30 x 3 x 10 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-row?variant=55604444922231</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84623-Christmas-Tree-Row-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755258485</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418654476</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>75% MDF/20% plywood</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -21633,9 +22269,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX76935</g:id>
       <g:item_group_id>9520829727037</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
@@ -22329,7 +22963,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR79688</g:id>
       <g:item_group_id>9520842178877</g:item_group_id>
       <g:google_product_category>499805</g:google_product_category>
@@ -23034,7 +23670,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/eco-nature-floral-bouquet-recyclable-gift-bag?variant=53485915668855</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81890-Eco-Nature-Floral-Bouquet-Large-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1729252482</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.89 GBP</g:price>
 
       <g:shipping>
@@ -27053,6 +27689,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84629</g:id>
+      <g:item_group_id>15090030543223</g:item_group_id>
+      
+      <g:title>Gingerbread Bakery Plaque</g:title>
+      <g:description>Bring festive warmth to your kitchen or bakery with this delightful plaque featuring bold lettering and cheerful gingerbread-themed illustrations. With a rustic wood-effect background and two 3D gingerbread figures, it’s perfect for adding a cosy, whimsical touch to your holiday décor.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-bakery-plaque?variant=55604445708663</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84629-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755869968</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84629-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759146265</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418623021</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Plaque</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>90% MDF/10% resin</g:material>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>17 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81534-BOY</g:id>
       <g:item_group_id>14670584873335</g:item_group_id>
       
@@ -27408,6 +28089,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84633</g:id>
+      <g:item_group_id>15090030838135</g:item_group_id>
+      
+      <g:title>Gingerbread House Mug</g:title>
+      <g:description>Cosy up this winter with a charming gingerbread house mug, perfect for hot chocolate or your daily brew. Featuring icing-style details, heart accents, and a snow-topped roof lid, it adds festive fun to every sip. A delightful addition to your kitchen or a thoughtful seasonal gift.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-house-mug?variant=55604446036343</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84633-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755868931</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84633-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756824888</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418635666</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Mug</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% dolomite</g:material>
+      <g:product_width>9.5 cm </g:product_width>
+      <g:product_height>13 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84632</g:id>
       <g:item_group_id>15114969448823</g:item_group_id>
       
@@ -27500,6 +28226,48 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84621</g:id>
+      <g:item_group_id>15090029592951</g:item_group_id>
+      
+      <g:title>Gingerbread Man Napkins - 12 pack</g:title>
+      <g:description>Perfect for festive feasts, this pack of 12 gingerbread man napkins brings playful charm to your Christmas table. With enough for large gatherings, they’re ideal for family dinners or seasonal parties. Brighten up your place settings and make every guest feel part of the celebration.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-man-napkins-12-pack?variant=55604444725623</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84621-Gingerbread-Man-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755258804</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418627753</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% paper</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84413</g:id>
       <g:item_group_id>15129320325495</g:item_group_id>
       
@@ -27576,6 +28344,91 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>60% galvanised iron/30% mango wood/10% silicone</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84628CALORIES</g:id>
+      <g:item_group_id>15090030412151</g:item_group_id>
+      
+      <g:title>Gingerbread Wooden Plaque - Calories Don't Count</g:title>
+      <g:description>Add a heart warming touch to your festive décor with this charming wooden plaque. Adorned with a cosy gingerbread illustration and a cute 3D gingerbread character for extra seasonal charm, this wooden plaque is perfect for kitchens, hallways, or anywhere you want to spread a little Christmas cheer,. Sold separately</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-wooden-plaque?variant=55650351776119</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84628-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755870969</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84628-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759146450</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418622888</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Plaque</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>90% MDF/5% resin/5% glass</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84628KISSES</g:id>
+      <g:item_group_id>15090030412151</g:item_group_id>
+      
+      <g:title>Gingerbread Wooden Plaque - Kisses &amp; Christmas Wishes</g:title>
+      <g:description>Add a heart warming touch to your festive décor with this charming wooden plaque. Adorned with a cosy gingerbread illustration and a cute 3D gingerbread character for extra seasonal charm, this wooden plaque is perfect for kitchens, hallways, or anywhere you want to spread a little Christmas cheer,. Sold separately</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-wooden-plaque?variant=55650351808887</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84628-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755870980</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84628-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759146450</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418622888</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Plaque</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>90% MDF/5% resin/5% glass</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -27789,6 +28642,91 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84635</g:id>
+      <g:item_group_id>15090030936439</g:item_group_id>
+      
+      <g:title>Gonk Gingerbread Man - Small</g:title>
+      <g:description>Sweeten up your seasonal décor with this adorable gingerbread gonk! With icing-style details and a cheeky festive charm, it’s available in two sizes to suit any space.  Whether you pick one or grab both as a matching pair, these delightful characters are sure to bring smiles and a sprinkle of Christmas magic.  Small measures: 40 cm tall, Large measures: 57 cm tall, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gonk-gingerbread-man?variant=55604446134647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84635-40cm-Gingerbread-Gonk-Cancer-Research-UK-Online-Shop_aed7e17d-d33b-4aea-abda-02dd3302d528_1024x1024.jpg?v=1759143984</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84635-Gingerbread-Gonk-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759144093</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418637608</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Gonk</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>58% polyester/25% acrylic/15% MGO/1% bamboo/1% EPS</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84636</g:id>
+      <g:item_group_id>15090030936439</g:item_group_id>
+      
+      <g:title>Gonk Gingerbread Man - Large</g:title>
+      <g:description>Sweeten up your seasonal décor with this adorable gingerbread gonk! With icing-style details and a cheeky festive charm, it’s available in two sizes to suit any space.  Whether you pick one or grab both as a matching pair, these delightful characters are sure to bring smiles and a sprinkle of Christmas magic.  Small measures: 40 cm tall, Large measures: 57 cm tall, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gonk-gingerbread-man?variant=55604446167415</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84636-57cm-Gingerbread-Gonk-Cancer-Research-UK-Online-Shop_c601be26-33dd-4104-82a4-d4d340215e82_1024x1024.jpg?v=1759144093</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84635-Gingerbread-Gonk-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759144093</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>16.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418637622</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Gonk</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>58% polyester/25% acrylic/15% MGO/1% bamboo/1% EPS</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -28192,52 +29130,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83431CAT</g:id>
-      <g:item_group_id>15097274204535</g:item_group_id>
-      <g:google_product_category>588</g:google_product_category>
-      <g:title>Halloween Pom Pom Candle - Cat</g:title>
-      <g:description>Add a glow to your living space with this Halloween-themed pom-pom lid candle. The pumpkin fragranced, glass jar candle is printed with our Halloween cat design, and gives approximately 28 hours of burn time. Design exclusive to Cancer Research UK. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-pom-pom-candle-cat?variant=55628044140919</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Black-Cat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755606639</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Candles-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Cancer-Research-UK-Online-Shop_a635f386-ca41-471c-b3a5-91fb78d9fa38_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460360311</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>7 cm </g:product_length>
-      <g:product_width>7 cm </g:product_width>
-      <g:product_height>9 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -29341,6 +30233,51 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>100% MDF</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84033</g:id>
+      <g:item_group_id>15090029166967</g:item_group_id>
+      
+      <g:title>Highland Cow Soap Dispenser</g:title>
+      <g:description>Make handwashing fun with this festive Highland cow soap dispenser. Its playful design is perfect for family bathrooms and may even encourage children to wash their hands more often. A practical and whimsical touch for your seasonal home décor.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highlandcow-soap-dispenser?variant=55604444299639</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84033-Highland-Cow-Hand-Soap-Dispenser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755259522</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84033-Highland-Cow-Hand-Soap-Dispenser-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756817634</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84033-Highland-Cow-Hand-Soap-Dispenser-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756817646</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418635819</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Soap Dispensers</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>90% dolomite/10% plastic</g:material>
+      <g:product_height>20 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -30747,7 +31684,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/if-friends-were-flowers-watering-can-hanging-decoration?variant=55252485800311</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80099-If-Friends-Were-Flowers-Watering-Can-Hanging-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1748355964</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -31674,7 +32611,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/kids-dinosaur-pyjama-set?variant=54787671392631</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81575-Kids-Dinosaur-PJ-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732640666</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -31696,7 +32633,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>2-3 yrs</g:size>
+<g:size>4-5 yrs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -31739,7 +32676,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>2-3 yrs</g:size>
+<g:size>4-5 yrs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -31782,7 +32719,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>2-3 yrs</g:size>
+<g:size>4-5 yrs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -31825,7 +32762,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>2-3 yrs</g:size>
+<g:size>4-5 yrs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -31868,7 +32805,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>2-3 yrs</g:size>
+<g:size>4-5 yrs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -31911,7 +32848,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>2-3 yrs</g:size>
+<g:size>4-5 yrs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -31976,7 +32913,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/kids-fairy-pyjama-set?variant=54787659792759</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81574-Kids-Fairy-PJ-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732639442</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -36136,9 +37073,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81573S</g:id>
       <g:item_group_id>14866834063735</g:item_group_id>
       
@@ -37137,7 +38072,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW82400</g:id>
       <g:item_group_id>14912818741623</g:item_group_id>
       
@@ -56302,9 +57239,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83670CREAM</g:id>
       <g:item_group_id>9521210229053</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
@@ -63061,7 +63996,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -63469,7 +64404,9 @@ Outsole synthetic</g:material>
 
 
 
-<item>
+
+	
+    <item>
       <g:id>LW41765</g:id>
       <g:item_group_id>9521216979261</g:item_group_id>
       <g:google_product_category>2562</g:google_product_category>
@@ -76001,7 +76938,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Cane-Gingerbread-Decoration-Candy-Cane-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81307-Present-Gingerbread-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -90762,9 +91699,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83953</g:id>
       <g:item_group_id>15063143547255</g:item_group_id>
       
@@ -91781,7 +92716,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF76999</g:id>
       <g:item_group_id>9521398874429</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
