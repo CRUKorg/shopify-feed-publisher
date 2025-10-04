@@ -3406,7 +3406,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/black-white-led-lit-ceramic-santa-ornament?variant=49003688984893</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76981-LED-Santa-Cancer-Research-UK-Online-Shop_78031617-2a0e-4f8f-a3ab-5b01a19763dc_1024x1024.jpg?v=1719229124</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -7912,7 +7912,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80750-Zebra-Walker-Umbrella-BCA-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728033915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80750-Zebra-Walker-Umbrella-BCA-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728033926</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -16851,6 +16851,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83840</g:id>
+      <g:item_group_id>15087421587831</g:item_group_id>
+      
+      <g:title>Christmas Lights Storage Bag</g:title>
+      <g:description>Tangle-free and merry—store your Christmas lights easily with our festive storage bag! Perfect for keeping your lights safe and ready to shine next year, it’s a cheerful way to keep holiday magic organized. The black plastic frames are designed to keep Christmas lights neatly wound and tangle-free. Each frame features slots and hooks that securely hold the lights in place for easy storage and retrieval. Brighten up your storage game and unwrap stress-free decorating!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-lights-storage-bag?variant=55594626613623</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83840-Christmas-Lights-Storage-Bag-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185378</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83840-Christmas-Lights-Storage-Bag-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185379</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241901</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Storage Bags</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>15 cm </g:product_length>
+      <g:product_width>44 cm </g:product_width>
+      <g:product_height>30 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84391</g:id>
       <g:item_group_id>15128020320631</g:item_group_id>
       
@@ -17758,6 +17803,50 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83838</g:id>
+      <g:item_group_id>15087421522295</g:item_group_id>
+      
+      <g:title>Christmas Tree Storage Bag</g:title>
+      <g:description>Keep your Christmas tree safe and snug with our festive storage bag! Designed with handy handles and a secure zip, it’s the perfect way to tuck away your tree after the holidays and make carrying it a breeze. Say goodbye to tangled branches and hello to easy, joyful storage!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-storage-bag?variant=55594626548087</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83838-Christmas-Tree-Storage-Bag-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185380</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241888</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Storage Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>33 cm </g:product_length>
+      <g:product_width>122 cm </g:product_width>
+      <g:product_height>43 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84023</g:id>
       <g:item_group_id>15090028904823</g:item_group_id>
       
@@ -17836,6 +17925,51 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83839</g:id>
+      <g:item_group_id>15087421555063</g:item_group_id>
+      
+      <g:title>Christmas Wrap Storage Bag</g:title>
+      <g:description>Keep your festive wrapping paper neat and ready with the Christmas Wrap Storage Bag! Designed with handy handles, it makes carrying your wraps easy whether you're wrapping at home or on the go. Say goodbye to messy rolls and hello to cheerful, clutter-free gift prep.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-wrap-storage-bag?variant=55594626580855</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83839-Christmas-Wrapping-Paper-Storage-Bag-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185379</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83839-Christmas-Wrapping-Paper-Storage-Bag-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185379</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241895</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Storage Bags</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>13 cm </g:product_length>
+      <g:product_width>82 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -19306,7 +19440,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30601-Cygnet-Baby-Pato-DK-Knitting-Yarn-Baby-Blue-785-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738760621</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30601-Cygnet-Baby-Pato-DK-Knitting-Yarn-Baby-Blue-785-Cancer-Research-UK-Online-Shop_0_0fd456f5-63b2-40b5-a8b0-bc3da57f0acb_1024x1024.jpg?v=1719229410</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.89 GBP</g:price>
 
       <g:shipping>
@@ -19329,7 +19463,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -19372,7 +19506,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -19415,7 +19549,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -19458,7 +19592,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -19501,7 +19635,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -19544,7 +19678,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -19587,7 +19721,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -19630,7 +19764,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -19650,7 +19784,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30598-Cygnet-Baby-Pato-DK-Knitting-Yarn-White-799-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738760641</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30601-Cygnet-Baby-Pato-DK-Knitting-Yarn-Baby-Blue-785-Cancer-Research-UK-Online-Shop_0_0fd456f5-63b2-40b5-a8b0-bc3da57f0acb_1024x1024.jpg?v=1719229410</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.89 GBP</g:price>
 
       <g:shipping>
@@ -19672,7 +19806,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Candy</g:color>
+      <g:color>Baby Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -20339,7 +20473,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30584-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Black-975-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738759821</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_d88b160c-9d93-41d9-aaeb-f87dd38bd876_1024x1024.jpg?v=1719229415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.79 GBP</g:price>
 
       <g:shipping>
@@ -20726,7 +20860,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30590-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Red-994-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738759856</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_d88b160c-9d93-41d9-aaeb-f87dd38bd876_1024x1024.jpg?v=1719229415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.79 GBP</g:price>
 
       <g:shipping>
@@ -20940,7 +21074,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30592-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Yellow-996-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738759869</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_d88b160c-9d93-41d9-aaeb-f87dd38bd876_1024x1024.jpg?v=1719229415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.79 GBP</g:price>
 
       <g:shipping>
@@ -21311,6 +21445,50 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83841</g:id>
+      <g:item_group_id>15087421620599</g:item_group_id>
+      
+      <g:title>Deluxe Christmas Tree Storage Bag with Wheels</g:title>
+      <g:description>Roll your Christmas tree away with cheer using our Deluxe Christmas Tree Storage Bag with Wheels! Designed for secure storage and easy transport, this Deluxe Christmas Tree Storage Bag makes moving your tree a festive breeze. With sturdy handles and a durable zipper, your tree will be getting the all the TLC it needs for on the go festivities. Keep your holiday spirit bright and your tree safe—no heavy lifting required!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/deluxe-tree-storage-bag-with-wheels?variant=55594626646391</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83841-Deluxe-Christmas-Tree-Storage-Bag-Wheeled-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185378</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241918</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Storage Bags</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>60 cm </g:product_length>
+      <g:product_width>140 cm </g:product_width>
+      <g:product_height>40 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -21930,7 +22108,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42123-9781786273581-Dino-Domino-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405626</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42123-9781786273581-Dino-Domino-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405626</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -22176,9 +22354,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX76931</g:id>
       <g:item_group_id>9520823206205</g:item_group_id>
       <g:google_product_category>3144</g:google_product_category>
@@ -22345,7 +22521,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX76927</g:id>
       <g:item_group_id>9520825303357</g:item_group_id>
       <g:google_product_category>5974</g:google_product_category>
@@ -28121,6 +28299,49 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84624</g:id>
+      <g:item_group_id>15090029986167</g:item_group_id>
+      
+      <g:title>Gingerbread Bakery Trio of Tea Towels</g:title>
+      <g:description>Add a dash of festive fun to your kitchen with this set of three Christmas tea towels. Featuring cheerful gingerbread men, classic stripes, and a textured plain design, they’re perfect for seasonal baking and everyday use. A charming and practical addition for families who love to cook together.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-bakery-trio-of-tea-towels?variant=55604445151607</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84624-Gingerbread-Bakery-Pack-3-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755258423</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84624-Gingerbread-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757061518</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418385479</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tea Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% cotton</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81534-BOY</g:id>
       <g:item_group_id>14670584873335</g:item_group_id>
       
@@ -29174,7 +29395,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84636-57cm-Gingerbread-Gonk-Cancer-Research-UK-Online-Shop_c601be26-33dd-4104-82a4-d4d340215e82_1024x1024.jpg?v=1759144093</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84635-Gingerbread-Gonk-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759144093</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>16.99 GBP</g:price>
 
       <g:shipping>
@@ -36696,9 +36917,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83783</g:id>
       <g:item_group_id>15099966128503</g:item_group_id>
       
@@ -37355,7 +37574,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83951</g:id>
       <g:item_group_id>15063138500983</g:item_group_id>
       
@@ -45786,7 +46007,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/poppy-the-bunny?variant=54976185729399</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82146-Poppy-the-Bunny-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1739889133</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -50154,7 +50375,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55596186599799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -50289,7 +50510,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841286519</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -50379,7 +50600,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841319287</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -50469,7 +50690,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841384823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -56511,7 +56732,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83755-Ralph-Robin-and-Family-LED-Glass-House-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757069337</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83755-Ralph-Robin-and-Family-LED-Glass-House-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757069337</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -56712,9 +56933,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX32006</g:id>
       <g:item_group_id>14909015982455</g:item_group_id>
       
@@ -57168,7 +57387,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW84406</g:id>
       <g:item_group_id>9521171595581</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -86396,9 +86617,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW84511WHITE</g:id>
       <g:item_group_id>15128579408247</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -86647,7 +86866,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR39922S</g:id>
       <g:item_group_id>9521363616061</g:item_group_id>
       <g:google_product_category>187</g:google_product_category>
@@ -89216,7 +89437,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999424375</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>46.00 GBP</g:price>
 
       <g:shipping>
