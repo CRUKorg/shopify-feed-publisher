@@ -645,7 +645,7 @@
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN80981-Battery-Operated-Colour-Changing-Ghost-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117703</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN80981-Battery-Operated-Colour-Changing-Ghost-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117703</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -7660,6 +7660,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35975,6 +35976,52 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83734</g:id>
+      <g:item_group_id>15087454191991</g:item_group_id>
+      
+      <g:title>Light Up House</g:title>
+      <g:description>Add a warm and welcoming glow to your festive décor with this elegant ceramic house.  With softly illuminated windows and a charming chimney detail, it’s perfect for creating a cosy atmosphere in any room and is a beautiful addition to mantelpieces, shelves, or Christmas displays.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/light-up-house?variant=55594786128247</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83734-Light-Up-17cm-House-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185371</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83734-Light-Up-17cm-House-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185371</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322125450</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Ceramic</g:material>
+      <g:product_length>6.5 cm </g:product_length>
+      <g:product_width>8 cm </g:product_width>
+      <g:product_height>17 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX76432</g:id>
       <g:item_group_id>9521004446013</g:item_group_id>
       <g:google_product_category>505809</g:google_product_category>
@@ -36828,9 +36875,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81385</g:id>
       <g:item_group_id>9521007624509</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
@@ -36917,7 +36962,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83783</g:id>
       <g:item_group_id>15099966128503</g:item_group_id>
       
@@ -39180,7 +39227,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-anti-ageing-antioxidant-face-cream?variant=49421155565885</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42330-MooGoo-Anti-Ageing-Antioxidant-Cream-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727348697</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>26.99 GBP</g:price>
 
       <g:shipping>
@@ -55725,7 +55772,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC32833-Race-for-Life-Pink-Beard-Cancer-Research-UK-Online-Shop_ce2a2901-311e-4146-8413-3be968c3934e_1024x1024.jpg?v=1719230922</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC32833-Race-for-Life-Pink-Beard-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404707</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>2.99 GBP</g:sale_price>
 
@@ -56892,9 +56939,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83873</g:id>
       <g:item_group_id>15077028430199</g:item_group_id>
       
@@ -56933,7 +56978,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX32006</g:id>
       <g:item_group_id>14909015982455</g:item_group_id>
       
@@ -64585,7 +64632,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -84321,7 +84368,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU82408-SU2C-Bake-Off-2025-Adult-Kids-Star-Baker-Apron-Bundle-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738339927</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU82408-SU2C-Bake-Off-2025-Adult-Kids-Star-Baker-Apron-Bundle-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738339927</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.99 GBP</g:price>
 
       <g:shipping>
@@ -86456,9 +86503,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW81858</g:id>
       <g:item_group_id>14671823503735</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -86617,7 +86662,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW84511WHITE</g:id>
       <g:item_group_id>15128579408247</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
