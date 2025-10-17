@@ -13336,7 +13336,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/TSLB02_Cancer_Research_UK_TShirt_Blue_Back_Cancer_Research_UK_Online_Shop_1024x1024.jpg?v=1724941684</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Tshirt_Rvrs_2125x2500px_1024x1024.jpg?v=1719405710</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.00 GBP</g:price>
 
       <g:shipping>
@@ -13927,7 +13927,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Christmas Cards</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -18901,7 +18901,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83756-Clover-Highland-Cow-LED-Glass-House-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185359</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83756-Clover-Highland-Cow-LED-Glass-House-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185359</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -30019,7 +30019,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/green-monster-ear-muffs?variant=55622548881783</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83443-Green-Monster-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607435</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -39006,50 +39006,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83130</g:id>
-      <g:item_group_id>15095102079351</g:item_group_id>
-      
-      <g:title>Men's 2 Pack Halloween Socks</g:title>
-      <g:description>Step into spooky season with our Men’s Halloween Socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun.  Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-halloween-socks?variant=55622561661303</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83130-Cancer-Research-UK-Online-Shop_8813fb5c-8907-4e1e-9ab0-777b4626996b_1024x1024.jpg?v=1755608469</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033325831303</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:size>4</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>male</g:gender>
-      <g:material>Cotton/polyester/elastine</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -51036,15 +50992,15 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
-      <g:id>SN83437ORANGE</g:id>
+      <g:id>SN83437GREEN</g:id>
       <g:item_group_id>15088086974839</g:item_group_id>
       
-      <g:title>Pumpkin Guest Towels - 2 pack - Orange</g:title>
-      <g:description>Add a seasonal touch to your home with our Pumpkin Guest Towels, available in vibrant orange and green designs. Each towel features a pumpkin pattern, combining festive charm with everyday practicality. Made from soft, absorbent fabric, they’re ideal for bathrooms, kitchens, or guest spaces during the spooky season. These items come in a pack of 2. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/guest-towels-2-pack?variant=55622504087927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83437-Pumpkin-Guest-Towels-Orange-Cancer-Research-UK-Online-Shop_bb6bd4ef-a837-4610-8a9c-ddaf8dbd67df_1024x1024.jpg?v=1755117998</g:image_link>
+      <g:title>Pumpkin Guest Towels - 2 pack - Sage Green</g:title>
+      <g:description>Add a playful fright to your bathroom or kitchen with this set of Pumpkin Guest Towels featuring a ghoulish pumpkin designs. Despite its eerie charm, this towel is made from ultra-soft, absorbent materials—perfect for keeping hands dry and cosy. Whether you're hosting a haunted house party or just love autumnal accents, this towel brings a fun, festive touch to your home décor. A little spooky, a lot stylish! These items come in a pack of 2. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-guest-towels-2-pack?variant=55622504120695</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83437-Pumpkin-Guest-Towels-Green-Cancer-Research-UK-Online-Shop_796243da-a2cf-431b-a381-b80e52c827c7_1024x1024.jpg?v=1760621504</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -51067,7 +51023,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:product_type>Bathroom Towel</g:product_type>
 
       <g:color>Sage Green</g:color>
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>100% Cotton</g:material>
@@ -51080,15 +51036,15 @@ Blue: 80% polyester/20% cotton/with velcro fastening
     </item>
 	
     <item>
-      <g:id>SN83437GREEN</g:id>
+      <g:id>SN83437ORANGE</g:id>
       <g:item_group_id>15088086974839</g:item_group_id>
       
-      <g:title>Pumpkin Guest Towels - 2 pack - Sage Green</g:title>
-      <g:description>Add a seasonal touch to your home with our Pumpkin Guest Towels, available in vibrant orange and green designs. Each towel features a pumpkin pattern, combining festive charm with everyday practicality. Made from soft, absorbent fabric, they’re ideal for bathrooms, kitchens, or guest spaces during the spooky season. These items come in a pack of 2. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/guest-towels-2-pack?variant=55622504120695</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83437-Pumpkin-Guest-Towels-Green-Cancer-Research-UK-Online-Shop_796243da-a2cf-431b-a381-b80e52c827c7_1024x1024.jpg?v=1755117998</g:image_link>
+      <g:title>Pumpkin Guest Towels - 2 pack - Orange</g:title>
+      <g:description>Add a playful fright to your bathroom or kitchen with this set of Pumpkin Guest Towels featuring a ghoulish pumpkin designs. Despite its eerie charm, this towel is made from ultra-soft, absorbent materials—perfect for keeping hands dry and cosy. Whether you're hosting a haunted house party or just love autumnal accents, this towel brings a fun, festive touch to your home décor. A little spooky, a lot stylish! These items come in a pack of 2. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-guest-towels-2-pack?variant=55622504087927</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83437-Pumpkin-Guest-Towels-Orange-Cancer-Research-UK-Online-Shop_bb6bd4ef-a837-4610-8a9c-ddaf8dbd67df_1024x1024.jpg?v=1760621504</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -51265,7 +51221,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:link>https://shop.cancerresearchuk.org/products/purple-monster-ear-muffs?variant=55622549373303</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83444-Purple-Monster-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607426</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -56261,7 +56217,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC32831</g:id>
       <g:item_group_id>9521154425149</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -56304,9 +56262,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC38912</g:id>
       <g:item_group_id>9521154916669</g:item_group_id>
       <g:google_product_category>3509</g:google_product_category>
@@ -85399,7 +85355,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83719</g:id>
       <g:item_group_id>15089096720759</g:item_group_id>
       
@@ -85438,9 +85396,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84889TeaMouse</g:id>
       <g:item_group_id>15185208213879</g:item_group_id>
       
@@ -87592,9 +87548,9 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521355882813</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Tom Smith Woodland Wonder Luxury Gift Bag - Large</g:title>
-      <g:description>What could be better than the magic of Christmas combined with the magic of the forest? Gift your gifts in these luxury Tom Smith Woodland Wonder gift bags. This large bag, measuring approximately 24.5 x 36cm, pictures a magnificent white stag surrounded by a green garland and the message "Merry Christmas".  24.5 x 36cm, Includes co-ordinating tissue, Inside print continues the woodland effect, Recyclable, </g:description>
+      <g:description>Add a touch of woodland charm to your gifts with this Tom Smith Christmas gift bag featuring an illustrated white deer framed by a leafy wreath.  Finished with floral side panels and a matching tag, it’s perfect for large Christmas presents.  Inside print continues the woodland effect, Fully recyclable, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-woodland-wonder-luxury-gift-bag-large?variant=49004395233597</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW31331-Tom-Smith-Woodland-Bag-Large-Cancer-Research-UK-Online-Shop_1_0404fe7b-5aec-4285-b5d0-92536a750513_1024x1024.jpg?v=1719231640</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW31331-Tom-Smith-Woodland-Bag-Large-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760631192</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
@@ -87618,9 +87574,11 @@ Outsole synthetic</g:material>
       <g:brand>Tom Smith</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>24.5 cm </g:product_width>
+      <g:product_height>36 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
