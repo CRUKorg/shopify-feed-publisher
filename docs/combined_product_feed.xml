@@ -1273,7 +1273,7 @@
       <g:gtin>5012213505017</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Hair Clip</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -1847,7 +1847,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/beach-hut-500-piece-jigsaw-puzzle?variant=55332948148599</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Beach_Hut_Jigsaw_1024x1024.jpg?v=1750326510</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -2179,7 +2179,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bee-duo-tea-towels?variant=55358596055415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR83073-Bee-Tea-Towel-Duo-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1751038647</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -2201,7 +2201,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tea Towel</g:product_type>
 
-      <g:color>Dark Blue</g:color>
+      <g:color>Sage Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -2242,7 +2242,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tea Towel</g:product_type>
 
-      <g:color>Dark Blue</g:color>
+      <g:color>Sage Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -4988,7 +4988,7 @@
       <g:mpn>BB84800BLUE</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bathroom Towel</g:product_type>
+      <g:product_type>Bundle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -5030,7 +5030,7 @@
       <g:mpn>BB84800GREEN</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bathroom Towel</g:product_type>
+      <g:product_type>Bundle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -5072,7 +5072,7 @@
       <g:mpn>BB84800PINK</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bathroom Towel</g:product_type>
+      <g:product_type>Bundle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -12821,7 +12821,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520768450877</g:item_group_id>
       <g:google_product_category>2614</g:google_product_category>
       <g:title>Cancer Research UK Skipping Rope</g:title>
-      <g:description>Jump in to a new you with the help of this Cancer Research UK skipping rope. The blue, 2.5m adjustable polyester rope is attached to wooden handles featuring our logo. Features:  2.5m polyester rope (adjustable), Wooden handles each 10 x 2cm diameter, </g:description>
+      <g:description>Elevate your fitness routine with this classic blue skipping rope, featuring smooth-finish wooden handles for a comfortable, secure grip. Whether you're warming up, building cardio endurance, or adding intensity to your workouts, this rope delivers reliable performance with timeless style. Features:  2.5m polyester rope (adjustable), Wooden handles each 10 x 2cm diameter, Handles feature the Cancer Research UK logo, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-skipping-rope?variant=49003733680445</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79641-CRUK-Skipping-Rope-Cancer-Research-UK-Online-Shop_ca5215ee-27af-4da6-aeef-1cc0a7dce90e_1024x1024.jpg?v=1719229285</g:image_link>
       <g:condition>new</g:condition>
@@ -12847,10 +12847,11 @@ Lining 100% Cotton</g:material>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Sports</g:product_type>
-
-      <g:size>0</g:size>
+      <g:color>Blue</g:color>
+      <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
@@ -15839,7 +15840,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418650188</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Baking Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -16135,7 +16136,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128606953</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earrings</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -16175,7 +16176,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128606953</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earrings</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -16215,7 +16216,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128606953</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earrings</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -16382,7 +16383,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128621253</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Hair Clip</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -16526,7 +16527,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15090029134199</g:item_group_id>
       
       <g:title>Christmas House with Gonk - Red</g:title>
-      <g:description>Add a cosy seasonal touch to your home with this charming Christmas decoration featuring a festive house scene and a gonk character. Complete with a wreath, birds, a Christmas tree, and a cheerful gonk, it’s perfect for shelves, mantels, or tabletops.  Available in red or white, Red variant reads: "Warm wishes for a cosy Christmas.", White variant reads: "We wish you a merry Christmas.", This product measures 14 x 6 x 20 cm., </g:description>
+      <g:description>Add a cosy seasonal touch to your home with this charming Christmas house decoration featuring a festive house scene and a gonk character. Complete with a wreath, birds, a Christmas tree, and a cheerful gonk, it’s perfect for shelves, mantels, or tabletops.  Available in red or white, Red variant reads: "Warm wishes for a cosy Christmas.", White variant reads: "We wish you a merry Christmas.", This product measures 14 x 6 x 20 cm., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-house-with-gonk?variant=55650711994743</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84032-red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755875336</g:image_link>
       <g:condition>new</g:condition>
@@ -16568,7 +16569,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15090029134199</g:item_group_id>
       
       <g:title>Christmas House with Gonk - White</g:title>
-      <g:description>Add a cosy seasonal touch to your home with this charming Christmas decoration featuring a festive house scene and a gonk character. Complete with a wreath, birds, a Christmas tree, and a cheerful gonk, it’s perfect for shelves, mantels, or tabletops.  Available in red or white, Red variant reads: "Warm wishes for a cosy Christmas.", White variant reads: "We wish you a merry Christmas.", This product measures 14 x 6 x 20 cm., </g:description>
+      <g:description>Add a cosy seasonal touch to your home with this charming Christmas house decoration featuring a festive house scene and a gonk character. Complete with a wreath, birds, a Christmas tree, and a cheerful gonk, it’s perfect for shelves, mantels, or tabletops.  Available in red or white, Red variant reads: "Warm wishes for a cosy Christmas.", White variant reads: "We wish you a merry Christmas.", This product measures 14 x 6 x 20 cm., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-house-with-gonk?variant=55650712027511</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84032-white-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755875348</g:image_link>
       <g:condition>new</g:condition>
@@ -16972,7 +16973,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128621284</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earrings</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -17176,7 +17177,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128621314</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Necklace</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -17216,7 +17217,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128621314</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Necklace</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -17796,7 +17797,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128621741</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Hair Clip</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -19275,6 +19276,50 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83852</g:id>
+      <g:item_group_id>15078717292919</g:item_group_id>
+      <g:google_product_category>4143</g:google_product_category>
+      <g:title>Clover the Highland Cow Wipe-Clean Tablecloth</g:title>
+      <g:description>Deck your table with a dash of Christmas spirit and a whole lot of practicality. This wipe-clean Christmas tablecloth is made for real homes and real celebrations—where spills happen, guests gather, and memories are made. With its vibrant seasonal design and easy-clean surface, it’s ready to handle everything from mulled wine mishaps to mince pie crumbs. Just wipe and reset—no laundry, no drama. Suitable for rectangular tables with 4-6 settings, the flannel backed tablecloth protects your table and looks great.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/clover-highland-cow-easy-wipe-clean-tablecloth?variant=55561890759031</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83852-1-Clover-Highland-Cow-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493844</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83852-2-Clover-Highland-Cow-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493844</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674242052</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tablecloth</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>178 cm </g:product_length>
+      <g:product_width>132 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -21462,6 +21507,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83845</g:id>
+      <g:item_group_id>15078089687415</g:item_group_id>
+      <g:google_product_category>4453</g:google_product_category>
+      <g:title>Dachshund Applique Cushion</g:title>
+      <g:description>Celebrate the season with our Dachshund Appliqué Cushion, a delightful festive gift for dog lovers, especially proud dachshund owners.  Featuring a traditional tan dachshund dressed in a red coat and Santa hat, this decorative cushion brings festive fun to any room. Its plush comfort makes it perfect for sofas, armchairs, and beds, adding a cosy touch to your holiday décor. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/dachshund-applique-cushion?variant=55558964117879</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83845-Dachshund-Applique-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754477699</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83845-Dachshund-Applique-Cushion-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815319</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241987</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cushion</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_width>50 cm </g:product_width>
+      <g:product_height>30 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD83913</g:id>
       <g:item_group_id>15062466396535</g:item_group_id>
       
@@ -21507,7 +21597,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520937599293</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Dachshund Dog Long Hot Water Bottle</g:title>
-      <g:description>Curl up with this cute dog long hot water bottle, designed to bring warmth, comfort, and fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute.</g:description>
+      <g:description>Curl up with this cute dog long hot water bottle, designed to bring warmth, comfort, and fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/dachshund-dog-long-hot-water-bottle?variant=49003926618429</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83790-Dog-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755786858</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83790-Dog-Long-Hot-Water-Bottle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758023898</g:additional_image_link>
@@ -22284,7 +22374,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15077066080631</g:item_group_id>
       <g:google_product_category>696</g:google_product_category>
       <g:title>Dinky the Dachshund Doorstop</g:title>
-      <g:description>Let Dinky lend a helping paw to stop your doors from banging shut with this adorable dachshund doorstop. At just over 1kg, it's an ideal weight and style for propping doors open in any room.</g:description>
+      <g:description>Let Dinky lend a helping paw to stop your doors from banging shut with this adorable dachshund doorstop. A lovely Christmas gift for dog lovers. At just over 1kg, it's an ideal weight and style for propping doors open in any room.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/dinky-the-dachshund-door-stop?variant=55554727674231</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83869-Dinky-Dachshund-Doorstop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754478542</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83869-Dinky-Dachshund-Doorstop-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758879167</g:additional_image_link>
@@ -22319,9 +22409,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83848</g:id>
       <g:item_group_id>15076743053687</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -22405,7 +22493,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83862</g:id>
       <g:item_group_id>15078696452471</g:item_group_id>
       
@@ -23184,7 +23274,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520827302205</g:item_group_id>
       <g:google_product_category>2169</g:google_product_category>
       <g:title>Disney Winnie the Pooh 3D Relief Christmas Mug</g:title>
-      <g:description>Let Winnie help keep your cup of tea, coffee or hot chocolate hot this winter in this adorable mug. That jolly red hat? It’s actually a sneaky little lid, designed to keep your tea, coffee, or hot chocolate warm while you potter around like it’s the Hundred Acre Wood. A perfect gift for kids, Disney fans, or anyone who thinks mugs should come with a side of honey and holiday cheer. Features:  Earthenware (dolomite) mug, 13 x 12 x 14cm,   </g:description>
+      <g:description>Let Winnie help keep your cup of tea, coffee or hot chocolate hot this winter in this adorable mug. That jolly red hat? It’s actually a sneaky little lid, designed to keep your tea, coffee, or hot chocolate warm while you potter around like it’s the Hundred Acre Wood. A perfect gift for kids, Disney fans, or anyone who thinks mugs should come with a side of honey and Christmas cheer. Features:  Earthenware (dolomite) mug, 13 x 12 x 14cm,   </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/disney-winnie-3d-relief-christmas-mug?variant=49003806851389</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76937-Disney-Winnie-the-Pooh-3D-Mug-1-Cancer-Research-UK-Online-Shop_8413888e-31b3-4f1b-b221-a9906b797afe_1024x1024.jpg?v=1734683118</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76937-Disney-Winnie-the-Pooh-3D-Mug-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683118</g:additional_image_link>
@@ -23214,9 +23304,10 @@ Lining 100% Cotton</g:material>
       <g:brand>Disney</g:brand>
       <g:product_type>Mug</g:product_type>
 
-      <g:size>1</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Ceramic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -23486,7 +23577,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9521294180669</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Donkey Long Hot Water Bottle</g:title>
-      <g:description>Snuggle up with this novelty Donkey Long Hot Water Bottle, designed to bring warmth, comfort, and a touch of fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute.</g:description>
+      <g:description>Snuggle up with this novelty Donkey Long Hot Water Bottle, designed to bring warmth, comfort, and a touch of fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/donkey-long-hot-water-bottle?variant=49004326748477</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83791-Donkey-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755787073</g:image_link>
       <g:condition>new</g:condition>
@@ -23659,7 +23750,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9659091026237</g:item_group_id>
       
       <g:title>Ear Muffs - Nougat</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226049911</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83807-Ear-Muffs-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815780</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
@@ -23685,7 +23776,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674241604</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -23702,7 +23793,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9659091026237</g:item_group_id>
       
       <g:title>Ear Muffs - Charcoal</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226115447</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83809-Ear-Muffs-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815780</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
@@ -23728,7 +23819,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674241628</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -23745,7 +23836,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9659091026237</g:item_group_id>
       
       <g:title>Ear Muffs - Rose</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=55629226082679</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83808-Ear-Muffs-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815780</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
@@ -23771,7 +23862,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674241611</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -23788,7 +23879,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9659091026237</g:item_group_id>
       
       <g:title>Ear Muffs - White</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=49371927183677</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81363-Ear-Muffs-Winter-White-Cancer-Research-UK-Online-Shop_707f36b6-8b95-4cea-a58e-ccd945ffc7e2_1024x1024.jpg?v=1758815186</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
@@ -23814,7 +23905,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674233067</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>2</g:size>
@@ -23833,7 +23924,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9659091026237</g:item_group_id>
       
       <g:title>Ear Muffs - Blush</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=49371927216445</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81364-Ear-Muffs-Pink-Cancer-Research-UK-Online-Shop_d4519338-f64d-43a5-bc1a-76e336ab4c24_1024x1024.jpg?v=1758815186</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
@@ -23859,7 +23950,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674233074</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>2</g:size>
@@ -23878,7 +23969,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9659091026237</g:item_group_id>
       
       <g:title>Ear Muffs - Grey</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs.Co-ordinating items also available.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ear-muffs?variant=49371927249213</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81365-Ear-Muffs-Grey-Cancer-Research-UK-Online-Shop_377bbae7-dc1c-431e-9294-ea53b4017a1f_1024x1024.jpg?v=1758815186</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-3-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702381</g:additional_image_link>
@@ -23904,7 +23995,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674233081</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>2</g:size>
@@ -25205,6 +25296,141 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83822</g:id>
+      <g:item_group_id>15097750782327</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Extra Large Hedgehog Hand Warmer</g:title>
+      <g:description>Cute and cosy, this extra large hedgehog hand warmer is great to snuggle down with on the sofa. The soft cover has a pouch to slip your hands into to keep them toasty warm. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/extra-large-hedgehog-hand-warmer?variant=55629145670007</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83822-Hedgehog-Extra-Large-Hand-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755617936</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83822-Hedgehog-Extra-Large-Hand-Warmer-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760978624</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>12.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241758</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>33 cm </g:product_width>
+      <g:product_height>29 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83823</g:id>
+      <g:item_group_id>14798687994231</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Extra Large Highland Cow Hand Warmer</g:title>
+      <g:description>Cute and cosy, this extra Highland Cow hand warmer is great to snuggle down with on the sofa. The soft, shaggy cover has a pouch to slip your hands into to keep them toasty warm. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/extra-large-highland-cow-hand-warmer?variant=53498738606455</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83823-Highland-Cow-Extra-Large-Hand-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755617663</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-27-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701557</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>12.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241772</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>31 cm </g:product_width>
+      <g:product_height>33 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83825</g:id>
+      <g:item_group_id>14798689141111</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Extra Large Owl Hand Warmer</g:title>
+      <g:description>Looking for a cosy, creative way to stay warm this winter? This extra large hand warmer is the perfect blend of comfort and charm—just slide your hands in and enjoy instant warmth. Its oversized, huggable design makes it ideal for keeping close by on chilly days. Whether you're shopping for a unique gift or treating yourself, this warmer adds a touch of novelty to your cold-weather essentials. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/extra-large-owl-hand-warmer?variant=53498740474231</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83825-Owl-Extra-Large-Hand-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755617653</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83825-Owl-Extra-Large-Hand-Warmer-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760978190</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>12.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241765</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>29 cm </g:product_width>
+      <g:product_height>33 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81415</g:id>
       <g:item_group_id>14867466781047</g:item_group_id>
       
@@ -25383,7 +25609,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15100948316535</g:item_group_id>
       
       <g:title>Fast-Warming Heated Scarf</g:title>
-      <g:description>Combat the chill with this stylish and practical heated scarf. It's the perfect companion for the autumn breeze and winter freeze. Featuring three adjustable heat settings, you can tailor the warmth to suit your comfort level. Its fast-warming technology ensures you feel snug in seconds, ideal for brisk morning commutes or frosty evening strolls.  Power Bank heated, Use a USB cable for recharging, </g:description>
+      <g:description>Combat the chill with this stylish and practical heated scarf. It's the perfect companion for the autumn breeze and winter freeze. Featuring three adjustable heat settings, you can tailor the warmth to suit your comfort level. Its fast-warming technology ensures you feel snug in seconds, ideal for brisk morning commutes or frosty evening strolls.  Power Bank heated, Use a USB cable for recharging,  Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/fast-warming-heated-scarf?variant=55648910541175</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83758-Heated-Scarf-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857348</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83758-Heated-Scarf-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857348</g:additional_image_link>
@@ -25416,52 +25642,6 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:product_width>142 cm </g:product_width>
       <g:product_height>18 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83821</g:id>
-      <g:item_group_id>9520883171645</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Faux Fur 3 in 1 Foot Warmer</g:title>
-      <g:description>Stay warm and comfortable all winter with the Faux Fur 3 in 1 Foot Warmer — a clever combination of hot water bottle, hand warmer, and foot warmer. Its plush faux fur exterior not only adds a touch of luxury but also enhances heat retention for longer-lasting warmth. Perfect for use on the sofa, in bed, or at your desk, it delivers targeted relief to cold hands and aching feet.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-3-in-1-foot-warmer?variant=53496042520951</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83821-Charcoal-3in1-Foot-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755860040</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1755860078</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1759328700</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>11.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241741</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hand Warmer</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Natural rubber hot water bottle with 100% polyester cover</g:material>
-      <g:product_width>36 cm </g:product_width>
-      <g:product_height>28 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -25516,7 +25696,7 @@ Lining 100% Cotton</g:material>
       <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -25567,7 +25747,7 @@ Lining 100% Cotton</g:material>
       <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -25619,7 +25799,7 @@ Lining 100% Cotton</g:material>
       <g:product_height>34 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -25664,7 +25844,7 @@ Lining 100% Cotton</g:material>
       <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -25709,7 +25889,7 @@ Lining 100% Cotton</g:material>
       <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -25753,7 +25933,7 @@ Lining 100% Cotton</g:material>
       <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -25763,7 +25943,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Nougat</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629289587063</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83774-Fur-Neck-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_9bbff1ad-76ef-4a40-9fd3-baa8c0694fa5_1024x1024.jpg?v=1758815651</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
@@ -25806,7 +25986,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Rose</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629289619831</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83775-Fur-Neck-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815651</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
@@ -25849,7 +26029,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Charcoal</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=55629298663799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83776-Fur-Neck-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815651</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
@@ -25892,7 +26072,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520864952637</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Faux Fur Neck Hot Water Bottle - Green</g:title>
-      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Available in four colour options, pair it up with our regular or longer body bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:description>Ideal for keeping a chill away, and for relieving neck pains, this super-soft, faux fur covered neck hot water bottle is perfect for the winter. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-neck-hot-water-bottle?variant=49005497614653</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76386-Green-Neck-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815390</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
@@ -30920,6 +31100,96 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83844</g:id>
+      <g:item_group_id>15078067437943</g:item_group_id>
+      <g:google_product_category>4453</g:google_product_category>
+      <g:title>Highland Cow Applique Cushion</g:title>
+      <g:description>This applique cushion has been thoughtfully designed to blend comfort with character. The tactile appliqué adds a handcrafted feel, making it a favourite among those who appreciate cosy, countryside-inspired interiors. Whether placed on a sofa, armchair, or nursery rocker, this cushion invites relaxation and conversation.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-applique-cushion?variant=55558867911031</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83844-Highland-Cow-Applique-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754477879</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83844-Highland-Cow-Applique-Cushion-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756817508</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83844-Highland-Cow-Applique-Cushion-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756817508</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241970</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cushion</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_width>50 cm </g:product_width>
+      <g:product_height>30 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX79774COW</g:id>
+      <g:item_group_id>15135520391543</g:item_group_id>
+      
+      <g:title>Highland Cow Boot Socks</g:title>
+      <g:description>Ideal for long walks, for heading to work, or just for around the house, these Highland Cow Boot Socks are specially designed for colder weather. With a thick, soft, cotton-mix terry lining, these socks are ideal for wearing with boots for extra comfort and warmth. One size (UK 4-8/Euro 37-42). Please note, the packaging indicates these are ladies' socks although they are unisex.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-boot-socks?variant=55789839188343</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX79774COW-Highland-Cow-Boot-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760958404</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033323797748</g:gtin>
+ 
+      <g:brand>Feathers &amp; Fluff</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:material>Cotton/polyester/polyamide</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84640</g:id>
       <g:item_group_id>15087454749047</g:item_group_id>
       
@@ -30950,7 +31220,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322106251</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Home Accessories</g:product_type>
+      <g:product_type>Jug</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -31311,7 +31581,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9659088601405</g:item_group_id>
       
       <g:title>Highland Cow Long Hot Water Bottle</g:title>
-      <g:description>Snuggle up with our cute Highland Cow Long Hot Water Bottle, designed to bring warmth, comfort, and a touch of fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute.</g:description>
+      <g:description>Snuggle up with our cute Highland Cow Long Hot Water Bottle, designed to bring warmth, comfort, and a touch of fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-long-hot-water-bottle?variant=49371922268477</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83789-Highland-Cow-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755786054</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-7-2048x2048-Cancer-Research-UK-Online-Shop_5c6b4110-fc1d-4c05-a351-d0228b378c38_1024x1024.jpg?v=1756229173</g:additional_image_link>
@@ -35401,50 +35671,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83132</g:id>
-      <g:item_group_id>15099003502967</g:item_group_id>
-      
-      <g:title>Ladies Halloween Welly Socks</g:title>
-      <g:description>Step into spooky season with our women's Halloween welly socks, designed especially for Wellington or other long boots. Made from soft, durable fabric, these socks are perfect for those muddy and chilly autumn walks. One size. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ladies-halloween-welly-socks?variant=55637095973239</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83132-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755694664</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033325831327</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:size>4</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:material>Cotton/polyester/elastine</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX81571-10</g:id>
       <g:item_group_id>14868051624311</g:item_group_id>
       
@@ -35486,7 +35712,7 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -35532,7 +35758,7 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -35578,7 +35804,7 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -35624,7 +35850,7 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -35670,7 +35896,7 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -35716,7 +35942,7 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -35762,7 +35988,7 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -35808,7 +36034,7 @@ Lining 100% Cotton</g:material>
       <g:material>100% polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -36531,17 +36757,16 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Activities</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81304</g:id>
       <g:item_group_id>14781827383671</g:item_group_id>
       
@@ -36813,7 +37038,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83751</g:id>
       <g:item_group_id>15079870726519</g:item_group_id>
       
@@ -37497,7 +37724,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15079206945143</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
       <g:title>Luxury Blanket Throw - Red</g:title>
-      <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Design is exclusive to Cancer Research UK.</g:description>
+      <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=55566031651191</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83857-Luxury-Plain-Fleece-Throw-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754554862</g:image_link>
       <g:condition>new</g:condition>
@@ -37541,7 +37768,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15079206945143</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
       <g:title>Luxury Blanket Throw - Evergreen</g:title>
-      <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Design is exclusive to Cancer Research UK.</g:description>
+      <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=55566031683959</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83858-Luxury-Plain-Fleece-Throw-Evergreen-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555671</g:image_link>
       <g:condition>new</g:condition>
@@ -37585,7 +37812,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15079206945143</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
       <g:title>Luxury Blanket Throw - Charcoal</g:title>
-      <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Design is exclusive to Cancer Research UK.</g:description>
+      <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=55566031716727</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83859-Luxury-Plain-Fleece-Throw-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555702</g:image_link>
       <g:condition>new</g:condition>
@@ -37715,11 +37942,57 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX83821</g:id>
+      <g:item_group_id>9520883171645</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur 3 in 1 Foot Warmer</g:title>
+      <g:description>Stay warm and comfortable all winter with the Faux Fur 3 in 1 Foot Warmer — a clever combination of hot water bottle, hand warmer, and foot warmer. Its plush faux fur exterior not only adds a touch of luxury but also enhances heat retention for longer-lasting warmth. Perfect for use on the sofa, in bed, or at your desk, it delivers targeted relief to cold hands and aching feet. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-3-in-1-foot-warmer?variant=53496042520951</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83821-Charcoal-3in1-Foot-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755860040</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1755860078</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1759328700</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>11.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241741</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Natural rubber hot water bottle with 100% polyester cover</g:material>
+      <g:product_width>36 cm </g:product_width>
+      <g:product_height>28 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83783</g:id>
       <g:item_group_id>15099966128503</g:item_group_id>
       
       <g:title>Luxury Faux Fur Bag - Nougat</g:title>
-      <g:description>Experience warmth and elegance with this Luxury Faux Fur Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you comfortable while adding a touch of sophistication to your outfit. </g:description>
+      <g:description>Experience warmth and elegance with this Luxury Faux Fur Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you comfortable while adding a touch of sophistication to your outfit.  Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-bag?variant=55642373194103</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83783-Fur-Bag-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755779055</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-20-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756229042</g:additional_image_link>
@@ -37764,7 +38037,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15099966128503</g:item_group_id>
       
       <g:title>Luxury Faux Fur Bag - Rose</g:title>
-      <g:description>Experience warmth and elegance with this Luxury Faux Fur Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you comfortable while adding a touch of sophistication to your outfit. </g:description>
+      <g:description>Experience warmth and elegance with this Luxury Faux Fur Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you comfortable while adding a touch of sophistication to your outfit.  Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-bag?variant=55642373226871</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83784-Fur-Bag-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755779065</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-20-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756229042</g:additional_image_link>
@@ -37809,7 +38082,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15099966128503</g:item_group_id>
       
       <g:title>Luxury Faux Fur Bag - Charcoal</g:title>
-      <g:description>Experience warmth and elegance with this Luxury Faux Fur Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you comfortable while adding a touch of sophistication to your outfit. </g:description>
+      <g:description>Experience warmth and elegance with this Luxury Faux Fur Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you comfortable while adding a touch of sophistication to your outfit.  Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-bag?variant=55642373259639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83785-Fur-Bag-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755779073</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-20-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756229042</g:additional_image_link>
@@ -37855,7 +38128,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15099969077623</g:item_group_id>
       
       <g:title>Luxury Faux Fur Cosmetics Bag - Rose</g:title>
-      <g:description>Experience warmth and elegance with this Luxury Faux Fur Cosmetics Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you and your goodies comfortable.</g:description>
+      <g:description>Experience warmth and elegance with this Luxury Faux Fur Cosmetics Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you and your goodies comfortable. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-cosmetics-bag?variant=55642396393847</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83787-Fur-Cosmetics-Bag-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759937525</g:image_link>
       <g:condition>new</g:condition>
@@ -37896,7 +38169,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15099969077623</g:item_group_id>
       
       <g:title>Luxury Faux Fur Cosmetics Bag - Charcoal</g:title>
-      <g:description>Experience warmth and elegance with this Luxury Faux Fur Cosmetics Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you and your goodies comfortable.</g:description>
+      <g:description>Experience warmth and elegance with this Luxury Faux Fur Cosmetics Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you and your goodies comfortable. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-cosmetics-bag?variant=55642396426615</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83788-Fur-Cosmetics-Bag-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759937525</g:image_link>
       <g:condition>new</g:condition>
@@ -37937,7 +38210,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15099969077623</g:item_group_id>
       
       <g:title>Luxury Faux Fur Cosmetics Bag - Nougat</g:title>
-      <g:description>Experience warmth and elegance with this Luxury Faux Fur Cosmetics Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you and your goodies comfortable.</g:description>
+      <g:description>Experience warmth and elegance with this Luxury Faux Fur Cosmetics Bag. Crafted to provide a cosy feel, it’s the perfect accessory to keep you and your goodies comfortable. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-cosmetics-bag?variant=55642396361079</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83786-Fur-Cosmetics-Bag-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759937525</g:image_link>
       <g:condition>new</g:condition>
@@ -37979,7 +38252,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15100896674167</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Luxury Faux Fur Hot Water Bottle - Rose</g:title>
-      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. </g:description>
+      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665436535</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83772-Fut-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815217</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1755854757</g:additional_image_link>
@@ -38022,7 +38295,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15100896674167</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Luxury Faux Fur Hot Water Bottle - Nougat</g:title>
-      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. </g:description>
+      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665403767</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83771-Fur-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815217</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1755854757</g:additional_image_link>
@@ -38065,7 +38338,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15100896674167</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Luxury Faux Fur Hot Water Bottle - Charcoal</g:title>
-      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. </g:description>
+      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665469303</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83773-Fur-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755854728</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1755854757</g:additional_image_link>
@@ -38109,7 +38382,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15099834433911</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Luxury Faux Fur Long Hot Water Bottle - Charcoal</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=55641989054839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83779-Fur-Long-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815696</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
@@ -38156,7 +38429,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15099834433911</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Luxury Faux Fur Long Hot Water Bottle - Nougat</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=55641988989303</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83777-Fur-Long-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815696</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
@@ -38203,7 +38476,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15099834433911</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Luxury Faux Fur Long Hot Water Bottle - Rose</g:title>
-      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover.</g:description>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=55641989022071</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83778-Fur-Long-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815696</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
@@ -38239,6 +38512,408 @@ Lining 100% Cotton</g:material>
       <g:material>Rubber/polyester</g:material>
       <g:product_width>16 cm </g:product_width>
       <g:product_height>74 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83805</g:id>
+      <g:item_group_id>15099685273975</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mid-Size Hand Warmer - Rose</g:title>
+      <g:description>Crafted with insulating materials and a thoughtful design that traps heat, this hand warmer reflects a deep understanding of cold-weather comfort. Unlike gloves, it allows for quick access to your hands while still keeping them warm, making it ideal for multitasking or sensitive skin. Simply slide your hands into the side pockets for instant warmth. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mid-size-hand-warmer?variant=55641299616119</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83805-Mid-Hand-Warmers-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760959343</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241581</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:color>Rose</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>28 cm </g:product_width>
+      <g:product_height>15 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83804</g:id>
+      <g:item_group_id>15099685273975</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mid-Size Hand Warmer - Nougat</g:title>
+      <g:description>Crafted with insulating materials and a thoughtful design that traps heat, this hand warmer reflects a deep understanding of cold-weather comfort. Unlike gloves, it allows for quick access to your hands while still keeping them warm, making it ideal for multitasking or sensitive skin. Simply slide your hands into the side pockets for instant warmth. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mid-size-hand-warmer?variant=55641299583351</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83804-Mid-Hand-Warmers-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760959343</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241574</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:color>Rose</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>28 cm </g:product_width>
+      <g:product_height>15 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83806</g:id>
+      <g:item_group_id>15099685273975</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mid-Size Hand Warmer - Charcoal</g:title>
+      <g:description>Crafted with insulating materials and a thoughtful design that traps heat, this hand warmer reflects a deep understanding of cold-weather comfort. Unlike gloves, it allows for quick access to your hands while still keeping them warm, making it ideal for multitasking or sensitive skin. Simply slide your hands into the side pockets for instant warmth. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mid-size-hand-warmer?variant=55641299648887</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83806-Mid-Hand-Warmers-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766351</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241598</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:color>Rose</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>28 cm </g:product_width>
+      <g:product_height>15 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83801</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Nougat</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=55641287786871</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83801-Mini-Hand-Warmers-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755765899</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241543</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>14 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83802</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Rose</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=55641287819639</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83802-Mini-Hand-Warmers-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755765933</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241550</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>14 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83803</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Charcoal</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=55641287852407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83803-Mini-Hand-Warmers-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755765991</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241567</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>14 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83780</g:id>
+      <g:item_group_id>15099115569527</g:item_group_id>
+      
+      <g:title>Luxury Faux Fur Mittens - Nougat</g:title>
+      <g:description>Keep your hands warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulous faux fur mittens. A perfect choice for autumns rain and winters freeze. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-mittens?variant=55637744320887</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83780-Fur-Mittens-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755700362</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83780-Luxury-Faux-Fur-Mittens-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83780-Luxury-Faux-Fur-Mittens-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241369</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Gloves</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83781</g:id>
+      <g:item_group_id>15099115569527</g:item_group_id>
+      
+      <g:title>Luxury Faux Fur Mittens - Rose</g:title>
+      <g:description>Keep your hands warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulous faux fur mittens. A perfect choice for autumns rain and winters freeze. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-mittens?variant=55637744353655</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83781-Fur-Mittens-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755700348</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83780-Luxury-Faux-Fur-Mittens-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83780-Luxury-Faux-Fur-Mittens-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241376</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Gloves</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83782</g:id>
+      <g:item_group_id>15099115569527</g:item_group_id>
+      
+      <g:title>Luxury Faux Fur Mittens - Charcoal</g:title>
+      <g:description>Keep your hands warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulous faux fur mittens. A perfect choice for autumns rain and winters freeze. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-mittens?variant=55637744386423</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83782-Fur-Mittens-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755700333</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83780-Luxury-Faux-Fur-Mittens-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83780-Luxury-Faux-Fur-Mittens-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756812947</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241383</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Gloves</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -39273,9 +39948,9 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9521013227837</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Merry Christmas Bunting</g:title>
-      <g:description>Hang some festive cheer anywhere with this red foil Merry Christmas bunting banner.Features:	Giftmaker Merry Christmas Bunting,	Cords 1.5m long, lettering 18cm high,	Recyclable packaging,	5012128581243, </g:description>
+      <g:description>Hang some festive cheer anywhere with this red foil Merry Christmas bunting. A bold, festive statement for parties, home displays, or office celebrations. Lightweight and easy to hang, it arrives neatly packaged and ready to brighten up any space with a touch of Christmas cheer. Features:  Includes Cords 1.5m long, lettering 18cm high, Recyclable packaging , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/merry-christmas-bunting?variant=49004009521469</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76497-Giftmaker-1.5m-Merry-Christmas-Bunting-Cancer-Research-UK-Online-Shop_dda3dd1e-ebec-44ee-8f41-be73f738a3ff_1024x1024.jpg?v=1734683086</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76497-Giftmaker-1.5m-Merry-Christmas-Bunting-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760991943</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.79 GBP</g:price>
@@ -39299,7 +39974,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Decorations</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -41542,7 +42217,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15136611795319</g:item_group_id>
       
       <g:title>MooGoo Lip Balm Gift Set</g:title>
-      <g:description>Crafted with care and tested by real people who know the struggle of dry, chapped lips, each balm in this Christmas lip balm gift set delivers a smooth, soothing glide that instantly comforts and hydrates. From the first swipe, you’ll feel the difference – no waxy residue, just soft, happy lips. This gift set includes the following flavours:  Coconut Cream, Vanilla Dream, Cow Lick, Tingling Honey, SPF 15, Strawberry Tinted,  </g:description>
+      <g:description>Crafted with care and tested by real people who know the struggle of dry, chapped lips, each balm in this Christmas lip balm gift set delivers a smooth, soothing glide that instantly comforts and hydrates. From the first swipe, you’ll feel the difference – no waxy residue, just soft, happy lips. This gift set includes the following flavours:  Coconut Cream, Vanilla Dream, Cow Lick, Tingling Honey, SPF 15, Strawberry Tinted, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-lip-balm-gift-set?variant=55794072322423</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85011-MooGoo-Lip-Balm-Set-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758119331</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85011-MooGoo-Lip-Balm-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758119332</g:additional_image_link>
@@ -41569,9 +42244,11 @@ Lining 100% Cotton</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Lip Balm</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Skincare</g:custom_label_2>
@@ -44319,7 +44996,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Greeting Card</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -44480,7 +45157,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128596582</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Glasses</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44521,7 +45198,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128596582</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Glasses</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44562,7 +45239,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128596582</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Glasses</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44604,7 +45281,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128596940</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Headband</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44645,7 +45322,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128596940</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Headband</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44686,7 +45363,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128595073</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Novelty Tie</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44726,7 +45403,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128595073</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Novelty Tie</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44768,7 +45445,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012213453820</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Headband</g:product_type>
 
       <g:color>Brown</g:color>
       <g:size>0</g:size>
@@ -44810,7 +45487,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012213453820</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Headband</g:product_type>
 
       <g:color>Brown</g:color>
       <g:size>0</g:size>
@@ -46549,7 +47226,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/pom-pom-headband-spider?variant=55627580113271</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83459-Halloween-Headbands-Spiders-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755597180</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -46611,7 +47288,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128606069</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Headband</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -50977,7 +51654,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5023674238703</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bathroom Towel</g:product_type>
+      <g:product_type>Towel</g:product_type>
 
       <g:color>Sage Green</g:color>
       <g:size>1</g:size>
@@ -51021,7 +51698,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5023674238703</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bathroom Towel</g:product_type>
+      <g:product_type>Towel</g:product_type>
 
       <g:color>Sage Green</g:color>
       <g:size>0</g:size>
@@ -51118,50 +51795,6 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:product_length>38 cm </g:product_length>
       <g:product_width>38 cm </g:product_width>
       <g:product_height>38 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83436PUMPKIN</g:id>
-      <g:item_group_id>15095058792823</g:item_group_id>
-      
-      <g:title>Pumpkin Tea Towel Duo</g:title>
-      <g:description>Keep your kitchen clean and stylish with these duo set of pumpkin printed kitchen tea towels. A spooky, but practical touch for any home. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-tea-towel-duo?variant=55622499598711</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83436-Halloween-Tea-Towels-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755614089</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238697</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Tea Towel</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% Cotton</g:material>
-      <g:product_width>45 cm </g:product_width>
-      <g:product_height>65 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -55896,9 +56529,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC26862</g:id>
       <g:item_group_id>9521150067005</g:item_group_id>
       <g:google_product_category>5192</g:google_product_category>
@@ -56311,7 +56942,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC26861</g:id>
       <g:item_group_id>9522286625085</g:item_group_id>
       <g:google_product_category>5192</g:google_product_category>
@@ -57283,6 +57916,50 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CX83851</g:id>
+      <g:item_group_id>15078715818359</g:item_group_id>
+      <g:google_product_category>4143</g:google_product_category>
+      <g:title>Ralph the Robin Wipe-Clean Tablecloth</g:title>
+      <g:description>Deck your table with a dash of Christmas spirit and a whole lot of practicality. This wipe-clean robin Christmas tablecloth is made for real homes and real celebrations—where spills happen, guests gather, and memories are made. With its vibrant seasonal design and easy-clean surface, it’s ready to handle everything from mulled wine mishaps to mince pie crumbs. Just wipe and reset—no laundry, no drama. Suitable for rectangular tables with 4-6 settings, the flannel backed tablecloth protects your table and looks great.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/robin-design-easy-wipe-clean-tablecloth?variant=55561887777143</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83851-1-Ralph-Robin-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493735</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83851-2-Ralph-Robin-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493735</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674242045</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tablecloth</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>178 cm </g:product_length>
+      <g:product_width>132 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX32006</g:id>
       <g:item_group_id>14909015982455</g:item_group_id>
       
@@ -58160,7 +58837,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15099135426935</g:item_group_id>
       
       <g:title>Reindeer Ear Muffs - Red</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy reindeer ear muffs. Co-ordinating items also available.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy reindeer ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/reindeer-ear-muffs?variant=55637795963255</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83810-Red-Reindeer-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760091435</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-7-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702343</g:additional_image_link>
@@ -58185,7 +58862,7 @@ Outsole synthetic</g:material>
       <g:gtin>5023674241635</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Red</g:color>
       <g:size>0</g:size>
@@ -58202,7 +58879,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15099135426935</g:item_group_id>
       
       <g:title>Reindeer Ear Muffs - Brown</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy reindeer ear muffs. Co-ordinating items also available.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy reindeer ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/reindeer-ear-muffs?variant=55637795996023</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83811-Brown-Reindeer-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760091435</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-7-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702343</g:additional_image_link>
@@ -58227,7 +58904,7 @@ Outsole synthetic</g:material>
       <g:gtin>5023674241642</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
+      <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Red</g:color>
       <g:size>0</g:size>
@@ -58985,6 +59662,51 @@ Outsole synthetic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83843</g:id>
+      <g:item_group_id>15078053773687</g:item_group_id>
+      <g:google_product_category>4453</g:google_product_category>
+      <g:title>Robin Applique Cushion</g:title>
+      <g:description>This Robin Applique Cushion offers comfort and a festive touch that complements any room. Its charming robin design and vibrant red trim make it a perfect accent for chairs, sofas, or beds. Adding seasonal warmth, this cushion pairs beautifully with a variety of Christmas homewares, helping you create a welcoming and joyful atmosphere throughout your home.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/robin-applique-cushion?variant=55558793167223</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83843-Robin-Applique-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754478409</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83843-Robin-Applique-Cushion-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815394</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241963</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cushion</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_width>43 cm </g:product_width>
+      <g:product_height>43 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -65895,7 +66617,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -67740,7 +68462,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -72206,7 +72928,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608919415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/comfibraBlack_80dd094d-4e86-4e50-b690-8a239fbd1ff4_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -73927,6 +74649,50 @@ Outsole synthetic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX79774SCOTTIE</g:id>
+      <g:item_group_id>15135493718391</g:item_group_id>
+      
+      <g:title>Scottie Dog Boot Socks</g:title>
+      <g:description>Ideal for walking the dogs, these Scottie Dog Boot Socks are specially designed for colder weather. With a thick, soft, cotton-mix terry lining, these socks are ideal for wearing with boots for extra comfort and warmth. One size (UK 4-8/Euro 37-42). Please note, the packaging indicates these are ladies' socks although they are unisex.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/scottie-dog-boot-socks?variant=55789738983799</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX79774SCOTTIE-Scottie-Dog-Boot-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760958264</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033323797748</g:gtin>
+ 
+      <g:brand>Feathers &amp; Fluff</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:material>Cotton/polyester/polyamide</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -79109,7 +79875,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Nougat / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511095671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79150,7 +79916,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Nougat / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511128439</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79191,7 +79957,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Grey / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923054909</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79234,7 +80000,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Grey / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923087677</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79277,7 +80043,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - White / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922923837</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79320,7 +80086,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - White / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922956605</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79363,7 +80129,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Blush / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922989373</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79406,7 +80172,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Blush / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Co-ordinating items also available. S/M = UK 3-6 X/XL = UK 7-10</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923022141</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -80267,6 +81033,50 @@ Outsole synthetic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX79774STAG</g:id>
+      <g:item_group_id>15136713113975</g:item_group_id>
+      
+      <g:title>Stag Boot Socks</g:title>
+      <g:description>Ideal for festive walks or staying warm at home, these Stag Boot Socks are specially designed for colder weather. With a thick, soft, cotton-mix terry lining, these socks are ideal for wearing with boots for extra comfort and warmth. One size (UK 4-8/Euro 37-42). Please note, the packaging indicates these are ladies' socks although they are unisex.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stag-boot-socks?variant=55794397446519</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX79774STAG-Stag-Boot-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760958128</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033323797748</g:gtin>
+ 
+      <g:brand>Feathers &amp; Fluff</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:material>Cotton/polyester/polyamide</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -84875,9 +85685,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU79629</g:id>
       <g:item_group_id>9520924033341</g:item_group_id>
       <g:google_product_category>7237</g:google_product_category>
@@ -85090,6 +85898,50 @@ Outsole synthetic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX79774THISTLE</g:id>
+      <g:item_group_id>15135499649399</g:item_group_id>
+      
+      <g:title>Thistle Boot Socks</g:title>
+      <g:description>Ideal for embracing nature or for showing your love of Scotland, these Thistle Boot Socks are specially designed for colder weather. With a thick, soft, cotton-mix terry lining, these socks are ideal for wearing with boots for extra comfort and warmth. One size (UK 4-8/Euro 37-42). Please note, the packaging indicates these are ladies' socks although they are unisex.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/thistle-boot-socks?variant=55789757661559</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX79774THISTLE-Thistle-Boot-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760958191</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033323797748</g:gtin>
+ 
+      <g:brand>Feathers &amp; Fluff</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:material>Cotton/polyester/polyamide</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -85438,7 +86290,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83662</g:id>
       <g:item_group_id>15087454519671</g:item_group_id>
       
@@ -94487,7 +95341,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521394254141</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Waist Warmer Hot Water Bottle Belt - Rose</g:title>
-      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
+      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=55629255803255</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83769-Waist-Warmer-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815328</g:image_link>
       <g:condition>new</g:condition>
@@ -94529,7 +95383,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521394254141</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Waist Warmer Hot Water Bottle Belt - Nougat</g:title>
-      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
+      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=55629255770487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83768-Waist-Warmer-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815328</g:image_link>
       <g:condition>new</g:condition>
@@ -94571,7 +95425,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521394254141</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Waist Warmer Hot Water Bottle Belt - Charcoal</g:title>
-      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
+      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=55629255836023</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83770-Waist-Warmer-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758815328</g:image_link>
       <g:condition>new</g:condition>
@@ -94613,7 +95467,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521394254141</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Waist Warmer Hot Water Bottle Belt - Light Grey</g:title>
-      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
+      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=53496004968823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81354-Waist-Warmer-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757669041</g:image_link>
       <g:condition>new</g:condition>
@@ -94655,7 +95509,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521394254141</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Waist Warmer Hot Water Bottle Belt - White</g:title>
-      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
+      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=49365614002493</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81352-Waist-Warmer-Winter-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757669041</g:image_link>
       <g:condition>new</g:condition>
@@ -94699,7 +95553,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521394254141</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Waist Warmer Hot Water Bottle Belt - Blush</g:title>
-      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water.</g:description>
+      <g:description>Ideal for helping to ease stomach cramps, period pain, general aches, or just for getting a little extra warmth, our wrap-around hot water bottle belt is perfect. The soft polyester cover with hook-and-loop fastening features a pouch for slipping in the included hot water bottle. Approximately 113cm long, 22cm tall (44½" x 8½"), 535g excluding water. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/waist-warmer-hot-water-bottle-belt?variant=53496004936055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81353-Waist-Warmer-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757669041</g:image_link>
       <g:condition>new</g:condition>
@@ -96784,9 +97638,10 @@ Outsole synthetic</g:material>
 
       <g:product_type>Christmas Lights</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Wood</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
