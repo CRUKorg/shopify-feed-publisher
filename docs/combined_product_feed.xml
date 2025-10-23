@@ -7519,50 +7519,6 @@
 
 	
     <item>
-      <g:id>CR80786-ZEBRA</g:id>
-      <g:item_group_id>14620279079287</g:item_group_id>
-      
-      <g:title>Breast Cancer Awareness 3 Pack Ladies Zebra Socks</g:title>
-      <g:description>A three pack of ladies socks in 3 different zebra print designs  Features:  3 pairs of socks, One size, UK 4-7, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/breast-cancer-awareness-3-pack-ladies-zebra-socks?variant=53466621968759</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80786Zebra-Zebra-Standard-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728054852</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-      <g:sale_price>1.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033324807866</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-      <g:color>Pink/Black/White</g:color>
-      <g:size>One Size</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR80905</g:id>
       <g:item_group_id>14937224118647</g:item_group_id>
       
@@ -8027,7 +7983,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Calendar</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:product_length>0.3 cm </g:product_length>
@@ -8045,7 +8001,7 @@
       <g:item_group_id>9659257717053</g:item_group_id>
       
       <g:title>Cancer Research UK 2026 Slim Calendar</g:title>
-      <g:description>Stay organised throughout 2026 with this slim calendar, designed to hang easily on any wall. Notable UK dates are already highlighted, but there's dedicated spaces for writing in appointments and your own special dates, helping you keep track of important moments with ease and clarity.  Perfect for planning ahead while adding a practical touch to your home or office.</g:description>
+      <g:description>Stay organised throughout 2026 with this slim month-to-view calendar, designed to hang easily on any wall. Notable UK dates are already highlighted, but there's dedicated spaces for writing in appointments and your own special dates, helping you keep track of important moments with ease and clarity.  Perfect for planning ahead while adding a practical touch to your home or office.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-slim-calendar?variant=49372363555133</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83899-2026-Bev-Ibbotson-Calendar-Cancer-Research-UK-Online-Shop_e14aea9f-1896-4057-93d6-cc977ab54b3a_1024x1024.jpg?v=1755860679</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83899-Jan-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757428866</g:additional_image_link>
@@ -22410,7 +22366,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83848</g:id>
       <g:item_group_id>15076743053687</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -22451,9 +22409,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83855</g:id>
       <g:item_group_id>15077015290231</g:item_group_id>
       <g:google_product_category>576</g:google_product_category>
@@ -29553,10 +29509,10 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15090030117239</g:item_group_id>
       
       <g:title>Gingerbread Storage Tin</g:title>
-      <g:description>Keep your festive treats fresh with this charming gingerbread-themed storage tin. Decorated with cheerful gingerbread men and heart-shaped cookies, it’s perfect for storing biscuits, sweets, or baking essentials. The wooden lid adds a rustic touch, making it a practical and decorative addition to your kitchen. This product measures 13 x 13 x 18 cm.</g:description>
+      <g:description>Keep your festive treats fresh with this charming gingerbread-themed storage tin. Decorated with cheerful gingerbread men and heart-shaped cookies, it’s perfect for storing biscuits, sweets, or baking essentials. The wooden lid adds a rustic touch, making it a practical and decorative addition to your kitchen.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/gingerbread-storage-tin?variant=55604445282679</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84625-Gingerbread-Storage-Tin-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755257909</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84625-Gingerbread-Storage-Tin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823701</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84625-Christmas-Gingerbread-Storage-Tin-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761127927</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84625-Gingerbread-Storage-Tin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761127927</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>8.49 GBP</g:price>
@@ -29580,10 +29536,13 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Storage Tin</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>60% galvanised iron/30% mango wood/10% silicone</g:material>
+      <g:product_length>13 cm </g:product_length>
+      <g:product_width>13 cm </g:product_width>
+      <g:product_height>18 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -36771,7 +36730,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX81304</g:id>
       <g:item_group_id>14781827383671</g:item_group_id>
       
@@ -36860,9 +36821,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83749</g:id>
       <g:item_group_id>15088791978359</g:item_group_id>
       
@@ -37867,7 +37826,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81385-Red-Checked-Luxury-Throw-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683094</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81385-Luxury-Checked-Blanket-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683094</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>13.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -37890,7 +37849,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Blankets</g:product_type>
 
-      <g:color>Natural</g:color>
+      <g:color>Red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -37934,7 +37893,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Blankets</g:product_type>
 
-      <g:color>Natural</g:color>
+      <g:color>Red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -56534,7 +56493,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC26862</g:id>
       <g:item_group_id>9521150067005</g:item_group_id>
       <g:google_product_category>5192</g:google_product_category>
@@ -56581,9 +56542,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC30483</g:id>
       <g:item_group_id>9521150886205</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -58050,6 +58009,130 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CW84466FALA</g:id>
+      <g:item_group_id>9521164091709</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 1.5m Mixed Metallic Christmas Wrapping Paper - Silver Falala</g:title>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49004176015677</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586146</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Silver Falala</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84466REIN</g:id>
+      <g:item_group_id>9521164091709</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 1.5m Mixed Metallic Christmas Wrapping Paper - Reindeers</g:title>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49005576880445</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586146</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Silver Falala</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84466TREE</g:id>
+      <g:item_group_id>9521164091709</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Recyclable 1.5m Mixed Metallic Christmas Wrapping Paper - Gold Trees</g:title>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49005576913213</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213586146</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Silver Falala</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW84468SILVER</g:id>
       <g:item_group_id>9521164681533</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -58166,130 +58249,6 @@ Outsole synthetic</g:material>
       <g:product_type>Christmas Wrapping Paper</g:product_type>
 
       <g:color>Silver</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CW84466FALA</g:id>
-      <g:item_group_id>9521164091709</g:item_group_id>
-      <g:google_product_category>2816</g:google_product_category>
-      <g:title>Recyclable 4m Mixed Metallic Christmas Wrapping Paper - Silver Falala</g:title>
-      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49004176015677</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213586146</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Wrapping Paper</g:product_type>
-
-      <g:color>Silver Falala</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CW84466REIN</g:id>
-      <g:item_group_id>9521164091709</g:item_group_id>
-      <g:google_product_category>2816</g:google_product_category>
-      <g:title>Recyclable 4m Mixed Metallic Christmas Wrapping Paper - Reindeers</g:title>
-      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49005576880445</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213586146</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Wrapping Paper</g:product_type>
-
-      <g:color>Silver Falala</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CW84466TREE</g:id>
-      <g:item_group_id>9521164091709</g:item_group_id>
-      <g:google_product_category>2816</g:google_product_category>
-      <g:title>Recyclable 4m Mixed Metallic Christmas Wrapping Paper - Gold Trees</g:title>
-      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49005576913213</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213586146</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Wrapping Paper</g:product_type>
-
-      <g:color>Silver Falala</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -65182,7 +65141,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -71988,7 +71947,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608231287</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/comfibraBlack_80dd094d-4e86-4e50-b690-8a239fbd1ff4_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -85690,7 +85649,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR82184</g:id>
       <g:item_group_id>9520935633213</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -85732,9 +85693,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82179</g:id>
       <g:item_group_id>9521005232445</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
