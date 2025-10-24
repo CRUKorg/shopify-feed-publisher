@@ -1676,6 +1676,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -2201,7 +2202,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tea Towel</g:product_type>
 
-      <g:color>Sage Green</g:color>
+      <g:color>Dark Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -2220,7 +2221,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bee-duo-tea-towels?variant=55358594351479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR83074-Bee-Tea-Towel-Duo-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1751038647</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -2242,7 +2243,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tea Towel</g:product_type>
 
-      <g:color>Sage Green</g:color>
+      <g:color>Dark Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -13992,6 +13993,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -14902,6 +14904,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -14946,6 +14949,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -14988,8 +14992,9 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-halloween-socks?variant=55756579078519</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83131-Cancer-Research-UK-Online-Shop_4323872a-1214-426f-bc1c-096f90f89acc_1024x1024.jpg?v=1755692788</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15033,6 +15038,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15077,6 +15083,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15121,6 +15128,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15249,6 +15257,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15372,48 +15381,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83452</g:id>
-      <g:item_group_id>15088087794039</g:item_group_id>
-      
-      <g:title>Children's Pumpkin Painting Kit</g:title>
-      <g:description>No mess, no fuss—just dip your brush and paint! Whether it’s for classroom crafts, rainy-day entertainment, or Halloween decorating, this Halloween painting kit is a brilliant way to spark imagination and keep kids engaged. Great for all ages and skill levels, it’s a fun, fuss-free way to make something truly unique. Features:  Ceramic pumpkin, 6 different coloured paints with brush, Pumpkin height measures 19 cm,  Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/childrens-pumpkin-painting-kit?variant=55596181062007</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83452-Paint-Your-Own-Halloween-Pumpkin-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117822</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844216088</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Crafts</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_height>19 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Crafts</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>SN83133-9</g:id>
       <g:item_group_id>15099007959415</g:item_group_id>
       
@@ -15424,6 +15391,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15469,6 +15437,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15514,6 +15483,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15558,6 +15528,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15603,6 +15574,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15648,6 +15620,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -19413,7 +19386,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/contour-recyclable-large-gift-bag?variant=49003773493565</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR73988-Eco-Nature-Contour-Spots-Large-Recycled-Gift-Bag-Cancer-Research-UK-Online-Shop_ea12a014-6b08-416f-a044-8fd1bf752117_1024x1024.jpg?v=1719229394</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.79 GBP</g:price>
 
       <g:shipping>
@@ -22409,7 +22382,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83855</g:id>
       <g:item_group_id>15077015290231</g:item_group_id>
       <g:google_product_category>576</g:google_product_category>
@@ -22450,9 +22425,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83862</g:id>
       <g:item_group_id>15078696452471</g:item_group_id>
       
@@ -28056,6 +28029,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32567,6 +32541,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32609,6 +32584,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36821,7 +36797,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83749</g:id>
       <g:item_group_id>15088791978359</g:item_group_id>
       
@@ -36866,9 +36844,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83734</g:id>
       <g:item_group_id>15087454191991</g:item_group_id>
       
@@ -37826,7 +37802,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81385-Red-Checked-Luxury-Throw-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683094</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81385-Luxury-Checked-Blanket-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683094</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -37849,7 +37825,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Blankets</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>Natural</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -37893,7 +37869,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Blankets</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>Natural</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -40447,6 +40423,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -47182,47 +47159,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83459SPIDER</g:id>
-      <g:item_group_id>15097105514871</g:item_group_id>
-      
-      <g:title>Pom Pom Headband - Spider</g:title>
-      <g:description>Creep it real this Halloween with this spider-themed Pom Pom Halloween Headband. Topped with a cheeky spider and surrounded by soft pom poms, this headband is a fun and festive way to add a creepy-crawly vibe to your outfit. Ideal for Halloween events and spooky selfies 🕷️ Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pom-pom-headband-spider?variant=55627580113271</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83459-Halloween-Headbands-Spiders-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755597180</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844427897</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Headband</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX81807</g:id>
       <g:item_group_id>9659072774461</g:item_group_id>
       
@@ -51464,6 +51400,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -51509,6 +51446,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -51554,6 +51492,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -51600,6 +51539,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
+      <g:sale_price>3.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -51732,6 +51672,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56542,7 +56483,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC30483</g:id>
       <g:item_group_id>9521150886205</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -56633,9 +56576,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC72864</g:id>
       <g:item_group_id>9521152229693</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -73574,7 +73515,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_DT7_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_LS3_back_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -80702,6 +80643,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -80748,6 +80690,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -80793,6 +80736,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -80838,6 +80782,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -85693,7 +85638,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR82179</g:id>
       <g:item_group_id>9521005232445</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -85779,9 +85726,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83934</g:id>
       <g:item_group_id>15062476521847</g:item_group_id>
       
@@ -86624,7 +86569,7 @@ Outsole synthetic</g:material>
       <g:brand>Tom Smith</g:brand>
       <g:product_type>Christmas Wrapping Paper</g:product_type>
 
-      <g:color>Purple</g:color>
+      <g:color>Cream</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86643,7 +86588,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/12-days-of-christmas-4m-christmas-wrapping-paper?variant=53485722861943</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84513-12-Days-of-Christmas-Gift-WrapCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757518974</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.69 GBP</g:price>
 
       <g:shipping>
@@ -86665,7 +86610,7 @@ Outsole synthetic</g:material>
       <g:brand>Tom Smith</g:brand>
       <g:product_type>Christmas Wrapping Paper</g:product_type>
 
-      <g:color>Purple</g:color>
+      <g:color>Cream</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -90202,6 +90147,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
