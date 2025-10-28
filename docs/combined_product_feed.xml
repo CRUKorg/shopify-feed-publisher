@@ -661,7 +661,7 @@
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518365</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -1332,8 +1332,8 @@
       <g:id>CD83912</g:id>
       <g:item_group_id>15062578790775</g:item_group_id>
       
-      <g:title>Assorted Children's Christmas Card 30 Pack</g:title>
-      <g:description>A delightful mix of 30 children’s Christmas cards featuring festive penguins, polar bears, foxes, and reindeer. The box has a Velcro seal, making it easy for little hands to take to school and keep the cards secure in their bag. Perfect for spreading cheer with a touch of fun and charm! Features:  Pack of 30 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Have fun this Christmas!, 9.5 x 9.5cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., Lunch pack style packaging with velcro seal., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:title>Assorted Children's Christmas Cards 30 Pack</g:title>
+      <g:description>A delightful mix of 30 children’s Christmas cards featuring festive penguins, polar bears, foxes, and reindeer. The pack has a Velcro seal, making it easy for little hands to take to school and keep the cards secure in their bag. Perfect for spreading cheer with a touch of fun and charm! Features:  Pack of 30 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Have fun this Christmas!, 9.5 x 9.5cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., Lunch pack style packaging with velcro seal., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/assorted-childrens-christmas-card-30-pack?variant=55486254678391</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83912-Cute-Christmas-Childrens-Pack-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185412</g:image_link>
       <g:condition>new</g:condition>
@@ -1359,7 +1359,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Christmas Cards</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -13769,51 +13769,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84637</g:id>
-      <g:item_group_id>15090030969207</g:item_group_id>
-      
-      <g:title>Candy House Cushion</g:title>
-      <g:description>Add festive charm to your home with this soft gingerbread house cushion. Featuring vibrant embroidery, candy canes, and a cheerful “Merry Christmas” message, it’s perfect for snuggling or brightening up your seasonal décor. A cosy, whimsical touch for sofas, beds, or reading nooks.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/candy-house-cushion?variant=55604446200183</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84637-Gingerbread-Candy-Cane-House-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755257286</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84637-Candy-House-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757061965</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>19.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418656524</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Cushion</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester</g:material>
-      <g:product_width>30 cm </g:product_width>
-      <g:product_height>40 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX76367</g:id>
       <g:item_group_id>9520772284733</g:item_group_id>
       <g:google_product_category>5504</g:google_product_category>
@@ -22425,7 +22380,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83862</g:id>
       <g:item_group_id>15078696452471</g:item_group_id>
       
@@ -22467,9 +22424,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83701</g:id>
       <g:item_group_id>15078753370487</g:item_group_id>
       <g:google_product_category>2363</g:google_product_category>
@@ -23969,7 +23924,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518266</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Basket</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -24013,7 +23968,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518181</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -24054,7 +24009,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518334</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Crafts</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -24094,7 +24049,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518396</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -24136,7 +24091,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518433</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -24176,7 +24131,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518389</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Basket</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -24194,9 +24149,9 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520845062461</g:item_group_id>
       <g:google_product_category>499805</g:google_product_category>
       <g:title>Easter Stickers</g:title>
-      <g:description>Pack of 9 assorted Easter-themed stickers.5024418518198</g:description>
+      <g:description>Bring Easter fun to life with this vibrant pack of Happy Easter stickers! Featuring colourful eggs, playful rabbits, fluffy lambs, and blooming spring flowers, these stickers are perfect for kids’ crafts, party activities, and creative projects. Pack of 9 assorted Easter-themed stickers. 5024418518198</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/easter-stickers?variant=49003827953981</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79689-Easter-Range-41x15-Stickers-Cancer-Research-UK-Online-Shop_33694f57-da58-4945-bf48-8713e048e35e_1024x1024.jpg?v=1719229535</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79689-Easter-Stickers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761591162</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
@@ -24217,7 +24172,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518198</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -26118,7 +26073,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518327</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Basket</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -29259,6 +29214,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84637</g:id>
+      <g:item_group_id>15090030969207</g:item_group_id>
+      
+      <g:title>Gingerbread House Cushion</g:title>
+      <g:description>Add festive charm to your home with this soft gingerbread house cushion. Featuring vibrant embroidery, candy canes, and a cheerful “Merry Christmas” message, it’s perfect for snuggling or brightening up your seasonal décor. A cosy, whimsical touch for sofas, beds, or reading nooks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/candy-house-cushion?variant=55604446200183</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84637-Gingerbread-Candy-Cane-House-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755257286</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84637-Candy-House-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757061965</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418656524</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cushion</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester</g:material>
+      <g:product_width>30 cm </g:product_width>
+      <g:product_height>40 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84633</g:id>
       <g:item_group_id>15090030838135</g:item_group_id>
       
@@ -30518,7 +30518,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518426</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -32539,7 +32539,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83458-Battery-Operated-Lit-Pumpkin-Table-Topper-Orange-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755608684</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83458-Battery-Operated-Lit-Pumpkin-Table-Topper-Black-1-Cancer-Research-UK-Online-Shop_c23b14cc-f65b-42f3-96ba-95b1cb800691_1024x1024.jpg?v=1755608701</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -32562,7 +32562,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Halloween Decorations</g:product_type>
 
-      <g:color>Orange</g:color>
+      <g:color>Black</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -32605,7 +32605,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Halloween Decorations</g:product_type>
 
-      <g:color>Orange</g:color>
+      <g:color>Black</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -40376,7 +40376,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14960031826295</g:item_group_id>
       
       <g:title>Mini Easter Chick Nest</g:title>
-      <g:description>Three adorable yellow chicks sit in a nest - an ideal addition to any Easter decoration or used in craft activities. Measures approximately 5 x 4 x 4cm.</g:description>
+      <g:description>Featuring fluffy yellow chicks, delicate eggshell details, and a tiny flower, this mini decoration is perfect for brightening spring party table settings or adding to Easter displays.  Pair a number of these adorable Easter nests to bring a pop of sunny spring colour to every corner of your party table.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mini-easter-chick-nest?variant=55129869812087</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79695-Easter-Hatching-Chicks-in-Nest-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1744809888</g:image_link>
       <g:condition>new</g:condition>
@@ -40399,12 +40399,16 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518341</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
       <g:material>Polypropylene/silk/velvet</g:material>
+      <g:product_length>4 cm </g:product_length>
+      <g:product_width>4 cm </g:product_width>
+      <g:product_height>5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -40459,7 +40463,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15107340665207</g:item_group_id>
       <g:google_product_category>3144</g:google_product_category>
       <g:title>Mini Skiing Reindeer Ornament</g:title>
-      <g:description>This charming mini reindeer is ready to hit the slopes! Dressed in a festive Santa hat and adorable skiing gear, he brings a playful touch to your Christmas décor. Perfect for adding a dash of winter whimsy to shelves, mantels or gift displays. </g:description>
+      <g:description>This charming mini reindeer is ready to hit the slopes! Dressed in a festive Santa hat and adorable skiing gear, he brings a playful touch to your Christmas décor. Perfect for adding a dash of winter whimsy to shelves, mantels or gift displays. Actual coat colour may differ subtly from the image shown. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mini-skiing-reindeer-ornament?variant=55680296026487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83738-Mini-Skiing-Reindeer-Decoration-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373108</g:image_link>
       <g:condition>new</g:condition>
@@ -40488,6 +40492,7 @@ Lining 100% Cotton</g:material>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_height>14 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -40523,7 +40528,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418520221</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -41538,7 +41543,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15142401769847</g:item_group_id>
       
       <g:title>MooGoo Flake Free Anti-Dandruff Conditioner</g:title>
-      <g:description>Fuss-Free Conditioner To Restore &amp; Hydrate Hair.  A conditioner that does more than just detangle. MooGoo's Anti-Dandruff Conditioner is designed for flaky, irritated scalps that need more care. Lightweight yet nourishing, this targeted formula works to calm inflammation, rehydrate the scalp and support a healthier scalp microbiome, all while leaving your hair silky, smooth and manageable Features:  Softens, smooths and strengthens hair while reducing frizz, With Ceramides and Glycerin for hair health, Silicone-free = no residue, no build-up, Nourishes the scalp and restores moisture balance, Improves fungal imbalances for long-term scalp health, Maintains a healthy scalp microbiome and microflora, Cooling Menthol calms itch and irritation with a refreshing, soothing sensation, Supports scalp conditions like Dandruff, Psoriasis and Seborrheic Dermatitis, </g:description>
+      <g:description>Fuss-Free Conditioner designed to restore and hydrate hair.  A conditioner that does more than just detangle. MooGoo's Anti-Dandruff Conditioner is designed for flaky, irritated scalps that need more care. Lightweight yet nourishing, this targeted formula works to calm inflammation, rehydrate the scalp and support a healthier scalp microbiome, all while leaving your hair silky, smooth and manageable Features:  Softens, smooths and strengthens hair while reducing frizz, With Ceramides and Glycerin for hair health, Silicone-free = no residue, no build-up, Nourishes the scalp and restores moisture balance, Improves fungal imbalances for long-term scalp health, Maintains a healthy scalp microbiome and microflora, Cooling Menthol calms itch and irritation with a refreshing, soothing sensation, Supports scalp conditions like Dandruff, Psoriasis and Seborrheic Dermatitis, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-flake-free-anti-dandruff-conditioner?variant=55823568503159</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85012-MooGoo-Flakefree-Conditioner-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758641017</g:image_link>
       <g:condition>new</g:condition>
@@ -45851,7 +45856,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hoodie</g:product_type>
 
-      <g:color>Charcoal</g:color>
+      <g:color>Lavender</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -45874,7 +45879,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76370-Charcoal-Adults-Oversized-Hoodie-Cancer-Research-UK-Online-Shop_95edddfb-8a38-47da-9293-36cf8456130e_1024x1024.jpg?v=1734683081</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76371-Oversized-Hoodies-Lifestyle-1-Cancer-Research-UK-Online-Shop_4e7bcdbe-2c8a-4bf1-b33b-f25a8b82c747_1024x1024.jpg?v=1734683081</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
       <g:sale_price>7.49 GBP</g:sale_price>
 
@@ -45897,7 +45902,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hoodie</g:product_type>
 
-      <g:color>Charcoal</g:color>
+      <g:color>Lavender</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -45944,7 +45949,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hoodie</g:product_type>
 
-      <g:color>Charcoal</g:color>
+      <g:color>Lavender</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -45991,7 +45996,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hoodie</g:product_type>
 
-      <g:color>Charcoal</g:color>
+      <g:color>Lavender</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -46038,7 +46043,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hoodie</g:product_type>
 
-      <g:color>Charcoal</g:color>
+      <g:color>Lavender</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -46163,7 +46168,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418518167</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Crafts</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -46459,7 +46464,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Christmas Cards</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -47276,7 +47281,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Pin Badge</g:product_type>
       <g:color>Red</g:color>
-      <g:size>3</g:size>
+      <g:size>4</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -51662,52 +51667,6 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
-      <g:id>SN83432</g:id>
-      <g:item_group_id>15088086810999</g:item_group_id>
-      
-      <g:title>Pumpkin Hand Warmer</g:title>
-      <g:description>Keep warm this autumn with our adorable Pumpkin Hand Warmer. Designed with a cheerful face, soft plush fabric, and cosy hand pockets, it's perfect for chilly days. Whether you're relaxing indoors or heading out for Halloween fun, this charming pumpkin adds a seasonal touch while keeping your hands snug. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-hand-warmer?variant=55596178538871</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83432-Pumpkin-Hand-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755689121</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>12.99 GBP</g:price>
-      <g:sale_price>8.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238659</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hand Warmer</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester with 100% polyester filling</g:material>
-      <g:product_length>38 cm </g:product_length>
-      <g:product_width>38 cm </g:product_width>
-      <g:product_height>38 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>RC80501</g:id>
       <g:item_group_id>9522284790077</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -51809,8 +51768,8 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:id>RC80505</g:id>
       <g:item_group_id>9521138434365</g:item_group_id>
       <g:google_product_category>3032</g:google_product_category>
-      <g:title>Race for Life Blue Slinger Bag</g:title>
-      <g:description>This athletic cross body bag is ideal for carrying a couple of essentials around with you on Race day. Features:  Zip opening pouch, Clip buckle fastening, Ideal for carrying wallets, phones, keys, and toiletries,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
+      <g:title>Race for Life Blue Sling Bag</g:title>
+      <g:description>This athletic blue crossbody bag is ideal for carrying a couple of essentials around with you on Race day. Secure your essentials in seconds with easy-access zip storage. Features:  Zip opening pouch, Clip buckle fastening, Ideal for carrying wallets, phones, keys, and toiletries,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/race-life-blue-slinger-bag?variant=49004146426173</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80505-Race-for-Life-Slinger-Bag-1-Cancer-Research-UK-Online-Shop_69774b54-e6ea-48a2-ad3c-e29b55319a23_1024x1024.jpg?v=1719230838</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80505-Race-for-Life-Slinger-Bag-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404757</g:additional_image_link>
@@ -51838,8 +51797,8 @@ Blue: 80% polyester/20% cotton/with velcro fastening
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
-
-      <g:size>0</g:size>
+      <g:color>Blue</g:color>
+      <g:size>4</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -56576,7 +56535,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC72864</g:id>
       <g:item_group_id>9521152229693</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -56620,9 +56581,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC38913</g:id>
       <g:item_group_id>9521152917821</g:item_group_id>
       <g:google_product_category>4550</g:google_product_category>
@@ -68271,7 +68230,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -74548,7 +74507,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Christmas Cards</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -74651,7 +74610,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15062454796663</g:item_group_id>
       
       <g:title>Scottie's Post 10 Christmas Cards</g:title>
-      <g:description>This festive Christmas card features a snowy scene with a red post box, and a black dog eagerly waiting alongside. Surrounded by presents, holly, and stockings, it's a heart-warming design full of seasonal charm. Finished with red foil highlights to add extra festive sparkle. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for a wonderful Christmas and a very happy New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with red foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Delight the dog lover you know with this elegant Christmas card. Featuring a Scottish Terrier in a snowy winter scene, this design captures the magic of tradition as the loyal pup posts a festive greeting into a classic red post box.  Surrounded by holly, gifts, and a single stocking, it’s a sophisticated celebration of seasonal warmth and canine devotion. Finished with red foil highlights to add extra festive sparkle. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for a wonderful Christmas and a very happy New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with red foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/scotties-post-10-christmas-cards?variant=55485579886967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83947-Scotties-Post-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185436</g:image_link>
       <g:condition>new</g:condition>
@@ -77484,7 +77443,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521260691773</g:item_group_id>
       <g:google_product_category>499805</g:google_product_category>
       <g:title>Set of 4 Easter Ribbons</g:title>
-      <g:description>Ideal for wrapping around Easter eggs, baskets, and other decorations, this pack of 4 ribbons offers you Easter chicks, bunnies, and colourful eggs. Features:  Set of 4 Easter ribbons, Each ribbon 1m in length, 4 designs,  5024418520238</g:description>
+      <g:description>Add a splash of Easter fun to everyday items with this colourful ribbon set! Featuring four cheerful designs with chicks, eggs, bunnies and spring florals, these ribbons are perfect for decorating chairs, brightening table settings, or tying around Easter egg baskets. A simple way to bring seasonal charm to your home and party décor. Features:  Set of 4 Easter ribbons, Each ribbon 1m in length, 4 designs,  5024418520238</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/set-4-easter-ribbons?variant=49004289851709</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79697-Easter-Range-4pc-1m-Ribbon-Set-Cancer-Research-UK-Online-Shop_7d87a6bf-4673-40f3-886b-9fb3d27a477f_1024x1024.jpg?v=1719231322</g:image_link>
       <g:condition>new</g:condition>
@@ -77507,7 +77466,7 @@ Outsole synthetic</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418520238</g:gtin>
 
-      <g:product_type>Easter</g:product_type>
+      <g:product_type>Easter Decoration</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -79780,7 +79739,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Nougat / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Whether you're curled up with a book or padding around the kitchen, they help retain heat without feeling restrictive. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511095671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79821,7 +79780,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Nougat / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Whether you're curled up with a book or padding around the kitchen, they help retain heat without feeling restrictive. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=55643511128439</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83795-Slouch-Socks-Nougat-Small-Medium-Cancer-Research-UK-Online-Shop_52799d6e-55cc-4fb2-9bc4-2ab51bc5380b_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79862,7 +79821,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Grey / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Whether you're curled up with a book or padding around the kitchen, they help retain heat without feeling restrictive. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923054909</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79905,7 +79864,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - Grey / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Whether you're curled up with a book or padding around the kitchen, they help retain heat without feeling restrictive. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923087677</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81359-Slouch-Socks-Grey-Small-to-Medium-Cancer-Research-UK-Online-Shop_28eb0349-ef02-4f15-ba49-a7c65e8e5515_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79948,7 +79907,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - White / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Whether you're curled up with a book or padding around the kitchen, they help retain heat without feeling restrictive. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922923837</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -79991,7 +79950,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9659089027389</g:item_group_id>
       
       <g:title>Slouch Socks - White / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Whether you're curled up with a book or padding around the kitchen, they help retain heat without feeling restrictive. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922956605</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81356-Slouch-Socks-Winter-White-Large--to-Extra-Large-Cancer-Research-UK-Online-Shop_aa0a2834-1333-4c0d-b190-75c00c511ec2_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -80033,8 +79992,8 @@ Outsole synthetic</g:material>
       <g:id>CX81357</g:id>
       <g:item_group_id>9659089027389</g:item_group_id>
       
-      <g:title>Slouch Socks - Blush / S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:title>Slouch Socks - Pink / S/M</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Whether you're curled up with a book or padding around the kitchen, they help retain heat without feeling restrictive. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371922989373</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -80076,8 +80035,8 @@ Outsole synthetic</g:material>
       <g:id>CX81358</g:id>
       <g:item_group_id>9659089027389</g:item_group_id>
       
-      <g:title>Slouch Socks - Blush / L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:title>Slouch Socks - Pink / L/XL</g:title>
+      <g:description>Keep your toes toasty with these super-soft and comfy slouch socks. Whether you're curled up with a book or padding around the kitchen, they help retain heat without feeling restrictive. S/M = UK 3-6 X/XL = UK 7-10 Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/slouch-socks?variant=49371923022141</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81357-Slouch-Socks-Pink-Small-to-Medium-Cancer-Research-UK-Online-Shop_d8922986-a0b4-4290-828d-3075dea28e61_1024x1024.jpg?v=1758815017</g:image_link>
       <g:condition>new</g:condition>
@@ -85734,7 +85693,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR82186</g:id>
       <g:item_group_id>9521215996221</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -85776,9 +85737,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83934</g:id>
       <g:item_group_id>15062476521847</g:item_group_id>
       
@@ -86966,7 +86925,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15208312832375</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Tom Smith 6 Premium 3 Colour Kraft Christmas Crackers</g:title>
-      <g:description>Expertly crafted by Tom Smith, these 6 premium Christmas crackers are the perfect addition to your festivities. Each cracker is made from fully recyclable kraft paper, and features a reusable, plastic-free gift.  Cracker length 14" (35cm).</g:description>
+      <g:description>Expertly crafted by Tom Smith, these 6 premium Christmas crackers are the perfect addition to your festivities. Each cracker is made from fully recyclable kraft paper, and features a reusable, plastic-free gift. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-premium-3-colour-kraft-christmas-crackers?variant=56039321928055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC76558-Tom-Smith-6-Premium-3-Colour-Kraft-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761319131</g:image_link>
       <g:condition>new</g:condition>
@@ -96517,7 +96476,7 @@ Outsole synthetic</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>M</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -96535,7 +96494,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/winter-postbox-gift-bag?variant=53454695465335</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81768-Winter-Postbox-gift-Bag-Medium-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727682245</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -96557,7 +96516,7 @@ Outsole synthetic</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>M</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -96597,7 +96556,7 @@ Outsole synthetic</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>M</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -96637,7 +96596,7 @@ Outsole synthetic</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>M</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -96656,7 +96615,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/winter-riverbank-1000-piece-jigsaw-puzzle?variant=55594071458167</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84285-Winter-Riverbank-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185386</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -96985,9 +96944,9 @@ Outsole synthetic</g:material>
       <g:item_group_id>15062459351415</g:item_group_id>
       
       <g:title>Wintery Greenhouse 10 Christmas Cards</g:title>
-      <g:description>Perfect for garden enthusiasts and those with green thumbs, this festive card features a cosy winter greenhouse scene, complete with snow-covered plants, tools, and a decorated Christmas tree. Birds, boots, and a curious cat add charm to the setting. Finished with gold foil for extra festive sparkle, it's a heart warming celebration of nature and the season. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Perfect for garden enthusiasts and those with green thumbs, this festive card features a cosy winter greenhouse scene, complete with snow-covered plants, tools, and a decorated Christmas tree. Finished with gold foil for extra festive sparkle, it's a heart warming celebration of nature and the season. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/wintery-greenhouse-10-christmas-cards?variant=55485614457207</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83941-Wintry-Greenhouse-Christmas-Cards-Cancer-Research-UK-Online-Shop_495db3b8-d21c-4078-ba94-879aff68af5a_1024x1024.jpg?v=1755185434</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83941-Wintry-Greenhouse-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761597036</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
