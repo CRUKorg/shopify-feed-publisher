@@ -2933,7 +2933,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bee-tote-bag?variant=55335575290231</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR83096_Floral_bee_tote_bag_1024x1024.jpg?v=1752061682</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -3487,7 +3487,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851BLACK-Black-Geometric-Outdoor-Rug-Lifestyle-square-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1744799620</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851BLACK-Black-Geometric-Outdoor-Rug-Cutout-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1744799621</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
       <g:sale_price>11.99 GBP</g:sale_price>
 
@@ -13585,8 +13585,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418494911</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:size>0</g:size>
@@ -13626,8 +13625,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418494911</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:size>0</g:size>
@@ -13667,8 +13665,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418494911</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:size>0</g:size>
@@ -13710,8 +13707,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322089912</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
@@ -14009,8 +14005,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322031652</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>220 mm</g:size>
@@ -14743,8 +14738,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>8033325838913</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Socks</g:product_type>
 
       <g:color>Blue</g:color>
@@ -14786,8 +14780,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>8033325838913</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Socks</g:product_type>
 
       <g:color>Blue</g:color>
@@ -15073,6 +15066,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84388</g:id>
+      <g:item_group_id>15107330933111</g:item_group_id>
+      <g:google_product_category>170</g:google_product_category>
+      <g:title>Children's Christmas Gloves</g:title>
+      <g:description>Keep little hands warm and merry with these Children's Christmas Gloves. Designed with festive fun in mind, they bring a cheerful touch to cold winter days. Perfect for seasonal outings or gift-giving, these gloves add a cosy sparkle to every Christmas adventure.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-christmas-gloves?variant=55680079233399</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84388-childrens-gloves-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757501083</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128606014</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Gloves</g:product_type>
+
+      <g:size>One Size</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83671REINDEER</g:id>
       <g:item_group_id>15101555114359</g:item_group_id>
       
@@ -15226,8 +15260,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5052460361882</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
@@ -15677,8 +15710,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418650188</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Baking Set</g:product_type>
 
       <g:size>1</g:size>
@@ -16095,8 +16127,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418397137</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Cookie Cutters</g:product_type>
 
       <g:size>1</g:size>
@@ -16261,8 +16292,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418640332</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:color>Red</g:color>
@@ -16303,8 +16333,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418640332</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:color>Red</g:color>
@@ -16345,8 +16374,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418640332</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:color>Red</g:color>
@@ -16388,8 +16416,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418634072</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:color>Red</g:color>
@@ -16430,8 +16457,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418634072</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:color>Red</g:color>
@@ -16641,8 +16667,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418559726</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Napkins</g:product_type>
 
       <g:size>0</g:size>
@@ -16682,8 +16707,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418559726</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Napkins</g:product_type>
 
       <g:size>0</g:size>
@@ -16723,8 +16747,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418559726</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Napkins</g:product_type>
 
       <g:size>0</g:size>
@@ -16766,8 +16789,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241901</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Storage Bags</g:product_type>
 
       <g:size>1</g:size>
@@ -17219,8 +17241,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418617860</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>1</g:size>
@@ -17260,8 +17281,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418617860</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>1</g:size>
@@ -17342,8 +17362,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418634591</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
@@ -17383,8 +17402,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418634591</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
@@ -17508,8 +17526,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418397137</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Cookie Cutters</g:product_type>
 
       <g:size>0</g:size>
@@ -17550,8 +17567,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418497554</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Doorstops</g:product_type>
 
       <g:size>1</g:size>
@@ -17677,8 +17693,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418654476</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
@@ -17719,8 +17734,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241888</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Storage Bags</g:product_type>
 
       <g:size>0</g:size>
@@ -17763,8 +17777,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418640127</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
@@ -17847,8 +17860,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241895</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Storage Bags</g:product_type>
 
       <g:size>1</g:size>
@@ -17891,8 +17903,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664628</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:color>Green</g:color>
@@ -17933,8 +17944,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664628</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:color>Green</g:color>
@@ -18761,8 +18771,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5052460361912</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
@@ -21376,8 +21385,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241987</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Cushion</g:product_type>
 
       <g:size>2</g:size>
@@ -21761,8 +21769,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241918</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Storage Bags</g:product_type>
 
       <g:size>1</g:size>
@@ -22381,9 +22388,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83701</g:id>
       <g:item_group_id>15078753370487</g:item_group_id>
       <g:google_product_category>2363</g:google_product_category>
@@ -22423,7 +22428,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83720</g:id>
       <g:item_group_id>15089096753527</g:item_group_id>
       
@@ -22886,8 +22893,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:product_length>2 m </g:product_length>
-      <g:product_width>69 cm </g:product_width>
+      <g:product_width>2 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -24299,6 +24306,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>3 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -24423,6 +24432,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>3 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -24632,6 +24643,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>3 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -24673,6 +24686,8 @@ Lining 100% Cotton</g:material>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>3 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -24756,6 +24771,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>3 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -24797,6 +24814,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>3 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -25004,6 +25023,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>3 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -25166,8 +25187,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241758</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hand Warmer</g:product_type>
 
       <g:size>1</g:size>
@@ -25522,8 +25542,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241840</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Scarves</g:product_type>
 
       <g:size>0</g:size>
@@ -26207,8 +26226,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241925</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gift Bags</g:product_type>
 
       <g:size>0</g:size>
@@ -26426,6 +26444,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>2 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -26467,6 +26487,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>2 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -26508,6 +26530,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>2 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -27298,8 +27322,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664673</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
       <g:color>Red</g:color>
       <g:size>20cm</g:size>
@@ -28239,7 +28262,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-santa-gift-bag?variant=55757364920695</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84452-Santa-Gift-Bags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757513034</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -28712,8 +28735,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418623021</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
@@ -28757,8 +28779,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418385479</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Tea Towel</g:product_type>
 
       <g:size>0</g:size>
@@ -28800,8 +28821,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836982</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Mug</g:product_type>
 
       <g:size>2</g:size>
@@ -29119,8 +29139,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418622840</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
@@ -29163,8 +29182,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418622840</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
@@ -29247,8 +29265,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418635673</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Cookie Jar</g:product_type>
 
       <g:size>1</g:size>
@@ -29292,8 +29309,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418656524</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Cushion</g:product_type>
 
       <g:size>0</g:size>
@@ -29337,8 +29353,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418635666</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Mug</g:product_type>
 
       <g:size>0</g:size>
@@ -29382,8 +29397,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418635642</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Serveware</g:product_type>
 
       <g:size>0</g:size>
@@ -29428,8 +29442,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418635635</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Serveware</g:product_type>
 
       <g:size>0</g:size>
@@ -29473,8 +29486,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418627753</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Napkins</g:product_type>
 
       <g:size>0</g:size>
@@ -29515,8 +29527,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836968</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Tableware</g:product_type>
 
       <g:size>1</g:size>
@@ -29600,8 +29611,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418385714</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Storage Tin</g:product_type>
 
       <g:size>1</g:size>
@@ -29646,8 +29656,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418622888</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
@@ -29688,8 +29697,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418622888</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
@@ -29941,8 +29949,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418637608</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gonk</g:product_type>
 
 <g:size>Small</g:size>
@@ -29983,8 +29990,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418637622</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gonk</g:product_type>
 
 <g:size>Small</g:size>
@@ -30697,7 +30703,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012213548823</g:gtin>
  
-      <g:brand>Giftmaker</g:brand>
+      <g:brand>Hasbro</g:brand>
       <g:product_type>Christmas Crackers</g:product_type>
 
       <g:size>0</g:size>
@@ -31160,8 +31166,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241970</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Cushion</g:product_type>
 
       <g:size>2</g:size>
@@ -31186,7 +31191,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-boot-socks?variant=55789839188343</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX79774COW-Highland-Cow-Boot-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760958404</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -31250,8 +31255,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322106251</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Jug</g:product_type>
 
       <g:size>1</g:size>
@@ -31295,8 +31299,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322106435</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
@@ -31469,8 +31472,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836999</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Mug</g:product_type>
 
       <g:size>2</g:size>
@@ -31684,8 +31686,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5052460361929</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
@@ -31815,8 +31816,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664727</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>1</g:size>
@@ -31856,8 +31856,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664727</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>1</g:size>
@@ -31897,8 +31896,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664727</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>1</g:size>
@@ -31940,8 +31938,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836975</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Tableware</g:product_type>
 
       <g:size>2</g:size>
@@ -32010,7 +32007,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83877-Highland-Cow-Slippers-Medium-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756822422</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83877-Highland-Cow-Slippers-Medium-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756822407</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -32115,8 +32112,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418635819</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Soap Dispensers</g:product_type>
 
       <g:size>1</g:size>
@@ -35738,8 +35734,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>8033325838890</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Socks</g:product_type>
 
       <g:color>Blue</g:color>
@@ -35782,8 +35777,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>8033325838890</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Socks</g:product_type>
 
       <g:color>Blue</g:color>
@@ -35827,8 +35821,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>8033325838937</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Socks</g:product_type>
 
       <g:size>0</g:size>
@@ -36371,8 +36364,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418590835</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:size>1</g:size>
@@ -36582,8 +36574,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664567</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Lights</g:product_type>
 
       <g:size>1</g:size>
@@ -36625,8 +36616,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418590651</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:size>1</g:size>
@@ -36768,9 +36758,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX76461</g:id>
       <g:item_group_id>15090028446071</g:item_group_id>
       
@@ -36799,8 +36787,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418503972</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Candles</g:product_type>
 
       <g:size>Small</g:size>
@@ -36812,7 +36799,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW43811</g:id>
       <g:item_group_id>9521003757885</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -37061,8 +37050,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5052460361844</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
@@ -37106,8 +37094,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322125450</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
@@ -37196,8 +37183,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322088199</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
@@ -38189,8 +38175,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241390</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Bag</g:product_type>
 
       <g:color>Nougat</g:color>
@@ -38234,8 +38219,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241406</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Bag</g:product_type>
 
       <g:color>Nougat</g:color>
@@ -38279,8 +38263,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241413</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Bag</g:product_type>
 
       <g:color>Nougat</g:color>
@@ -38324,8 +38307,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241437</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Bag</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38365,8 +38347,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241444</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Bag</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38406,8 +38387,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241420</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Bag</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38449,8 +38429,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241284</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hot Water Bottle</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38492,8 +38471,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241277</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hot Water Bottle</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38535,8 +38513,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241291</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hot Water Bottle</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38581,8 +38558,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241352</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hot Water Bottle</g:product_type>
 
       <g:color>Charcoal</g:color>
@@ -38628,8 +38604,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241338</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hot Water Bottle</g:product_type>
 
       <g:color>Charcoal</g:color>
@@ -38675,8 +38650,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241345</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hot Water Bottle</g:product_type>
 
       <g:color>Charcoal</g:color>
@@ -38720,8 +38694,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241581</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hand Warmer</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38764,8 +38737,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241574</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hand Warmer</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38808,8 +38780,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241598</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Hand Warmer</g:product_type>
 
       <g:color>Rose</g:color>
@@ -38992,8 +38963,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241369</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gloves</g:product_type>
 
       <g:color>Nougat</g:color>
@@ -39036,8 +39006,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241376</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gloves</g:product_type>
 
       <g:color>Nougat</g:color>
@@ -39080,8 +39049,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241383</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gloves</g:product_type>
 
       <g:color>Nougat</g:color>
@@ -39589,8 +39557,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:product_length>2 m </g:product_length>
-      <g:product_width>69 cm </g:product_width>
+      <g:product_width>2 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -39754,8 +39722,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>8033325838906</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Socks</g:product_type>
 
       <g:color>Grey</g:color>
@@ -39797,8 +39764,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>8033325838906</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Socks</g:product_type>
 
       <g:color>Grey</g:color>
@@ -39841,8 +39807,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>8033325838920</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Socks</g:product_type>
 
       <g:size>0</g:size>
@@ -39889,7 +39854,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>L</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -39932,7 +39897,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>L</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -39953,7 +39918,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/mens-loungewear-set-1?variant=54787665658231</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81573-Mens-Lounge-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732620778</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -39975,7 +39940,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>L</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -40018,7 +39983,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>L</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -40061,7 +40026,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>L</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -40104,7 +40069,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>L</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -43601,7 +43566,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-ultra-gentle-cleanser-ceramides?variant=49004053823805</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42337-MooGoo-Ultra-Gentle-Cleanser-500ml-2022-INT-Cancer-Research-UK-Online-Shop_647123fe-73af-403d-9ce5-36369f1a3162_1024x1024.jpg?v=1719230363</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>18.99 GBP</g:price>
 
       <g:shipping>
@@ -44984,8 +44949,7 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241925</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gift Bags</g:product_type>
 
       <g:size>0</g:size>
@@ -45073,6 +45037,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -45113,6 +45079,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -45153,6 +45121,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -46669,8 +46639,8 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:product_length>2 m </g:product_length>
-      <g:product_width>69 cm </g:product_width>
+      <g:product_width>2 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -46882,8 +46852,8 @@ Lining 100% Cotton</g:material>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:product_length>2 m </g:product_length>
-      <g:product_width>69 cm </g:product_width>
+      <g:product_width>2 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -56541,9 +56511,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC71659</g:id>
       <g:item_group_id>9521148068157</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -56587,7 +56555,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80500</g:id>
       <g:item_group_id>9521148723517</g:item_group_id>
       <g:google_product_category>3032</g:google_product_category>
@@ -57618,8 +57588,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5052460361905</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
@@ -57706,8 +57675,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836951</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Tableware</g:product_type>
 
       <g:size>1</g:size>
@@ -58188,8 +58156,8 @@ Outsole synthetic</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Rattan</g:material>
-      <g:product_length>60 cm </g:product_length>
       <g:product_width>45 cm </g:product_width>
+      <g:product_height>60 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -58243,7 +58211,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521164091709</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
       <g:title>Recyclable 1.5m Mixed Metallic Christmas Wrapping Paper - Silver Falala</g:title>
-      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,   </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49004176015677</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
       <g:condition>new</g:condition>
@@ -58273,6 +58241,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>1.5 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58284,7 +58254,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521164091709</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
       <g:title>Recyclable 1.5m Mixed Metallic Christmas Wrapping Paper - Reindeers</g:title>
-      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,   </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49005576880445</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
       <g:condition>new</g:condition>
@@ -58314,6 +58284,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>1.5 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58325,7 +58297,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521164091709</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
       <g:title>Recyclable 1.5m Mixed Metallic Christmas Wrapping Paper - Gold Trees</g:title>
-      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,  Express your 'elf! Follow @crukshops on Instagram and tag us in your festive #CRUKFinds.</g:description>
+      <g:description>Let your gifts shine under the tree with this metallic collection of gift wrap and accessories. Three wrapping paper designs, sold separately, are available. Don't be deceived by the metallic design, this wrapping paper is recyclable! Features:  1.5m wrapping paper, Available in 3 styles - gold trees, silver reindeers, and falala, Recyclable, Co-ordinating styles and accessories available, Made in the UK ,   </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/recyclable-4m-metallic-christmas-wrapping-paper?variant=49005576913213</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84466-Gold-Giftwrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758037464</g:image_link>
       <g:condition>new</g:condition>
@@ -58355,6 +58327,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>1.5 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58398,6 +58372,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58440,6 +58416,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58482,6 +58460,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58523,6 +58503,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58563,6 +58545,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58603,6 +58587,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -58848,8 +58834,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322125436</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Activities</g:product_type>
 
       <g:size>0</g:size>
@@ -59054,8 +59039,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241635</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Red</g:color>
@@ -59096,8 +59080,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241642</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Earmuffs</g:product_type>
 
       <g:color>Red</g:color>
@@ -59888,8 +59871,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241963</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Cushion</g:product_type>
 
       <g:size>2</g:size>
@@ -59933,8 +59915,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664581</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>10cm</g:size>
@@ -59975,8 +59956,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664581</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>10cm</g:size>
@@ -60017,8 +59997,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664581</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>10cm</g:size>
@@ -60103,8 +60082,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>2</g:size>
@@ -60144,8 +60122,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>2</g:size>
@@ -60185,8 +60162,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Plaque</g:product_type>
 
       <g:size>2</g:size>
@@ -67504,7 +67480,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -74213,6 +74189,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -74255,6 +74233,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -74297,6 +74277,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -74339,6 +74321,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -74417,8 +74401,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241925</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gift Bags</g:product_type>
 
       <g:size>0</g:size>
@@ -74458,8 +74441,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322125429</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Activities</g:product_type>
 
       <g:size>0</g:size>
@@ -74707,8 +74689,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241925</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Gift Bags</g:product_type>
 
       <g:size>0</g:size>
@@ -79776,8 +79757,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322106428</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
@@ -80695,8 +80675,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322125467</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Activities</g:product_type>
 
       <g:size>2</g:size>
@@ -81042,8 +81021,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674238758</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Earmuffs</g:product_type>
 
       <g:size>0</g:size>
@@ -81308,8 +81286,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418639442</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>3</g:size>
@@ -85701,9 +85678,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU82408</g:id>
       <g:item_group_id>14902382559607</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
@@ -85749,7 +85724,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU82402</g:id>
       <g:item_group_id>14902231466359</g:item_group_id>
       
@@ -86113,7 +86090,7 @@ Outsole synthetic</g:material>
       <g:title>The Highland Cow Kitchen Mega-Bundle</g:title>
       <g:description>If you or someone you know loves Highland Cows, then go all-in with this Highland Cow kitchen mega-bundle! Featuring 10 beautiful kitchen accessories, it's perfect for a seasonal kitchen refresh. The bundle includes 1 each of:  Breakfast mug, Ceramic coaster, Oven gloves, Paper napkins (20 pack), Placemats (4 pack), Small tray, Spoon rest , Tea towels (2 pack), Teabag tidy, Wipe-clean tablecloth,  Discover the rest of of moo-velous Highland Cow homewares</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/the-highland-cow-kitchen-mega-bundle?variant=55918596948343</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/HighlandCowMegaBundle_1024x1024.jpg?v=1761312846</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/HighlandCowMegaBundle_1024x1024.jpg?v=1762254806</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83875-Clover-Highland-Cow-Oven-Gloves-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815545</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83708-Clover-Highland-Cow-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755190992</g:additional_image_link>
@@ -87185,7 +87162,7 @@ Outsole synthetic</g:material>
       <g:id>CC84517</g:id>
       <g:item_group_id>9521354146109</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
-      <g:title>Tom Smith 12 Days of Christmas Crackers - 6 Pack</g:title>
+      <g:title>Tom Smith 6 12 Days of Christmas Crackers</g:title>
       <g:description>Add a touch of festive magic to your celebrations with this luxurious set of Six 12 Days of Christmas Crackers. Each cracker is beautifully adorned with a numbered motif, capturing the charm of the season in elegant detail. Perfect for elevating your Christmas table, these crackers bring joy and sparkle to every festive gathering. Whether for family feasts or holiday parties, they’re designed to delight. Part of a coordinated collection featuring matching gift wrap, gift bags, and gift tags. Fully recyclable cracker and packaging. Set includes 6 crackers.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-12-days-of-christmas-crackers-6-pack?variant=49004391956797</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84517-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757331151</g:image_link>
@@ -87216,6 +87193,48 @@ Outsole synthetic</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:product_width>14 in </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CC84518</g:id>
+      <g:item_group_id>15105925120375</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Tom Smith 6 Deluxe Red Robin Christmas Crackers</g:title>
+      <g:description>Add a touch of festive magic to your celebrations with this luxurious set of Deluxe Red Robin Crackers. Each cracker is beautifully adorned with robins, capturing the charm of the season in elegant detail. Perfect for elevating your Christmas table, these crackers bring joy and sparkle to every festive gathering. Whether for family feasts or holiday parties, they’re designed to delight. Part of a coordinated collection featuring matching gift wrap, gift bags, and gift tags. Fully recyclable cracker and packaging. Set includes 6 crackers.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-kraft-deluxe-red-robin-christmas-cracker?variant=55672713216375</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84518_1024x1024.jpg?v=1757328876</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>12.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213580243</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_height>14 in </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Crackers</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -87712,48 +87731,6 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CC84518</g:id>
-      <g:item_group_id>15105925120375</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Tom Smith Deluxe Red Robin Christmas Crackers - 6 Pack</g:title>
-      <g:description>Add a touch of festive magic to your celebrations with this luxurious set of Deluxe Red Robin Crackers. Each cracker is beautifully adorned with robins, capturing the charm of the season in elegant detail. Perfect for elevating your Christmas table, these crackers bring joy and sparkle to every festive gathering. Whether for family feasts or holiday parties, they’re designed to delight. Part of a coordinated collection featuring matching gift wrap, gift bags, and gift tags. Fully recyclable cracker and packaging. Set includes 6 crackers.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-kraft-deluxe-red-robin-christmas-cracker?variant=55672713216375</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84518_1024x1024.jpg?v=1757328876</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>12.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213580243</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_height>14 in </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Crackers</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -88363,6 +88340,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -88404,6 +88383,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -88648,6 +88629,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -88689,6 +88672,8 @@ Outsole synthetic</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_width>4 m </g:product_width>
+      <g:product_height>69 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -89318,8 +89303,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5052460361899</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
@@ -89363,8 +89347,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322125160</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Activities</g:product_type>
 
       <g:size>0</g:size>
@@ -97512,8 +97495,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418656456</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Cushion</g:product_type>
 
       <g:size>1</g:size>
@@ -97883,8 +97865,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5052460361851</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
@@ -97972,8 +97953,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418633013</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
@@ -98017,8 +97997,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664642</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
@@ -98102,8 +98081,7 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418642541</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
+
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
