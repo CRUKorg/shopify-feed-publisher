@@ -4183,7 +4183,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82750-Bobby-More-Fund-Football-Jersey-Junior-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727346471</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82750-Bobby-More-Fund-Football-Jersey-Junior-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727346487</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>20.00 GBP</g:price>
       <g:sale_price>8.00 GBP</g:sale_price>
 
@@ -6009,7 +6009,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-ladies-trainer-socks?variant=55074222866807</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB83112Green-Bowelbabe-Trainer-socks-Green-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1746094219</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -14152,49 +14152,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83406</g:id>
-      <g:item_group_id>15088088154487</g:item_group_id>
-      
-      <g:title>Cat Hand Soap Dispenser</g:title>
-      <g:description>Make handwashing fun this Halloween with this playful Cat Soap Dispenser filled with a spiced pumpkin scent soap. Featuring a spooky seasonal design, it's perfect for encouraging kids to keep clean. Durable, easy to refill, this makes an ideal bathroom or kitchen addition. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/cat-hand-soap-dispenser?variant=55596181422455</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83406-Cat-Hand-Soap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117557</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Cat-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789666</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Group-2048x2048-Cancer-Research-UK-Online-Shop_d3d32298-2b3a-4b2b-a60b-7019bf685db6_1024x1024.jpg?v=1755789700</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5063322108521</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Soap Dispensers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX84639</g:id>
       <g:item_group_id>15087454716279</g:item_group_id>
       
@@ -16597,7 +16554,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-jumper-napkins-12-pack?variant=55650029732215</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84618-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755868992</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -16968,7 +16925,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-pendent-necklace?variant=55750301483383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-Single-Pendant-NecklaceCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757492900</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -17036,6 +16993,48 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83735</g:id>
+      <g:item_group_id>15087454224759</g:item_group_id>
+      
+      <g:title>Christmas Pens - Packs of 4</g:title>
+      <g:description>Get set for festive fun with this pack of novelty pens, featuring jolly designs like Santa, snowmen, and candy canes!  Ideal for jotting down Christmas puzzles, brainteasers or cheeky quiz answers, they make brilliant stocking fillers and add a playful twist to seasonal stationery.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pens-packs-of-4?variant=55594786161015</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83735-Christmas-Character-Pens-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185370</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.96 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322125474</g:gtin>
+
+      <g:product_type>Christmas Activities</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:material>Plastic</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -17235,6 +17234,130 @@ Lining 100% Cotton</g:material>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84622VANILLA</g:id>
+      <g:item_group_id>15090029724023</g:item_group_id>
+      
+      <g:title>Christmas Pot Pourri - Spiced Vanilla</g:title>
+      <g:description>Add seasonal elegance to your home with these beautifully packaged pot pourri bags, each tied with a decorative ribbon and filled with fragrant botanicals. Available in three delightful scents – Spiced Vanilla, Cinnamon, and Gardenia, these pot pourri bags are perfect for freshening up living spaces, wardrobes, or gift hampers. Their long-lasting fragrance ensures your home stays beautifully scented throughout the festive season. This product measures 18 x 10 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pot-pourri?variant=55650744074615</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-vanilla-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418888765</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Potpourri</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84622CINNAMON</g:id>
+      <g:item_group_id>15090029724023</g:item_group_id>
+      
+      <g:title>Christmas Pot Pourri - Cinnamon</g:title>
+      <g:description>Add seasonal elegance to your home with these beautifully packaged pot pourri bags, each tied with a decorative ribbon and filled with fragrant botanicals. Available in three delightful scents – Spiced Vanilla, Cinnamon, and Gardenia, these pot pourri bags are perfect for freshening up living spaces, wardrobes, or gift hampers. Their long-lasting fragrance ensures your home stays beautifully scented throughout the festive season. This product measures 18 x 10 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pot-pourri?variant=55650744107383</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Cinnamon-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418888765</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Potpourri</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84622GARDENIA</g:id>
+      <g:item_group_id>15090029724023</g:item_group_id>
+      
+      <g:title>Christmas Pot Pourri - Gardenia</g:title>
+      <g:description>Add seasonal elegance to your home with these beautifully packaged pot pourri bags, each tied with a decorative ribbon and filled with fragrant botanicals. Available in three delightful scents – Spiced Vanilla, Cinnamon, and Gardenia, these pot pourri bags are perfect for freshening up living spaces, wardrobes, or gift hampers. Their long-lasting fragrance ensures your home stays beautifully scented throughout the festive season. This product measures 18 x 10 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pot-pourri?variant=55650744140151</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Gardenia-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418888765</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Potpourri</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -17662,7 +17785,7 @@ Lining 100% Cotton</g:material>
       <g:title>Christmas Tree Soap Dispenser</g:title>
       <g:description>Spruce up your sink and send germs packing with this festive Christmas Tree Soap Dispenser! Its merry design brings seasonal cheer to any family bathroom and might even inspire children to wash their hands more often.  Refillable dispenser, Winter snow soap fragrance, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-soap?variant=49003759731005</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83307TREE-Christmas-Tree-Hand-Soap-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762425066</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83307TREE-Christmas-Tree-Hand-Soap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763115242</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -18564,7 +18687,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15077061624183</g:item_group_id>
       <g:google_product_category>696</g:google_product_category>
       <g:title>Clover the Highland Cow Doorstop</g:title>
-      <g:description>Keep doors propped open in with the help of our adorable Clover the Highland Cow door stop. Exclusive to Cancer Research UK, he's wearing an adorable little Santa hat, and weighs just over 1kg to help keep doors in place. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
+      <g:description>Keep doors propped open in with the help of our adorable Clover the Highland Cow door stop. Exclusive to Cancer Research UK. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/clover-highland-cow-door-stop?variant=55554715943287</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83867-Highland-Cow-Doorstop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754478724</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83867-Highland-Cow-Doorstop-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758878434</g:additional_image_link>
@@ -21628,7 +21751,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/desk-yoga-deck?variant=49003792433469</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR75986-Desk-Yoga-Deck-1-9781797214320-Cancer-Research-UK-Online-Shop_1de1ad0c-78a7-4eb0-9de9-540e5e224682_1024x1024.jpg?v=1719229441</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>17.99 GBP</g:price>
 
       <g:shipping>
@@ -22131,9 +22254,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83720</g:id>
       <g:item_group_id>15089096753527</g:item_group_id>
       
@@ -22172,7 +22293,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83888</g:id>
       <g:item_group_id>15089098260855</g:item_group_id>
       
@@ -22483,7 +22606,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/disney-dumbo-first-christmas-hanging-decoration?variant=49003800396093</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76931-Disney-Dumbo-First-Christmas-Hanging-Decoration-Cancer-Research-UK-Online-Shop_33712369-78c8-47f0-a349-c30d35e888d1_1024x1024.jpg?v=1734683123</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>22.99 GBP</g:price>
       <g:sale_price>13.79 GBP</g:sale_price>
 
@@ -29289,47 +29412,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84413</g:id>
-      <g:item_group_id>15129320325495</g:item_group_id>
-      
-      <g:title>Gingerbread Stackable Crayons</g:title>
-      <g:description>Make colouring extra festive with this set of three gingerbread-themed stackable crayons; a fun and creative way for kids to enjoy crayon work over the winter holidays. Perfect for keeping little hands busy and encouraging imaginative, hands-on fun.  Contains five colours on each gingerbread crayon., Suitable for ages 3+,  Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-stackable-crayons?variant=55761215029623</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84413-Gingerbread-Stackable-Crayons-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757592557</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128621239</g:gtin>
- 
-      <g:brand>Kids Create</g:brand>
-      <g:product_type>Christmas Activities</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Crafts</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX84625</g:id>
       <g:item_group_id>15090030117239</g:item_group_id>
       
@@ -35249,7 +35331,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/kraft-bottle-gift-bags?variant=49371871510845</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84371-Bottle-Gift-Bags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757501415</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -36208,6 +36290,87 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84027MERRY</g:id>
+      <g:item_group_id>15090029035895</g:item_group_id>
+      
+      <g:title>LED Christmas Shops Decoration - Merry Christmas</g:title>
+      <g:description>Create a warm festive glow with these charming LED-powered Christmas decorations. Featuring intricately detailed houses, miniature trees, and a glowing arch of lights, these wooden scenes bring seasonal magic to any shelf or mantel. Choose from two heart-warming messages: “Warm wishes for a cosy Christmas” or “We wish you a merry Christmas.” This product measures 20.5 x 5 x 17.5 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/led-christmas-shops-decoration?variant=55650779726199</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84027-MerryXmas-LED-Shops-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763132592</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84027-LED-Shops-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763132549</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418634799</g:gtin>
+
+      <g:product_type>Christmas Lights</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX84027WISHES</g:id>
+      <g:item_group_id>15090029035895</g:item_group_id>
+      
+      <g:title>LED Christmas Shops Decoration - Warm Wishes</g:title>
+      <g:description>Create a warm festive glow with these charming LED-powered Christmas decorations. Featuring intricately detailed houses, miniature trees, and a glowing arch of lights, these wooden scenes bring seasonal magic to any shelf or mantel. Choose from two heart-warming messages: “Warm wishes for a cosy Christmas” or “We wish you a merry Christmas.” This product measures 20.5 x 5 x 17.5 cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/led-christmas-shops-decoration?variant=55650779758967</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84027-Warmwishes-LED-Shop-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763132569</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84027-LED-Shops-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763132549</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418634799</g:gtin>
+
+      <g:product_type>Christmas Lights</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83739</g:id>
       <g:item_group_id>15090028511607</g:item_group_id>
       
@@ -36504,9 +36667,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81304</g:id>
       <g:item_group_id>14781827383671</g:item_group_id>
       
@@ -36595,7 +36756,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83749</g:id>
       <g:item_group_id>15088791978359</g:item_group_id>
       
@@ -41492,7 +41655,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-fresh-cream-sensitive-deodorant?variant=49004033245501</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42341-MooGoo-Deodorant-Sensitive-Cancer-Research-UK-Online-Shop_9f95b30b-7c4c-4fca-be5b-7716c585c749_1024x1024.jpg?v=1719230311</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -44178,7 +44341,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/nautical-stripe-duo-of-tea-towels?variant=55149740753271</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82901-Navy-Nautical-Tea-Towel-2-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1745412460</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -51097,7 +51260,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Doorstops</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Orange</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -51143,7 +51306,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Doorstops</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Orange</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -51166,7 +51329,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-door-stop?variant=55636161855863</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83434-Pumpkin-Door-Stop-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758879515</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -51189,7 +51352,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Doorstops</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Orange</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -51287,49 +51450,6 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:material>100% Cotton</g:material>
       <g:product_width>40 cm </g:product_width>
       <g:product_height>60 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83405</g:id>
-      <g:item_group_id>15088088121719</g:item_group_id>
-      
-      <g:title>Pumpkin Hand Soap Dispenser</g:title>
-      <g:description>Make handwashing fun this Halloween with this playful Pumpkin Soap Dispenser filled with a spiced pumpkin scent soap. Featuring a spooky seasonal design, it's perfect for encouraging kids to keep clean. Durable, easy to refill, this makes an ideal bathroom or kitchen addition. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-hand-soap-dispenser?variant=55596181389687</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83405-Pumpkin-Hand-Soap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117572</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Pumpkin-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789678</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Group-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789690</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5063322108514</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Soap Dispensers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -64574,7 +64694,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -64670,7 +64790,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -64718,7 +64838,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -64766,7 +64886,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65006,7 +65126,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65246,7 +65366,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65294,7 +65414,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65390,7 +65510,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65534,7 +65654,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65582,7 +65702,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65630,7 +65750,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65678,7 +65798,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65822,7 +65942,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -65918,7 +66038,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -66158,7 +66278,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -71389,7 +71509,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608132983</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/comfibraBlack_80dd094d-4e86-4e50-b690-8a239fbd1ff4_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -72424,7 +72544,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608886647</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40232-Royce-Comfi-Bra-White-Cancer-Research-UK-Online-Shop-1_30b80651-e0cd-4f36-a4a7-8b83776d56a2_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -72469,7 +72589,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608919415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/comfibraBlack_80dd094d-4e86-4e50-b690-8a239fbd1ff4_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -72514,7 +72634,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608952183</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40232-Royce-Comfi-Bra-White-Cancer-Research-UK-Online-Shop-1_30b80651-e0cd-4f36-a4a7-8b83776d56a2_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -72559,7 +72679,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608984951</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -72822,7 +72942,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_DT7_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_LS3_back_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -72845,7 +72965,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -72869,7 +72989,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_DT7_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_LS3_back_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -72892,7 +73012,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -72939,7 +73059,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -72986,7 +73106,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73033,7 +73153,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73080,7 +73200,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73104,7 +73224,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_DT7_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_LS3_back_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -73127,7 +73247,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73151,7 +73271,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_DT7_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_LS3_back_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -73174,7 +73294,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73221,7 +73341,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73268,7 +73388,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73315,7 +73435,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73362,7 +73482,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73409,7 +73529,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -73456,7 +73576,7 @@ Outsole synthetic</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32E/F</g:size>
+<g:size>32B/C</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -74243,50 +74363,6 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CX79774SCOTTIE</g:id>
-      <g:item_group_id>15135493718391</g:item_group_id>
-      
-      <g:title>Scottie Dog Boot Socks</g:title>
-      <g:description>Ideal for walking the dogs, these Scottie Dog Boot Socks are specially designed for colder weather. With a thick, soft, cotton-mix terry lining, these socks are ideal for wearing with boots for extra comfort and warmth. One size (UK 4-8/Euro 37-42). Please note, the packaging indicates these are ladies' socks although they are unisex.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/scottie-dog-boot-socks?variant=55789738983799</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX79774SCOTTIE-Scottie-Dog-Boot-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760958264</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033323797748</g:gtin>
- 
-      <g:brand>Feathers &amp; Fluff</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:material>Cotton/polyester/polyamide</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CD83947</g:id>
       <g:item_group_id>15062454796663</g:item_group_id>
       
@@ -74969,7 +75045,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32301-Serenity-Calm-Diffuser-Bergamot-Lavender-Sandalwood-Cancer-Research-UK-Online-Shop_0e20268b-a9df-4590-b3f9-5745fa4d88cd_1024x1024.jpg?v=1719231250</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32301-Serenity-Calm-Diffuser-Bergamot-Lavender-Sandalwood-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404551</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>19.99 GBP</g:price>
 
       <g:shipping>
@@ -76124,7 +76200,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/serenity-relax-room-spray-rose-cardamon-pepper?variant=49004269928765</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32298-Serenity-Relax-Room-Spray-Rose-Cardamom-Cancer-Research-UK-Online-Shop_0_061d139a-0660-43a1-8997-41cf29bd8828_1024x1024.jpg?v=1719231282</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -80322,49 +80398,6 @@ Outsole synthetic</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83752</g:id>
-      <g:item_group_id>15138246164855</g:item_group_id>
-      
-      <g:title>Spinning Light Up Tree</g:title>
-      <g:description>Bring extra sparkle to your festive décor with this glitter spinning light up Christmas tree.  Turn it on and the glitter-filled water inside will spin and sparkle, with its crystal-clear design and glowing lights creating a dazzling display that's more fun than your usual decorations. Perfect for mantlepieces, tabletops, or adding magic to any room.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/glitter-spinner-light-up-tree?variant=55803177894263</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83752-LED-Light-Up-28cm-Spinner-Tree-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758271569</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83752-LED-Light-Up-28cm-Spinner-Tree-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758271569</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>19.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460361875</g:gtin>
-
-      <g:product_type>Christmas Lights</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>12 cm </g:product_width>
-      <g:product_height>28.5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -85424,7 +85457,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83700</g:id>
       <g:item_group_id>15078744097143</g:item_group_id>
       <g:google_product_category>2363</g:google_product_category>
@@ -85505,9 +85540,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84889TeaMouse</g:id>
       <g:item_group_id>15185208213879</g:item_group_id>
       
