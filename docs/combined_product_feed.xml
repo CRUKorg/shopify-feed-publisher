@@ -5528,7 +5528,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80619-Bowelbabe-Find-A-Life-Tote-Bag-Cancer-Research-UK-Online-Shop_091d3770-c452-464b-b056-a11ebc7c6957_1024x1024.jpg?v=1719229151</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80619-Bowelbabe-Group-Find-A-Life-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405788</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -6044,56 +6044,13 @@
 
 	
     <item>
-      <g:id>CR80623</g:id>
-      <g:item_group_id>9520742105405</g:item_group_id>
-      <g:google_product_category>5608</g:google_product_category>
-      <g:title>Bowelbabe Fund Floral Tote Bag - Green</g:title>
-      <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. Take this handy tote bag out and about for your shopping trips and days out. Features:  Available in 3 colour options: purple, pink, and green, Co-ordinating items also available, 42 x 35 x 17.5cm (22cm tall including handles), Maximum weight capacity 15kg, Made from recycled plastics,  The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-tote-bag?variant=49005483655485</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80623-Bowelbabe-Floral-Tote-Bag-Green-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1760693157</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.29 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CR80623</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CR80622</g:id>
       <g:item_group_id>9520742105405</g:item_group_id>
       <g:google_product_category>5608</g:google_product_category>
       <g:title>Bowelbabe Fund Floral Tote Bag - Pink</g:title>
       <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. Take this handy tote bag out and about for your shopping trips and days out. Features:  Available in 3 colour options: purple, pink, and green, Co-ordinating items also available, 42 x 35 x 17.5cm (22cm tall including handles), Maximum weight capacity 15kg, Made from recycled plastics,  The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-tote-bag?variant=49005483622717</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80622-Bowelbabe-Floral-Tote-Bag-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760693157</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80622-Bowelbabe-Floral-Tote-Bag-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763736391</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -6119,7 +6076,50 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Pink</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Bowelbabe</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR80623</g:id>
+      <g:item_group_id>9520742105405</g:item_group_id>
+      <g:google_product_category>5608</g:google_product_category>
+      <g:title>Bowelbabe Fund Floral Tote Bag - Green</g:title>
+      <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. Take this handy tote bag out and about for your shopping trips and days out. Features:  Available in 3 colour options: purple, pink, and green, Co-ordinating items also available, 42 x 35 x 17.5cm (22cm tall including handles), Maximum weight capacity 15kg, Made from recycled plastics,  The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-tote-bag?variant=49005483655485</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80623-Bowelbabe-Floral-Tote-Bag-Green-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1763736391</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR80623</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bag</g:product_type>
+
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -6136,7 +6136,7 @@
       <g:title>Bowelbabe Fund Floral Tote Bag - Purple</g:title>
       <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. Take this handy tote bag out and about for your shopping trips and days out. Features:  Available in 3 colour options: purple, pink, and green, Co-ordinating items also available, 42 x 35 x 17.5cm (22cm tall including handles), Maximum weight capacity 15kg, Made from recycled plastics,  The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-tote-bag?variant=49003704516925</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80621-Bowelbabe-Tote-Bag-Purple-Cancer-Research-UK-Online-Shop_9ef55ef9-8c46-4872-a2d3-ef6bdd1e67b9_1024x1024.jpg?v=1760693157</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80621-Bowelbabe-Tote-Bag-Purple-Cancer-Research-UK-Online-Shop_9ef55ef9-8c46-4872-a2d3-ef6bdd1e67b9_1024x1024.jpg?v=1763736391</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -6161,7 +6161,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -6868,7 +6868,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79742-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Hope_20Candle_20-_20Rose_20_26_20Patchouli_513a98d5-174a-4e07-9b99-22895a4d507a_1024x1024.jpg?v=1719229198</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79740-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Candles_1_1024x1024.jpg?v=1719405779</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>2.59 GBP</g:sale_price>
 
@@ -8224,7 +8224,7 @@
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83900-Sept-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757430079</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83900-Oct-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757430079</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -10662,7 +10662,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/bee-pocket-diary?variant=55490509767031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83895-2026-Bee-Pocket-Diary-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185409</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -14934,7 +14934,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/83671-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756376837</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/cx83671-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758556667</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -35141,7 +35141,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/kids-fairy-pyjama-set?variant=54787659923831</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81574-Kids-Fairy-PJ-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732639442</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -41484,7 +41484,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-flake-free-anti-dandruff-shampoo?variant=55823491465591</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85013-MooGoo-Flakefree-Shampoo-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758641041</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.49 GBP</g:price>
 
       <g:shipping>
@@ -42352,7 +42352,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-natural-lip-balm-strawberry-tinted?variant=49004043698493</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81502-MooGoo-Body-Care-Lip-Balm-Strawberry-Cancer-Research-UK-Online-Shop_0_28a7ed70-39f9-45bc-a616-f8acdaaba54f_1024x1024.jpg?v=1719230338</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -49561,7 +49561,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80431-Race-for-Life-Pretty-Muddy-Kids-T-Shirt-Ombre-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404021</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80431-Race-for-Life-Pretty-Muddy-Kids-Pink-Ombre-T-Shirt-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404021</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>9.00 GBP</g:price>
 
       <g:shipping>
@@ -52298,7 +52298,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80393-Race-for-Life-Kids-Blue-T-Shirt-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404741</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80393-Race-for-Life-Kids-Blue-T-Shirt-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404741</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>9.00 GBP</g:price>
 
       <g:shipping>
@@ -57656,7 +57656,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/rattan-45-x-60cm-christmas-wreath?variant=54945222820215</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX32006-Rattan-Christmas-Wreath-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760700180</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>19.99 GBP</g:price>
       <g:sale_price>11.99 GBP</g:sale_price>
 
@@ -59289,7 +59289,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063004</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063037</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -75816,7 +75816,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/serenity-meditate-10-incense-cones-nag-champa?variant=55527376978295</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84310-Serenity-Meditate-Incense-Cones-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754056173</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -75941,7 +75941,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32310-Serenity-Mini-Pamper-Kit-Cancer-Research-UK-Online-Shop_0ea53633-d078-48f9-b9dc-f15c8f14f46e_1024x1024.jpg?v=1719231271</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32310-Serenity-Mini-Pamper-Kit-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1719404540</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -79130,7 +79130,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84805-Blue-Sleep-Travel-Set-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1752831819</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84805-Blue-Sleep-Travel-Set-6-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1752831820</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -82582,7 +82582,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU27829-Stand-Up-To-Cancer-Womens-Short-Logo-Black-TShirt-1-Cancer-Research-UK-Online-Shop_713823c0-6d4c-4df7-bb75-db9fd9ed0bd1_1024x1024.jpg?v=1719231542</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WBLACKBACK2000X2000_2_1024x1024.jpg?v=1719404374</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>10.00 GBP</g:price>
       <g:sale_price>4.99 GBP</g:sale_price>
 
@@ -94416,101 +94416,13 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CX81375</g:id>
-      <g:item_group_id>9659090764093</g:item_group_id>
-      
-      <g:title>Unisex Bobble Hat - Blush</g:title>
-      <g:description>Stay warm when you're out and about with this soft and cosy bobble hat with obligatory fluffy pom-pom. Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/unisex-bobble-hat?variant=49371926528317</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81375-Bobble-Hat-Pink-Cancer-Research-UK-Online-Shop_1be3bcc8-7fe3-4c6a-8011-6f55fbb96433_1024x1024.jpg?v=1734682995</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674233180</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hat</g:product_type>
-
-      <g:color>Blush</g:color>
-      <g:size>One Size</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:material>Acrylic/polyester</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81376</g:id>
-      <g:item_group_id>9659090764093</g:item_group_id>
-      
-      <g:title>Unisex Bobble Hat - Grey</g:title>
-      <g:description>Stay warm when you're out and about with this soft and cosy bobble hat with obligatory fluffy pom-pom. Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/unisex-bobble-hat?variant=49371926561085</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81376-Bobble-Hat-Grey-Cancer-Research-UK-Online-Shop_d5b7527e-cf37-4d6a-95b0-a03f28bdf6b9_1024x1024.jpg?v=1734682995</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674233197</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hat</g:product_type>
-
-      <g:color>Blush</g:color>
-      <g:size>One Size</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:material>Acrylic/polyester</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX83812</g:id>
       <g:item_group_id>9659090764093</g:item_group_id>
       
       <g:title>Unisex Bobble Hat - Nougat</g:title>
       <g:description>Stay warm when you're out and about with this soft and cosy bobble hat with obligatory fluffy pom-pom. Co-ordinating items also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/unisex-bobble-hat?variant=55649061667191</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83812-Bobble-Hat-Nougat-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857946</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83812-Bobble-Hat-Nougat-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763731375</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
@@ -94534,10 +94446,98 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hat</g:product_type>
 
-      <g:color>Blush</g:color>
+      <g:color>Nougat</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Acrylic/polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81375</g:id>
+      <g:item_group_id>9659090764093</g:item_group_id>
+      
+      <g:title>Unisex Bobble Hat - Blush</g:title>
+      <g:description>Stay warm when you're out and about with this soft and cosy bobble hat with obligatory fluffy pom-pom. Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/unisex-bobble-hat?variant=49371926528317</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81375-Bobble-Hat-Pink-Cancer-Research-UK-Online-Shop_1be3bcc8-7fe3-4c6a-8011-6f55fbb96433_1024x1024.jpg?v=1763731375</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674233180</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hat</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>One Size</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:material>Acrylic/polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81376</g:id>
+      <g:item_group_id>9659090764093</g:item_group_id>
+      
+      <g:title>Unisex Bobble Hat - Grey</g:title>
+      <g:description>Stay warm when you're out and about with this soft and cosy bobble hat with obligatory fluffy pom-pom. Co-ordinating items also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/unisex-bobble-hat?variant=49371926561085</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81376-Bobble-Hat-Grey-Cancer-Research-UK-Online-Shop_d5b7527e-cf37-4d6a-95b0-a03f28bdf6b9_1024x1024.jpg?v=1763731375</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674233197</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hat</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>One Size</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
       <g:material>Acrylic/polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
@@ -94552,7 +94552,7 @@ Outsole synthetic</g:material>
       <g:title>Unisex Bobble Hat - White</g:title>
       <g:description>Stay warm when you're out and about with this soft and cosy bobble hat with obligatory fluffy pom-pom. Co-ordinating items also available.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/unisex-bobble-hat?variant=49371926462781</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81374-Bobble-Hat-Winter-White-Cancer-Research-UK-Online-Shop_ac036b01-edda-4542-addb-209144ecbf36_1024x1024.jpg?v=1734682995</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81374-Bobble-Hat-Winter-White-Cancer-Research-UK-Online-Shop_ac036b01-edda-4542-addb-209144ecbf36_1024x1024.jpg?v=1763731375</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
@@ -94576,7 +94576,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hat</g:product_type>
 
-      <g:color>Blush</g:color>
+      <g:color>Nougat</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -96323,7 +96323,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/winter-waddle-10-christmas-cards?variant=55485682909559</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83939-Winter-Waddle-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185426</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
