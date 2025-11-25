@@ -901,6 +901,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -945,6 +946,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -3178,6 +3180,50 @@
 
 	
     <item>
+      <g:id>CX84557</g:id>
+      <g:item_group_id>15087421260151</g:item_group_id>
+      
+      <g:title>Betty and Jake Draught Excluder</g:title>
+      <g:description>Block out chilly draughts and keep your home snug with this practical yet playful draught excluder, featuring a pair of sweet dogs ready to guard your doorway. Ideal for placing along the bottom of doors or window ledges, it’s generously filled for effective insulation and crafted with a soft-touch fabric that complements cosy interiors. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-draught-excluder?variant=55594624844151</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84557-Winter-Dogs-Draught-Excluder_1024x1024.jpg?v=1762509272</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674245206</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Draught Excluder</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_width>90 cm </g:product_width>
+      <g:product_height>20 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84552</g:id>
       <g:item_group_id>15090031100279</g:item_group_id>
       
@@ -3313,11 +3359,11 @@
       <g:item_group_id>15090031067511</g:item_group_id>
       
       <g:title>Betty, Jake and Friends Magnetic Notepad</g:title>
-      <g:description>Organise your thoughts with this stylish notepad, illustrated with dogs lounging on a park bench. Accompanied by a trusty pencil, this notepad is perfect for jotting down appointments, memos and shopping lists.  The strong magnetic backing keeps it securely in place on any metal surface, meaning no more searching for where you left it. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:description>Organise your thoughts with this stylish notepad, illustrated with dogs lounging on a park bench. Accompanied by a trusty pencil, this notepad is perfect for jotting down appointments, memos and shopping lists. The strong magnetic backing keeps it securely in place on any metal surface, meaning no more searching for where you left it. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/betty-jake-and-friends-magnetic-notepad?variant=55604446298487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84551-Magnetic-Note-pad-Betty-Jake--pals-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762877361</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -4091,7 +4137,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82750-Bobby-More-Fund-Football-Jersey-Junior-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727346471</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82750-Bobby-More-Fund-Football-Jersey-Junior-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727346487</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>20.00 GBP</g:price>
       <g:sale_price>8.00 GBP</g:sale_price>
 
@@ -4115,7 +4161,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>7-8 Years</g:size>
+<g:size>9-10 Years</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -4160,7 +4206,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>7-8 Years</g:size>
+<g:size>9-10 Years</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -4205,7 +4251,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>7-8 Years</g:size>
+<g:size>9-10 Years</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -4250,7 +4296,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>TShirt</g:product_type>
 
-<g:size>7-8 Years</g:size>
+<g:size>9-10 Years</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -14240,95 +14286,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83675WHITE</g:id>
-      <g:item_group_id>15107716415863</g:item_group_id>
-      
-      <g:title>Ceramic Nativity Decoration - White</g:title>
-      <g:description>Celebrate the season with this beautifully crafted ceramic nativity decoration. Featuring delicate detailing and a timeless design, it brings a peaceful, traditional touch to your festive décor. Perfect for mantelpieces, shelves, Nativity displays, or as a heartfelt gift.  </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ceramic-nativity-decoration?variant=55682603516279</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83675White-Ceramic_Nativity_Decoration-Cancer-Research-Online-Shop_1024x1024.jpg?v=1762872474</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844454145</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:color>White</g:color>
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyresin</g:material>
-      <g:product_width>10 cm </g:product_width>
-      <g:product_height>11.5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83675BROWN</g:id>
-      <g:item_group_id>15107716415863</g:item_group_id>
-      
-      <g:title>Ceramic Nativity Decoration - Brown</g:title>
-      <g:description>Celebrate the season with this beautifully crafted ceramic nativity decoration. Featuring delicate detailing and a timeless design, it brings a peaceful, traditional touch to your festive décor. Perfect for mantelpieces, shelves, Nativity displays, or as a heartfelt gift.  </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ceramic-nativity-decoration?variant=55682603483511</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83675Brown-Ceramic_Nativity_Decoration-Cancer-Research-Online-Shop_1024x1024.jpg?v=1762872474</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844454145</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:color>White</g:color>
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyresin</g:material>
-      <g:product_width>10 cm </g:product_width>
-      <g:product_height>11.5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>LW42436</g:id>
       <g:item_group_id>9522261131581</g:item_group_id>
       <g:google_product_category>624</g:google_product_category>
@@ -15797,127 +15754,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84392HAT</g:id>
-      <g:item_group_id>15128015470967</g:item_group_id>
-      
-      <g:title>Christmas Earrings - Santa Hat</g:title>
-      <g:description>Celebrate the season in style with these festive Christmas earrings. Choose from three joyful designs: a glittering Santa hat, a cheerful snowman, or a twinkling Christmas tree. These fun accessories are perfect for adding personality to your holiday outfits, whether you're heading to a party or just spreading cheer. Make your Christmas look unforgettable with a playful pop of sparkle! Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-earrings?variant=55755726061943</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas_Earrings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757496760</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128606953</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Earrings</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX84392TREE</g:id>
-      <g:item_group_id>15128015470967</g:item_group_id>
-      
-      <g:title>Christmas Earrings - Christmas Tree</g:title>
-      <g:description>Celebrate the season in style with these festive Christmas earrings. Choose from three joyful designs: a glittering Santa hat, a cheerful snowman, or a twinkling Christmas tree. These fun accessories are perfect for adding personality to your holiday outfits, whether you're heading to a party or just spreading cheer. Make your Christmas look unforgettable with a playful pop of sparkle! Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-earrings?variant=55755726094711</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas_Earrings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757496760</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128606953</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Earrings</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX84392SNOW</g:id>
-      <g:item_group_id>15128015470967</g:item_group_id>
-      
-      <g:title>Christmas Earrings - Snowman</g:title>
-      <g:description>Celebrate the season in style with these festive Christmas earrings. Choose from three joyful designs: a glittering Santa hat, a cheerful snowman, or a twinkling Christmas tree. These fun accessories are perfect for adding personality to your holiday outfits, whether you're heading to a party or just spreading cheer. Make your Christmas look unforgettable with a playful pop of sparkle! Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-earrings?variant=55755743068535</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas_Earrings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757496760</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128606953</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Earrings</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX84626GINGER</g:id>
       <g:item_group_id>15090030150007</g:item_group_id>
       
@@ -16547,7 +16383,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-jumper-napkins-12-pack?variant=55650029797751</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84618-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755868992</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -16616,47 +16452,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>15 cm </g:product_length>
       <g:product_width>44 cm </g:product_width>
       <g:product_height>30 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84391</g:id>
-      <g:item_group_id>15128020320631</g:item_group_id>
-      
-      <g:title>Christmas Novelty Stud Earrings</g:title>
-      <g:description>Bring festive fun to your ears with this playful set of Christmas novelty stud earrings. Whether you're mixing them up or wearing them as matching sets, these cheerful studs are perfect for adding a merry twist to your holiday outfits. Lightweight, easy to wear, and full of seasonal spirit, these festive ear decorations are ideal for parties, gifting, or everyday festive flair! Each pack includes two pairs.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-novelty-stud-earrings?variant=55755760435575</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84391-Christmas-Stud-Earrings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757497552</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128621284</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Earrings</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -17605,47 +17400,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84395</g:id>
-      <g:item_group_id>15106143912311</g:item_group_id>
-      
-      <g:title>Christmas Tree Hair Clips</g:title>
-      <g:description>Add sparkle to your festive look with these Christmas tree hair clips! Featuring glittery green trees topped with golden stars, they're perfect for parties, school events, or seasonal selfies.  A fun and easy way to add holiday cheer to any hairstyle.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-hair-clips?variant=55673591234935</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84395-Tree-Hairclips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756379526</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128621741</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Hair Clip</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -22208,7 +21962,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83888</g:id>
       <g:item_group_id>15089098260855</g:item_group_id>
       
@@ -22333,9 +22089,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX76487</g:id>
       <g:item_group_id>9520821403965</g:item_group_id>
       <g:google_product_category>3144</g:google_product_category>
@@ -22770,49 +22524,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CW84472</g:id>
-      <g:item_group_id>15106261746039</g:item_group_id>
-      
-      <g:title>Disney Stitch 2m Christmas Wrapping Paper</g:title>
-      <g:description>Wrap your gifts with intergalactic charm using this playful Stitch paper! Perfect for fans of mischief, hugs, and holiday cheer. If you've got a Disney fan amongst your friends and family, this could be just the festive extra that makes their day! Pair it up with our co-ordinating gift bag to complete the look. Fully recyclable.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/disney-stitch-2m-christmas-wrapping-paper?variant=55674205012343</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84472-Stitch-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756375115</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213586337</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Wrapping Paper</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>2 m </g:product_width>
-      <g:product_height>69 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CW84455</g:id>
       <g:item_group_id>15106179301751</g:item_group_id>
       
@@ -22868,7 +22579,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76937-Disney-Winnie-the-Pooh-3D-Mug-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683118</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76937-Disney-Winnie-the-Pooh-3D-Mug-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683119</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>18.99 GBP</g:price>
       <g:sale_price>11.39 GBP</g:sale_price>
 
@@ -23244,49 +22955,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84381</g:id>
-      <g:item_group_id>15128285446519</g:item_group_id>
-      
-      <g:title>Drawstring Jumbo Christmas Sack</g:title>
-      <g:description>Bring extra cheer to gift-giving with this Drawstring Jumbo Christmas Sack. Featuring a fun, playful design, it's perfect for children to discover their presents in a magical way. The easy drawstring closure make it both practical and festive, adding a delightful touch to any holiday celebration.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/drawstring-jumbo-christmas-sack?variant=55756907544951</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84381-Jumbo-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757689664</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128616792</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Gift Sacks</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>46 cm </g:product_width>
-      <g:product_height>70 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -27209,6 +26877,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>5.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28073,221 +27742,13 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CW84452SLEIGH</g:id>
-      <g:item_group_id>15128434442615</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Christmas Santa Gift Bag - Sleigh</g:title>
-      <g:description>Add festive charm to your gift-giving with this supportive Christmas Santa Gift Bag. Crafted for durability and style, it holds presents securely while showcasing a cheerful Santa design. Perfect for spreading holiday joy with ease and fun. Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-santa-gift-bag?variant=55757364887927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84452-Santa-Gift-Bags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757513034</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579155</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>20.5 cm </g:product_length>
-      <g:product_width>45 cm </g:product_width>
-      <g:product_height>45 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CW84452ROOF</g:id>
-      <g:item_group_id>15128434442615</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Christmas Santa Gift Bag - Rooftop</g:title>
-      <g:description>Add festive charm to your gift-giving with this supportive Christmas Santa Gift Bag. Crafted for durability and style, it holds presents securely while showcasing a cheerful Santa design. Perfect for spreading holiday joy with ease and fun. Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-santa-gift-bag?variant=55757364920695</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84452-Santa-Gift-Bags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757513034</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579155</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>20.5 cm </g:product_length>
-      <g:product_width>45 cm </g:product_width>
-      <g:product_height>45 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CW84453DOG</g:id>
-      <g:item_group_id>15128487854455</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Highland Cow &amp; Dachshund Christmas Gift Bag - Dachshund</g:title>
-      <g:description>Make your extra-large presents stand out with one of these giant Christmas gift bags, featuring festive Highland cow and dachshund designs. Perfect for animal lovers, these spacious bags add a fun and cheerful touch to your holiday wrapping. Celebrate the season with a playful twist! Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giant-highland-cow-dachshund-christmas-gift-bags?variant=55757514080631</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84453-Giant-Christmas-Gift-Bag-Dashund-and-Highland-Cow--Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757515036</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579148</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CW84453COW</g:id>
-      <g:item_group_id>15128487854455</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Highland Cow &amp; Dachshund Christmas Gift Bag - Highland Cow</g:title>
-      <g:description>Make your extra-large presents stand out with one of these giant Christmas gift bags, featuring festive Highland cow and dachshund designs. Perfect for animal lovers, these spacious bags add a fun and cheerful touch to your holiday wrapping. Celebrate the season with a playful twist! Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giant-highland-cow-dachshund-christmas-gift-bags?variant=55757514113399</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84453-Giant-Christmas-Gift-Bag-Dashund-and-Highland-Cow--Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757515036</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579148</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CC81793</g:id>
-      <g:item_group_id>14669379305847</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Giftmaker 8 Cream &amp; Gold Plastic-Free Christmas Crackers - 2024</g:title>
-      <g:description>Pull a plastic-free cracker this Christmas with these cream and gold ones from Giftmaker. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with a stag design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-cream-gold-plastic-free-christmas-crackers?variant=55672919884151</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81793-Giftmaker-White-Gold-8-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682932</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213569866</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CC84462</g:id>
       <g:item_group_id>14669379305847</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Giftmaker 8 Cream &amp; Gold Plastic-Free Christmas Crackers - 2025</g:title>
       <g:description>Pull a plastic-free cracker this Christmas with these cream and gold ones from Giftmaker. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with a stag design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-cream-gold-plastic-free-christmas-crackers?variant=55672919916919</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84462-Gold-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756380077</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84462-Gold-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764003156</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
@@ -28307,6 +27768,46 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012213582469</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CC81793</g:id>
+      <g:item_group_id>14669379305847</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Giftmaker 8 Cream &amp; Gold Plastic-Free Christmas Crackers - 2024</g:title>
+      <g:description>Pull a plastic-free cracker this Christmas with these cream and gold ones from Giftmaker. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with a stag design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-cream-gold-plastic-free-christmas-crackers?variant=55672919884151</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81793-Giftmaker-White-Gold-8-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764003156</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213569866</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Crackers</g:product_type>
@@ -28390,47 +27891,6 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012213582421</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CC84464</g:id>
-      <g:item_group_id>15129262850423</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Giftmaker 8 Traditional Christmas Crackers</g:title>
-      <g:description>Snap into the season with these classic red and white crackers by Giftmaker. Festive, fun, and ready to pop with holiday cheer! Fully recyclable and plastic-free, this pack of 8 x 12" crackers with a tree and wreath design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-traditional-christmas-crackers?variant=55760903438711</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84464-Giftmaker-Traditional-Mayo-CrackerCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757588028</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213582490</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Crackers</g:product_type>
@@ -29371,6 +28831,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30051,49 +29512,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CR71227</g:id>
-      <g:item_group_id>15120328589687</g:item_group_id>
-      
-      <g:title>Grey Hat Garden Gonk Decoration</g:title>
-      <g:description>Standing at just over 45cm tall, most of that his hat, this cute little gonk brings some classic gnome vibes to your garden or patio.  Made from durable polyresin, the body is designed to look like distressed wood whilst the hat has a bark-like appearance. </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/grey-hat-garden-gonk-decoration?variant=55729462542711</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR71227-Grey-Hat-Gonk-Gnome-Garden-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757081328</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>14.99 GBP</g:price>
-      <g:sale_price>13.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460305688</g:gtin>
-
-      <g:product_type>Garden Decoration</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyresin</g:material>
-      <g:product_height>45.5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>LW43814</g:id>
       <g:item_group_id>9520932782397</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -30180,190 +29598,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83431CAT</g:id>
-      <g:item_group_id>15097274204535</g:item_group_id>
-      
-      <g:title>Halloween Pom Pom Candle - Cat</g:title>
-      <g:description>Add a glow to your living space with this Halloween-themed pom-pom lid candle. The pumpkin fragranced, glass jar candle is printed with our Halloween cat design, and gives approximately 28 hours of burn time. Design exclusive to Cancer Research UK. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-pom-pom-candle-cat?variant=55628044140919</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Black-Cat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755606639</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Candles-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Cancer-Research-UK-Online-Shop_a635f386-ca41-471c-b3a5-91fb78d9fa38_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460360311</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>7 cm </g:product_length>
-      <g:product_width>7 cm </g:product_width>
-      <g:product_height>9 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83431GHOST</g:id>
-      <g:item_group_id>15097281675639</g:item_group_id>
-      
-      <g:title>Halloween Pom Pom Candle - Ghost</g:title>
-      <g:description>Add a glow to your living space with this Halloween-themed pom-pom lid candle. The pumpkin fragranced, glass jar candle is printed with our Halloween ghost design, and gives approximately 28 hours of burn time. Design exclusive to Cancer Research UK.  Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-pom-pom-candle-ghost?variant=55628061704567</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-White-Cat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755606620</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Candles-2-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Cancer-Research-UK-Online-Shop_a635f386-ca41-471c-b3a5-91fb78d9fa38_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460360311</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>7 cm </g:product_length>
-      <g:product_width>7 cm </g:product_width>
-      <g:product_height>9 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83431PUMPKIN</g:id>
-      <g:item_group_id>15097286918519</g:item_group_id>
-      
-      <g:title>Halloween Pom Pom Candle - Pumpkin</g:title>
-      <g:description>Add a glow to your living space with this Halloween-themed pom-pom lid candle. The pumpkin fragranced, glass jar candle is printed with our Halloween pumpkin design, and gives approximately 28 hours of burn time. Design exclusive to Cancer Research UK. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-pom-pom-candle-pumpkin?variant=55628069142903</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Pumpkin-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755606600</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Candles-4-2048x2048-Cancer-Research-UK-Online-Shop_0e90ac3b-07dd-4cec-b564-c7198e1f897e_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Cancer-Research-UK-Online-Shop_a635f386-ca41-471c-b3a5-91fb78d9fa38_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460360311</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>7 cm </g:product_length>
-      <g:product_width>7 cm </g:product_width>
-      <g:product_height>9 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83431SPIDER</g:id>
-      <g:item_group_id>15097284198775</g:item_group_id>
-      
-      <g:title>Halloween Pom Pom Candle - Spider</g:title>
-      <g:description>Add a glow to your living space with this Halloween-themed pom-pom lid candle. The pumpkin fragranced, glass jar candle is printed with our Halloween spider design, and gives approximately 28 hours of burn time. Design exclusive to Cancer Research UK. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-pom-pom-candle-spider?variant=55628066128247</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Spider-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755606612</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Candles-2-2048x2048-Cancer-Research-UK-Online-Shop_bbfa981e-572b-4405-ac23-0c732f1512da_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83431-Halloween-Pom-Pom-Candles-Cancer-Research-UK-Online-Shop_a635f386-ca41-471c-b3a5-91fb78d9fa38_1024x1024.jpg?v=1755789817</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460360311</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>7 cm </g:product_length>
-      <g:product_width>7 cm </g:product_width>
-      <g:product_height>9 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -33568,7 +32802,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/if-friends-were-flowers-mug?variant=55237681381751</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80092-If-Friends-Were-Flowers-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1747835938</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -36660,7 +35894,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX81835</g:id>
       <g:item_group_id>9522401411389</g:item_group_id>
       <g:google_product_category>4352</g:google_product_category>
@@ -37262,9 +36498,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR73985</g:id>
       <g:item_group_id>9521005199677</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -40064,89 +39298,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84377SNOW</g:id>
-      <g:item_group_id>15128267456887</g:item_group_id>
-      
-      <g:title>Metal Door Wreath Holder - Snowflake</g:title>
-      <g:description>Available in festive snowflake and star designs, these metal wreath holders are a stylish and practical way to display your Christmas wreaths. Sold separately, each holder features a sturdy hook that fits easily over most doors.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/metal-door-wreath-holders?variant=55756831916407</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84377-Wreath-Holder-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760705755</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128617140</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_height>30 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX84377STAR</g:id>
-      <g:item_group_id>15128267456887</g:item_group_id>
-      
-      <g:title>Metal Door Wreath Holder - Star</g:title>
-      <g:description>Available in festive snowflake and star designs, these metal wreath holders are a stylish and practical way to display your Christmas wreaths. Sold separately, each holder features a sturdy hook that fits easily over most doors.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/metal-door-wreath-holders?variant=55756831949175</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84377-Wreath-Holder-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760705755</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128617140</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_height>30 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CW81824SILVER</g:id>
       <g:item_group_id>9521017717053</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -40392,48 +39543,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83738</g:id>
-      <g:item_group_id>15107340665207</g:item_group_id>
-      <g:google_product_category>3144</g:google_product_category>
-      <g:title>Mini Skiing Reindeer Ornament</g:title>
-      <g:description>This charming mini reindeer is ready to hit the slopes! Dressed in a festive Santa hat and adorable skiing gear, he brings a playful touch to your Christmas décor. Perfect for adding a dash of winter whimsy to shelves, mantels or gift displays. Actual coat colour may differ subtly from the image shown. </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mini-skiing-reindeer-ornament?variant=55680296026487</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83738-Mini-Skiing-Reindeer-Decoration-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373108</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5037543062115</g:gtin>
- 
-      <g:brand>Lows of Dundee</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_height>14 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -46479,7 +45588,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/peppa-pig-2m-christmas-wrapping-paper?variant=53471990022519</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84476-Peppa-Pig-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756374977</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -56361,7 +55470,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC72864</g:id>
       <g:item_group_id>9521152229693</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -56787,7 +55898,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83930-Ralph-Family-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185416</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Group-Lifestyle-1-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185416</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -57046,7 +56157,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>14668695470455</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
       <g:title>Ralph Robin &amp; Family Duo Tea Towels</g:title>
-      <g:description>This set of two tea towels offers both functionality and seasonal charm for your kitchen. Designed for both function and style, these towels offer excellent absorbency and durability, making them ideal for drying dishes, hands, or surfaces. Both tea towels feature the same design. Both tea towels feature the same design. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
+      <g:description>This set of two tea towels offers both functionality and seasonal charm for your kitchen. Designed for both function and style, these towels offer excellent absorbency and durability, making them ideal for drying dishes, hands, or surfaces. Both tea towels feature the same design. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ralph-robin-family-duo-tea-towels?variant=53470946787703</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83846-Ralph-and-Robin-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754489707</g:image_link>
       <g:condition>new</g:condition>
@@ -57171,9 +56282,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83695</g:id>
       <g:item_group_id>15089095082359</g:item_group_id>
       
@@ -59381,6 +58490,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>7.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74769,7 +73879,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84293-Serenity-Breathe-Candle-270g-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1748618564</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84292-Serenity-Breathe-Candle-120g-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1748618564</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -74791,7 +73901,7 @@ Outsole synthetic</g:material>
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candles</g:product_type>
 
-<g:size>120g</g:size>
+<g:size>270g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Soy Wax</g:material>
@@ -74839,7 +73949,7 @@ Outsole synthetic</g:material>
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candles</g:product_type>
 
-<g:size>120g</g:size>
+<g:size>270g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Soy Wax</g:material>
@@ -75511,6 +74621,53 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>LW84316</g:id>
+      <g:item_group_id>15003509096823</g:item_group_id>
+      
+      <g:title>Serenity Gratitude Journal</g:title>
+      <g:description>This Serenity Gratitude Journal invites you to delve into the art of thankfulness, creating a keepsake of positive moments and thoughts. Features:  Encourages the practice of gratitude, enhancing mental well-being., Perfect for gifting, offering a personal touch to your loved ones., Hardcover design in pink,  Explore our Serenity collection to find more ways to enjoy mindful moments.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-gratitude-journal?variant=55288843665783</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84316-Serenity-Gratitude-Journal-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204966</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84316-Serenity-Gratitude-Journal-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204966</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84316-Serenity-Gratitude-Journal-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204966</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84316-Serenity-Gratitude-Journal-7-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204966</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84316-Serenity-Gratitude-Journal-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204966</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84316-Serenity-Gratitude-Journal-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204966</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84316-Serenity-Gratitude-Journal-6-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204966</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322070835</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Books</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW32313</g:id>
       <g:item_group_id>9521234739517</g:item_group_id>
       <g:google_product_category>708</g:google_product_category>
@@ -75920,6 +75077,53 @@ Outsole synthetic</g:material>
  
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Relaxation</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW84315</g:id>
+      <g:item_group_id>15003506573687</g:item_group_id>
+      
+      <g:title>Serenity Mindfulness Journal</g:title>
+      <g:description>Embark on a journey of self-discovery with the Serenity Mindfulness Journal. This grey hardcover book is designed to inspire and guide you through the art of mindfulness. Features:  Inside, you will find a multitude of thought-provoking prompts and exercises to explore mindfulness., Ideal for gifting, it's the perfect keepsake for those embarking on a journey of self-improvement.,  Part of our Serenity collection - a range of self-care gifts designed to help you press pause on the stresses of everyday life.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-mindfulness-journal?variant=55288833868151</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204437</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204437</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204437</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-6-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204437</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204437</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204436</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-7-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204437</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322070828</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Books</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -85534,7 +84738,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83719</g:id>
       <g:item_group_id>15089096720759</g:item_group_id>
       
@@ -86208,9 +85414,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CC84517</g:id>
       <g:item_group_id>9521354146109</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -87358,134 +86562,6 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CW84512BEIGE</g:id>
-      <g:item_group_id>15128575902071</g:item_group_id>
-      <g:google_product_category>2816</g:google_product_category>
-      <g:title>Tom Smith Red Robin 4m Christmas Wrapping Paper - Beige</g:title>
-      <g:description>Wrap your gifts in timeless festive charm with these gorgeous Red Robin wrapping papers from Tom Smith. Featuring beautifully illustrated designs of delicate birds nestled in seasonal greenery, each roll brings a touch of elegance to your Christmas wrapping. Available in two colours, red and beige (sold separately), these 4m rolls of paper also feature a handy cutting grid on the reverse to keep your trimming on track. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-red-robin-4m-christmas-wrapping-paper?variant=55757773996407</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/XAQTW504-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757520195</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.69 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579865</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Christmas Wrapping Paper</g:product_type>
-
-      <g:color>Beige</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>4 m </g:product_width>
-      <g:product_height>69 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CW84512RED</g:id>
-      <g:item_group_id>15128575902071</g:item_group_id>
-      <g:google_product_category>2816</g:google_product_category>
-      <g:title>Tom Smith Red Robin 4m Christmas Wrapping Paper - Red</g:title>
-      <g:description>Wrap your gifts in timeless festive charm with these gorgeous Red Robin wrapping papers from Tom Smith. Featuring beautifully illustrated designs of delicate birds nestled in seasonal greenery, each roll brings a touch of elegance to your Christmas wrapping. Available in two colours, red and beige (sold separately), these 4m rolls of paper also feature a handy cutting grid on the reverse to keep your trimming on track. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-red-robin-4m-christmas-wrapping-paper?variant=55757774029175</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/XAQTW504-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757520195</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.69 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579865</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Christmas Wrapping Paper</g:product_type>
-
-      <g:color>Beige</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>4 m </g:product_width>
-      <g:product_height>69 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CW84516</g:id>
-      <g:item_group_id>15106245788023</g:item_group_id>
-      <g:google_product_category>8213</g:google_product_category>
-      <g:title>Tom Smith Red Robin 6 Luxury Gift Tags</g:title>
-      <g:description>Add a touch of festive sparkle with these luxury red robin gift tags, adorned with a festive robin design that complements any gift. Perfect for spreading holiday cheer, it pairs effortlessly with all your presents to make them shine under the Christmas tree. Designed as part of a collection that includes gift wrap, gift bags, and Christmas crackers. 6 gift tags included. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/red-robin-6-luxury-gift-tags?variant=55674065420663</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84516-Red-Robin-Gift-Tag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758014459</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.59 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579940</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CW81858</g:id>
       <g:item_group_id>14671823503735</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -87637,134 +86713,6 @@ Outsole synthetic</g:material>
       <g:product_type>Gift Bags</g:product_type>
 
 <g:size>Bottle</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CW84511WHITE</g:id>
-      <g:item_group_id>15128579408247</g:item_group_id>
-      <g:google_product_category>2816</g:google_product_category>
-      <g:title>Tom Smith Winter Woodland 4m Christmas Wrapping Paper - White</g:title>
-      <g:description>Wrap your gifts in timeless festive charm with these gorgeous Winter Woodland wrapping papers from Tom Smith. Featuring beautifully illustrated designs of snowflakes, berries, and frosted foliage in elegant shades of blue, white, and silver, each roll brings a serene seasonal touch to your Christmas wrapping. Available in two colours, white and silver (sold separately), these 4m rolls of paper also feature a handy cutting grid on the reverse to keep your trimming on track.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-winter-woodland-4m-christmas-wrapping-paper?variant=55757784351095</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Winter_Woodland_4m_Christmas_Wrapping_Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757520520</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579827</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Christmas Wrapping Paper</g:product_type>
-
-      <g:color>White</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>4 m </g:product_width>
-      <g:product_height>69 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CW84511SILVER</g:id>
-      <g:item_group_id>15128579408247</g:item_group_id>
-      <g:google_product_category>2816</g:google_product_category>
-      <g:title>Tom Smith Winter Woodland 4m Christmas Wrapping Paper - Silver</g:title>
-      <g:description>Wrap your gifts in timeless festive charm with these gorgeous Winter Woodland wrapping papers from Tom Smith. Featuring beautifully illustrated designs of snowflakes, berries, and frosted foliage in elegant shades of blue, white, and silver, each roll brings a serene seasonal touch to your Christmas wrapping. Available in two colours, white and silver (sold separately), these 4m rolls of paper also feature a handy cutting grid on the reverse to keep your trimming on track.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-winter-woodland-4m-christmas-wrapping-paper?variant=55757784383863</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Winter_Woodland_4m_Christmas_Wrapping_Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757520520</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579827</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Christmas Wrapping Paper</g:product_type>
-
-      <g:color>White</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>4 m </g:product_width>
-      <g:product_height>69 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CW84514</g:id>
-      <g:item_group_id>15106249949559</g:item_group_id>
-      <g:google_product_category>8213</g:google_product_category>
-      <g:title>Tom Smith Winter Woodland 6 Luxury Gift Tags</g:title>
-      <g:description>Add a touch of festive sparkle with these luxury silver gift tags, adorned with a charming floral design that complements any gift. Perfect for spreading holiday cheer, it pairs effortlessly with all your presents to make them shine under the Christmas tree. Designed as part of a collection that includes gift wrap, gift bags, and Christmas crackers. 6 gift tags included.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/winter-woodland-6-luxury-gift-tags?variant=55674092126583</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84514-Winter-Woodland-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756378833</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.59 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213579902</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
-
-      <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -96995,6 +95943,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>7.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
