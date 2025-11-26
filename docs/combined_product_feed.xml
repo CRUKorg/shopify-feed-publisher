@@ -565,7 +565,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/3pc-travel-set?variant=55462075433335</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84804Green-3-Piece-Set-Travel-Strap-Lock-Scales-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753864113</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -586,7 +586,7 @@
 
       <g:product_type>Travel Set</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -626,7 +626,7 @@
 
       <g:product_type>Travel Set</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -2518,7 +2518,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bee-hand-towel?variant=55336820703607</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Green_Hand_Towel_1024x1024.jpg?v=1751038524</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -3180,6 +3180,50 @@
 
 	
     <item>
+      <g:id>CX84562</g:id>
+      <g:item_group_id>15087421423991</g:item_group_id>
+      
+      <g:title>Betty and Jake Apron</g:title>
+      <g:description>Make baking and cooking a tail-wagging treat with this charming apron, featuring two sweet dogs ready to join you in the kitchen. Perfect for dog lovers and festive foodies, it’s crafted from durable, easy-care fabric with an adjustable neck strap for a comfy fit. Whether you're icing biscuits or roasting the Christmas dinner, this apron adds a playful splash of personality and seasonal cheer to your culinary adventures.  Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-apron?variant=55594625171831</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84562-Dog-Apron-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509805</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674245251</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Apron</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Cotton</g:material>
+      <g:product_width>70 cm </g:product_width>
+      <g:product_height>85 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84557</g:id>
       <g:item_group_id>15087421260151</g:item_group_id>
       
@@ -3216,6 +3260,49 @@
       <g:material>Polyester</g:material>
       <g:product_width>90 cm </g:product_width>
       <g:product_height>20 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84563</g:id>
+      <g:item_group_id>15087421489527</g:item_group_id>
+      
+      <g:title>Betty and Jake Duo Tea Towels</g:title>
+      <g:description>Featuring both a cheeky Jack Russell and a sweet Border Terrier, this duo set of tea towels brings a fun and festive feel to your kitchen. Great for absorbency and durability, they’re ideal for drying dishes, wiping surfaces, or handling everyday spills. Whether you're prepping for Christmas or just love a bit of canine charm in your home, these tea towels are a practical treat with plenty of personality. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-duo-tea-towels?variant=55594625204599</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84563-Dog-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509472</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674245268</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tea Towel</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>48 cm </g:product_width>
+      <g:product_height>74 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -3262,6 +3349,139 @@
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Stationery</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84561</g:id>
+      <g:item_group_id>15087421391223</g:item_group_id>
+      
+      <g:title>Betty and Jake Oven Gloves</g:title>
+      <g:description>Bring a bit of tail-wagging charm to your Christmas cooking with this delightful double oven glove, featuring a pair of sweet dogs ready to lend a paw. Whether you're roasting, baking, or just keeping warm by the oven, this glove is a paw-sitively perfect companion. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-oven-gloves?variant=55594625139063</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84561-Jake-Betty-Oven-Glove-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509591</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674245244</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Oven Gloves</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>19 cm </g:product_width>
+      <g:product_height>91 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84560</g:id>
+      <g:item_group_id>15087421358455</g:item_group_id>
+      
+      <g:title>Betty the Border Terrier Cosmetic Bag</g:title>
+      <g:description>Keep your beauty essentials organised with this charming cosmetics bag, featuring a delightful Border Terrier that’s sure to raise a smile. Perfect for Terrier owners, it’s crafted with a soft-touch fabric and a durable zip for everyday use. Whether it’s tucked in your handbag or displayed on your dressing table, this bag combines practicality with playful style. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/betty-the-border-terrier-cosmetic-bag?variant=55594625106295</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84560-Betty-Border-Terrier-Cosmetic-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762510778</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674245237</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cosmetic Bag</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Polyester</g:material>
+      <g:product_length>12 cm </g:product_length>
+      <g:product_width>22 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84556</g:id>
+      <g:item_group_id>15087421227383</g:item_group_id>
+      
+      <g:title>Betty the Border Terrier Cushion</g:title>
+      <g:description>This charming Border Terrier cushion is a delightful addition to any home, especially during the Christmas season. Designed with dog lovers in mind, it features a heart-warming illustration and a luxuriously soft feel that’s perfect for cosy evenings. A thoughtful gift or a seasonal treat, it’s sure to be a favourite all year round. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/betty-the-border-terrier-cushion?variant=55594624811383</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84556-Betty-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509197</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674245190</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cushion</g:product_type>
+      <g:color>White</g:color>
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_width>43 cm </g:product_width>
+      <g:product_height>43 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -15510,6 +15730,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15603,6 +15824,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17661,89 +17883,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83743GREEN</g:id>
-      <g:item_group_id>15090028609911</g:item_group_id>
-      
-      <g:title>Cinnamon Spice Bauble Candle - Green</g:title>
-      <g:description>Warm up your home with this pair of cinnamon spice fragranced candles. Presented in elegant diamond-patterned glass jars with festive ribbons, they offer a classic scent that gently fills the room. Perfect for cosy evenings or seasonal gatherings, these candles bring comfort and charm to any space. This product measures 8 x 8 x 8.5 cm. Sold separately</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/cinnamon-spice-bauble-candles?variant=55604443578743</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83743-Bauble-Candle-Pots-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755259372</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418664628</g:gtin>
-
-      <g:product_type>Candles</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>50% glass/50% wax</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83743RED</g:id>
-      <g:item_group_id>15090028609911</g:item_group_id>
-      
-      <g:title>Cinnamon Spice Bauble Candle - Red</g:title>
-      <g:description>Warm up your home with this pair of cinnamon spice fragranced candles. Presented in elegant diamond-patterned glass jars with festive ribbons, they offer a classic scent that gently fills the room. Perfect for cosy evenings or seasonal gatherings, these candles bring comfort and charm to any space. This product measures 8 x 8 x 8.5 cm. Sold separately</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/cinnamon-spice-bauble-candles?variant=55604443611511</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83743-Bauble-Candle-Pots-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755259372</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418664628</g:gtin>
-
-      <g:product_type>Candles</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>50% glass/50% wax</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR82892</g:id>
       <g:item_group_id>14965157101943</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -18399,7 +18538,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15076740694391</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
       <g:title>Clover the Highland Cow Duo Tea Towels</g:title>
-      <g:description>This set of two tea towels offers both functionality and seasonal charm for your kitchen. Designed for both function and style, these towels offer excellent absorbency and durability, making them ideal for drying dishes, hands, or surfaces.  Both tea towels feature the same design. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
+      <g:description>This set of two tea towels offers both functionality and seasonal charm for your kitchen. Designed for both function and style, these towels offer excellent absorbency and durability, making them ideal for drying dishes, hands, or surfaces.  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/clover-the-highland-cow-duo-tea-towels?variant=55552374112631</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83847-Clover-Highland-Cow-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754489577</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83847-Clover-Highland-Cow-Duo-Tea-Towels-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815635</g:additional_image_link>
@@ -21756,7 +21895,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15076743053687</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
       <g:title>Dinky the Dachshund Duo Tea Towels</g:title>
-      <g:description>This set of two festive Dachshund tea towels is designed to meet the demands of a busy kitchen while adding a seasonal accent. Made from absorbent and durable fabric, they are ideal for drying dishes, hands, or surfaces. A practical and decorative addition to your kitchen during the holiday season.   Both tea towels feature the same design. ,  Dig up the rest of our dachshund homewares, decorations and gifts.</g:description>
+      <g:description>This set of two festive Dachshund tea towels is designed to meet the demands of a busy kitchen while adding a seasonal accent. Made from absorbent and durable fabric, they are ideal for drying dishes, hands, or surfaces. A practical and decorative addition to your kitchen during the holiday season.  Dig up the rest of our dachshund homewares, decorations and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/dinky-dachshund-duo-tea-towels?variant=55552386007415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83848-Dinky-Dachshund-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754489274</g:image_link>
       <g:condition>new</g:condition>
@@ -21921,9 +22060,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83720</g:id>
       <g:item_group_id>15089096753527</g:item_group_id>
       
@@ -22089,7 +22226,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX76487</g:id>
       <g:item_group_id>9520821403965</g:item_group_id>
       <g:google_product_category>3144</g:google_product_category>
@@ -24955,6 +25094,50 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR71364</g:id>
+      <g:item_group_id>15258889027959</g:item_group_id>
+      <g:google_product_category>2169</g:google_product_category>
+      <g:title>Family Stoneware Sentiments Mug</g:title>
+      <g:description>Celebrate all the love of your family over a cuppa in this stoneware mug. The verse reads:Family is where life begins and love never ends. We laugh, cry, argue and share the best memories. All that truly matters is the family in our home and the love in our hearts. Together we make a beautiful family and we are so lucky to have each other. If one of us is having a bad day, we know that our family is always there. Family is a happy place where we are loved and can be ourselves. Our house is full of good times and happy memories. Time spent with family is time well spent. Family is everything.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/family-stoneware-sentiments-mug?variant=56243508445559</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR71364-Family-Sentiments-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764080254</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5017224993150</g:gtin>
+
+      <g:product_type>Mug</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Stoneware</g:material>
+      <g:product_length>8.5 cm </g:product_length>
+      <g:product_width>13 cm </g:product_width>
+      <g:product_height>9 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83758</g:id>
       <g:item_group_id>15100948316535</g:item_group_id>
       
@@ -27541,7 +27724,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Ghost-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789655</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Group-2048x2048-Cancer-Research-UK-Online-Shop_9f5ec276-5adf-4310-a4f1-c70124c436e4_1024x1024.jpg?v=1755789711</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
       <g:sale_price>2.09 GBP</g:sale_price>
 
@@ -32287,7 +32470,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15076753867127</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
       <g:title>Humphrey the Hare Duo Tea Towels</g:title>
-      <g:description>This set of two tea towels offers both functionality and seasonal charm for your kitchen. Designed for both function and style, these towels offer excellent absorbency and durability, making them ideal for drying dishes, hands, or surfaces.  Both tea towels feature the same design. Looking for more of Humphrey? Spring into the rest of our sweet hare decorations, homewares and gifts.</g:description>
+      <g:description>This set of two tea towels offers both functionality and seasonal charm for your kitchen. Designed for both function and style, these towels offer excellent absorbency and durability, making them ideal for drying dishes, hands, or surfaces.  Looking for more of Humphrey? Spring into the rest of our sweet hare decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/humphrey-hare-duo-tea-towels?variant=55552426672503</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83849-Humphrey-Hare-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754488435</g:image_link>
       <g:condition>new</g:condition>
@@ -32921,6 +33104,95 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84559</g:id>
+      <g:item_group_id>15087421325687</g:item_group_id>
+      
+      <g:title>Jake the Jack Russell Cosmetic Bag</g:title>
+      <g:description>Keep your beauty essentials organised with this charming cosmetics bag, featuring a delightful Jack Russell that’s sure to raise a smile. Perfect for owners of this clever breed, it’s crafted with a soft-touch fabric and a durable zip for everyday use. Whether it’s tucked in your handbag or displayed on your dressing table, this bag combines practicality with playful style. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/jake-the-jack-russell-cosmetic-bag?variant=55594624909687</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84559-Jake-Jack-Russell-Cosmetic-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762510614</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674245220</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cosmetic Bag</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:material>Polyester</g:material>
+      <g:product_length>12 cm </g:product_length>
+      <g:product_width>22 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84555</g:id>
+      <g:item_group_id>15087421194615</g:item_group_id>
+      
+      <g:title>Jake the Jack Russell Cushion</g:title>
+      <g:description>This charming Jack Russell cushion is a delightful addition to any home, especially during the Christmas season. Designed with dog lovers in mind, it features a heart-warming illustration and a soft feel that’s perfect for cosy evenings. A thoughtful gift or a seasonal treat, it’s sure to be a favourite all year round. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/jake-the-jack-russell-cushion?variant=55594624778615</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84555-Jake-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762508975</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674245183</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cushion</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:product_length>43 cm </g:product_length>
+      <g:product_width>43 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -36207,9 +36479,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83751</g:id>
       <g:item_group_id>15079870726519</g:item_group_id>
       
@@ -36498,7 +36768,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR73985</g:id>
       <g:item_group_id>9521005199677</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -38248,7 +38520,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15062553198967</g:item_group_id>
       
       <g:title>Magical Christmas 10/20 Christmas Cards - 10</g:title>
-      <g:description>Celebrate Christmas in style with this charming village scene. Featuring a festive tree, merry-go-round, and decorated shops, it captures the joy of the season.  Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15 x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Celebrate Christmas in style with this charming village scene, featuring a festive tree, merry-go-round, and decorated shops. This design captures the joy and thrill of the season.  Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15 x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/magical-christmas-10-christmas-cards?variant=55486115053943</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83923-Magical-Christmas-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185416</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83923-Magical-Christmas-Christmas-Cards-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185417</g:additional_image_link>
@@ -38290,7 +38562,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15062553198967</g:item_group_id>
       
       <g:title>Magical Christmas 10/20 Christmas Cards - 20</g:title>
-      <g:description>Celebrate Christmas in style with this charming village scene. Featuring a festive tree, merry-go-round, and decorated shops, it captures the joy of the season.  Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15 x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Celebrate Christmas in style with this charming village scene, featuring a festive tree, merry-go-round, and decorated shops. This design captures the joy and thrill of the season.  Features:  Pack of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15 x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board with gold foil highlights., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/magical-christmas-10-christmas-cards?variant=55486115086711</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83923-Magical-Christmas-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185416</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83923-Magical-Christmas-Christmas-Cards-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185417</g:additional_image_link>
@@ -38420,7 +38692,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/make-your-own-christmas-hand-puppet-santa?variant=49004005785917</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76529-Santa-Make-Your-Own-Hand-Puppet-Cancer-Research-UK-Online-Shop_ab4d3ce0-ffef-4f01-b019-352ea888b306_1024x1024.jpg?v=1734683089</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -40138,7 +40410,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-cow-lick-natural-lip-balm?variant=49004026495293</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42342-MooGoo-Lip-Balm-Cow-Lick-Group-2-Cancer-Research-UK-Online-Shop_1_1fd1bfc6-1506-4205-9d7c-0b9055421990_1024x1024.jpg?v=1719230292</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -41130,7 +41402,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42341-MooGoo-Deodorant-Sensitive-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405007</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42342-MooGoo-Lip-Balm-Cow-Lick-Group-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405007</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>42.99 GBP</g:price>
 
       <g:shipping>
@@ -55971,9 +56243,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83872</g:id>
       <g:item_group_id>15076941169015</g:item_group_id>
       
@@ -56282,7 +56552,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83695</g:id>
       <g:item_group_id>15089095082359</g:item_group_id>
       
@@ -58988,6 +59260,47 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW76507-Text-Rose-Gold-Foil-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1b27e7cb-cf52-4725-a9ae-f158508880b4_1024x1024.jpg?v=1719231163</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213543262</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW81822STAGS</g:id>
+      <g:item_group_id>9521215275325</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Rose Gold Lux Foil 1.5m Christmas Wrapping Paper - Stag</g:title>
+      <g:description>Shine bright this festive season with this stunningly beautiful rose gold foil wrapping paper. This design features an artistic on the classic stag. Available in 3 designs, sold separately, the intricate details are lifted by the luxe foil finish. 1.5m in length, this wrap is made from paper-backed foil.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/rose-gold-lux-foil-15m-christmas-wrapping-paper-stag?variant=49004230476093</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW76507-Stag-Rose-Gold-Foil-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_be39f766-2492-4704-a8bd-a28865a89010_1024x1024.jpg?v=1719231167</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -72888,7 +73201,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84471-Gift-Wrap-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758618689</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84471-Gift-Wrap-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758618689</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -73096,7 +73409,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15106108031351</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Santa Face Gift Bag - Bottle</g:title>
-      <g:description>Make your presents pop with this jolly Santa Face Gift Bag! Featuring Santa’s cheerful face and festive red hat, this fully recyclable bag brings instant Christmas cheer to any gift.  Available in four sizes—from a handy bottle bag to an extra-large option for those big surprises—there’s a perfect fit for every present. Ho-ho-holiday wrapping has never been this fun!</g:description>
+      <g:description>Make your presents pop with this jolly Santa Face Gift Bag! Featuring Santa’s cheerful face and festive red hat, this fully recyclable bag brings instant Christmas cheer to any gift.  Available in four sizes, from a handy bottle bag to an extra-large option for those big surprises, there’s a perfect fit for every present. Ho-ho-holiday wrapping has never been this fun!</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/santa-face-gift-bag?variant=55798459859319</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84444-Santa-Face-Bottle-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758184215</g:image_link>
       <g:condition>new</g:condition>
@@ -73136,7 +73449,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15106108031351</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Santa Face Gift Bag - M</g:title>
-      <g:description>Make your presents pop with this jolly Santa Face Gift Bag! Featuring Santa’s cheerful face and festive red hat, this fully recyclable bag brings instant Christmas cheer to any gift.  Available in four sizes—from a handy bottle bag to an extra-large option for those big surprises—there’s a perfect fit for every present. Ho-ho-holiday wrapping has never been this fun!</g:description>
+      <g:description>Make your presents pop with this jolly Santa Face Gift Bag! Featuring Santa’s cheerful face and festive red hat, this fully recyclable bag brings instant Christmas cheer to any gift.  Available in four sizes, from a handy bottle bag to an extra-large option for those big surprises, there’s a perfect fit for every present. Ho-ho-holiday wrapping has never been this fun!</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/santa-face-gift-bag?variant=55673441550711</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84445-Santa-Face-Large-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758184254</g:image_link>
       <g:condition>new</g:condition>
@@ -73176,7 +73489,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15106108031351</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Santa Face Gift Bag - L</g:title>
-      <g:description>Make your presents pop with this jolly Santa Face Gift Bag! Featuring Santa’s cheerful face and festive red hat, this fully recyclable bag brings instant Christmas cheer to any gift.  Available in four sizes—from a handy bottle bag to an extra-large option for those big surprises—there’s a perfect fit for every present. Ho-ho-holiday wrapping has never been this fun!</g:description>
+      <g:description>Make your presents pop with this jolly Santa Face Gift Bag! Featuring Santa’s cheerful face and festive red hat, this fully recyclable bag brings instant Christmas cheer to any gift.  Available in four sizes, from a handy bottle bag to an extra-large option for those big surprises, there’s a perfect fit for every present. Ho-ho-holiday wrapping has never been this fun!</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/santa-face-gift-bag?variant=55673441583479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84447-Santa-Face-Extra-Large-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758184530</g:image_link>
       <g:condition>new</g:condition>
@@ -73216,7 +73529,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>15106108031351</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Santa Face Gift Bag - XL</g:title>
-      <g:description>Make your presents pop with this jolly Santa Face Gift Bag! Featuring Santa’s cheerful face and festive red hat, this fully recyclable bag brings instant Christmas cheer to any gift.  Available in four sizes—from a handy bottle bag to an extra-large option for those big surprises—there’s a perfect fit for every present. Ho-ho-holiday wrapping has never been this fun!</g:description>
+      <g:description>Make your presents pop with this jolly Santa Face Gift Bag! Featuring Santa’s cheerful face and festive red hat, this fully recyclable bag brings instant Christmas cheer to any gift.  Available in four sizes, from a handy bottle bag to an extra-large option for those big surprises, there’s a perfect fit for every present. Ho-ho-holiday wrapping has never been this fun!</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/santa-face-gift-bag?variant=55673442304375</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84446-Santa-Face-Medium-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758184489</g:image_link>
       <g:condition>new</g:condition>
@@ -73786,7 +74099,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84298-Serenity-Breathe-Diffuser-220ml-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749217819</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84298-Serenity-Breathe-Diffuser-220ml-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749217819</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>17.99 GBP</g:price>
 
       <g:shipping>
@@ -74543,7 +74856,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84299-Serenity-Flow-Diffuser-220ml-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749218224</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84299-Serenity-Flow-Diffuser-220ml-7-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749218224</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>17.99 GBP</g:price>
 
       <g:shipping>
@@ -78978,6 +79291,52 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CX76464</g:id>
+      <g:item_group_id>15259009515895</g:item_group_id>
+      <g:google_product_category>6535</g:google_product_category>
+      <g:title>Small Glass LED Reindeer Globe</g:title>
+      <g:description>Create a magical winter wonderland with this illuminated glass globe. Inside, a golden rabbit, deer and robin rest in front of three elegant trees, glowing softly when the globe lights up. A stunning piece to enhance your Christmas display.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/small-glass-led-reindeer-globe?variant=56244024541559</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76464-Small-Glass-LED-Reindeer-Globe-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764086418</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76464-Reindeer-Light-Up-Globe-LIT-Dark-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764086792</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5017224997820</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:material>Glass</g:material>
+      <g:product_length>80 mm </g:product_length>
+      <g:product_width>80 mm </g:product_width>
+      <g:product_height>170 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83680CREAM</g:id>
       <g:item_group_id>15107341877623</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -79145,6 +79504,87 @@ Outsole synthetic</g:material>
       <g:custom_label_1>Greeting Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX70582SNOWFLAKE</g:id>
+      <g:item_group_id>9521287004477</g:item_group_id>
+      <g:google_product_category>2675</g:google_product_category>
+      <g:title>Snowflake Door Mat - Standard</g:title>
+      <g:description>Made from hardwearing coir matting and embossed with 3 snowflakes, this traditional style doormat will be a fantastic festive addition to your hallway.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/snowflake-door-mat?variant=56243612844407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70582-Snowflake-Door-Mat-Cancer-Research-UK-Online-Shop_b753e83d-e7f4-4ca6-ac00-fc7911975e7c_1024x1024.jpg?v=1734683058</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844346372</g:gtin>
+
+      <g:product_type>Doormats</g:product_type>
+
+<g:size>Standard</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>40 cm </g:product_length>
+      <g:product_width>60 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX70594SNOWFLAKE</g:id>
+      <g:item_group_id>9521287004477</g:item_group_id>
+      <g:google_product_category>2675</g:google_product_category>
+      <g:title>Snowflake Door Mat - Long</g:title>
+      <g:description>Made from hardwearing coir matting and embossed with 3 snowflakes, this traditional style doormat will be a fantastic festive addition to your hallway.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/snowflake-door-mat?variant=49004319506749</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70582-Snowflake-Door-Mat-Cancer-Research-UK-Online-Shop_b753e83d-e7f4-4ca6-ac00-fc7911975e7c_1024x1024.jpg?v=1734683058</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844346396</g:gtin>
+
+      <g:product_type>Doormats</g:product_type>
+
+<g:size>Standard</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -81786,7 +82226,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU27829-Stand-Up-To-Cancer-Womens-Short-Logo-Black-TShirt-1-Cancer-Research-UK-Online-Shop_713823c0-6d4c-4df7-bb75-db9fd9ed0bd1_1024x1024.jpg?v=1719231542</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WBLACKBACK2000X2000_2_1024x1024.jpg?v=1719404374</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.00 GBP</g:price>
       <g:sale_price>4.99 GBP</g:sale_price>
 
@@ -84909,9 +85349,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83662</g:id>
       <g:item_group_id>15087454519671</g:item_group_id>
       
@@ -85414,7 +85852,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CC84517</g:id>
       <g:item_group_id>9521354146109</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -94060,7 +94500,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42182-9781848578562-We-Are-Together-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404206</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42182-9781848578562-We-Are-Together-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404206</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
