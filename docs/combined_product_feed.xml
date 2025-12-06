@@ -3443,7 +3443,7 @@
 
 	
     <item>
-      <g:id>CX84556</g:id>
+      <g:id>CX84555</g:id>
       <g:item_group_id>15087421227383</g:item_group_id>
       
       <g:title>Betty the Border Terrier Cushion</g:title>
@@ -5701,7 +5701,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-towel-bundle-pink?variant=55416235786615</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84800PINK-Bowelbabe-Towel-Bundle-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1751899900</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>17.95 GBP</g:price>
 
       <g:shipping>
@@ -18832,7 +18832,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/clover-the-highland-cow-doormat?variant=55552871104887</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83865-Clover-Highland-Cow-Doormat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754480884</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -19442,7 +19442,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83852-1-Clover-Highland-Cow-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493844</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83852-2-Clover-Highland-Cow-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493844</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -25398,7 +25398,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/family-farmyard-scene-10-christmas-cards?variant=55485703291255</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83915-Family-Farmyard-Scene-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185425</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -27095,7 +27095,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/floral-faux-laser-cut-mothers-day-greetings-card?variant=49003865014589</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/GC30323-Faux-Laser-Cut-Mothers-Day-Greetings-Card-Cancer-Research-UK-Online-Shop_0_b2526c78-af8d-4a0e-85e4-651be369303e_1024x1024.jpg?v=1719229679</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -28384,13 +28384,54 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CC81795</g:id>
+      <g:item_group_id>14670545486199</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Giftmaker 8 Novelty Christmas Crackers</g:title>
+      <g:description>Have fun around around the dinner table with these Christmas crackers featuring various festive characters. Free from plastic, each cracker includes a hat, joke and recyclable activities. Cracker length 30cm (12").</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-novelty-christmas-crackers-pack-of-8?variant=53481609527671</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81795-Giftmaker-Novelty-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682921</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213569842</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CC81796</g:id>
       <g:item_group_id>9520899653949</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Giftmaker 8 Silver &amp; White Plastic-Free Christmas Crackers - 2024</g:title>
       <g:description>Pull a plastic-free cracker this Christmas with these silver and white ones from Giftmaker. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with snowflake design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-silver-white-plastic-free-christmas-crackers?variant=55672913428855</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81796-Giftmaker-White-Silver-8-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683107</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81796-Giftmaker-White-Silver-8-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764936445</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81215-Timmy-Mouse-Placemats-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756379945</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
@@ -28431,7 +28472,7 @@ Lining 100% Cotton</g:material>
       <g:title>Giftmaker 8 Silver &amp; White Plastic-Free Christmas Crackers - 2025</g:title>
       <g:description>Pull a plastic-free cracker this Christmas with these silver and white ones from Giftmaker. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with snowflake design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-silver-white-plastic-free-christmas-crackers?variant=55672913461623</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84463-Giftmaker-White-Silver-2025-8-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756379967</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84463-Giftmaker-White-Silver-2025-8-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764936445</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81215-Timmy-Mouse-Placemats-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756379945</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -28493,47 +28534,6 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012213569859</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CC81795</g:id>
-      <g:item_group_id>14670545486199</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Giftmaker Novelty Christmas Crackers - Pack of 8</g:title>
-      <g:description>Have fun around around the dinner table with these Christmas crackers featuring various festive characters. Free from plastic, each cracker includes a hat, joke and recyclable activities. Cracker length 30cm (12").</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-novelty-christmas-crackers-pack-of-8?variant=53481609527671</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81795-Giftmaker-Novelty-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682921</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213569842</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Crackers</g:product_type>
@@ -30404,10 +30404,11 @@ Lining 100% Cotton</g:material>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>0</g:size>
+      <g:color>Blue</g:color>
+      <g:size>4</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Paper</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Crackers</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -33530,7 +33531,7 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84555</g:id>
+      <g:id>CX84556</g:id>
       <g:item_group_id>15087421194615</g:item_group_id>
       
       <g:title>Jake the Jack Russell Cushion</g:title>
@@ -33627,7 +33628,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/jake-the-jack-russell-doormat?variant=56139939250551</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84558JAKE-Jake-Door-Mat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763134385</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -36678,7 +36679,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/letter-santa-pack?variant=49006103560509</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX32525-Letter-to-Santa-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683037</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -40911,7 +40912,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-cow-lick-natural-lip-balm?variant=49004026495293</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42342-MooGoo-Lip-Balm-Cow-Lick-Group-2-Cancer-Research-UK-Online-Shop_1_1fd1bfc6-1506-4205-9d7c-0b9055421990_1024x1024.jpg?v=1719230292</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -44422,7 +44423,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/extra-large-bag-night-sky?variant=55594626711927</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83837-Santa-in-the-Sky-Gift-Sack-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185377</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -48491,7 +48492,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/premier-warm-white-led-indoor-outdoor-battery-operated-timer-lights?variant=49433370493245</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81330-Premier-Timelights-MultiAction-Battery-100-LEDs-Warm-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682950</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -58469,7 +58470,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83811-Brown-Reindeer-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760091435</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-7-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702343</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -59170,7 +59171,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063004</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063037</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -76000,7 +76001,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/serenity-pause-set-3-candles?variant=49004266324285</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32302-Serenity-Pause-3-Candles-Cancer-Research-UK-Online-Shop_23a428f8-38d8-40a4-9ea1-6528b76010e6_1024x1024.jpg?v=1719231273</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>17.99 GBP</g:price>
 
       <g:shipping>
@@ -78493,7 +78494,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/silver-christmas-tissue-paper-10-sheets?variant=49371869511997</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84365-Silver-Tissue-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757432242</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -79098,7 +79099,7 @@ Outsole synthetic</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84641-Highland-Cow-Figurine-Sitting-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185362</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84641-Highland-Cow-Figurine-Sitting-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185362</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -85770,7 +85771,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/titch-the-tiny-mouse-10-20-christmas-cards?variant=55486163550583</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83907-Titch-the-Tiny-Mouse-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185415</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.49 GBP</g:price>
 
       <g:shipping>
@@ -86558,47 +86559,6 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>CC81870</g:id>
-      <g:item_group_id>14669524205943</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Tom Smith 6 Kraft Deluxe Christmas Crackers</g:title>
-      <g:description>Impress your guests with these these beautiful Tom Smith kraft Christmas crackers. Each of the 8 crackers is fully recyclable, made from kraft paper and a paper bow, and contains a practical, reusable metal gift.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-kraft-deluxe-christmas-crackers?variant=53472878231927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81870-Tom-Smith-Kraft-Deluxe-6-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682925</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>15.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213567619</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CC76558</g:id>
       <g:item_group_id>15208312832375</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -86635,47 +86595,6 @@ Outsole synthetic</g:material>
       <g:product_length>6 cm </g:product_length>
       <g:product_width>34 cm </g:product_width>
       <g:product_height>35 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CC81871</g:id>
-      <g:item_group_id>14671612838263</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Tom Smith 6 Silver Deluxe Christmas Crackers</g:title>
-      <g:description>Add some sparkle to your dining table with these Tom Smith deluxe silver Christmas crackers. Each embossed foil cracker is finished with an organza tie, and contains a practical, reusable metal gift.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-silver-deluxe-christmas-crackers?variant=53484881969527</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81871-Tom-Smith-Silver-Deluxe-8-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682907</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>15.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213567596</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Crackers</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -86766,6 +86685,130 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CC84519</g:id>
+      <g:item_group_id>9521350869309</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Tom Smith 8 Deluxe Kraft Christmas Crackers</g:title>
+      <g:description>Add a touch of festive magic to your celebrations with this luxurious set of Deluxe Kraft Crackers. Each cracker is beautifully adorned with festive foliage, capturing the charm of the season in elegant detail. Perfect for elevating your Christmas table, these crackers bring joy and sparkle to every festive gathering. Whether for family feasts or holiday parties, they’re designed to delight. Fully recyclable cracker and packaging. Set includes 8 crackers.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-8-deluxe-kraft-christmas-crackers?variant=49004388778301</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84519-8-Tom-Smith-Kraft-Deluxe-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757594800</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>15.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213580427</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CC81870</g:id>
+      <g:item_group_id>14669524205943</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Tom Smith 8 Kraft Deluxe Christmas Crackers</g:title>
+      <g:description>Impress your guests with these these beautiful Tom Smith kraft Christmas crackers. Each of the 8 crackers is fully recyclable, made from kraft paper and a paper bow, and contains a practical, reusable metal gift.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-kraft-deluxe-christmas-crackers?variant=53472878231927</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81870-Tom-Smith-Kraft-Deluxe-6-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682925</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>15.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213567619</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CC81871</g:id>
+      <g:item_group_id>14671612838263</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Tom Smith 8 Silver Deluxe Christmas Crackers</g:title>
+      <g:description>Create a show‑stopping Christmas table with this deluxe 8‑piece Tom Smith silver cracker set. Designed to gleam and shine under lighting, each cracker is wrapped in embossed silver foil and tied with organza bows for an elegant finish.  Inside, discover an array of handy metal gifts such as cookie cutters, bottle openers, egg cups and more!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-silver-deluxe-christmas-crackers?variant=53484881969527</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81871-Tom-Smith-Silver-Deluxe-8-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682907</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>15.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213567596</g:gtin>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+      <g:color>Silver</g:color>
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Paper</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW76533</g:id>
       <g:item_group_id>9522295931197</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -86844,47 +86887,6 @@ Outsole synthetic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CC84519</g:id>
-      <g:item_group_id>9521350869309</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Tom Smith Deluxe Kraft Christmas Crackers - 8 Pack</g:title>
-      <g:description>Add a touch of festive magic to your celebrations with this luxurious set of Deluxe Kraft Crackers. Each cracker is beautifully adorned with festive foliage, capturing the charm of the season in elegant detail. Perfect for elevating your Christmas table, these crackers bring joy and sparkle to every festive gathering. Whether for family feasts or holiday parties, they’re designed to delight. Fully recyclable cracker and packaging. Set includes 6 crackers.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-8-deluxe-kraft-christmas-crackers?variant=49004388778301</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84519-8-Tom-Smith-Kraft-Deluxe-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757594800</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>15.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213580427</g:gtin>
- 
-      <g:brand>Tom Smith</g:brand>
-      <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -94060,7 +94062,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/twilight-tree-10-christmas-cards?variant=55486129275255</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83938-Twilight-Tree-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185423</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
