@@ -225,7 +225,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/20-assorted-metallic-gift-wrap-bows?variant=49371869675837</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84370-Metallic-Gift-Bows-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757505216</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -1427,7 +1427,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/assorted-childrens-christmas-card-30-pack?variant=55486254678391</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83912-Cute-Christmas-Childrens-Pack-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185412</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -6439,7 +6439,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-tote-bag?variant=49005483622717</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80622-Bowelbabe-Floral-Tote-Bag-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763736391</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -14546,7 +14546,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84639-Ceramic-Light-Up-LED-House-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185363</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84639-Ceramic-Light-Up-LED-House-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185363</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.99 GBP</g:price>
 
       <g:shipping>
@@ -16233,46 +16233,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CW84433</g:id>
-      <g:item_group_id>15106118451575</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Christmas Dachshund Gift Bag - M</g:title>
-      <g:description>Add a festive touch to your gift-giving with this charming Christmas gift bag featuring a dachshund in a spotty red jumper. Made for dog lovers and seasonal style alike, it comes in a range of sizes, perfect for presents big or small.  A fun, practical, and eye-catching way to wrap your Christmas gifts. Dig up the rest of our dachshund homewares, decorations and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-dachshund-gift-bag?variant=55673476612471</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84433-Dachshund-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761697072</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213578912</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-<g:size>L</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CW84432</g:id>
       <g:item_group_id>15106118451575</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -16339,6 +16299,46 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012213578899</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+<g:size>L</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW84433</g:id>
+      <g:item_group_id>15106118451575</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Christmas Dachshund Gift Bag - M</g:title>
+      <g:description>Add a festive touch to your gift-giving with this charming Christmas gift bag featuring a dachshund in a spotty red jumper. Made for dog lovers and seasonal style alike, it comes in a range of sizes, perfect for presents big or small.  A fun, practical, and eye-catching way to wrap your Christmas gifts. Dig up the rest of our dachshund homewares, decorations and gifts.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-dachshund-gift-bag?variant=55673476612471</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84433-Dachshund-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761697072</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213578912</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
@@ -24668,7 +24668,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84484-Robin-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758009904</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84484-Robin-Gift-Wrap-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758617308</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -25480,7 +25480,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/family-stoneware-sentiments-mug?variant=56243508445559</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR71364-Family-Sentiments-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764080254</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -28425,47 +28425,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CC81796</g:id>
-      <g:item_group_id>9520899653949</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Giftmaker 8 Silver &amp; White Plastic-Free Christmas Crackers - 2024</g:title>
-      <g:description>Pull a plastic-free cracker this Christmas with these silver and white ones from Giftmaker. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with snowflake design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-silver-white-plastic-free-christmas-crackers?variant=55672913428855</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81796-Giftmaker-White-Silver-8-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764936445</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81215-Timmy-Mouse-Placemats-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756379945</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213569828</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Crackers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CC84463</g:id>
       <g:item_group_id>9520899653949</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -28493,6 +28452,47 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012213582421</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CC81796</g:id>
+      <g:item_group_id>9520899653949</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Giftmaker 8 Silver &amp; White Plastic-Free Christmas Crackers - 2024</g:title>
+      <g:description>Pull a plastic-free cracker this Christmas with these silver and white ones from Giftmaker. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with snowflake design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-silver-white-plastic-free-christmas-crackers?variant=55672913428855</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81796-Giftmaker-White-Silver-8-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764936445</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81215-Timmy-Mouse-Placemats-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756379945</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213569828</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Crackers</g:product_type>
@@ -29126,7 +29126,7 @@ Lining 100% Cotton</g:material>
       <g:title>Gingerbread House Cushion</g:title>
       <g:description>Add festive charm to your home with this soft gingerbread house cushion. Featuring vibrant embroidery, candy canes, and a cheerful “Merry Christmas” message, it’s perfect for snuggling or brightening up your seasonal décor. A cosy, whimsical touch for sofas, beds, or reading nooks. Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/candy-house-cushion?variant=55604446200183</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84637-Gingerbread-Candy-Cane-House-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755257286</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84637-Gingerbread-Candy-Cane-House-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1765183951</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84637-Candy-House-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757061965</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -34326,7 +34326,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9520986259773</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
       <g:title>Jennifer Young Hot Beauty Brightening Menopause Body Set</g:title>
-      <g:description>Combining 2 Jennifer Young Hot Beauty menopause products in to one set, treat yourself or a loved one to beautiful, cooled, and refreshed skin - even sensitive skin undergoing medical menopause. Each set includes body moisturiser and body oil, also available separately. Features:  Jennifer Young Hot Beauty Brightening Menopause Body Set, Includes body moisturiser, and body oil, 100% natural plant-based ingredients, Vegan friendly and cruelty free, Paraben free, Suitable for skin affected by medical menopause,   </g:description>
+      <g:description>  Support your skin through menopause with this complete care set from Jennifer Young, featuring a nourishing body moisturiser and a luxurious body oil. Designed to hydrate, soothe and restore comfort, it helps relieve itchiness, tenderness and dryness while promoting suppleness and radiance. Both formulas are paraben-free, cruelty-free and suitable for sensitive skin, making this the perfect self-care ritual to help you feel confident and shine every day. Key Features:  Helps relieve dryness, tenderness and discomfort, Complete set: body moisturiser + body oil for all-over care, Natural plant oils to hydrate and soothe sensitive, itchy skin, Vegan, cruelty-free and paraben-free ,  </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/jennifer-young-hot-beauty-brightening-menopause-body-set?variant=49003976130877</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42309-Brightening-Menopause-Body-Set-Cancer-Care-Collection-Cancer-Research-UK-Online-Shop_c5dbe628-5f59-4940-bb1e-15f97a23a448_1024x1024.jpg?v=1719230020</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42309-Brightening-Menopause-Body-Set-2-Cancer-Care-Collection-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405193</g:additional_image_link>
@@ -34354,9 +34354,11 @@ Lining 100% Cotton</g:material>
       <g:brand>Jennifer Young</g:brand>
       <g:product_type>Skincare Pack</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
@@ -40435,7 +40437,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>9335955000203</g:gtin>
  
       <g:brand>MooGoo</g:brand>
-      <g:product_type>Body Wash</g:product_type>
+      <g:product_type>Cream</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -40455,9 +40457,9 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9676840108349</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
       <g:title>MooGoo Argireline Amplified Peptide (5%) Anti-Ageing Serum</g:title>
-      <g:description>A deep-penetrating serum for improving skin firmness and fine lines. Features:  MooGoo Argireline Amplified Peptide (5%) Anti-Ageing Serum, 25ml, Made with Modified Acetyl Hexapeptide-8 (Argireline® Amplified Peptide)., Deeply penetrates the skin to reduce fine lines and wrinkles at their source., Improve skin roughness, radiance, firmness, elasticity, and facial volume., Helps to diminish and prevent the very formation of expression lines., BeauActive® to target sun damage and stimulate collagen production., A truly advanced, multi-dimensional anti-ageing serum., This silky-smooth serum is suitable for all skin types, including sensitive skin. Based on in-vivo (aka, on real living skin) test results. , </g:description>
+      <g:description>Target fine lines and improve skin firmness with this advanced anti-ageing serum, . Its multi-dimensional formula penetrates deeply to rejuvenate and restore, helping you achieve smoother, more radiant skin. The star ingredient, Argireline® Amplified Peptide (Modified Acetyl Hexapeptide-8), works at the source of expression lines to reduce and prevent their formation, improving elasticity and facial volume. Combined with BeauActive®, this serum helps stimulate collagen production and combat sun damage, enhancing skin’s resilience and radiance. With proven in-vivo results, it’s a truly advanced solution for tackling signs of ageing without irritation. Key Features:  Argireline® Amplified Peptide – reduces fine lines and prevents expression wrinkles, BeauActive® – targets sun damage and boosts collagen, Improves firmness, elasticity and overall skin texture , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-argireline-amplified-peptide-5-anti-ageing-serum?variant=49422005240125</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82388-MooGoo-B-Argireline-25ml-Cancer-Reserach-UK-Online-Shop_0_1024x1024.jpg?v=1727362228</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82388-MooGoo-B-Argireline-25ml-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1765197623</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>28.99 GBP</g:price>
@@ -40578,7 +40580,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14894442971511</g:item_group_id>
       
       <g:title>MooGoo Baby Fast-Absorbing Lotion with Ceramides</g:title>
-      <g:description>A lightweight, fast-absorbing lotion to hydrate delicate skin  Made with natural, skin-loving oils like Sweet Almond and Olive Squalane, Contains Ceramides to support the skin barrier, Great for sensitive, dry, itchy, and irritated skin, Rubs in quickly and easily, For everyone and everywhere. Suitable for use on face &amp; body, Naturally preserved with Hops Extract – free of Parabens and Phenoxyethanol , </g:description>
+      <g:description>Formulated with sweet almond oil and olive squalane, this lotion delivers deep hydration while mimicking the skin’s natural oils for lasting moisture without greasiness. Ceramides strengthen the skin barrier, helping to prevent dryness and irritation, making it ideal for sensitive, itchy or easily stressed skin.  Key Features:  Sweet Almond Oil &amp; Olive Squalane – nourish and hydrate without heaviness, Ceramides – support and strengthen the skin barrier, Suitable for face and body, for all skin types including sensitive, Free from parabens and phenoxyethanol, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-baby-fast-absorbing-lotion-with-ceramides?variant=54897912316279</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW83626-MooGoo-Baby-Lotion-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1737473412</g:image_link>
       <g:condition>new</g:condition>
@@ -40602,9 +40604,9 @@ Lining 100% Cotton</g:material>
       <g:gtin>9335955005550</g:gtin>
  
       <g:brand>MooGoo</g:brand>
-      <g:product_type>Lotion</g:product_type>
+      <g:product_type>Baby Skincare</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -40660,7 +40662,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9676833915197</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
       <g:title>MooGoo Baby Nappy Balm</g:title>
-      <g:description>A calming, protective balm that's also suitable for use on dribble rash. Features:  MooGoo Baby Nappy Balm, 120g, Dermatologically Tested &amp; approved for sensitive skin, Paediatrician Approved, Hypoallergenic, A barrier cream for nappy rash is the best way to prevent irritation, MooGoo use Zinc as the base for this cream to provide protection for the skin, Piroctone Olamine is an anti-yeast ingredient to keep the irritation under control, Made with natural oils like Jojoba, Sunflower, Evening Primrose &amp; Olive Oil, Soothing ingredients like Shea Butter and Allantoin to care for bubs behind, Naturally preserved with Hops Extract – free of Parabens and Phenoxyethanol , </g:description>
+      <g:description>Soothe and protect delicate skin with this calming nappy balm, specially formulated for sensitive areas. Dermatologically tested and paediatrician approved, it creates a gentle barrier to help prevent irritation and care for your baby’s skin.  The base of this balm is Zinc, which provides a protective layer to shield against moisture and friction, reducing the risk of nappy rash.  To keep irritation under control, Piroctone Olamine offers anti-yeast properties, while natural oils like Jojoba, Sunflower, Evening Primrose and Olive Oil deeply nourish and soften the skin.  </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-baby-nappy-balm?variant=49421995082045</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82393-MooGoo-Baby-Nappy_20Balm-120g-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727361918</g:image_link>
       <g:condition>new</g:condition>
@@ -40701,7 +40703,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9676836864317</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
       <g:title>MooGoo Baby Nipple Balm</g:title>
-      <g:description>A calming balm for breastfeeding mums. Features:  MooGoo Baby Nipple Balm, 50g, Made with antioxidant-rich oils like Grape Seed and Sunflower Oil, Hydrating and soothing ingredients like Shea Butter and Natural Vitamin E, Free of Lanolin – a wax secreted by the glands of wool-bearing animals, Does not need to be removed prior to feeding as the ingredients are edible, Naturally preserved with Hops Extract – free of Parabens and Phenoxyethanol , </g:description>
+      <g:description>Formulated with antioxidant-rich oils like Grape Seed and Sunflower Oil, this balm nourishes and protects the skin while helping to prevent dryness and irritation. Shea Butter and Natural Vitamin E provide deep hydration and soothing relief, keeping skin soft and supple. Free from lanolin and harsh chemicals, it’s naturally preserved with Hops Extract, making it a safe, hypoallergenic choice for sensitive skin. Key Features:  Grape Seed &amp; Sunflower Oils – antioxidant-rich hydration, Shea Butter &amp; Vitamin E – soothe and protect delicate skin, Edible formula—safe for baby, no need to remove before feeding, Free from lanolin, parabens and phenoxyethanol, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-baby-nipple-balm?variant=49421999046973</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82392-MooGoo-Nipple-Balm-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727362056</g:image_link>
       <g:condition>new</g:condition>
@@ -40825,7 +40827,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9676278464829</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
       <g:title>MooGoo Bakuchiol Natural Retinol Substitute Active Serum</g:title>
-      <g:description>For boosting collagen and skin rejuvenation. Features:  Bakuchiol is a natural alternative for Retinol as Retinol can irritate the skin., A plant-based and derived from the Babchi Herb., Stimulates collagen production and diminishes signs of fine lines and wrinkles., Serum base is moisturising Jojoba Oil, Natural Vitamin E and Shea Butter., This silky-smooth serum is suitable for all skin types, including sensitive skin., Free of Phenxyethanol, Parabens and anything else we don’t want on our own skin. , </g:description>
+      <g:description>Boost collagen and rejuvenate your skin with this silky-smooth serum, specially formulated for all skin types. Using gentle, plant-based ingredients, it helps reduce fine lines and restore firmness without irritation. At its core is Bakuchiol, a natural alternative to retinol derived from the Babchi herb. Unlike retinol, which can cause dryness and sensitivity, Bakuchiol stimulates collagen production and improves skin texture while being kind to delicate skin.  Key Features:  Bakuchiol – plant-based retinol alternative for collagen boost and wrinkle reduction, Moisturising base – jojoba oil, vitamin E and shea butter for hydration and skin barrier support, Suitable for all skin types, including sensitive, Free from phenoxyethanol, parabens and harsh chemicals, 25ml, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-bakuchiol-natural-retinol-substitute-active-serum?variant=49421228736829</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82387-MooGoo-B-Bakuchiol-25ml-Cancer-Research-UK-Online-Shop-1_1024x1024.jpg?v=1727350414</g:image_link>
       <g:condition>new</g:condition>
@@ -40851,9 +40853,10 @@ Lining 100% Cotton</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Serum</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Skincare</g:custom_label_2>
@@ -41814,7 +41817,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9676873662781</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
       <g:title>MooGoo Hyaluronic Acid, Niacinamide Active Serum</g:title>
-      <g:description>A hyper-hydrating serum for dry skin and fine lines. Features:  MooGoo Hyaluronic Acid, Niacinamide Active Serum, 25ml, Hyaluronic Acid (HA) encourages skin renewal as well as rehydrates and retains moisture in the skin, Increased moisture retention plumps the skin to minimise the appearance of fine lines and wrinkles, Antioxidant properties protect the skin and combat the signs of ageing to keep it looking younger, Made with 2 types of HA of different molecular weights to maximize absorption into all layers of the skin, Niacinamide is a form of Vitamin B3 that helps to regulate your skin’s oil production, reducing excess oils, Known to reduce the appearance of skin blemishes and pigmentations while improving skin texture., This silky-smooth serum is suitable for all skin types, including sensitive, oily and blemish-prone skin , </g:description>
+      <g:description>Deeply hydrate and rejuvenate your skin with this powerful active serum, designed to target dryness, fine lines and uneven texture.  At its core is Hyaluronic Acid, known for its ability to attract and retain moisture, plumping the skin to minimise fine lines and restore suppleness. This formula uses two molecular weights of HA for deep and surface hydration, ensuring every layer of your skin feels refreshed.  Niacinamide (Vitamin B3) works alongside HA to regulate oil production, improve texture and reduce blemishes and pigmentation, leaving skin smooth, balanced and radiant.  Key Features:  Hyaluronic Acid – dual molecular weights for deep hydration and plumping, Niacinamide – improves texture, reduces blemishes and pigmentation, Antioxidant-rich formula to combat signs of ageing, Suitable for all skin types, including sensitive, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-hyaluronic-acid-niacinamide-active-serum?variant=49422061928765</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82386-MooGoo-B-HyaluronicAcid-25ml-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727363701</g:image_link>
       <g:condition>new</g:condition>
@@ -41840,9 +41843,10 @@ Lining 100% Cotton</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Serum</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Skincare</g:custom_label_2>
@@ -42354,7 +42358,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9676885262653</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
       <g:title>MooGoo Night Restoration Cream</g:title>
-      <g:description>A collagen-boosting and firming formula that's best applied at night. Features:  MooGoo Night Restoration Cream 75g, A rich, restorative treatment moisturiser designed to rejuvenate the skin, Full of nourishing oils to improve moisture levels and hydrate dry skin, Hyaluronic Acid works to retain moisture in the skin keeping it looking youthful, ECGC (Green Tea Extract) is a natural, powerful antioxidant compound, Lactic Acid removes rough, flaky skin and stimulates collagen production, Naturally preserved with Hops Extract – free of Parabens and Phenoxyethanol , </g:description>
+      <g:description>Wake up to firmer, smoother skin with this rich night cream, designed to restore and rejuvenate while you sleep. Its collagen-boosting formula helps improve elasticity and hydration, leaving skin looking youthful and refreshed by morning. Packed with nourishing oils and active ingredients, it targets dryness, dullness and signs of ageing for a healthier, more radiant complexion.  Hyaluronic acid locks in moisture for lasting hydration, Green tea extract (EGCG) delivers powerful antioxidant protection, Lactic acid gently removes rough, flaky skin and stimulates collagen, Naturally preserved with hops extract – free from parabens and phenoxyethanol, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-night-restoration-cream?variant=49422081818941</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82382-MooGoo-M-NightCream-75g-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727364085</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82382-MooGoo-M-NightCream-75g-Cancer-Research-UK-Online-Shop-2_1024x1024.jpg?v=1727364103</g:additional_image_link>
@@ -42395,10 +42399,10 @@ Lining 100% Cotton</g:material>
       <g:id>LW82390</g:id>
       <g:item_group_id>9676236947773</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
-      <g:title>MooGoo Oil Cleansing Method</g:title>
-      <g:description>Non-clogging oils to dissolve dirt, makeup and sunscreen. Features:  MooGoo Oil Cleansing Method, 100ml, A non-foaming, non-clogging, oil-based face cleanser for all skin types, Contains a combination of drawing oils to dissolve dirt and oil deep in pores, Made with moisturising oils to cleanse without stripping skin of natural oils, Ideal for those with breakouts, dry skin or removing makeup or sunscreen, Can be used for everyday washing, or as a weekly deep cleansing regime, Free from all synthetic preservatives like Phenoxyethanol or Parabens, </g:description>
+      <g:title>MooGoo Oil Cleanser</g:title>
+      <g:description>This gentle, non-foaming oil cleanser is designed to dissolve dirt, makeup and sunscreen without clogging pores or stripping the skin of its natural oils. Using a blend of drawing and moisturising oils, it penetrates deep into pores to lift away impurities while leaving skin soft and hydrated. Perfect for everyday cleansing or as a weekly deep-clean routine, it’s suitable for all skin types.  Non-clogging oils to dissolve dirt, makeup and sunscreen, Moisturising oils to maintain hydration and protect the skin barrier, Suitable for all skin types, including sensitive, Free from synthetic preservatives, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-oil-cleansing-method?variant=49421175554365</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82390-MooGooNourishingDeepPoreOilCleanser-Cancer-Reserach-UK-Online-Shop_1024x1024.jpg?v=1728549622</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82390-MooGoo-Nourishing-Deep-Pore-Oil-Cleanser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1765196503</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
@@ -42422,7 +42426,7 @@ Lining 100% Cotton</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Cleanser</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -43013,7 +43017,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14912832405879</g:item_group_id>
       
       <g:title>MooGoo Tail Swat Body Spray</g:title>
-      <g:description>MooGoo Tail Swat Body Spray, 200ml Features:  A lightweight outdoor face &amp; body cream that deters biting insects, Not an insect repellent, but changes your scent to something bugs don't like, Made using natural, healthy, moisturising ingredients like Soy Bean Oil, Suitable for all ages including children and newborns, Can be applied anywhere on the body, including the face, Naturally preserved with Hops Extract – free of Parabens and Phenoxyethanol, Suitable for all skin types, including sensitive skin, </g:description>
+      <g:description>  This lightweight face and body spray is designed for outdoor use to help deter biting insects. It’s not a traditional insect repellent; instead, it works by subtly changing your scent to something bugs dislike. Made with natural, skin-friendly ingredients like Soy Bean Oil, it also provides moisturising benefits.  Gentle &amp; Safe: Suitable for all ages, including children and newborns., Versatile Application: Can be applied anywhere on the body, even the face., Naturally Preserved: Uses Hops Extract for preservation—free from parabens and phenoxyethanol., Skin-Friendly: Ideal for all skin types, including sensitive skin.,  </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-tail-swat-body-spray-1?variant=54957210403191</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82397-MooGoo-TailSwat-200ml-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1739376713</g:image_link>
       <g:condition>new</g:condition>
@@ -43039,9 +43043,10 @@ Lining 100% Cotton</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Swat Spray</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Skincare</g:custom_label_2>
@@ -43095,7 +43100,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9676389089597</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
       <g:title>MooGoo Ultra Hydrating Face Cream</g:title>
-      <g:description>Replenishes dry, dull and tired skin. Includes ceramides to strengthen skin barrier. Features:  A non-abrasive, gentle, facial exfoliant for all skin types., Contains Salicylic Acid which is a plant-derived exfoliating organic acid, Made with Rice Bran Powder to gently scrub the skin, Bentonite Clay helps draw out pollutants and impurities, Marshmallow Root Extract helps soothe and calm the skin, Gentle enough to be used every day, even for very sensitive skin , </g:description>
+      <g:description>Revitalise dry, dull and tired skin with this gentle facial exfoliant, perfect for everyday use. It works to clear pores, remove impurities and restore softness, while strengthening the skin barrier with ceramides.  This face cream's formula combines effective yet soothing ingredients to leave your complexion refreshed and calm.  Non-abrasive exfoliation with plant-derived salicylic acid to unclog pores, Rice bran powder for a mild scrub and bentonite clay to draw out pollutants, Marshmallow root extract to soothe and calm irritation, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-ultra-hydrating-face-cream?variant=49421448773949</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82383-MooGoo-M-UltraHydratingFaceCream-75g-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727354800</g:image_link>
       <g:condition>new</g:condition>
@@ -43121,9 +43126,10 @@ Lining 100% Cotton</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Cream</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Skincare</g:custom_label_2>
@@ -48452,7 +48458,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/premier-warm-white-led-indoor-outdoor-battery-operated-timer-lights?variant=49433372229949</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81326-Premier-Timelights-MultiAction-Battery-50-LEDs-Warm-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682950</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -57155,7 +57161,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/ralph-robin-family-single-ceramic-coaster?variant=55561941975415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83693-Ralph-and-Family-Robin-Ceramic-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -57329,7 +57335,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83717-Ralph-Robin-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83693-Ralph-and-Family-Robin-Ceramic-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.29 GBP</g:price>
 
       <g:shipping>
@@ -60019,7 +60025,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-georgia-pocketed-t-shirt-bra?variant=49006116208957</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40299-Royce_Georgia_Pocketed_T-Shirt_Bra_in_Black-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727439215</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>26.67 GBP</g:price>
 
       <g:shipping>
@@ -64529,7 +64535,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42350-Royce-Indie-Lilac-Bra-3-Front_1024x1024.jpg?v=1753351700</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42350-Royce-Indie-Lilac-Bra-4-Back_1024x1024.jpg?v=1753351700</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -73833,7 +73839,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/extra-large-bag-santa-carrying-presents?variant=55594627006839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83837-Santa-Big-Present-Gift-Sack-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185376</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -74458,7 +74464,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32321-Serenity-1500-Piece-Jigsaw-Puzzle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404554</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32321-Serenity-1500-Piece-Jigsaw-Puzzle-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404555</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>17.99 GBP</g:price>
 
       <g:shipping>
@@ -78937,7 +78943,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/sitting-gingerbread-character?variant=55683268673911</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Chef-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -84599,52 +84605,6 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>SU71327</g:id>
-      <g:item_group_id>9520920527165</g:item_group_id>
-      <g:google_product_category>639</g:google_product_category>
-      <g:title>The Great Stand Up To Cancer Bake Off 2023 Star Baker Bundle</g:title>
-      <g:description>You'll have everything you need to bake in style with this Great Stand up to Cancer Bake Off Star Baker bundle. The bundle includes:  1 x Star Baker Apron, 1 x Star Baker Double Oven Gloves, 3 x Star Baker Tea Towels,  Please note, our next day delivery service is not available for this item. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2023.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-2023-star-baker-bundle?variant=49003907612989</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71327-Stand-Up-To-Cancer-Bake-Off-2023-Bundle-Cancer-Research-UK-Online-Shop_72a40268-f89c-464c-a30f-094dc0296a47_1024x1024.jpg?v=1719229799</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71324-Stand-Up-To-Cancer-Bake-Off-2023-Apron-1-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71325-Stand-Up-To-Cancer-Bake-Off-2023-Oven-Gloves-1-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71326-Stand-Up-To-Cancer-Bake-Off-2023-Tea-Towel-4-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU2C-Bake-Off-2023-Lifestyle-0123-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405381</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>22.99 GBP</g:price>
-      <g:sale_price>10.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674216251</g:gtin>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Bundle</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>SU79631</g:id>
       <g:item_group_id>9520924655933</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
@@ -84729,52 +84689,6 @@ Outsole synthetic</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>100% cotton</g:material>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SU79630</g:id>
-      <g:item_group_id>9520925770045</g:item_group_id>
-      <g:google_product_category>639</g:google_product_category>
-      <g:title>The Great Stand Up To Cancer Bake Off 2024 Star Baker Bundle</g:title>
-      <g:description>You'll have everything you need to bake in style with this Great Stand up to Cancer Bake Off Star Baker bundle. The bundle includes:  1 x Star Baker Apron, 1 x Star Baker Double Oven Gloves, 3 x Star Baker Tea Towels,  Please note, our next day delivery service is not available for this item. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2024.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-2024-star-baker-bundle?variant=49003913249085</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79630-Great-Stand-Up-To-Cancer-Bake-Off-2024-Star-Baker-Bundle-Cancer-Research-UK-Online-Shop_6c82916b-b227-4c1c-9178-fc87bfd226e0_1024x1024.jpg?v=1719229812</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79625-Great-Stand-Up-To-Cancer-Bake-Off-2024-Adult-Star-Baker-Apron-Lifestyle-2-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1719405345</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79626-Great-Stand-Up-To-Cancer-Bake-Off-2024-Oven-Gloves-Lifestyle-1-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1719405345</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79627-Great-Stand-Up-To-Cancer-Bake-Off-2024-Tea-Towels-Lifestyle-1-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1719405345</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>23.99 GBP</g:price>
-      <g:sale_price>21.59 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>SU79630</g:mpn>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Bundle</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Bake Off</g:custom_label_1>
       <g:custom_label_2>Bake Off</g:custom_label_2>
@@ -85634,7 +85548,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83719</g:id>
       <g:item_group_id>15089096720759</g:item_group_id>
       
@@ -85718,9 +85634,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83907</g:id>
       <g:item_group_id>15062562374007</g:item_group_id>
       
