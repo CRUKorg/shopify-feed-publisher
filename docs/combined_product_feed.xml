@@ -5614,7 +5614,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79744-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Defiant_20Diffuser_20_20Bergamot_20_26_20Lavender_f0c0528f-8f11-4df4-9565-00e9625ee613_1024x1024.jpg?v=1719229145</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79745-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Diffusers_0_1024x1024.jpg?v=1719405791</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -5914,7 +5914,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-compact-umbrella?variant=49003703206205</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80624-Bowelbabe-Floral-Purple-Compact-Umbrella-Cancer-Research-UK-Online-Shop_72026dc0-fdae-41f7-a1ad-b0adda34ac75_1024x1024.jpg?v=1761928948</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>2.49 GBP</g:sale_price>
 
@@ -7072,6 +7072,48 @@
 
 	
     <item>
+      <g:id>BB84888PINK</g:id>
+      <g:item_group_id>15289211289975</g:item_group_id>
+      
+      <g:title>Bowelbabe Fund Hand Towels - Set of 2 Pink</g:title>
+      <g:description>Add a vibrant flair to your bathroom with this pair of pink hand towels. Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-hand-towels-set-of-2-pink?variant=56377690489207</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB82643-Bowelbabe-Hand-Towel-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754479167</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.95 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>BB84888PINK</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Bowelbabe</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR79742</g:id>
       <g:item_group_id>9520747905341</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
@@ -7081,7 +7123,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79742-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Hope_20Candle_20-_20Rose_20_26_20Patchouli_513a98d5-174a-4e07-9b99-22895a4d507a_1024x1024.jpg?v=1719229198</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79740-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Candles_1_1024x1024.jpg?v=1719405779</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>2.59 GBP</g:sale_price>
 
@@ -7124,7 +7166,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79745-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Hope_20Diffuser_20-_20Rose_20_26_20Patchouli_bbad6bc2-721b-40da-98dd-6922bc9a127e_1024x1024.jpg?v=1719229202</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79743-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Diffusers_1024x1024.jpg?v=1719405776</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -15964,55 +16006,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84889CharMugs</g:id>
-      <g:item_group_id>15177335374199</g:item_group_id>
-      
-      <g:title>Christmas Character Mugs Bundle</g:title>
-      <g:description>Stock up your cupboards with our adorable collection of winter character mugs. This bundle of 6 mugs features one of each of our exclusive designs: Clover the Highland Cow, Dinky the Dachshund, Tink the Tabby Cat, Ralph Robin &amp; Family, Humphrey the Hare, and Titch the Mouse. Each breakfast mug measures approximately 13x10cm. Mugs also sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-character-mugs-bundle?variant=55943344324983</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-Character-Mugs-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83689-Tink-Tabby-Cat-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83690-Dinky-Dachshund-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83687-Ralph-Robin-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83686-Titch-Mouse-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83685-Humphrey-Hare-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>28.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX84889CharMugs</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bundle</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -25042,7 +25035,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83823-Highland-Cow-Extra-Large-Hand-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755617663</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-27-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701557</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -31609,53 +31602,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84889TeaHC</g:id>
-      <g:item_group_id>15177785016695</g:item_group_id>
-      
-      <g:title>Highland Cow Teatime Bundle</g:title>
-      <g:description>Take a moment for yourself and relax with this Highland Cow teatime bundle. Including a breakfast mug, ceramic coaster and teabag tidy, they all feature our exclusive Clover the Highland Cow design. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-teatime-bundle?variant=55944653472119</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Clover-Highland-Cow-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442252</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83694-Clover-Highland-Cow-Ceramic-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442620</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83718-Clover-Highland-Cow-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442620</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83694-Clover-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>8.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX84889TeaHC</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bundle</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR80764</g:id>
       <g:item_group_id>14950503383415</g:item_group_id>
       
@@ -32956,51 +32902,6 @@ Lining 100% Cotton</g:material>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Teabag Tidy</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id />
-      <g:item_group_id>15185247011191</g:item_group_id>
-      
-      <g:title>Humphrey the Hare Teatime Bundle</g:title>
-      <g:description>Take a moment for yourself and relax with this Humphrey the Hare teatime bundle. Including a breakfast mug, ceramic coaster and teabag tidy, they all feature our exclusive festive hare design. Items also sold separately along with other co-ordinating products.  Looking for more of Humphrey? Spring into the rest of our sweet hare decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/humphrey-the-hare-teatime-bundle?variant=55962676035959</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Humphrey-Hare-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760528976</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83685-Humphrey-Hare-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83691-Humphrey-Hare-Ceramic-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185393</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83715-Humphrey-Hare-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755190105</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>8.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn />
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bundle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -36817,7 +36718,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR82512</g:id>
       <g:item_group_id>14873411191159</g:item_group_id>
       
@@ -36898,9 +36801,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82235</g:id>
       <g:item_group_id>14873540821367</g:item_group_id>
       
@@ -44454,7 +44355,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -44472,7 +44373,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/northern-lights-gift-bag?variant=55673457377655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84439-Northern-Lights-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756372854</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -44494,7 +44395,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -46721,7 +46622,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83748-Ralph-Robin-and-Family-Pom-Pom-Candle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758272965</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83748-Ralph-Robin-and-Family-Pom-Pom-Candle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758272978</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -56498,7 +56399,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83846</g:id>
       <g:item_group_id>14668695470455</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -56584,9 +56487,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83707</g:id>
       <g:item_group_id>15089095737719</g:item_group_id>
       
@@ -56884,52 +56785,6 @@ Outsole synthetic</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84889TeaRobin</g:id>
-      <g:item_group_id>15181823672695</g:item_group_id>
-      
-      <g:title>Ralph Robin and Family Teatime Bundle</g:title>
-      <g:description>Take a moment for yourself and relax with this Ralph Robin &amp; Family teatime bundle. Including a breakfast mug, ceramic coaster and teabag tidy, they all feature our exclusive festive robins design. Items also sold separately along with other co-ordinating products. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ralph-robin-and-family-teatime-bundle?variant=55954950586743</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Ralph-Robin-Family-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452309</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83717-Robin-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760446076</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83687-Ralph-Robin-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83717-Ralph-Robin-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83693-Ralph-and-Family-Robin-Ceramic-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX84889TeaRobin</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bundle</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -79418,7 +79273,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/small-hanging-angels-decoration?variant=55680303694199</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83680-Cream-Angel-Hanging-Decoration-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373540</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -79440,7 +79295,7 @@ Outsole synthetic</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Decorations</g:product_type>
 
-      <g:color>Cream</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -79483,7 +79338,7 @@ Outsole synthetic</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Decorations</g:product_type>
 
-      <g:color>Cream</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -79526,7 +79381,7 @@ Outsole synthetic</g:material>
       <g:brand>Premier Decorations</g:brand>
       <g:product_type>Christmas Decorations</g:product_type>
 
-      <g:color>Cream</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -84717,57 +84572,6 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id />
-      <g:item_group_id>15169003290999</g:item_group_id>
-      
-      <g:title>The Highland Cow Kitchen Mega-Bundle</g:title>
-      <g:description>If you or someone you know loves Highland Cows, then go all-in with this Highland Cow kitchen mega-bundle! Featuring 10 beautiful kitchen accessories, it's perfect for a seasonal kitchen refresh. The bundle includes 1 each of:  Breakfast mug, Ceramic coaster, Oven gloves, Paper napkins (20 pack), Placemats (4 pack), Small tray, Spoon rest , Tea towels (2 pack), Teabag tidy, Wipe-clean tablecloth,  Discover the rest of of moo-velous Highland Cow homewares</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/the-highland-cow-kitchen-mega-bundle?variant=55918596948343</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/HighlandCowMegaBundle_1024x1024.jpg?v=1762254806</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83875-Clover-Highland-Cow-Oven-Gloves-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815545</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83708-Clover-Highland-Cow-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755190992</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83694-Clover-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83705-Clover-Highland-Cow-4-Placemats-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755191730</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83714-Clover-Highland-Cow-Small-Tray-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815476</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83711-Highland-Cow-Spoon-rest-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760446847</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83718-Clover-Highland-Cow-Teabag-Tidy-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760446189</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83852-1-Clover-Highland-Cow-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493844</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>36.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn />
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bundle</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR82179</g:id>
       <g:item_group_id>9521005232445</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -85101,51 +84905,6 @@ Outsole synthetic</g:material>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Teabag Tidy</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84889TeaMouse</g:id>
-      <g:item_group_id>15185208213879</g:item_group_id>
-      
-      <g:title>Titch the Mouse Teatime Bundle</g:title>
-      <g:description>Take a moment for yourself and relax with this Titch the Mouse teatime bundle. Including a breakfast mug, ceramic coaster and teabag tidy, they all feature our exclusive festive mouse design. Items also sold separately along with other co-ordinating products.  Scurry down the hole and discover the rest of our sweet mouse decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/titch-the-mouse-teatime-bundle?variant=55962561642871</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Titch-Mouse-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760528549</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83686-Titch-Mouse-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83692-Titch-Tiny-Mouse-Ceramic-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185394</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83716-Titch-Tiny-Mouse-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755190022</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX84889TeaMouse</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bundle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -85580,7 +85339,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83935</g:id>
       <g:item_group_id>15062470164855</g:item_group_id>
       
@@ -85827,9 +85588,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CC81864</g:id>
       <g:item_group_id>14669467353463</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
