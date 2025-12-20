@@ -262,6 +262,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>7.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -306,6 +307,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>19.99 GBP</g:price>
+      <g:sale_price>9.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -769,6 +771,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -814,6 +817,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -949,6 +953,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>19.99 GBP</g:price>
+      <g:sale_price>13.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -1976,6 +1981,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4041,6 +4047,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4707,6 +4714,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -8215,6 +8223,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -8301,6 +8310,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -8317,6 +8327,89 @@
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5056238558337</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD80922</g:id>
+      <g:item_group_id>9611076206909</g:item_group_id>
+      
+      <g:title>Buttercup's Visitors 10/20 Christmas Cards - 10</g:title>
+      <g:description>Buttercup the Donkey is visited by her very special friends on a cold and snowy day - and they've brought delicious gifts!This adorable design is ideal for any animal lover.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/buttercups-visitors-christmas-cards?variant=49262640365885</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80922-CD81244-Buttercup_s-Visitors-Christmas-Card-Cancer-Research-UK-Online-Shop_1d249747-209a-49ae-a304-6cb721313e62_1024x1024.jpg?v=1734683033</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554124</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD81244</g:id>
+      <g:item_group_id>9611076206909</g:item_group_id>
+      
+      <g:title>Buttercup's Visitors 10/20 Christmas Cards - 20</g:title>
+      <g:description>Buttercup the Donkey is visited by her very special friends on a cold and snowy day - and they've brought delicious gifts!This adorable design is ideal for any animal lover.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/buttercups-visitors-christmas-cards?variant=49262640398653</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80922-CD81244-Buttercup_s-Visitors-Christmas-Card-Cancer-Research-UK-Online-Shop_1d249747-209a-49ae-a304-6cb721313e62_1024x1024.jpg?v=1734683033</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238555053</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Christmas Cards</g:product_type>
@@ -10220,6 +10313,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -10266,6 +10360,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -10835,6 +10930,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -10880,6 +10976,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -13123,6 +13220,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -14032,6 +14130,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -14158,6 +14257,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -14361,6 +14461,89 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD80924</g:id>
+      <g:item_group_id>9611076436285</g:item_group_id>
+      
+      <g:title>Cheeky Cheese Board Mice 10/20 Christmas Cards - 10 Pack</g:title>
+      <g:description>Who can resist a little Christmas Eve cheese?! These cheeky little mice certainly can't as they help themselves to a cheeseboard with added festive flair.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cheeky-cheese-board-mice-christmas-cards?variant=49262640759101</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80924-CD81245-Cheeky-Cheese-Board-Mice-Christmas-Card-Cancer-Research-UK-Online-Shop_ee131d05-9474-4475-adeb-2c03b69c9588_1024x1024.jpg?v=1734683032</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554148</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD81245</g:id>
+      <g:item_group_id>9611076436285</g:item_group_id>
+      
+      <g:title>Cheeky Cheese Board Mice 10/20 Christmas Cards - 20</g:title>
+      <g:description>Who can resist a little Christmas Eve cheese?! These cheeky little mice certainly can't as they help themselves to a cheeseboard with added festive flair.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cheeky-cheese-board-mice-christmas-cards?variant=49262640791869</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80924-CD81245-Cheeky-Cheese-Board-Mice-Christmas-Card-Cancer-Research-UK-Online-Shop_ee131d05-9474-4475-adeb-2c03b69c9588_1024x1024.jpg?v=1734683032</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238555060</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -14924,13 +15107,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83891BLUE-9</g:id>
       <g:item_group_id>15129718489463</g:item_group_id>
       
-      <g:title>Children's 2 Pack Christmas Socks - Blue / 9-12</g:title>
+      <g:title>Children's 2 Pack Christmas Socks - blue-1 / 9-12</g:title>
       <g:description>Step into winter with these Children's Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks. Sizes 9-12, 12.5 – 3.5, 4-6</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=55762393792887</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56389077860727</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604345</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -14946,11 +15131,12 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033325838913</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83891BLUE-9</g:mpn>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>blue-1</g:color>
 <g:size>9-12</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -14966,13 +15152,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83891BLUE-12</g:id>
       <g:item_group_id>15129718489463</g:item_group_id>
       
-      <g:title>Children's 2 Pack Christmas Socks - Blue / 12.5-3.5</g:title>
+      <g:title>Children's 2 Pack Christmas Socks - blue-1 / 12.5-3.5</g:title>
       <g:description>Step into winter with these Children's Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks. Sizes 9-12, 12.5 – 3.5, 4-6</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56244429422967</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56389077893495</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604345</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -14993,7 +15181,7 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>blue-1</g:color>
 <g:size>9-12</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -15009,13 +15197,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83891BLUE-4</g:id>
       <g:item_group_id>15129718489463</g:item_group_id>
       
-      <g:title>Children's 2 Pack Christmas Socks - Blue / 4-6</g:title>
+      <g:title>Children's 2 Pack Christmas Socks - blue-1 / 4-6</g:title>
       <g:description>Step into winter with these Children's Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks. Sizes 9-12, 12.5 – 3.5, 4-6</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56244429455735</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56389077926263</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604345</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15036,7 +15226,7 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>blue-1</g:color>
 <g:size>9-12</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -15052,13 +15242,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83891PINK-9</g:id>
       <g:item_group_id>15129718489463</g:item_group_id>
       
-      <g:title>Children's 2 Pack Christmas Socks - Pink / 9-12</g:title>
+      <g:title>Children's 2 Pack Christmas Socks - pink / 9-12</g:title>
       <g:description>Step into winter with these Children's Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks. Sizes 9-12, 12.5 – 3.5, 4-6</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=55762393825655</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56389077959031</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604345</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15074,11 +15266,12 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033325838913</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83891PINK-9</g:mpn>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>blue-1</g:color>
 <g:size>9-12</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -15094,13 +15287,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83891PINK-12</g:id>
       <g:item_group_id>15129718489463</g:item_group_id>
       
-      <g:title>Children's 2 Pack Christmas Socks - Pink / 12.5-3.5</g:title>
+      <g:title>Children's 2 Pack Christmas Socks - pink / 12.5-3.5</g:title>
       <g:description>Step into winter with these Children's Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks. Sizes 9-12, 12.5 – 3.5, 4-6</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56244429488503</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56389077991799</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604345</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15121,7 +15316,7 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>blue-1</g:color>
 <g:size>9-12</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -15137,13 +15332,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83891PINK-4</g:id>
       <g:item_group_id>15129718489463</g:item_group_id>
       
-      <g:title>Children's 2 Pack Christmas Socks - Pink / 4-6</g:title>
+      <g:title>Children's 2 Pack Christmas Socks - pink / 4-6</g:title>
       <g:description>Step into winter with these Children's Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks. Sizes 9-12, 12.5 – 3.5, 4-6</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56244429521271</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/childrens-2-pack-christmas-socks?variant=56389078024567</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604345</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83891-Kids-Christmas-Socks-Pink-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757604415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15164,7 +15361,7 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>blue-1</g:color>
 <g:size>9-12</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -15188,6 +15385,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15356,6 +15554,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15722,6 +15921,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15763,6 +15963,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15806,6 +16007,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -15892,7 +16094,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
-      <g:sale_price>2.99 GBP</g:sale_price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16055,6 +16257,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16717,6 +16920,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16760,6 +16964,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16883,6 +17088,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17170,6 +17376,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17210,6 +17417,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17374,6 +17582,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17415,6 +17624,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17455,6 +17665,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17537,6 +17748,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17620,6 +17832,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17661,6 +17874,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17746,6 +17960,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17792,6 +18007,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17835,6 +18051,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
+      <g:sale_price>13.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17876,6 +18093,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17918,6 +18136,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18304,6 +18523,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18346,6 +18566,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18434,6 +18655,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18481,6 +18703,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18613,6 +18836,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18657,6 +18881,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18701,6 +18926,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18789,6 +19015,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18877,6 +19104,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18920,6 +19148,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18963,6 +19192,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -19007,6 +19237,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -19050,6 +19281,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>0.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -19259,6 +19491,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -19499,6 +19732,51 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD80929</g:id>
+      <g:item_group_id>9611076895037</g:item_group_id>
+      
+      <g:title>Cute Characters 20 Christmas Cards</g:title>
+      <g:description>Ideal for children to send their season's greetings, or just for those looking for some real festive fun, this pack of 20 cards includes a range of cute character designs - 5 designs per pack.Features: Pack of 20 cards with envelopes in 'lunchbox'-style packaging., Design exclusive to Cancer Research UK., Inside greeting reads: Have fun this Christmas!., 9.5x9.5cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. Remove velcro seal from packaging before recycling. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cute-characters-10-christmas-cards?variant=49262641742141</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80929-Cute-Characters-Christmas-Cards-1-Cancer-Research-UK-Online-Shop_6e68a7f5-7c75-47b8-98bb-ab8c1e729610_1024x1024.jpg?v=1734683029</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80929-Cute-Characters-Christmas-Cards-2-Cancer-Research-UK-Online-Shop_6d7a9273-b7b0-4a8a-bbf6-201fc0e4cadb_1024x1024.jpg?v=1734683029</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80929-Cute-Characters-Christmas-Cards-3-Cancer-Research-UK-Online-Shop_df955a74-91a0-46f4-a5b3-6f54abf49760_1024x1024.jpg?v=1734683029</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80929-Cute-Characters-Christmas-Cards-4-Cancer-Research-UK-Online-Shop_606c6494-b62e-4323-b1da-d2e366a66af4_1024x1024.jpg?v=1734683029</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554193</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -20975,7 +21253,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738759843</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_d88b160c-9d93-41d9-aaeb-f87dd38bd876_1024x1024.jpg?v=1719229415</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.89 GBP</g:price>
 
       <g:shipping>
@@ -21192,6 +21470,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -21235,6 +21514,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -21277,6 +21557,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -21451,6 +21732,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>9.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -21795,6 +22077,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -21841,6 +22124,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -21884,6 +22168,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -21928,6 +22213,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
+      <g:sale_price>6.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -21969,6 +22255,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22012,6 +22299,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22055,6 +22343,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22086,9 +22375,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83701</g:id>
       <g:item_group_id>15078753370487</g:item_group_id>
       <g:google_product_category>2363</g:google_product_category>
@@ -22099,6 +22386,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.29 GBP</g:price>
+      <g:sale_price>2.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22141,6 +22429,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>0.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22211,7 +22500,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW42123</g:id>
       <g:item_group_id>9520820584765</g:item_group_id>
       <g:google_product_category>6038</g:google_product_category>
@@ -23088,6 +23379,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -25046,6 +25338,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>29.99 GBP</g:price>
+      <g:sale_price>20.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -25131,6 +25424,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -25202,6 +25496,89 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD76597</g:id>
+      <g:item_group_id>9522266308925</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>Fantastic Fir Tree Christmas Cards - Pack of 10/20 - 10</g:title>
+      <g:description>Decorated with shimmering gold stars, this luscious fir tree is a minimalist yet beautiful card design to suit modernists and traditionalists alike.Features:	Fantastic Fir Tree Christmas Cards,	Available in packs of 10 or 20 cards, with envelopes,	Design exclusive to Cancer Research UK,	Inside greeting reads: With best wishes for Christmas and the New Year,	12 x 12cm, posts as Royal Mail letter,	High quality uncoated 250gsm FSC board with gold foil finish,	100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/fantastic-fir-tree-christmas-cards-pack-10-or-20?variant=49005496860989</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD76597-Fantastic-Fir-Tree-Charity-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719229603</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CD76597</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+<g:size>20</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD76892</g:id>
+      <g:item_group_id>9522266308925</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>Fantastic Fir Tree Christmas Cards - Pack of 10/20 - 20</g:title>
+      <g:description>Decorated with shimmering gold stars, this luscious fir tree is a minimalist yet beautiful card design to suit modernists and traditionalists alike.Features:	Fantastic Fir Tree Christmas Cards,	Available in packs of 10 or 20 cards, with envelopes,	Design exclusive to Cancer Research UK,	Inside greeting reads: With best wishes for Christmas and the New Year,	12 x 12cm, posts as Royal Mail letter,	High quality uncoated 250gsm FSC board with gold foil finish,	100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/fantastic-fir-tree-christmas-cards-pack-10-or-20?variant=49005496893757</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD76597-Fantastic-Fir-Tree-Charity-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719229603</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CD76892</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+<g:size>20</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -25902,6 +26279,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -25946,6 +26324,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -25989,6 +26368,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26029,6 +26409,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.29 GBP</g:price>
+      <g:sale_price>2.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26070,6 +26451,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26319,6 +26701,89 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CD80933</g:id>
+      <g:item_group_id>9611077058877</g:item_group_id>
+      
+      <g:title>Festive Preparations 10/20 Christmas Cards - 10</g:title>
+      <g:description>Christmas celebrations are on the move in this exquisitely illustrated design featuring a present and tree-laden 4x4, plus 4-legged friends.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/festive-preparations-christmas-cards?variant=49262641938749</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80933-CD81248-Festive-Preparations-Christmas-Card-Cancer-Research-UK-Online-Shop_05aa9cb3-7ac1-470d-9793-142898cf4265_1024x1024.jpg?v=1734683027</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554230</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD81248</g:id>
+      <g:item_group_id>9611077058877</g:item_group_id>
+      
+      <g:title>Festive Preparations 10/20 Christmas Cards - 20</g:title>
+      <g:description>Christmas celebrations are on the move in this exquisitely illustrated design featuring a present and tree-laden 4x4, plus 4-legged friends.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/festive-preparations-christmas-cards?variant=49262641971517</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80933-CD81248-Festive-Preparations-Christmas-Card-Cancer-Research-UK-Online-Shop_05aa9cb3-7ac1-470d-9793-142898cf4265_1024x1024.jpg?v=1734683027</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238555091</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD83948</g:id>
       <g:item_group_id>9611078697277</g:item_group_id>
       
@@ -26331,6 +26796,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26915,6 +27381,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27128,7 +27595,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
-      <g:sale_price>5.29 GBP</g:sale_price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27959,6 +28426,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28040,6 +28508,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28082,6 +28551,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28248,6 +28718,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28292,6 +28763,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
+      <g:sale_price>6.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28334,6 +28806,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28378,7 +28851,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
-      <g:sale_price>4.19 GBP</g:sale_price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28424,7 +28897,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
-      <g:sale_price>4.19 GBP</g:sale_price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28607,6 +29080,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.49 GBP</g:price>
+      <g:sale_price>3.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28650,6 +29124,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.49 GBP</g:price>
+      <g:sale_price>3.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28691,6 +29166,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28733,6 +29209,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>19.99 GBP</g:price>
+      <g:sale_price>13.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28777,6 +29254,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>19.99 GBP</g:price>
+      <g:sale_price>13.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28821,6 +29299,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28865,6 +29344,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28910,6 +29390,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28954,6 +29435,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28995,6 +29477,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29038,7 +29521,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
-      <g:sale_price>1.99 GBP</g:sale_price>
+      <g:sale_price>1.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29085,6 +29568,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>8.49 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29130,6 +29614,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29171,6 +29656,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29300,6 +29786,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29421,8 +29908,9 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84635-40cm-Gingerbread-Gonk-Cancer-Research-UK-Online-Shop_aed7e17d-d33b-4aea-abda-02dd3302d528_1024x1024.jpg?v=1759143984</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84635-Gingerbread-Gonk-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759144093</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.99 GBP</g:price>
+      <g:sale_price>7.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29462,8 +29950,9 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84636-57cm-Gingerbread-Gonk-Cancer-Research-UK-Online-Shop_c601be26-33dd-4104-82a4-d4d340215e82_1024x1024.jpg?v=1759144093</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84635-Gingerbread-Gonk-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759144093</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29949,6 +30438,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>7.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29990,6 +30480,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>7.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30031,6 +30522,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>7.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30402,6 +30894,91 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CD80939</g:id>
+      <g:item_group_id>9611077255485</g:item_group_id>
+      
+      <g:title>Hettie's Festive Friend 10/20 Christmas Cards - 10</g:title>
+      <g:description>Hettie the Hare is here to help with the festive decorations. Features:  Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Have a wonderful Christmas., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hetties-festive-friend-christmas-cards?variant=49262642266429</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80939-CD81249-Hettie_s-Festive-Friend-Christmas-Card-Cancer-Research-UK-Online-Shop_63331f85-5bb4-4268-8dd0-42c50cc104bd_1024x1024.jpg?v=1734683025</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81519-Hetty-Timmy-Duo-Pack-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683025</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554292</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD81249</g:id>
+      <g:item_group_id>9611077255485</g:item_group_id>
+      
+      <g:title>Hettie's Festive Friend 10/20 Christmas Cards - 20</g:title>
+      <g:description>Hettie the Hare is here to help with the festive decorations. Features:  Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Have a wonderful Christmas., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hetties-festive-friend-christmas-cards?variant=49262642299197</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80939-CD81249-Hettie_s-Festive-Friend-Christmas-Card-Cancer-Research-UK-Online-Shop_63331f85-5bb4-4268-8dd0-42c50cc104bd_1024x1024.jpg?v=1734683025</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81519-Hetty-Timmy-Duo-Pack-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683025</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238555107</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83844</g:id>
       <g:item_group_id>15078067437943</g:item_group_id>
       <g:google_product_category>4453</g:google_product_category>
@@ -30414,6 +30991,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30459,6 +31037,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>10.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30503,6 +31082,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
+      <g:sale_price>4.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30676,6 +31256,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31020,6 +31601,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31060,6 +31642,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31100,6 +31683,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31142,6 +31726,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31316,6 +31901,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
+      <g:sale_price>5.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31858,6 +32444,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31986,6 +32573,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32027,6 +32615,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32283,6 +32872,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32323,6 +32913,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32365,6 +32956,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32410,6 +33002,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32453,6 +33046,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32496,6 +33090,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32541,6 +33136,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32585,6 +33181,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32627,6 +33224,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32669,6 +33267,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32712,6 +33311,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -32754,6 +33354,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>0.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35057,13 +35658,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83889PINK</g:id>
       <g:item_group_id>15129734119799</g:item_group_id>
       
-      <g:title>Ladies 2 Pack Christmas Socks - Pink</g:title>
+      <g:title>Ladies 2 Pack Christmas Socks - pink</g:title>
       <g:description>Step into winter with these Ladies Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ladies-2-pack-christmas-socks?variant=55762435735927</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-2-pack-christmas-socks?variant=56389077795191</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83889-Ladies-Christmas-Socks-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764863391</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83889-Ladies-Christmas-Socks-Red-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764863391</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35079,11 +35682,12 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033325838890</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83889PINK</g:mpn>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -35100,13 +35704,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83889BLUE</g:id>
       <g:item_group_id>15129734119799</g:item_group_id>
       
-      <g:title>Ladies 2 Pack Christmas Socks - Blue</g:title>
+      <g:title>Ladies 2 Pack Christmas Socks - blue-1</g:title>
       <g:description>Step into winter with these Ladies Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ladies-2-pack-christmas-socks?variant=55762435703159</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83889-Ladies-Christmas-Socks-Red-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764863391</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-2-pack-christmas-socks?variant=56389077827959</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83889-Ladies-Christmas-Socks-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764863391</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83889-Ladies-Christmas-Socks-Red-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764863391</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35122,11 +35728,12 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033325838890</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83889BLUE</g:mpn>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -35528,6 +36135,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35571,6 +36179,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35614,6 +36223,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35659,6 +36269,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.98 GBP</g:price>
+      <g:sale_price>2.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35685,6 +36296,91 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD80940</g:id>
+      <g:item_group_id>9611077321021</g:item_group_id>
+      
+      <g:title>Late Night Window Shopping 10/20 Christmas Cards - 10</g:title>
+      <g:description>This eye-catching toy shop window is inspiring those last-minute changes to letters to Santa in this cute snowy street scene.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very Happy New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/late-night-window-shopping-christmas-cards?variant=49262642331965</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80940-CD81250-Late-Night-Window-Shopping-Christmas-Card-Cancer-Research-UK-Online-Shop_7401884e-43ca-4d29-b56b-2e90f9f70bb1_1024x1024.jpg?v=1734683024</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81528-Traditional-Duo-Pack-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683025</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554308</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD81250</g:id>
+      <g:item_group_id>9611077321021</g:item_group_id>
+      
+      <g:title>Late Night Window Shopping 10/20 Christmas Cards - 20</g:title>
+      <g:description>This eye-catching toy shop window is inspiring those last-minute changes to letters to Santa in this cute snowy street scene.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very Happy New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/late-night-window-shopping-christmas-cards?variant=49262642364733</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80940-CD81250-Late-Night-Window-Shopping-Christmas-Card-Cancer-Research-UK-Online-Shop_7401884e-43ca-4d29-b56b-2e90f9f70bb1_1024x1024.jpg?v=1734683024</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81528-Traditional-Duo-Pack-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683025</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238555114</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -35827,6 +36523,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.96 GBP</g:price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35869,6 +36566,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35909,6 +36607,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35950,6 +36649,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.38 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35992,6 +36692,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.96 GBP</g:price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36165,6 +36866,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.96 GBP</g:price>
+      <g:sale_price>2.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36206,6 +36908,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36386,6 +37089,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
+      <g:sale_price>5.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36417,9 +37121,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX76432</g:id>
       <g:item_group_id>9521004446013</g:item_group_id>
       <g:google_product_category>505809</g:google_product_category>
@@ -36713,7 +37415,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR82252</g:id>
       <g:item_group_id>14871633166711</g:item_group_id>
       
@@ -36939,7 +37643,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
-      <g:sale_price>8.99 GBP</g:sale_price>
+      <g:sale_price>7.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36981,6 +37685,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -37024,6 +37729,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -37193,13 +37899,16 @@ Lining 100% Cotton</g:material>
       <g:id>CX83857</g:id>
       <g:item_group_id>15079206945143</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
-      <g:title>Luxury Blanket Throw - Red</g:title>
+      <g:title>Luxury Blanket Throw - red</g:title>
       <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=55566031651191</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=56389080711543</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83857-Luxury-Plain-Fleece-Throw-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754554862</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83858-Luxury-Plain-Fleece-Throw-Evergreen-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555671</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83859-Luxury-Plain-Fleece-Throw-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555702</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -37215,18 +37924,17 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242106</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83857</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Blankets</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Cotton/polyester/acrylic</g:material>
-      <g:product_width>150 cm </g:product_width>
-      <g:product_height>120 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -37237,13 +37945,16 @@ Lining 100% Cotton</g:material>
       <g:id>CX83858</g:id>
       <g:item_group_id>15079206945143</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
-      <g:title>Luxury Blanket Throw - Evergreen</g:title>
+      <g:title>Luxury Blanket Throw - evergreen</g:title>
       <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=55566031683959</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83858-Luxury-Plain-Fleece-Throw-Evergreen-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555671</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=56389080744311</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83857-Luxury-Plain-Fleece-Throw-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754554862</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83858-Luxury-Plain-Fleece-Throw-Evergreen-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555671</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83859-Luxury-Plain-Fleece-Throw-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555702</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -37259,18 +37970,17 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242113</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83858</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Blankets</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Cotton/polyester/acrylic</g:material>
-      <g:product_width>150 cm </g:product_width>
-      <g:product_height>120 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -37281,13 +37991,16 @@ Lining 100% Cotton</g:material>
       <g:id>CX83859</g:id>
       <g:item_group_id>15079206945143</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
-      <g:title>Luxury Blanket Throw - Charcoal</g:title>
+      <g:title>Luxury Blanket Throw - charcoal</g:title>
       <g:description>Stay warm in style this winter with this thick and warm plain design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=55566031716727</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83859-Luxury-Plain-Fleece-Throw-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555702</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-blanket-throw?variant=56389080777079</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83857-Luxury-Plain-Fleece-Throw-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754554862</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83858-Luxury-Plain-Fleece-Throw-Evergreen-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555671</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83859-Luxury-Plain-Fleece-Throw-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754555702</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -37303,18 +38016,17 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242120</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83859</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Blankets</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Cotton/polyester/acrylic</g:material>
-      <g:product_width>150 cm </g:product_width>
-      <g:product_height>120 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -38512,6 +39224,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38555,6 +39268,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38597,6 +39311,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38639,6 +39354,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38680,6 +39396,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38721,6 +39438,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38762,6 +39480,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38803,6 +39522,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38933,6 +39653,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38975,6 +39696,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39009,13 +39731,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83890GREY</g:id>
       <g:item_group_id>15129737494903</g:item_group_id>
       
-      <g:title>Men's 2 Pack Christmas Socks - Grey</g:title>
+      <g:title>Men's 2 Pack Christmas Socks - grey</g:title>
       <g:description>Step into winter with these Men's Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-christmas-socks?variant=55762441372023</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-christmas-socks?variant=56389077729655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83890-Mens-Christmas-Socks-Pink-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757605001</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83890-Mens-Christmas-Socks-Green-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757605049</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39031,11 +39755,12 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033325838906</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83890GREY</g:mpn>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>grey</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -39051,13 +39776,15 @@ Lining 100% Cotton</g:material>
       <g:id>CX83890GREEN</g:id>
       <g:item_group_id>15129737494903</g:item_group_id>
       
-      <g:title>Men's 2 Pack Christmas Socks - Green</g:title>
+      <g:title>Men's 2 Pack Christmas Socks - green</g:title>
       <g:description>Step into winter with these Men's Christmas Socks, designed for comfort and character.  Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're making cookies or heading out for festive fun.  Each pack features two different pairs of socks.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-christmas-socks?variant=55762441404791</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83890-Mens-Christmas-Socks-Green-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757605049</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-christmas-socks?variant=56389077762423</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83890-Mens-Christmas-Socks-Pink-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757605001</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83890-Mens-Christmas-Socks-Green-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757605049</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39073,11 +39800,12 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033325838906</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83890GREEN</g:mpn>
 
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>grey</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -39099,8 +39827,9 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-terry-christmas-socks?variant=55762446549367</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83892-Mens-Terry-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757605169</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39404,6 +40133,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.79 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39608,6 +40338,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>20.99 GBP</g:price>
+      <g:sale_price>14.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39941,6 +40672,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -40482,7 +41214,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-cow-lick-natural-lip-balm?variant=49004026495293</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42342-MooGoo-Lip-Balm-Cow-Lick-Group-2-Cancer-Research-UK-Online-Shop_1_1fd1bfc6-1506-4205-9d7c-0b9055421990_1024x1024.jpg?v=1719230292</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -42755,7 +43487,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-vitamin-c-brightening-active-serum?variant=49422051967293</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82385-MooGoo-Ascorbyl_20Tetraisopalmitate-Serum-25ml-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727363586</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>23.99 GBP</g:price>
 
       <g:shipping>
@@ -43081,7 +43813,7 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Cushion</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -43100,8 +43832,9 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/mushroom-design-cushion?variant=54780835856759</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82127-Mushroom-Cushion-45x45-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732189436</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>11.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43122,7 +43855,7 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Cushion</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -43314,6 +44047,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43359,6 +44093,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43404,6 +44139,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43449,6 +44185,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43495,6 +44232,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>10.99 GBP</g:price>
+      <g:sale_price>7.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43538,6 +44276,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>10.99 GBP</g:price>
+      <g:sale_price>7.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43581,6 +44320,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>19.99 GBP</g:price>
+      <g:sale_price>10.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43624,6 +44364,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>19.99 GBP</g:price>
+      <g:sale_price>10.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43794,6 +44535,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -44040,6 +44782,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -44698,6 +45441,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -44738,6 +45482,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -44780,6 +45525,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -44822,6 +45568,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -44864,6 +45611,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -45032,6 +45780,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -45556,7 +46305,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/paint-your-own-easter-eggs-pack-4?variant=49004081938749</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79687-Easter-Range-Paint-Your-Egg-Craft-Set-Cancer-Research-UK-Online-Shop_6ff57562-c5a8-4512-b4f2-4193d086a2d3_1024x1024.jpg?v=1719230479</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -45598,6 +46347,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -45638,6 +46388,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -45812,6 +46563,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -45853,6 +46605,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -45884,6 +46637,91 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CD80944</g:id>
+      <g:item_group_id>9611077615933</g:item_group_id>
+      
+      <g:title>Peaceful Wishes 10/20 Christmas Cards - 10</g:title>
+      <g:description>Send peace and love to all your friends and family with this beautiful dove design Christmas card.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you peace and joy at Christmas., 12x12cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/peaceful-wishes-christmas-cards?variant=49262642823485</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80944-CD81252-Peaceful-Wishes-Christmas-Card-Cancer-Research-UK-Online-Shop_912c80a9-6524-4172-a406-1b270b5e16c9_1024x1024.jpg?v=1734683022</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80944-Peaceful-Wishes-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683022</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.69 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554346</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD81252</g:id>
+      <g:item_group_id>9611077615933</g:item_group_id>
+      
+      <g:title>Peaceful Wishes 10/20 Christmas Cards - 20</g:title>
+      <g:description>Send peace and love to all your friends and family with this beautiful dove design Christmas card.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you peace and joy at Christmas., 12x12cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/peaceful-wishes-christmas-cards?variant=49262642856253</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80944-CD81252-Peaceful-Wishes-Christmas-Card-Cancer-Research-UK-Online-Shop_912c80a9-6524-4172-a406-1b270b5e16c9_1024x1024.jpg?v=1734683022</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80944-Peaceful-Wishes-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683022</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238555138</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83307PEN</g:id>
       <g:item_group_id>15214025867639</g:item_group_id>
       <g:google_product_category>328</g:google_product_category>
@@ -45894,6 +46732,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -46065,6 +46904,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -46401,6 +47241,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -46446,6 +47287,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -46491,6 +47333,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -46537,6 +47380,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -46582,6 +47426,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -46627,6 +47472,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -47486,6 +48332,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -47526,6 +48373,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -47651,6 +48499,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -47691,6 +48540,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -48069,6 +48919,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -48109,6 +48960,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -48150,6 +49002,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -48190,6 +49043,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -48231,6 +49085,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>9.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -55996,9 +56851,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF28082</g:id>
       <g:item_group_id>9521161208125</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -56233,6 +57086,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56278,6 +57132,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56321,6 +57176,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56396,7 +57252,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83707</g:id>
       <g:item_group_id>15089095737719</g:item_group_id>
       
@@ -56452,6 +57310,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56497,6 +57356,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56582,6 +57442,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56751,6 +57612,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56793,6 +57655,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56923,6 +57786,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -57759,14 +58623,16 @@ Outsole synthetic</g:material>
       <g:id>CX83810</g:id>
       <g:item_group_id>15099135426935</g:item_group_id>
       
-      <g:title>Reindeer Ear Muffs - Red</g:title>
+      <g:title>Reindeer Ear Muffs - red</g:title>
       <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy reindeer ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/reindeer-ear-muffs?variant=55637795963255</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83810-Red-Reindeer-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760091435</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/reindeer-ear-muffs?variant=56389078122871</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83811-Brown-Reindeer-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760091435</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83810-Red-Reindeer-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760091435</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-7-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702343</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -57782,11 +58648,12 @@ Outsole synthetic</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241635</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83810</g:mpn>
 
       <g:product_type>Earmuffs</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -57800,14 +58667,16 @@ Outsole synthetic</g:material>
       <g:id>CX83811</g:id>
       <g:item_group_id>15099135426935</g:item_group_id>
       
-      <g:title>Reindeer Ear Muffs - Brown</g:title>
+      <g:title>Reindeer Ear Muffs - brown</g:title>
       <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy reindeer ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/reindeer-ear-muffs?variant=55637795996023</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/reindeer-ear-muffs?variant=56389078155639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83811-Brown-Reindeer-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760091435</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83810-Red-Reindeer-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760091435</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-7-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755702343</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -57823,11 +58692,12 @@ Outsole synthetic</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241642</g:gtin>
+      <g:gtin />
+      <g:mpn>CX83811</g:mpn>
 
       <g:product_type>Earmuffs</g:product_type>
 
-      <g:color>Red</g:color>
+      <g:color>red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -58599,7 +59469,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
-      <g:sale_price>7.49 GBP</g:sale_price>
+      <g:sale_price>5.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -58811,6 +59681,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -58851,6 +59722,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -58891,6 +59763,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -58973,6 +59846,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71704,7 +72578,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608788343</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/comfibraBlack_80dd094d-4e86-4e50-b690-8a239fbd1ff4_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -73171,6 +74045,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -73459,6 +74334,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -73499,6 +74375,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -73627,6 +74504,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -73668,6 +74546,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -76577,6 +77456,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.99 GBP</g:price>
+      <g:sale_price>18.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -78275,6 +79155,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
+      <g:sale_price>6.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -78315,6 +79196,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
+      <g:sale_price>6.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -78331,86 +79213,6 @@ Outsole synthetic</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5037543062085</g:gtin>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>71% polyester/15% sand/8% plastic/6% bamboo</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81307-PRESENT</g:id>
-      <g:item_group_id>14781842063735</g:item_group_id>
-      
-      <g:title>Sitting Gingerbread Character - Present</g:title>
-      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Sold separately. Smaller standing versions are also available. Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/sitting-gingerbread-character?variant=53495836213623</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Chef-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5037543058606</g:gtin>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>71% polyester/15% sand/8% plastic/6% bamboo</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81307-CANDY</g:id>
-      <g:item_group_id>14781842063735</g:item_group_id>
-      
-      <g:title>Sitting Gingerbread Character - Candy Cane</g:title>
-      <g:description>Based on everyone's favourite festive bakes, these gingerbread characters add some cheer to your seasonal decorations. Sold separately. Smaller standing versions are also available. Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/sitting-gingerbread-character?variant=53495836180855</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83736-Chef-Hat-Sitting-Gingerbread-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758802631</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5037543058590</g:gtin>
 
       <g:product_type>Christmas Decorations</g:product_type>
 
@@ -79139,6 +79941,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -79178,12 +79981,13 @@ Outsole synthetic</g:material>
       <g:item_group_id>15107341877623</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Small Hanging Angels Decoration - Cream</g:title>
-      <g:description>Perfect for a child's bedroom, this adorable hanging angel decoration brings some cute festive cheer to your home. *The pink shade may differ from what’s shown in the photo.  Dressed with a Santa hat, long braids, and a cheerful smile.</g:description>
+      <g:description>Perfect for a child's bedroom, this adorable hanging angel decoration brings some cute festive cheer to your home. Dressed with a Santa hat, long braids, and a cheerful smile.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/small-hanging-angels-decoration?variant=55680303694199</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83680-Cream-Angel-Hanging-Decoration-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373540</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -79221,12 +80025,13 @@ Outsole synthetic</g:material>
       <g:item_group_id>15107341877623</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Small Hanging Angels Decoration - Pink</g:title>
-      <g:description>Perfect for a child's bedroom, this adorable hanging angel decoration brings some cute festive cheer to your home. *The pink shade may differ from what’s shown in the photo.  Dressed with a Santa hat, long braids, and a cheerful smile.</g:description>
+      <g:description>Perfect for a child's bedroom, this adorable hanging angel decoration brings some cute festive cheer to your home. Dressed with a Santa hat, long braids, and a cheerful smile.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/small-hanging-angels-decoration?variant=55680303726967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83680-Pink-Angel-Hanging-Decoration-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373552</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -79264,12 +80069,13 @@ Outsole synthetic</g:material>
       <g:item_group_id>15107341877623</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Small Hanging Angels Decoration - Grey</g:title>
-      <g:description>Perfect for a child's bedroom, this adorable hanging angel decoration brings some cute festive cheer to your home. *The pink shade may differ from what’s shown in the photo.  Dressed with a Santa hat, long braids, and a cheerful smile.</g:description>
+      <g:description>Perfect for a child's bedroom, this adorable hanging angel decoration brings some cute festive cheer to your home. Dressed with a Santa hat, long braids, and a cheerful smile.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/small-hanging-angels-decoration?variant=55680305889655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83680-Grey-Angel-Hanging-Decoration-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373562</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -79524,6 +80330,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -79565,6 +80372,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -79635,6 +80443,48 @@ Outsole synthetic</g:material>
       <g:custom_label_1>Greeting Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD63616</g:id>
+      <g:item_group_id>9521291395389</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>Solo Silhouette Stag Christmas Cards - Pack of 20</g:title>
+      <g:description>Elegantly finished with satin gold foil, this Christmas card is designed to impress. Its dazzling white stag, framed by intricate foliage, creates a stunning contrast against the shimmering gold background. Perfect for sending festive wishes with a touch of luxury, this card is sure to stand out and make the season feel truly special. Features:  Pack of 20 cards and envelopes, 15 x 15cm, posts as Royal Mail letter, Pack weight 332g, Message inside the card reads: "With best wishes for Christmas and the New Year", Satin gold foil finish , 5056238543821, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/solo-silhouette-stag-christmas-cards-pack-10-or-20?variant=49004323897661</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD63580-Solo-Silhouette-Stag-Christmas-Cards-Cancer-Research-UK-Online-Shop_573e6743-a17e-446a-a221-6a3eb7b4aa47_1024x1024.jpg?v=1719231426</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238544361</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+<g:size>20</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -79879,6 +80729,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -79966,6 +80817,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
+      <g:sale_price>5.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -82936,6 +83788,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -82979,6 +83832,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84535,6 +85389,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84610,6 +85465,89 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CD80950</g:id>
+      <g:item_group_id>9611077976381</g:item_group_id>
+      
+      <g:title>Timmy on a Teasel 10/20 Christmas Cards - 10</g:title>
+      <g:description>Teetering along the top of teasels, Timmy the mouse is in search of some winter berries in this adorable Christmas card design. Features:  Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/timmy-on-a-teasel-christmas-cards?variant=49262643478845</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80950-CD81254-Timmy-On-A-Teasel-Christmas-Card-Cancer-Research-UK-Online-Shop_3d2a6ded-c680-4175-84cb-ec78b92c0aab_1024x1024.jpg?v=1734683019</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554407</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD81254</g:id>
+      <g:item_group_id>9611077976381</g:item_group_id>
+      
+      <g:title>Timmy on a Teasel 10/20 Christmas Cards - 20</g:title>
+      <g:description>Teetering along the top of teasels, Timmy the mouse is in search of some winter berries in this adorable Christmas card design. Features:  Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/timmy-on-a-teasel-christmas-cards?variant=49262643511613</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80950-CD81254-Timmy-On-A-Teasel-Christmas-Card-Cancer-Research-UK-Online-Shop_3d2a6ded-c680-4175-84cb-ec78b92c0aab_1024x1024.jpg?v=1734683019</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238555152</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83660</g:id>
       <g:item_group_id>15087454454135</g:item_group_id>
       
@@ -84621,6 +85559,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84666,6 +85605,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84709,6 +85649,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84753,6 +85694,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.29 GBP</g:price>
+      <g:sale_price>2.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84795,6 +85737,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>0.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84922,6 +85865,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.29 GBP</g:price>
+      <g:sale_price>1.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84967,6 +85911,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -84997,9 +85942,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83850</g:id>
       <g:item_group_id>15076755669367</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -85010,6 +85953,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -85053,6 +85997,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -85137,6 +86082,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>0.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -85426,6 +86372,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>9.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -85497,7 +86444,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CC81864</g:id>
       <g:item_group_id>14669467353463</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -85798,6 +86747,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>12.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -85839,6 +86789,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>12.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -85880,6 +86831,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>12.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -88779,6 +89731,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -88822,6 +89775,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -88864,6 +89818,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -93085,6 +94040,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -93126,6 +94082,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -93249,6 +94206,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>2.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -93293,6 +94251,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>2.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -93338,6 +94297,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>2.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -94498,6 +95458,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -94583,6 +95544,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>10.99 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -95324,6 +96286,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -95365,6 +96328,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -95450,6 +96414,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -95522,6 +96487,91 @@ Outsole synthetic</g:material>
 
 	
     <item>
+      <g:id>CD80952</g:id>
+      <g:item_group_id>9611078107453</g:item_group_id>
+      
+      <g:title>Wonderful Snowman 10/20 Christmas Cards - 10</g:title>
+      <g:description>Send joyful festive greetings with this joyful snowman and feathered friends. They're surrounded by gifts to bring a smile to anyone's face.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Have a wonderful Christmas and a very happy New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/wonderful-snowman-christmas-cards?variant=49262643806525</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80952-CD81255-Wonderful-Snowman-Christmas-Card-Cancer-Research-UK-Online-Shop_b21e6147-6555-452f-809e-af6ef3b4be60_1024x1024.jpg?v=1734683018</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81528-Traditional-Duo-Pack-6-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683018</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554421</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD81255</g:id>
+      <g:item_group_id>9611078107453</g:item_group_id>
+      
+      <g:title>Wonderful Snowman 10/20 Christmas Cards - 20</g:title>
+      <g:description>Send joyful festive greetings with this joyful snowman and feathered friends. They're surrounded by gifts to bring a smile to anyone's face.Features: Available in packs of 10 or 20 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Have a wonderful Christmas and a very happy New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/wonderful-snowman-christmas-cards?variant=49262643839293</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80952-CD81255-Wonderful-Snowman-Christmas-Card-Cancer-Research-UK-Online-Shop_b21e6147-6555-452f-809e-af6ef3b4be60_1024x1024.jpg?v=1734683018</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81528-Traditional-Duo-Pack-6-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683018</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238555169</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD83942</g:id>
       <g:item_group_id>15062461645175</g:item_group_id>
       
@@ -95532,6 +96582,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -95572,6 +96623,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -96160,7 +97212,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>19.99 GBP</g:price>
-      <g:sale_price>11.99 GBP</g:sale_price>
+      <g:sale_price>9.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -96202,6 +97254,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -96372,6 +97425,7 @@ Outsole synthetic</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
