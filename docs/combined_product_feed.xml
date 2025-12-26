@@ -14128,7 +14128,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84638-Christmas-Tree-Candle-Tray-10-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759310296</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84638-Christmas-Tree-Candle-Tray-3-Cancer-Research-UK-Online-Shop_48d498a0-9a27-4bd0-aa3c-cb7693687e7d_1024x1024.jpg?v=1755185364</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -30436,7 +30436,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/hasbro-battleship-6-family-christmas-crackers?variant=53472073646455</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC81790-Hasbro-Battleships-6-Christmas-Crackers-Cancer-Research-UK-Online-Shop_fe7e3561-0a16-49c6-b49c-eb09ab4b2493_1024x1024.jpg?v=1734682933</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>7.99 GBP</g:sale_price>
 
@@ -32772,6 +32772,50 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW42310</g:id>
+      <g:item_group_id>9520963027261</g:item_group_id>
+      <g:google_product_category>543543</g:google_product_category>
+      <g:title>How To Live When You Could Be Dead</g:title>
+      <g:description>I'm alive when I should be dead. In another movie, I missed the sliding door and departed this wondrous life long ago. Like so many others, I've had to learn to live not knowing if I have a tomorrow. At the age of 35, I was blindsided by incurable bowel cancer - I was given a less than 8% chance of surviving five years. More than five years later, my only option is to live in the now. This book will awaken you to question your life as if you didn't have a tomorrow and live it in the way you want to today.  How to live when you could be dead, by Deborah James, ISBN: 9781785043598, 22 x 14cm, hardback book, 224 pages, For every copy sold in the UK, the publisher will donate £3 to the Bowelbabe Fund for Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/how-live-when-you-could-be-dead?variant=49003952439613</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/9781785043598-How-To-Live-When-You-Could-Be-Dead-Deborah-James-1-Cancer-Research-UK-Online-Shop_99ca6530-93c8-4db8-8f2a-f9bd8b4152a1_1024x1024.jpg?v=1719229954</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/9781785043598-How-To-Live-When-You-Could-Be-Dead-Deborah-James-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405221</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/9781785043598-How-To-Live-When-You-Could-Be-Dead-Deborah-James-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405221</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/9781785043598-How-To-Live-When-You-Could-Be-Dead-Deborah-James-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405221</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/9781785043598-How-To-Live-When-You-Could-Be-Dead-Deborah-James-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405221</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>9781785043598</g:gtin>
+
+      <g:product_type>Books</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Books</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
 
 	
@@ -36521,7 +36565,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76460-LED-Acrylic-Drip-Effect-Candle-Pack-of-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682904</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81126-Berry-Pinecone-Wreath-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682944</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.96 GBP</g:price>
       <g:sale_price>2.99 GBP</g:sale_price>
 
@@ -37075,9 +37119,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83734</g:id>
       <g:item_group_id>15087454191991</g:item_group_id>
       
@@ -37087,7 +37129,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83734-Light-Up-17cm-House-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185371</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83734-Light-Up-17cm-House-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185371</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
       <g:sale_price>5.59 GBP</g:sale_price>
 
@@ -37121,7 +37163,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX76432</g:id>
       <g:item_group_id>9521004446013</g:item_group_id>
       <g:google_product_category>505809</g:google_product_category>
@@ -45568,7 +45612,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81810-Giftmaker-Reindeer-Sequin-Headband-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682909</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81810-Giftmaker-Reindeer-Sequin-Headband-1-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758269218</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -56758,9 +56802,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC26861</g:id>
       <g:item_group_id>9522286625085</g:item_group_id>
       <g:google_product_category>5192</g:google_product_category>
@@ -56853,7 +56895,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF28082</g:id>
       <g:item_group_id>9521161208125</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -80458,7 +80502,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/solo-silhouette-stag-christmas-cards-pack-10-or-20?variant=49004323897661</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD63580-Solo-Silhouette-Stag-Christmas-Cards-Cancer-Research-UK-Online-Shop_573e6743-a17e-446a-a221-6a3eb7b4aa47_1024x1024.jpg?v=1719231426</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.49 GBP</g:price>
       <g:sale_price>2.75 GBP</g:sale_price>
 
@@ -85901,9 +85945,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83686</g:id>
       <g:item_group_id>15076757668215</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -85945,7 +85987,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83850</g:id>
       <g:item_group_id>15076755669367</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
