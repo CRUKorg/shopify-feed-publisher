@@ -3690,7 +3690,7 @@
 
       <g:product_type>Outdoor Rugs</g:product_type>
 
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -3709,7 +3709,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851BLACK-Black-Geometric-Outdoor-Rug-Lifestyle-square-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1744799620</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851BLACK-Black-Geometric-Outdoor-Rug-Cutout-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1744799621</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -3731,7 +3731,7 @@
 
       <g:product_type>Outdoor Rugs</g:product_type>
 
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -3772,7 +3772,7 @@
 
       <g:product_type>Outdoor Rugs</g:product_type>
 
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -14419,6 +14419,48 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CD80925</g:id>
+      <g:item_group_id>9611076534589</g:item_group_id>
+      
+      <g:title>Cheery Christmas Robin 10 Christmas Cards</g:title>
+      <g:description>Ready to face the wintry weather, this robin is keeping cheerful in the snow with his fetching red scarf.Co-ordinating items featuring this design are also available.Features: Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Warm Christmas Wishes., 12x12cm, posts as Royal Mail letter., High quality 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., Ar gael mewn fersiwn Gymraeg dwyieithog hefyd. Also available in a Welsh bilingual version., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cheery-christmas-robin-10-christmas-cards?variant=49262640890173</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80925-Cheery-Christmas-Robin-Christmas-Card-Cancer-Research-UK-Online-Shop_b7a288f1-be10-4a66-b46c-d5d4ba465bb4_1024x1024.jpg?v=1734683032</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.69 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554155</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD81258</g:id>
       <g:item_group_id>9611078893885</g:item_group_id>
       
@@ -16874,7 +16916,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-pencils-novelty-erasers-5-pack?variant=49371873771837</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81843-Kids-Create-Pencils-Erasers-Set-Cancer-Research-UK-Online-Shop_339d8629-46d5-43a2-8ddb-0a4739091042_1024x1024.jpg?v=1726234733</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>1.09 GBP</g:sale_price>
 
@@ -22290,9 +22332,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42123</g:id>
       <g:item_group_id>9520820584765</g:item_group_id>
       <g:google_product_category>6038</g:google_product_category>
@@ -22333,7 +22373,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX76486</g:id>
       <g:item_group_id>9520821207357</g:item_group_id>
       <g:google_product_category>3144</g:google_product_category>
@@ -24394,7 +24436,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84484-Robin-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758009904</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84484-Robin-Gift-Wrap-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758617308</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -26179,6 +26221,90 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD76599</g:id>
+      <g:item_group_id>9522266702141</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>Festive Farmyard Christmas Cards - Pack of 10/20 - 10</g:title>
+      <g:description>A beautiful wintry scene as a farmer and children tend to the sheep in the snow.Features:	Festive Farmyard Christmas Cards,	Available in packs of 10 or 20 cards, with envelopes,	Design exclusive to Cancer Research UK,	Inside greeting reads: With best wishes for Christmas and the New Year,	15 x 15cm, posts as Royal Mail letter,	High quality coated 250gsm FSC board,	100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/festive-farmyard-christmas-cards-pack-10-or-20?variant=49005501153597</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD76599-Festive-Farmyard-Charity-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683043</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CD76599</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+<g:size>10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CD76894</g:id>
+      <g:item_group_id>9522266702141</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>Festive Farmyard Christmas Cards - Pack of 10/20 - 20</g:title>
+      <g:description>A beautiful wintry scene as a farmer and children tend to the sheep in the snow.Features:	Festive Farmyard Christmas Cards,	Available in packs of 10 or 20 cards, with envelopes,	Design exclusive to Cancer Research UK,	Inside greeting reads: With best wishes for Christmas and the New Year,	15 x 15cm, posts as Royal Mail letter,	High quality coated 250gsm FSC board,	100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/festive-farmyard-christmas-cards-pack-10-or-20?variant=49005501219133</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD76599-Festive-Farmyard-Charity-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683043</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>5.49 GBP</g:price>
+      <g:sale_price>2.75 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CD76894</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+<g:size>10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -34348,7 +34474,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/julie-longer-style-lace-front-synthetic-hair-wig?variant=49005518094653</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Julie-Longer-Style-Mono-Lace-Front-Synthetic-Hair-Wig-a-Cancer-Research-UK-Online-Shop_902b27be-a94e-4503-8052-5f1451e678eb_1024x1024.jpg?v=1719230045</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>324.98 GBP</g:price>
       <g:sale_price>166.65 GBP</g:sale_price>
 
@@ -36937,9 +37063,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82235</g:id>
       <g:item_group_id>14873540821367</g:item_group_id>
       
@@ -37021,7 +37145,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW40720</g:id>
       <g:item_group_id>9521005003069</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
@@ -56486,9 +56612,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83885</g:id>
       <g:item_group_id>15089097933175</g:item_group_id>
       
@@ -56570,7 +56694,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83873</g:id>
       <g:item_group_id>15077028430199</g:item_group_id>
       
@@ -58604,7 +58730,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/robin-plaque?variant=55604443742583</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83746-Robin-Plaques-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755880181</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -84529,7 +84655,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/tink-the-tabby-cat-tea-bag-tidy?variant=55599663939959</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83719-Titch-Tabby-Cat-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755189933</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>0.99 GBP</g:sale_price>
 
@@ -85572,9 +85698,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CC81870</g:id>
       <g:item_group_id>14669524205943</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -85657,7 +85781,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW76533</g:id>
       <g:item_group_id>9522295931197</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
