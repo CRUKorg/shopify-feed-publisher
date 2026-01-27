@@ -18664,7 +18664,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83921-Clover-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185413</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Group-Lifestyle-1-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185416</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
       <g:sale_price>1.69 GBP</g:sale_price>
 
@@ -27469,47 +27469,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>GC30323</g:id>
-      <g:item_group_id>9520880025917</g:item_group_id>
-      <g:google_product_category>95</g:google_product_category>
-      <g:title>Floral Faux Laser Cut Mother's Day Greetings Card</g:title>
-      <g:description>This Mother's Day card includes traditional floral elements in a clean, contemporary design.Features:	15 x 15cm,	Message inside the card reads: "Have a fabulous Mother's Day. With love",	This card is recyclable at many local refuse centres. Please visit recyclenow.com for details.,	Clear holographic foil finish, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/floral-faux-laser-cut-mothers-day-greetings-card?variant=49003865014589</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/GC30323-Faux-Laser-Cut-Mothers-Day-Greetings-Card-Cancer-Research-UK-Online-Shop_0_b2526c78-af8d-4a0e-85e4-651be369303e_1024x1024.jpg?v=1719229679</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5056238527180</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Greeting Card</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Greeting Cards</g:custom_label_1>
-      <g:custom_label_2>Cards</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR82185</g:id>
       <g:item_group_id>9520881991997</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -30283,7 +30242,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5017224993204</g:gtin>
 
-      <g:product_type>Home Decorations</g:product_type>
+      <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -31470,7 +31429,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-green-check-throw?variant=55105930494327</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80768-Highland-Cow-Throw-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1744123863</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -36954,7 +36913,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84027MERRY</g:id>
       <g:item_group_id>15090029035895</g:item_group_id>
       
@@ -37035,9 +36996,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83739</g:id>
       <g:item_group_id>15090028511607</g:item_group_id>
       
@@ -56528,7 +56487,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC26861</g:id>
       <g:item_group_id>9522286625085</g:item_group_id>
       <g:google_product_category>5192</g:google_product_category>
@@ -56621,9 +56582,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF28082</g:id>
       <g:item_group_id>9521161208125</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -65311,7 +65270,7 @@ Outsole synthetic</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1753352865</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -71991,7 +71950,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608558967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -80057,7 +80016,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/soft-floral-mothers-day-greetings-card?variant=49004322160957</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/GC30324-Soft-Floral-Mothers-Day-Greetings-Card-Cancer-Research-UK-Online-Shop_532674a1-752e-42c5-8c27-e02eb946973c_1024x1024.jpg?v=1719231421</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -85668,7 +85627,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83716</g:id>
       <g:item_group_id>15089096458615</g:item_group_id>
       
@@ -85708,9 +85669,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF79397</g:id>
       <g:item_group_id>9522277155133</g:item_group_id>
       <g:google_product_category>3509</g:google_product_category>
@@ -96343,7 +96302,7 @@ Outsole synthetic</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/woobamboo-bamboo-adult-toothbrush?variant=49034885497149</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42432-WooBamboo-Adults-Bamboo-Toothbrush-Cancer-Research-UK-Online-Shop_2b47ab88-93cd-4af2-a2ef-abaa232a6006_1024x1024.jpg?v=1719231826</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
