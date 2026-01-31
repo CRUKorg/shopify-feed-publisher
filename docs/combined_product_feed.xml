@@ -16525,7 +16525,7 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Christmas Decorations</g:product_type>
 
-      <g:color>White</g:color>
+      <g:color>Red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -16545,7 +16545,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-house-with-gonk?variant=55650712027511</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84032-white-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755875348</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -16566,7 +16566,7 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Christmas Decorations</g:product_type>
 
-      <g:color>White</g:color>
+      <g:color>Red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -37259,7 +37259,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76461-Acrylic-Ribbed-LED-Tealights-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756226922</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76461-LED-Tealight-Lifestyle-Cancer-Research-UK-Online-Shop_cc34f345-02fe-4848-b3c1-663f1b434cca_1024x1024.jpg?v=1756226922</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.96 GBP</g:price>
       <g:sale_price>2.59 GBP</g:sale_price>
 
@@ -48556,7 +48556,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/premier-multi-coloured-led-indoor-outdoor-battery-operated-timer-lights?variant=49433381404989</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81329-Premier-Timelights-MultiAction-Battery-50-LEDs-Rainbow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682948</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
       <g:sale_price>2.39 GBP</g:sale_price>
 
@@ -56240,7 +56240,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Accessories</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
@@ -77088,9 +77088,9 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521262231869</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Set of Three Christmas Trees on a Hessian Base</g:title>
-      <g:description>Decorate your home with this set of three artificial trees.Each of the realistic-looking trees is 'planted' in a pot finished off with a hessian string bow.</g:description>
+      <g:description>Elevate your festive décor with this charming set of three Christmas trees. Each tree features lush green foliage and sits in a rustic, twine-wrapped pot on a wooden tray. Perfect for adding a cosy, woodland Christmas touch to tabletops, shelves, or mantel displays.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/set-three-christmas-trees-hessian-base?variant=49004291457341</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76950-Set_20of_20Three_20Christmas_20Trees-Hessian_20Base_a50dea5c-f8df-4f8a-b9c8-6d465a2ad8f4_1024x1024.jpg?v=1719231326</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76950-Set-of-Three-Christmas-Trees-Hessian-Base-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769787211</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>27.99 GBP</g:price>
@@ -77115,9 +77115,11 @@ Outsole synthetic</g:material>
 
       <g:product_type>Christmas Decorations</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:material>Wooden</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -84692,195 +84694,6 @@ Outsole synthetic</g:material>
 
 	
     <item>
-      <g:id>SU84830</g:id>
-      <g:item_group_id>14902312927607</g:item_group_id>
-      
-      <g:title>The Great Stand Up To Cancer Bake Off 2026 Kids Star Baker Apron</g:title>
-      <g:description>Get little chefs in on the Star Baker fun with this kid‑sized apron. Whether they’re rolling out their first batch of biscuits, whipping up magical fairy cakes, or helping stir the Sunday pancake mix, this apron keeps them looking the part while protecting their clothes from spills and splatters. Suitable for approximate ages 3-8 years. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2026.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-kids-star-baker-apron?variant=54925976076663</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84830-Great-Stand-Up-To-Cancer-Star-Baker-Kids-Apron-2026-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769596273</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84830-Great-Stand-Up-To-Cancer-Star-Baker-Kids-Apron-2026-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769686322</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84830-Great-Stand-Up-To-Cancer-Star-Baker-Kids-Apron-2026-Lifestyle-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769686398</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674246142</g:gtin>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Apron</g:product_type>
-      <g:color>White</g:color>
-      <g:size>5</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>kids</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:material>Cotton</g:material>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SU84827</g:id>
-      <g:item_group_id>14902231466359</g:item_group_id>
-      
-      <g:title>The Great Stand Up To Cancer Bake Off 2026 Star Baker Apron</g:title>
-      <g:description>Whether you’re rustling up a Signature, tackling a tricky Technical, or unveiling a true Showstopper, step into the kitchen looking every inch the Star Baker with your very own Great Stand Up To Cancer Bake Off 2026 Apron.  With its bold, celebratory design and unmistakable Bake Off spirit, it’s the perfect way to bring a little tent‑side magic to your cooking. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2026.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-star-baker-apron?variant=54925672415607</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84827-Great-Stand-Up-To-Cancer-Star-Baker-Apron-2026-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769691539</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84827-Great-Stand-Up-To-Cancer-Star-Baker-Apron-2026-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769691553</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84827-Great-Stand-Up-To-Cancer-Star-Baker-Apron-2026-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769691982</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84827-Great-Stand-Up-To-Cancer-Star-Baker-Apron-2026-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769691997</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>9.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674246111</g:gtin>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Apron</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:material>100% cotton</g:material>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SU84828</g:id>
-      <g:item_group_id>14902237528439</g:item_group_id>
-      
-      <g:title>The Great Stand Up To Cancer Bake Off 2026 Star Baker Double Oven Glove</g:title>
-      <g:description>Whether it’s biscuits, cupcakes, or a brilliant loaf, pull every creation out of the oven like the Star Baker you are with these double oven gloves. Designed to keep your hands safe while you’re handling hot trays and rising masterpieces, they add a dash of Bake Off excitement to every step. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2026.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-star-baker-double-oven-gloves?variant=54925707936119</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769595722</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769595723</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769690922</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769690922</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769690922</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674246128</g:gtin>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Oven Gloves</g:product_type>
-      <g:color>White</g:color>
-      <g:size>4</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SU84829</g:id>
-      <g:item_group_id>14902238052727</g:item_group_id>
-      
-      <g:title>The Great Stand Up To Cancer Bake Off 2026 Star Baker Tea Towels - Pack of 3</g:title>
-      <g:description>Ready to bake like a pro? Keep your kitchen spotless with this trio of The Great Stand Up To Cancer Bake Off Star Baker tea towels. Designed for everyday spills and flour‑covered fun, they bring practicality and Bake Off spirit to every culinary creation. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2026.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-star-baker-tea-towels-pack-of-3?variant=54925708951927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84829-Great-Stand-Up-To-Cancer-Star-Baker-Tea-Towels-2026-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769596018</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84829-Great-Stand-Up-To-Cancer-Star-Baker-Tea-Towels-2026-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769596018</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84829-Great-Stand-Up-To-Cancer-Star-Baker-Tea-Towels-2026-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769596007</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84829-Great-Stand-Up-To-Cancer-Star-Baker-Tea-Towels-2026-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769596007</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84829-Great-Stand-Up-To-Cancer-Star-Baker-Tea-Towels-2026-6-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769689560</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84829-Great-Stand-Up-To-Cancer-Star-Baker-Tea-Towels-2026-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769689560</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84829-Great-Stand-Up-To-Cancer-Star-Baker-Tea-Towels-2026-7-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769689303</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84829-Great-Stand-Up-To-Cancer-Star-Baker-Tea-Towels-2026-8-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769689315</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674246135</g:gtin>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Tea Towel</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>SU81902</g:id>
       <g:item_group_id>9520927080765</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
@@ -85008,53 +84821,6 @@ Outsole synthetic</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>100% Cotton</g:material>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SU84831</g:id>
-      <g:item_group_id>9520924033341</g:item_group_id>
-      <g:google_product_category>7237</g:google_product_category>
-      <g:title>The Great Stand Up To Cancer Bake Off Kids Star Baker 2026 Chef Hat</g:title>
-      <g:description>Whether it’s a baking adventure or a messy masterpiece, this Mini Star Baker Chef Hat makes sure your little one looks the part while creating magic in the kitchen. Designed for comfort, this chef hat is made from soft, airy fabric that’s gentle on little heads and easy to wear all day. Suitable for approximate ages 3-8 years Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2026.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-kids-star-baker-chef-hat?variant=49003911512381</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84831-Great-Stand-Up-To-Cancer-Star-Baker-Kids-Chef-Hat-2026-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769596445</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84831-Great-Stand-Up-To-Cancer-Star-Baker-Kids-Chef-Hat-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769688247</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84831-Great-Stand-Up-To-Cancer-Star-Baker-Kids-Chef-Hat-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769688247</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674246159</g:gtin>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Hat</g:product_type>
-      <g:color>White</g:color>
-      <g:size>3</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>kids</g:age_group>
-      <g:material>100% Cotton</g:material>
-      <g:product_width>25 cm </g:product_width>
-      <g:product_height>18 cm </g:product_height>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Bake Off</g:custom_label_1>
       <g:custom_label_2>Bake Off</g:custom_label_2>
@@ -85965,7 +85731,9 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW84513CREAM</g:id>
       <g:item_group_id>14671812919671</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -86213,9 +85981,7 @@ Outsole synthetic</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CC81865</g:id>
       <g:item_group_id>14669472924023</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -95222,7 +94988,7 @@ Outsole synthetic</g:material>
       <g:item_group_id>9521404150077</g:item_group_id>
       <g:google_product_category>5455</g:google_product_category>
       <g:title>White Place Cards - Pack of 10</g:title>
-      <g:description>Help every guest at your event find their seat with these White Place Cards.Subtle but trendy, this pack of 10 are ideal for any wedding or celebration and will make an effortless and stylish table accessory.These stand alone folding cards feature thank you messaging, with room for you to personalise with your guest's names and even a space to feature a donation made on your behalf. Features:	Pack of 10,	Pin not included,  </g:description>
+      <g:description>Help every guest at your event find their seat with these White Place Cards. Subtle but trendy, this pack of 10 place cards is ideal for any wedding or celebration and will make an effortless and stylish table accessory. These stand alone folding cards feature thank you messaging, with room for you to personalise with your guest's names and even a space to feature a donation made on your behalf. Features:  Pack of 10, Pin not included,  </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/white-place-cards-pack-10?variant=49004448186685</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR_WF30436_Wedding_favour_place_cards_1024x1024.jpg?v=1752074084</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR_WF30436_PlaceCardWhiteB_0_1024x1024.jpg?v=1719404188</g:additional_image_link>
@@ -95251,7 +95017,7 @@ Outsole synthetic</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Place Cards</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Wedding Favours</g:custom_label_0>
