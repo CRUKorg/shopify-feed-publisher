@@ -1507,7 +1507,7 @@
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Merchandise_20_06_16_0531_20_282_29_0_b68c97a1-6fe6-4c27-8f89-9582ff63b616_1024x1024.jpg?v=1719229034</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Merchandise_20_06_16_0536_20_282_29_1024x1024.jpg?v=1719405928</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.00 GBP</g:price>
       <g:sale_price>1.99 GBP</g:sale_price>
 
@@ -5831,135 +5831,6 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Water Bottle</g:product_type>
 
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR80625</g:id>
-      <g:item_group_id>9520740794685</g:item_group_id>
-      <g:google_product_category>4358</g:google_product_category>
-      <g:title>Bowelbabe Fund Floral Compact Umbrella - Pink</g:title>
-      <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. A compact, folding umbrella featuring a colourful floral design. Features:  Available in 3 colour options: green, pink, and purple, Co-ordinating items also available, Folds down to 22cm length for easy carrying, Polyester canopy,  The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-compact-umbrella?variant=49005483524413</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80625-Bowelbabe-Floral-Pink-Compact-Umbrella-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761928948</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>2.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CR80625</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Umbrella</g:product_type>
-
-      <g:color>Pink</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR80624.</g:id>
-      <g:item_group_id>9520740794685</g:item_group_id>
-      <g:google_product_category>4358</g:google_product_category>
-      <g:title>Bowelbabe Fund Floral Compact Umbrella - Purple</g:title>
-      <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. A compact, folding umbrella featuring a colourful floral design. Features:  Available in 3 colour options: green, pink, and purple, Co-ordinating items also available, Folds down to 22cm length for easy carrying, Polyester canopy,  The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-compact-umbrella?variant=49003703206205</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80624-Bowelbabe-Floral-Purple-Compact-Umbrella-Cancer-Research-UK-Online-Shop_72026dc0-fdae-41f7-a1ad-b0adda34ac75_1024x1024.jpg?v=1761928948</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>2.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5017414255792</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Umbrella</g:product_type>
-
-      <g:color>Pink</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR80626</g:id>
-      <g:item_group_id>9520740794685</g:item_group_id>
-      <g:google_product_category>4358</g:google_product_category>
-      <g:title>Bowelbabe Fund Floral Compact Umbrella - Green</g:title>
-      <g:description>Please support the Bowelbabe Fund for Cancer Research UK, raising money to fund clinical trials, research and cancer information and awareness, as well as other initiatives to combat cancer and support those affected by cancer. A compact, folding umbrella featuring a colourful floral design. Features:  Available in 3 colour options: green, pink, and purple, Co-ordinating items also available, Folds down to 22cm length for easy carrying, Polyester canopy,  The Bowelbabe Fund for Cancer Research UK is a restricted fund within Cancer Research UK.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-compact-umbrella?variant=49005483557181</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80626-Bowelbabe-Floral-Green-Compact-Umbrella-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1719229161</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>2.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CR80626</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Umbrella</g:product_type>
-
-      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -24444,7 +24315,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83855</g:id>
       <g:item_group_id>15077015290231</g:item_group_id>
       <g:google_product_category>576</g:google_product_category>
@@ -24486,9 +24359,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83862</g:id>
       <g:item_group_id>15078696452471</g:item_group_id>
       
@@ -25450,7 +25321,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/drawstring-jumbo-christmas-sack?variant=55756907544951</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84381-Jumbo-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757689664</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -33054,6 +32925,50 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR80766</g:id>
+      <g:item_group_id>14952339374455</g:item_group_id>
+      
+      <g:title>Highland Cow 14cm Ornament</g:title>
+      <g:description>Add a touch of country charm to your home décor with this Highland Cow Ornament. Designed with impressive realism, from its textured fur to its gentle expression, this ornament captures the spirit of the beloved Highland breed. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-ornament?variant=55105499300215</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80766-Highland-Cow-Ornament-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771320366</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80766-Highland-Cow-Ornament-AI-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771323896</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123807661</g:gtin>
+
+      <g:product_type>Accessories</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>19 cm </g:product_length>
+      <g:product_width>9 cm </g:product_width>
+      <g:product_height>14 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83844</g:id>
       <g:item_group_id>15078067437943</g:item_group_id>
       <g:google_product_category>4453</g:google_product_category>
@@ -33621,50 +33536,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR80766</g:id>
-      <g:item_group_id>14952339374455</g:item_group_id>
-      
-      <g:title>Highland Cow Ornament</g:title>
-      <g:description>Add a touch of country charm to your home décor with this Highland Cow Ornament. Designed with impressive realism, from its textured fur to its gentle expression, this ornament captures the spirit of the beloved Highland breed. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-ornament?variant=55105499300215</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80766-Highland-Cow-Ornament-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771320366</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80766-Highland-Cow-Ornament-AI-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771323896</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>9.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123807661</g:gtin>
-
-      <g:product_type>Accessories</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>19 cm </g:product_length>
-      <g:product_width>9 cm </g:product_width>
-      <g:product_height>14 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -39294,7 +39165,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX76461</g:id>
       <g:item_group_id>15090028446071</g:item_group_id>
       
@@ -39336,9 +39209,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81835</g:id>
       <g:item_group_id>9522401411389</g:item_group_id>
       <g:google_product_category>4352</g:google_product_category>
@@ -50797,7 +50668,6 @@ Lining 100% Cotton</g:material>
       <g:description>This post‑surgery seat‑belt protector offers gentle, cushioned support for anyone experiencing chest, breast, or abdominal sensitivity during cancer treatment or recovery. Its soft, quilted design helps reduce pressure and discomfort from seat belts, making everyday travel and routines feel more manageable. Ideal for those recovering from mastectomy or chest wall surgery, abdominal procedures, or for anyone who wears an ostomy bag, it provides a little extra comfort and confidence wherever the day takes you. Features:  Fine cord, 2 loop Velcro fastening , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/post-surgery-seat-belt-protector?variant=49005539721533</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Hot-Pink-Seat-Belt-Protector-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770979810</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40611-Black-Seatbelt-Protector-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770979810</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Pink-Seatbelt-Cushion-Lifestyle-1-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1770979810</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Pink-Seatbelt-Cushion-Lifestyle-2-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1770979810</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -50836,60 +50706,13 @@ Lining 100% Cotton</g:material>
     </item>
 	
     <item>
-      <g:id>LW41163</g:id>
-      <g:item_group_id>9521081483581</g:item_group_id>
-      <g:google_product_category>3094</g:google_product_category>
-      <g:title>Post Surgery Seat-belt Protector - Grey</g:title>
-      <g:description>This post‑surgery seat‑belt protector offers gentle, cushioned support for anyone experiencing chest, breast, or abdominal sensitivity during cancer treatment or recovery. Its soft, quilted design helps reduce pressure and discomfort from seat belts, making everyday travel and routines feel more manageable. Ideal for those recovering from mastectomy or chest wall surgery, abdominal procedures, or for anyone who wears an ostomy bag, it provides a little extra comfort and confidence wherever the day takes you. Features:  Fine cord, 2 loop Velcro fastening , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/post-surgery-seat-belt-protector?variant=49005539688765</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Hot-Pink-Seat-Belt-Protector-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770979810</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40611-Black-Seatbelt-Protector-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770979810</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Pink-Seatbelt-Cushion-Lifestyle-1-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1770979810</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Pink-Seatbelt-Cushion-Lifestyle-2-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1770979810</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>9.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>LW41163</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Cushion</g:product_type>
-
-      <g:color>Hot Pink</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Cancer Care</g:custom_label_0>
-      <g:custom_label_1>Cancer Care</g:custom_label_1>
-      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
-      <g:custom_label_3>Own Brand</g:custom_label_3>
-      <g:custom_label_4>Cancer Care</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>LW40611</g:id>
       <g:item_group_id>9521081483581</g:item_group_id>
       <g:google_product_category>3094</g:google_product_category>
       <g:title>Post Surgery Seat-belt Protector - Black</g:title>
       <g:description>This post‑surgery seat‑belt protector offers gentle, cushioned support for anyone experiencing chest, breast, or abdominal sensitivity during cancer treatment or recovery. Its soft, quilted design helps reduce pressure and discomfort from seat belts, making everyday travel and routines feel more manageable. Ideal for those recovering from mastectomy or chest wall surgery, abdominal procedures, or for anyone who wears an ostomy bag, it provides a little extra comfort and confidence wherever the day takes you. Features:  Fine cord, 2 loop Velcro fastening , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/post-surgery-seat-belt-protector?variant=49004085150013</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Hot-Pink-Seat-Belt-Protector-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770979810</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40611-Black-Seatbelt-Protector-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770979810</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40611-Black-Seatbelt-Protector-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770979810</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Pink-Seatbelt-Cushion-Lifestyle-1-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1770979810</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42348-Pink-Seatbelt-Cushion-Lifestyle-2-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1770979810</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -58717,7 +58540,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80499</g:id>
       <g:item_group_id>9521149378877</g:item_group_id>
       <g:google_product_category>3032</g:google_product_category>
@@ -58760,9 +58585,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC83020</g:id>
       <g:item_group_id>14944994689399</g:item_group_id>
       
@@ -73304,7 +73127,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -75531,7 +75354,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_DT7_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/1008_SilverPS_LS3_back_20royce_1024x1024.jpg?v=1753430864</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -75554,7 +75377,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75601,7 +75424,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75648,7 +75471,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75695,7 +75518,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75742,7 +75565,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75789,7 +75612,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75836,7 +75659,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75883,7 +75706,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75930,7 +75753,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -75977,7 +75800,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -76024,7 +75847,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -76071,7 +75894,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -76118,7 +75941,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -76165,7 +75988,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Royce</g:brand>
       <g:product_type>Bra</g:product_type>
 
-<g:size>32B/C</g:size>
+<g:size>32D/DD</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -87685,7 +87508,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83907</g:id>
       <g:item_group_id>15062562374007</g:item_group_id>
       
@@ -87768,9 +87593,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83662</g:id>
       <g:item_group_id>15087454519671</g:item_group_id>
       
