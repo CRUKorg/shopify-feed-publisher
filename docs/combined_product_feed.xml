@@ -1043,7 +1043,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/antler-hair-clips?variant=55673572032887</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84396-Antler-Hairclips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756374671</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -6031,7 +6031,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-ladies-ankle-socks?variant=55074174140791</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB83111Purple-Bowelbabe-Ankle-socks-Purple-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1746094205</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -6054,7 +6054,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Purple</g:color>
+      <g:color>Pink</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -6098,7 +6098,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Purple</g:color>
+      <g:color>Pink</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -6142,7 +6142,7 @@
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Purple</g:color>
+      <g:color>Pink</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -10382,7 +10382,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/bee-desk-diary-2026?variant=55490509963639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83898-2026-Bee-Desk-Diary-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185408</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
       <g:sale_price>2.39 GBP</g:sale_price>
 
@@ -15879,6 +15879,98 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX76375</g:id>
+      <g:item_group_id>9521078337853</g:item_group_id>
+      <g:google_product_category>212</g:google_product_category>
+      <g:title>Children's Oversized Fleece Hoodie - Grey</g:title>
+      <g:description>Give little ones an easy way to stay warm on chilly days with this soft, oversized fleece hoodie. Its relaxed shape makes it perfect for snuggling on the sofa, reading in bed or keeping cosy on early mornings. The roomy front pocket keeps hands toasty and the hood adds extra warmth when needed. A practical everyday comfort, and a sweet gift. Features:  Oversized Fleece Hoodie, One size, unisex , Front pocket ,  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/oversized-fleece-hoodie-child?variant=49004080824637</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76375-Grey-Kids-Oversized-Hoodie-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773228617</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+      <g:sale_price>3.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674221378</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hoodie</g:product_type>
+
+      <g:color>Grey</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX76376</g:id>
+      <g:item_group_id>9521078337853</g:item_group_id>
+      <g:google_product_category>212</g:google_product_category>
+      <g:title>Children's Oversized Fleece Hoodie - Lavender</g:title>
+      <g:description>Give little ones an easy way to stay warm on chilly days with this soft, oversized fleece hoodie. Its relaxed shape makes it perfect for snuggling on the sofa, reading in bed or keeping cosy on early mornings. The roomy front pocket keeps hands toasty and the hood adds extra warmth when needed. A practical everyday comfort, and a sweet gift. Features:  Oversized Fleece Hoodie, One size, unisex , Front pocket ,  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/oversized-fleece-hoodie-child?variant=49005536706877</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76376-Lavender-Kids-Oversized-Hoodie-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773228467</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+      <g:sale_price>3.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX76376</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hoodie</g:product_type>
+
+      <g:color>Grey</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83672</g:id>
       <g:item_group_id>15137590477175</g:item_group_id>
       
@@ -16963,7 +17055,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81528-Traditional-Duo-Pack-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683031</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81528-Traditional-Duo-Pack-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683031</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.49 GBP</g:price>
       <g:sale_price>2.75 GBP</g:sale_price>
 
@@ -18168,7 +18260,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-socks-ladies-pack-2?variant=53481539043703</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81279-Snowman-Mouse-Ladies-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728901783</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -18712,6 +18804,49 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>100% polyester with water resistant backing</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR82904</g:id>
+      <g:item_group_id>14965312389495</g:item_group_id>
+      
+      <g:title>Citrus Striped Cooling Beach Bag</g:title>
+      <g:description>Keep your essentials chilled while you soak up the sun with this bright, summer-ready bag. Its bold citrus stripes instantly bring holiday energy to beach days, picnics or park trips. Generously sized and easy to carry, the insulated lining keeps food and drinks cool for longer, making it a practical companion for everyday adventures. Features:  Spacious zippered compartment, Decking rope inspired handles, Aluminium foil lined with foam insulation and a polyester outer, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/citrus-striped-cooling-beach-bag?variant=55150200717687</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82904-Citrus-Stripe-Cooler-Beach-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1745418041</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674237034</g:gtin>
+
+      <g:product_type>Bags</g:product_type>
+      <g:color>orange</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>19 cm </g:product_length>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>44 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -24322,9 +24457,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82253</g:id>
       <g:item_group_id>14871273439607</g:item_group_id>
       
@@ -24335,7 +24468,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82253DaisytheDachshundStandardUmbrella2_1024x1024.jpg?v=1733413149</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82253DaisytheDachshundStandardUmbrella3_1024x1024.jpg?v=1733413147</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -24406,7 +24539,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83841</g:id>
       <g:item_group_id>15087421620599</g:item_group_id>
       
@@ -30387,6 +30522,127 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR82851GREY</g:id>
+      <g:item_group_id>9522268045629</g:item_group_id>
+      <g:google_product_category>5910</g:google_product_category>
+      <g:title>Geometric Black and Grey Design Outdoor Rug - S</g:title>
+      <g:description>Refresh your outdoor space with a stylish rug that brings instant structure and calm to patios, balconies or garden seating areas. The monochrome geometric pattern works beautifully with both bright and neutral décor, helping to zone areas or add visual interest. Features:  Recyclable polypropylene outdoor rug, Available in three sizes:  Small 90 x 150cm (472g), Medium 120 x 180cm (756g), Large 150 x 200cm (1kg),  , Other outdoor designs also available , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/geometric-black-design-outdoor-rug?variant=49005503873341</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851GREY-Grey-Black-Geometric-Outdoor-Rug-Cutout-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773226286</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851GREY-Grey-Black-Geometric-Outdoor-Rug-Lifestyle-rect-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773226286</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674236679</g:gtin>
+
+      <g:product_type>Outdoor Rugs</g:product_type>
+
+<g:size>L</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR82852GREY</g:id>
+      <g:item_group_id>9522268045629</g:item_group_id>
+      <g:google_product_category>5910</g:google_product_category>
+      <g:title>Geometric Black and Grey Design Outdoor Rug - M</g:title>
+      <g:description>Refresh your outdoor space with a stylish rug that brings instant structure and calm to patios, balconies or garden seating areas. The monochrome geometric pattern works beautifully with both bright and neutral décor, helping to zone areas or add visual interest. Features:  Recyclable polypropylene outdoor rug, Available in three sizes:  Small 90 x 150cm (472g), Medium 120 x 180cm (756g), Large 150 x 200cm (1kg),  , Other outdoor designs also available , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/geometric-black-design-outdoor-rug?variant=49005503906109</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851GREY-Grey-Black-Geometric-Outdoor-Rug-Cutout-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773226286</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851GREY-Grey-Black-Geometric-Outdoor-Rug-Lifestyle-rect-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773226286</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674236686</g:gtin>
+
+      <g:product_type>Outdoor Rugs</g:product_type>
+
+<g:size>L</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR82853GREY</g:id>
+      <g:item_group_id>9522268045629</g:item_group_id>
+      <g:google_product_category>5910</g:google_product_category>
+      <g:title>Geometric Black and Grey Design Outdoor Rug - L</g:title>
+      <g:description>Refresh your outdoor space with a stylish rug that brings instant structure and calm to patios, balconies or garden seating areas. The monochrome geometric pattern works beautifully with both bright and neutral décor, helping to zone areas or add visual interest. Features:  Recyclable polypropylene outdoor rug, Available in three sizes:  Small 90 x 150cm (472g), Medium 120 x 180cm (756g), Large 150 x 200cm (1kg),  , Other outdoor designs also available , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/geometric-black-design-outdoor-rug?variant=49005503938877</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851GREY-Grey-Black-Geometric-Outdoor-Rug-Cutout-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773226286</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851GREY-Grey-Black-Geometric-Outdoor-Rug-Lifestyle-rect-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773226286</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>16.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674236693</g:gtin>
+
+      <g:product_type>Outdoor Rugs</g:product_type>
+
+<g:size>L</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81413</g:id>
       <g:item_group_id>14907856257399</g:item_group_id>
       
@@ -31421,7 +31677,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/gingerbread-house-10-christmas-cards?variant=55485607510391</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83919-Gingerbread-House-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185435</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
       <g:sale_price>1.69 GBP</g:sale_price>
 
@@ -32598,6 +32854,48 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CD76608</g:id>
+      <g:item_group_id>9520933306685</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>Grumpy Gonk Christmas Cards - Pack of 10</g:title>
+      <g:description>If you love sending cards that bring an instant smile, this grumpy little gonk is guaranteed to do the job. The snowy scene and soft colours make it look like he’s had quite enough of Christmas already. Features:  Grumpy Gonk Christmas Cards, Contains 10 cards and envelopes per pack, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year, 15 x 15cm, posts as Royal Mail letter, High quality uncoated 250gsm FSC board with gold foil finish, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/grumpy-gonk-christmas-cards-pack-10?variant=49003921998141</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD76608-Grumpy-Gonk-Charity-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773226349</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238548208</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR80531ANGEL</g:id>
       <g:item_group_id>14992003858807</g:item_group_id>
       
@@ -33609,7 +33907,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80939-CD81249-Hettie_s-Festive-Friend-Christmas-Card-Cancer-Research-UK-Online-Shop_63331f85-5bb4-4268-8dd0-42c50cc104bd_1024x1024.jpg?v=1734683025</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81519-Hetty-Timmy-Duo-Pack-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683025</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.49 GBP</g:price>
       <g:sale_price>2.75 GBP</g:sale_price>
 
@@ -35112,6 +35410,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35152,8 +35451,9 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Traditional-Christmas-Cards-4-2025-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755617363</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83924-Melchoir-Caspar-Balthazar-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755617363</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36017,7 +36317,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/humphrey-the-hare-small-tray?variant=55599661875575</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83712-Humphrey-Hare-Small-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755190674</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
       <g:sale_price>1.19 GBP</g:sale_price>
 
@@ -38417,9 +38717,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW71088</g:id>
       <g:item_group_id>9520997171517</g:item_group_id>
       <g:google_product_category>181</g:google_product_category>
@@ -38724,7 +39022,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF30436</g:id>
       <g:item_group_id>9520998809917</g:item_group_id>
       <g:google_product_category>5455</g:google_product_category>
@@ -40052,6 +40352,51 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW43811</g:id>
+      <g:item_group_id>9521003757885</g:item_group_id>
+      <g:google_product_category>543543</g:google_product_category>
+      <g:title>Let's Tell a Story: Fairy Tale Adventure</g:title>
+      <g:description>Young readers will have endless exciting adventures in a fairy-tale land with this story-building activity book inspired by classic fairy tales that children know and love like Red Riding Hood, Goldilocks, and Hansel and Gretel. They simply read the question on each spread and choose from the pictures to create a brand-new story, with imaginative characters, places to go, funny objects and extraordinary situations to choose from. With millions of possible story combinations, this is a book to be read and enjoyed again and again.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/lets-tell-story-fairy-tale-adventure?variant=49003994218813</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43811-9780711257276-Lets-Tell-A-Story-Fairy-Tale-Adventure-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773227870</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43811-9780711257276-Lets-Tell-A-Story-Fairy-Tale-Adventure-Cancer-Research-UK-Online-Shop-2_1024x1024.jpg?v=1719405105</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43811-9780711257276-Lets-Tell-A-Story-Fairy-Tale-Adventure-Cancer-Research-UK-Online-Shop-3_1024x1024.jpg?v=1719405105</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43811-9780711257276-Lets-Tell-A-Story-Fairy-Tale-Adventure-Cancer-Research-UK-Online-Shop-4_1024x1024.jpg?v=1719405105</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>9780711257276</g:gtin>
+
+      <g:product_type>Books</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>25 cm </g:product_width>
+      <g:product_height>25 cm </g:product_height>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Books</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
 
 	
@@ -44222,7 +44567,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-terry-christmas-socks?variant=55762446549367</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83892-Mens-Terry-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757605169</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
       <g:sale_price>1.99 GBP</g:sale_price>
 
@@ -44265,7 +44610,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/mens-loungewear-set-1?variant=54787665592695</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81573-Mens-Lounge-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732620778</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -44289,7 +44634,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>S</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -44333,7 +44678,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>S</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -44377,7 +44722,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>S</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -44421,7 +44766,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>S</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -44442,7 +44787,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/mens-loungewear-set-1?variant=54787665723767</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81573-Mens-Lounge-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732620778</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -44465,7 +44810,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>S</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -44509,7 +44854,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Loungewear</g:product_type>
 
-<g:size>S</g:size>
+<g:size>2XL</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -44823,6 +45168,47 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81824SILVER-4m-Midnight-Blue-Silver-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728635861</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566063</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW81824FLAKE</g:id>
+      <g:item_group_id>9521018536253</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Midnight Blue 4m Christmas Wrapping Paper - Snowflake</g:title>
+      <g:description>Inspired by the night sky, this white Christmas wrapping paper features a silver and blue snowflake print design for some seasonal sparkle. 4m in length and fully recyclable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/midnight-blue-4m-christmas-wrapping-paper-snowflake?variant=49004014764349</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81824Flake-4m-Midnight-Blue-Snowflake-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728635725</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -46782,7 +47168,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85011-MooGoo-Lip-Balm-Set-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758119331</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85011-MooGoo-Lip-Balm-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758119332</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>19.99 GBP</g:price>
 
       <g:shipping>
@@ -47483,7 +47869,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9521049960765</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
       <g:title>MooGoo Scalp Cream</g:title>
-      <g:description>Many people, including babies, are troubled by skin that becomes red, dry and sometimes itchy around the scalp, hairline, neck, ears, eye areas, and along the side of the nose and mouth. These are oily areas of the skin and sometimes cause irritation. It can be used anywhere on the body and doubles as an overall moisturiser. Let MooGoo's Scalp Cream help return the skin to a healthy condition. Features:  For relief of dry skin around the scalp, ears, hairline, eyes and along the side of the nose, A lightweight moisturiser that's easily absorbed into skin, Made with natural oils like coconut and olive oil, Soothing ingredients include aloe vera and allantoin, </g:description>
+      <g:description>Many people receiving cancer care notice changes in their skin, especially around the scalp, hairline, neck, ears, and eye areas. These areas can become red, dry, or itchy due to increased sensitivity. This cream is designed to provide calming moisture using naturally derived oils, helping to soothe skin that feels irritated or uncomfortable. Let MooGoo’s Scalp Cream support your skin while it works to return to a more comfortable, healthy-feeling state. Features:  For relief of dry skin around the scalp, ears, hairline, eyes and along the side of the nose, A lightweight moisturiser that's easily absorbed into skin, Made with natural oils like coconut and olive oil, Soothing ingredients include aloe vera and allantoin, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-scalp-cream?variant=49004047204669</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42329-MooGoo-Scalp-Cream-120g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770283970</g:image_link>
       <g:condition>new</g:condition>
@@ -47607,7 +47993,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9521051664701</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
       <g:title>MooGoo Skin Milk Udder Cream - 200g</g:title>
-      <g:description>MooGoo's signature Udder Cream has developed a bit of a cult following - and if you've tried it before, you'll know why. Full of natural moisturising and soothing ingredients to leave skin happy and hydrated. Includes milk protein to help increase skin elasticity, keeping it looking young, supple and s-MOO-th. This cream is for everyone, including babies, and those with sensitive skin so rub it on whenever and wherever your skin could use a little love. It also smells delightfully delicious. Features:  MooGoo Skin Milk Udder Cream, A lightweight moisturiser that easily sinks into skin, Avaliable in two sizes, 120g and 200g, Made with natural oils like sweet almond and olive oil, Includes aloe vera and vitamin E, Suitable for use on face and body, for all ages and skin types, Naturally preserved with hops extract - free of parabens and phenoxyethanol, </g:description>
+      <g:description>Made with naturally moisturising and soothing ingredients, it helps keep skin feeling comfortable, nourished, and hydrated, especially when it becomes more sensitive during cancer treatment. The added milk protein supports skin elasticity, helping skin feel soft, supple, and smooth. This cream is gentle enough for sensitive, treatment‑affected skin and can be used whenever your skin needs extra comfort, care, or relief. It also has a light, pleasant scent that many people find uplifting. Features:  MooGoo Skin Milk Udder Cream, A lightweight moisturiser that easily sinks into skin, Avaliable in two sizes, 120g and 200g, Made with natural oils like sweet almond and olive oil, Includes aloe vera and vitamin E, Suitable for use on face and body, for all ages and skin types, Naturally preserved with hops extract - free of parabens and phenoxyethanol, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-skin-milk-udder-cream?variant=55305216590199</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42324-MooGoo-Skin-Milk-200g-3-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1729251619</g:image_link>
       <g:condition>new</g:condition>
@@ -47647,7 +48033,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9521051664701</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
       <g:title>MooGoo Skin Milk Udder Cream - 120g</g:title>
-      <g:description>MooGoo's signature Udder Cream has developed a bit of a cult following - and if you've tried it before, you'll know why. Full of natural moisturising and soothing ingredients to leave skin happy and hydrated. Includes milk protein to help increase skin elasticity, keeping it looking young, supple and s-MOO-th. This cream is for everyone, including babies, and those with sensitive skin so rub it on whenever and wherever your skin could use a little love. It also smells delightfully delicious. Features:  MooGoo Skin Milk Udder Cream, A lightweight moisturiser that easily sinks into skin, Avaliable in two sizes, 120g and 200g, Made with natural oils like sweet almond and olive oil, Includes aloe vera and vitamin E, Suitable for use on face and body, for all ages and skin types, Naturally preserved with hops extract - free of parabens and phenoxyethanol, </g:description>
+      <g:description>Made with naturally moisturising and soothing ingredients, it helps keep skin feeling comfortable, nourished, and hydrated, especially when it becomes more sensitive during cancer treatment. The added milk protein supports skin elasticity, helping skin feel soft, supple, and smooth. This cream is gentle enough for sensitive, treatment‑affected skin and can be used whenever your skin needs extra comfort, care, or relief. It also has a light, pleasant scent that many people find uplifting. Features:  MooGoo Skin Milk Udder Cream, A lightweight moisturiser that easily sinks into skin, Avaliable in two sizes, 120g and 200g, Made with natural oils like sweet almond and olive oil, Includes aloe vera and vitamin E, Suitable for use on face and body, for all ages and skin types, Naturally preserved with hops extract - free of parabens and phenoxyethanol, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-skin-milk-udder-cream?variant=55305216622967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84657-MooGoo-Skin-Milk-Udder-Cream-120g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749653629</g:image_link>
       <g:condition>new</g:condition>
@@ -48367,11 +48753,10 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14847661244791</g:item_group_id>
       
       <g:title>Mushroom Design Enamel Bowl - Red</g:title>
-      <g:description>Add a touch of nature to your home with this unique bowl. It features a charming mushroom design in 2 colour options. Available in red and green.  Size: 25X25X7CM</g:description>
+      <g:description>Bring a touch of woodland charm to everyday dining with this beautifully illustrated enamel bowl. Its nature‑inspired design makes it ideal for adding warmth and character to a kitchen or living space. Practical for serving snacks, storing trinkets or styling open shelving, it fits naturally into busy home life. Available in red and green.  Size: 25 X 25 X 7CM</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mushroom-design-enamel-bowl?variant=54941991240055</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
@@ -48409,11 +48794,10 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14847661244791</g:item_group_id>
       
       <g:title>Mushroom Design Enamel Bowl - Green</g:title>
-      <g:description>Add a touch of nature to your home with this unique bowl. It features a charming mushroom design in 2 colour options. Available in red and green.  Size: 25X25X7CM</g:description>
+      <g:description>Bring a touch of woodland charm to everyday dining with this beautifully illustrated enamel bowl. Its nature‑inspired design makes it ideal for adding warmth and character to a kitchen or living space. Practical for serving snacks, storing trinkets or styling open shelving, it fits naturally into busy home life. Available in red and green.  Size: 25 X 25 X 7CM</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/mushroom-design-enamel-bowl?variant=54941991272823</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82137-Mushroom-Enamel-Bowl-25cm-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732202533</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
@@ -48887,6 +49271,144 @@ Lining 100% Cotton</g:material>
 <g:size>14X8.5CM</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX82124-GREEN</g:id>
+      <g:item_group_id>14847547015543</g:item_group_id>
+      
+      <g:title>Mushroom LED Light - Green</g:title>
+      <g:description>Bring a soft, atmospheric glow to any corner of the home with this charming little light. Its mushroom shape and coloured glass make it a lovely accent for living spaces, bedside tables or cosy reading nooks. Easy to place and simple to switch on, it adds gentle warmth without overpowering a room.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mushroom-led-light?variant=54780804268407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187838</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418550266</g:gtin>
+
+      <g:product_type>Home Decorations</g:product_type>
+
+      <g:color>Green</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>13 cm </g:product_length>
+      <g:product_width>13 cm </g:product_width>
+      <g:product_height>16 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX82124-PURPLE</g:id>
+      <g:item_group_id>14847547015543</g:item_group_id>
+      
+      <g:title>Mushroom LED Light - Purple</g:title>
+      <g:description>Bring a soft, atmospheric glow to any corner of the home with this charming little light. Its mushroom shape and coloured glass make it a lovely accent for living spaces, bedside tables or cosy reading nooks. Easy to place and simple to switch on, it adds gentle warmth without overpowering a room.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mushroom-led-light?variant=54780804301175</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Purple-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX82124-PURPLE</g:mpn>
+
+      <g:product_type>Home Decorations</g:product_type>
+
+      <g:color>Green</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>13 cm </g:product_length>
+      <g:product_width>13 cm </g:product_width>
+      <g:product_height>16 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX82124-ORANGE</g:id>
+      <g:item_group_id>14847547015543</g:item_group_id>
+      
+      <g:title>Mushroom LED Light - Orange</g:title>
+      <g:description>Bring a soft, atmospheric glow to any corner of the home with this charming little light. Its mushroom shape and coloured glass make it a lovely accent for living spaces, bedside tables or cosy reading nooks. Easy to place and simple to switch on, it adds gentle warmth without overpowering a room.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mushroom-led-light?variant=54780804333943</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX82124-Mushroom-LED-Light-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1732187839</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+      <g:sale_price>5.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX82124-ORANGE</g:mpn>
+
+      <g:product_type>Home Decorations</g:product_type>
+
+      <g:color>Green</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>13 cm </g:product_length>
+      <g:product_width>13 cm </g:product_width>
+      <g:product_height>16 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -50517,6 +51039,48 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CD76615</g:id>
+      <g:item_group_id>9521079386429</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>Pastel Bethlehem Scene Christmas Cards - Pack of 10</g:title>
+      <g:description>Highlighted by shimmering silver holographic foil, this Bethlehem scene combines the traditional spirit of Christmas with a contemporary design.Features:	Pastel Bethlehem Scene Christmas Cards,	Contains 10 cards and envelopes per pack,	Design exclusive to Cancer Research UK,	Inside greeting reads: With best wishes for Christmas and the New Year,	15 x 15cm, posts as Royal Mail letter,	High quality uncoated 250gsm FSC board with silver holo foil finish,	100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pastel-bethlehem-scene-christmas-cards-pack-10?variant=49004082069821</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD76615-Pastel-Bethlehem-Scene-Charity-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773228945</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238548277</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -54737,9 +55301,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80426</g:id>
       <g:item_group_id>9521125753149</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -55426,6 +55988,551 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
+      <g:id>SN83445ORANGE</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Small / Orange</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55596186567031</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238789</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>10 cm </g:product_length>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>7 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83445GOLD</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Small / Gold</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841122679</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238789</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>10 cm </g:product_length>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>7 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83445BROWN</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Small / Brown</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841155447</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238789</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>10 cm </g:product_length>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>7 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83445GREEN</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Small / Green</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841188215</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.09 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238789</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>10 cm </g:product_length>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>7 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83446ORANGE</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Medium / Orange</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55596186599799</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238796</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>15 cm </g:product_length>
+      <g:product_width>15 cm </g:product_width>
+      <g:product_height>12 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83446GOLD</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Medium / Gold</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841220983</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238796</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>15 cm </g:product_length>
+      <g:product_width>15 cm </g:product_width>
+      <g:product_height>12 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83446BROWN</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Medium / Brown</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841253751</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238796</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>15 cm </g:product_length>
+      <g:product_width>15 cm </g:product_width>
+      <g:product_height>12 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83446GREEN</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Medium / Green</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841286519</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238796</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>15 cm </g:product_length>
+      <g:product_width>15 cm </g:product_width>
+      <g:product_height>12 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83447ORANGE</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Large / Orange</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55596186632567</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238802</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>20 cm </g:product_length>
+      <g:product_width>20 cm </g:product_width>
+      <g:product_height>15 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83447GOLD</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Large / Gold</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841319287</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238802</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>20 cm </g:product_length>
+      <g:product_width>20 cm </g:product_width>
+      <g:product_height>15 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83447BROWN</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Large / Brown</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841352055</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238802</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>20 cm </g:product_length>
+      <g:product_width>20 cm </g:product_width>
+      <g:product_height>15 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN83447GREEN</g:id>
+      <g:item_group_id>15088089596279</g:item_group_id>
+      
+      <g:title>Pumpkin Decorations - Large / Green</g:title>
+      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841384823</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674238802</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Orange</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester cover with polystyrene inner</g:material>
+      <g:product_length>20 cm </g:product_length>
+      <g:product_width>20 cm </g:product_width>
+      <g:product_height>15 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>RC80501</g:id>
       <g:item_group_id>9522284790077</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -55521,7 +56628,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80505</g:id>
       <g:item_group_id>9521138434365</g:item_group_id>
       <g:google_product_category>3032</g:google_product_category>
@@ -61559,6 +62668,50 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CX76352</g:id>
+      <g:item_group_id>9521175888189</g:item_group_id>
+      <g:google_product_category>576</g:google_product_category>
+      <g:title>Regal Robin Guest Towel</g:title>
+      <g:description>Add a cheerful touch to your bathroom with this soft cotton towel, ideal for offering guests something fresh and festive. The embroidered robin design brings a playful pop of colour, making it a lovely accent on towel rails or stacked beside a sink. Made from absorbent 100% cotton, it’s practical for everyday hosting while still easy to care for.  Features:  Embroidered robin design , 100% cotton, Exclusive to Cancer Research UK ,   </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/regal-robin-guest-towel?variant=49004188729661</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76352-Regal-Robin-Guest-Towel-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773230150</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674222016</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Towel</g:product_type>
+      <g:color>red</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>60 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83730</g:id>
       <g:item_group_id>15087454028151</g:item_group_id>
       
@@ -65761,7 +66914,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-georgia-pocketed-t-shirt-bra?variant=49006114996541</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/GEORGIASKIN_1024x1024.jpg?v=1719236146</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -77182,6 +78335,50 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CX76353</g:id>
+      <g:item_group_id>9521225859389</g:item_group_id>
+      <g:google_product_category>576</g:google_product_category>
+      <g:title>Santa and Tree Guest Towel</g:title>
+      <g:description>Add a cheerful lift to your bathroom with this soft cotton towel, perfect for giving guests something fresh and festive to use. The embroidered Santa and tree motif adds a bright pop of colour, making it a charming accent on towel rails or neatly folded beside the sink. Features:  Embroidered design, 100% cotton, Exclusive to Cancer Research UK,   </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/santa-tree-guest-towel?variant=49004248138045</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76353-Santa-Tree-Guest-Towel-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773232346</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.09 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674222030</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>60 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83837PRESENT</g:id>
       <g:item_group_id>15087421784439</g:item_group_id>
       
@@ -82555,6 +83752,47 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CW81825FLAKE</g:id>
+      <g:item_group_id>14669535248759</g:item_group_id>
+      <g:google_product_category>2816</g:google_product_category>
+      <g:title>Silver Snowflake 4m Christmas Wrapping Paper</g:title>
+      <g:description>Add a splash of colour under the tree with this silver, red and white snowflake Christmas wrapping paper. Three co-ordinating wrapping paper designs, sold separately, are available, along with gift tags and accessories. 4m length, 69cm wide, and fully recyclable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/silver-snowflake-4m-christmas-wrapping-paper?variant=53472935543159</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81825FLAKE-Silver-Snowflake-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728662345</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213566049</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>WF30430</g:id>
       <g:item_group_id>9521282744637</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -83614,6 +84852,93 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CX81389</g:id>
+      <g:item_group_id>9659089879357</g:item_group_id>
+      
+      <g:title>Spaniel Dog Hot Water Bottle</g:title>
+      <g:description>Give yourself an easy way to stay warm and comfortable with this long‑lasting hot water bottle wrapped in a soft, festive cover. The illustrated spaniel cover design adds a charming winter touch, making it ideal for cosy evenings on the sofa or easing stomach aches when extra warmth helps. Simply fill with hot water for reliable heat that stays put.  Design exclusive to Cancer Research UK.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/spaniel-dog-hot-water-bottle?variant=49371924562237</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81389-Spaniel-and-robin-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773232557</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674233326</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Rubber/Polyester</g:material>
+      <g:product_width>20 cm </g:product_width>
+      <g:product_height>35 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR82249</g:id>
+      <g:item_group_id>14871629431159</g:item_group_id>
+      
+      <g:title>Sparky the Springer Walker Umbrella</g:title>
+      <g:description>Stay prepared for changeable weather with this everyday umbrella featuring a charming all‑over Springer Spaniel print. Its classic walker shape offers reliable coverage on daily commutes, dog walks or quick trips into town. Lightweight to carry and easy to open, it’s a practical choice for anyone who appreciates a touch of personality in their wet‑weather gear.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/sparky-the-springer-walker-umbrella?variant=54805053833591</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82249-Sparky-the-Springer-Walker-Umbrella-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773233767</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82249-Sparky-the-Springer-Walker-Umbrella-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773233807</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82249-Sparky-the-Springer-Walker-Umbrella-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773233838</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR82249</g:mpn>
+
+      <g:product_type>Umbrella</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>SN83442</g:id>
       <g:item_group_id>15095091036535</g:item_group_id>
       
@@ -84270,7 +85595,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-mens-thermal-socks?variant=55832080941431</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84275-SUTC-Mens-Thermal-Socks-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758723340</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -84296,6 +85621,50 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU81073</g:id>
+      <g:item_group_id>14738315870583</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer 3 Pack Men's Trainer Socks</g:title>
+      <g:description>Ideal for the gym, on a run or Standing Up To Cancer, these handy trainer socks look great. Features:  Stand Up To Cancer Men's Trainer Socks, 3 pairs of socks, One size, UK 6-11, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-3-pack-mens-trainer-socks?variant=53490924257655</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU81073-Mens-Trainer-Socks-3-pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773234833</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU81073</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+      <g:color>orange</g:color>
+      <g:size>4</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
@@ -86229,9 +87598,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR82851YELLOW</g:id>
       <g:item_group_id>9521331667261</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -86904,6 +88271,48 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CD80948</g:id>
+      <g:item_group_id>9611077845309</g:item_group_id>
+      
+      <g:title>Stunning Silhouette Trees 10 Christmas Cards</g:title>
+      <g:description>A simple contemporary design, these shimmering gold foil trees are adorned with bright red stars and baubles to send your festive greetings in charming style. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., High quality 250gsm FSC board with gold foil highlights ., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com. , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stunning-silhouette-trees-10-christmas-cards?variant=49262643347773</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80948-Stunning-Silhouette-Trees-Christmas-Card-Cancer-Research-UK-Online-Shop_aba37dc3-9ba7-4c4c-b72c-4431f18260f2_1024x1024.jpg?v=1734683020</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238554384</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD83933</g:id>
       <g:item_group_id>15062562996599</g:item_group_id>
       
@@ -87428,7 +88837,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521340973373</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
       <g:title>Sunflower Wedding Favour</g:title>
-      <g:description>Brighten up your day or keep someone's memory shining on with our cheerful sunflower pin badge.Symbolising loyalty and adoration, this sunflower pin features a gorgeous yellow flower design with brown centre and outlined in gold plate.Features:	    Sunflower Wedding Favour,	    2.5cm diameter, badge 0.1cm thick, approximately 1cm thick including pin,	    White backing card included,	    Butterfly clasp on back,	    Assembly required, </g:description>
+      <g:description>Brighten up your day or keep someone's memory shining on with our cheerful sunflower pin badge. Symbolising loyalty and adoration, this sunflower pin features a gorgeous yellow flower design with brown centre and outlined in gold plate. A lovely keepsake that lets your love story shine long after the celebrations end. Features:  Sunflower Wedding Favour, 2.5cm diameter, badge 0.1cm thick, approximately 1cm thick including pin, White backing card included, Butterfly clasp on back, Assembly required, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/sunflower-wedding-favour?variant=49004377997629</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF76997-Sunflower-Wedding-Favour-Pin-Badge-Cancer-Research-UK-Online-Shop-mb_71e89c7d-07bf-4e84-a7e3-cfc560fa6b0a_1024x1024.jpg?v=1724421645</g:image_link>
       <g:condition>new</g:condition>
@@ -87513,7 +88922,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
 
-<item>
+
+	
+    <item>
       <g:id>SU31667</g:id>
       <g:item_group_id>9520916693309</g:item_group_id>
       <g:google_product_category>670</g:google_product_category>
@@ -90973,6 +92384,48 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CD76634</g:id>
+      <g:item_group_id>9521372365117</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>Traditional London Christmas Cards - Pack of 10</g:title>
+      <g:description>Celebrate Christmas in the big City with this wintry London scene. Featuring some classic London landmarks and sights, including St Paul's Cathedral, the London Eye, and a classic red Routemaster bus. Features:  Traditional London Christmas Cards, Contains 10 cards and envelopes per pack, Inside greeting reads: With best wishes for Christmas and the New Year, 15 x 15cm, posts as Royal Mail letter, High quality coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/traditional-london-christmas-cards-pack-10?variant=49004412404029</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD76634-Traditional-London-Christmas-Charity-Christmas-Cards-Cancer-Research-UK-Online-Shop_1bafd0e4-2138-4a3c-8867-48b5352f0372_1024x1024.jpg?v=1719231688</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238548475</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83754</g:id>
       <g:item_group_id>15079892550007</g:item_group_id>
       
@@ -94417,7 +95870,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -96826,6 +98279,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -96866,6 +98320,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>3.25 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -99383,7 +100838,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD80952-CD81255-Wonderful-Snowman-Christmas-Card-Cancer-Research-UK-Online-Shop_b21e6147-6555-452f-809e-af6ef3b4be60_1024x1024.jpg?v=1734683018</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD81528-Traditional-Duo-Pack-6-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683018</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
       <g:sale_price>1.49 GBP</g:sale_price>
 
@@ -99508,7 +100963,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/wonderfully-vibrant-wreath-10-christmas-cards?variant=55486142120311</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83942-Wonderfully-Vibrant-Wreath-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185433</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
       <g:sale_price>3.25 GBP</g:sale_price>
 
