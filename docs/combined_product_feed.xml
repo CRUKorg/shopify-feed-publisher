@@ -40113,7 +40113,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>18.99 GBP</g:price>
       <g:sale_price>4.99 GBP</g:sale_price>
 
@@ -47512,7 +47512,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-fresh-cream-sensitive-deodorant?variant=49004033245501</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42341-MooGoo-Deodorant-Sensitive-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771429005</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -69622,7 +69622,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42350-Royce-Indie-Lilac-Bra-3-Front_1024x1024.jpg?v=1753351700</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42350-Royce-Indie-Lilac-Bra-4-Back_1024x1024.jpg?v=1753351700</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.33 GBP</g:price>
 
       <g:shipping>
@@ -80232,7 +80232,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candles</g:product_type>
 
-<g:size>M</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -80251,7 +80251,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32306-Serenity-Calm-Small-Candle-Bergamot-Lavender-Sandalwood-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719231247</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32306-Serenity-Calm-Small-Candle-Bergamot-Lavender-Sandalwood-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719403991</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -80274,7 +80274,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candles</g:product_type>
 
-<g:size>M</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -81477,6 +81477,48 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>LW32303</g:id>
+      <g:item_group_id>9521243455805</g:item_group_id>
+      <g:google_product_category>5847</g:google_product_category>
+      <g:title>Serenity Pause Set of 3 Reed Diffusers</g:title>
+      <g:description>Unwind with the luxurious scents of this diffuser set. Includes three diffusers in three fragrances - Revive (orange, jasmine, and saffron), Relax (rose, cardamom, and pink pepper), and Calm (bergamot, lavender, and sandalwood). Part of our Serenity collection - a range of self-care gifts designed to help you press pause on the stresses of everyday life. Features:  Set of 3 x 50ml diffusers, Soothing blue ombre colour jars with wooden lids, Luxury gift box, 5017224910645, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-pause-set-3-reed-diffusers?variant=49004267602237</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32303-Serenity-Pause-3-Diffusers-Cancer-Research-UK-Online-Shop_83478732-dfe5-40c5-bed8-953e84677805_1024x1024.jpg?v=1719231275</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>17.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW32303</g:mpn>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Home Fragrance</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW84312</g:id>
       <g:item_group_id>15072337396087</g:item_group_id>
       
@@ -81866,7 +81908,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32322-Serenity-Candle-Diffuser-Set-Orange-Jasmine-Cancer-Research-UK-Online-Shop_4cd9260a-7824-4adc-a0b9-dde6d72082d4_1024x1024.jpg?v=1719231286</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32322-Serenity-Candle-Diffuser-Set-Orange-Jasmine-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404535</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -85671,7 +85713,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82249-Sparky-the-Springer-Walker-Umbrella-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773233807</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82249-Sparky-the-Springer-Walker-Umbrella-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773233838</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -86259,9 +86301,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU84273</g:id>
       <g:item_group_id>15144655159671</g:item_group_id>
       
@@ -86304,7 +86344,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU84274</g:id>
       <g:item_group_id>15144570683767</g:item_group_id>
       
