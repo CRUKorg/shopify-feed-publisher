@@ -27213,6 +27213,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.00 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27258,6 +27259,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27302,6 +27304,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>1.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27344,6 +27347,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27386,6 +27390,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27430,6 +27435,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.00 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27472,6 +27478,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.00 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29705,6 +29712,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.00 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30770,7 +30778,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/football-pin-badge?variant=49003867767101</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Football-Pin-Badge-and-Backing-Card-Cancer-Research-UK-Online-Shop_4_8886d510-52f8-4035-b22b-a80838b9c049_1024x1024.jpg?v=1719229686</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.00 GBP</g:price>
 
       <g:shipping>
@@ -34056,6 +34064,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.00 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -45181,6 +45190,53 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85534</g:id>
+      <g:item_group_id>15393216102775</g:item_group_id>
+      
+      <g:title>Meg Hawkins Mini Candles Set of 3 - The Highlands</g:title>
+      <g:description>Add a warm, uplifting glow to your home with this set of three mini candles featuring beautifully illustrated countryside designs. Each candle is compact in size yet mighty in fragrance, crafted to fill your space with comforting, long-lasting scent. Set includes  Elderflower &amp; Pear Blossom Mini Candle, Apple Orchard Mini Candle, Rosehip &amp; Birchwood Mini Candle , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/meg-hawkins-mini-candles-set-of-3-the-highlands?variant=56773069439351</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85534-Meg-Hawkins-Mini-Candles-Set-The-Highlands-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771843792</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85534-Meg-Hawkins-Mini-Candles-Set-The-Highlands-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771843792</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85534-Meg-Hawkins-Mini-Candles-Set-The-Highlands-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771843807</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322116533</g:gtin>
+ 
+      <g:brand>Meg Hawkins</g:brand>
+      <g:product_type>Candles</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>glass</g:material>
+      <g:product_length>58 mm </g:product_length>
+      <g:product_width>176 mm </g:product_width>
+      <g:product_height>73 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85537</g:id>
       <g:item_group_id>15393215840631</g:item_group_id>
       
@@ -46190,6 +46246,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.00 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -47987,7 +48044,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42341-MooGoo-Deodorant-Sensitive-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405007</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42342-MooGoo-Lip-Balm-Cow-Lick-Group-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405007</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>42.99 GBP</g:price>
 
       <g:shipping>
@@ -53296,9 +53353,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_3>Own Brand</g:custom_label_3>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42349</g:id>
       <g:item_group_id>9521081418045</g:item_group_id>
       <g:google_product_category>4453</g:google_product_category>
@@ -53428,7 +53483,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_3>Own Brand</g:custom_label_3>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR83409</g:id>
       <g:item_group_id>15017168470391</g:item_group_id>
       
@@ -82938,6 +82995,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.00 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -86233,9 +86291,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX79774STAG</g:id>
       <g:item_group_id>15136713113975</g:item_group_id>
       
@@ -86277,7 +86333,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84021</g:id>
       <g:item_group_id>15090028839287</g:item_group_id>
       
