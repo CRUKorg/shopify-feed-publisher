@@ -5002,8 +5002,8 @@ PINEWOOD
       <g:id>CR82311</g:id>
       <g:item_group_id>15017107882359</g:item_group_id>
       
-      <g:title>Blenheim Planter - Off White / 30cm</g:title>
-      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in 3 colours: Grey, Off White and Aqua, Available in 2 Sizes: 30cm and 40cm , Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:title>Blenheim Planter with Tree Design - Off White / 30cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=55332629545335</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82311-BlenheimPotWhite-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
@@ -5044,13 +5044,13 @@ PINEWOOD
       <g:id>CR82312</g:id>
       <g:item_group_id>15017107882359</g:item_group_id>
       
-      <g:title>Blenheim Planter - Off White / 40cm</g:title>
-      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in 3 colours: Grey, Off White and Aqua, Available in 2 Sizes: 30cm and 40cm , Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:title>Blenheim Planter with Tree Design - Off White / 40cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=55332629578103</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82311-BlenheimPotWhite-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -5083,11 +5083,54 @@ PINEWOOD
     </item>
 	
     <item>
+      <g:id />
+      <g:item_group_id>15017107882359</g:item_group_id>
+      
+      <g:title>Blenheim Planter with Tree Design - Off White / 56cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=57071626125687</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82311-BlenheimPotWhite-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>24.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn />
+ 
+      <g:brand>Creekwood</g:brand>
+      <g:product_type>Pot</g:product_type>
+
+      <g:color>Off White</g:color>
+<g:size>30cm</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
       <g:id>CR80041</g:id>
       <g:item_group_id>15017107882359</g:item_group_id>
       
-      <g:title>Blenheim Planter - Grey / 30cm</g:title>
-      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in 3 colours: Grey, Off White and Aqua, Available in 2 Sizes: 30cm and 40cm , Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:title>Blenheim Planter with Tree Design - Grey / 30cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=55332629610871</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
@@ -5128,13 +5171,13 @@ PINEWOOD
       <g:id>CR80044</g:id>
       <g:item_group_id>15017107882359</g:item_group_id>
       
-      <g:title>Blenheim Planter - Grey / 40cm</g:title>
-      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in 3 colours: Grey, Off White and Aqua, Available in 2 Sizes: 30cm and 40cm , Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:title>Blenheim Planter with Tree Design - Grey / 40cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=55332629643639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -5167,13 +5210,56 @@ PINEWOOD
     </item>
 	
     <item>
-      <g:id>CR84718</g:id>
+      <g:id />
       <g:item_group_id>15017107882359</g:item_group_id>
       
-      <g:title>Blenheim Planter - Aqua / 30cm</g:title>
-      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in 3 colours: Grey, Off White and Aqua, Available in 2 Sizes: 30cm and 40cm , Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=55332629676407</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84718-BlenheimPotAqua-Cancer-Research-UK-Online-Shop_1024x1024.png?v=1750256756</g:image_link>
+      <g:title>Blenheim Planter with Tree Design - Grey / 56cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=57071626158455</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82311-BlenheimPotWhite-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>24.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn />
+ 
+      <g:brand>Creekwood</g:brand>
+      <g:product_type>Pot</g:product_type>
+
+      <g:color>Off White</g:color>
+<g:size>30cm</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR84787</g:id>
+      <g:item_group_id>15017107882359</g:item_group_id>
+      
+      <g:title>Blenheim Planter with Tree Design - Sea Green / 30cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=57071612035447</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Creekwood-Sea-Green-Planter-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778000643</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
@@ -5193,7 +5279,7 @@ PINEWOOD
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5060026435328</g:gtin>
+      <g:gtin>5061049473908</g:gtin>
  
       <g:brand>Creekwood</g:brand>
       <g:product_type>Pot</g:product_type>
@@ -5209,16 +5295,16 @@ PINEWOOD
     </item>
 	
     <item>
-      <g:id>CR84719</g:id>
+      <g:id>CR84791</g:id>
       <g:item_group_id>15017107882359</g:item_group_id>
       
-      <g:title>Blenheim Planter - Aqua / 40cm</g:title>
-      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in 3 colours: Grey, Off White and Aqua, Available in 2 Sizes: 30cm and 40cm , Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=55332629709175</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84718-BlenheimPotAqua-Cancer-Research-UK-Online-Shop_1024x1024.png?v=1750256756</g:image_link>
+      <g:title>Blenheim Planter with Tree Design - Sea Green / 40cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=57071612068215</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Creekwood-Sea-Green-Planter-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778000643</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -5235,7 +5321,49 @@ PINEWOOD
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5060026435335</g:gtin>
+      <g:gtin>5061049473915</g:gtin>
+ 
+      <g:brand>Creekwood</g:brand>
+      <g:product_type>Pot</g:product_type>
+
+      <g:color>Off White</g:color>
+<g:size>30cm</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR84795</g:id>
+      <g:item_group_id>15017107882359</g:item_group_id>
+      
+      <g:title>Blenheim Planter with Tree Design - Sea Green / 56cm</g:title>
+      <g:description>This Blenheim Planter from Creekwood is a great addition to any outdoor space.  Features:   Available in three colours and styles: Off White and Grey and Sea Green, Available in 2 Sizes: 30cm and 40cm, Sea Green available in size 56cm, Lightweight and durable, Featuring a tree design on the front,  *Plants not included </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/blenheim-pot?variant=57071626191223</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82311-BlenheimPotWhite-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>24.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5061049473922</g:gtin>
  
       <g:brand>Creekwood</g:brand>
       <g:product_type>Pot</g:product_type>
@@ -6796,7 +6924,7 @@ PINEWOOD
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-towel-bundle-green?variant=55398841647479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84800GREEN-Bowelbabe-Towel-Bundle-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1751899456</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>17.95 GBP</g:price>
 
       <g:shipping>
@@ -14472,7 +14600,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262738</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262739</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.99 GBP</g:price>
 
       <g:shipping>
@@ -21485,6 +21613,7 @@ Lining 100% Cotton</g:material>
       <g:description>Perfect for any party, including your special wedding day, these confetti wands offer a novel way of showering celebrants with beautiful petal confetti. The brown flower-topped wand is filled with the 'vintage daydream' mix of petals - a blend of pastel pink, grey and cream. They're an excellent addition to a children's birthday celebrations or a source of amusement for kids at your wedding. Features:  Contains 100ml (approximately 1 handful) of dried petals., Naturally biodegradable petals in a refillable and recyclable container. , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/confetti-wand?variant=49003769954621</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF79733-Confetti-Wand-Flower-Finish-2026-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777475303</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF79733-Confetti-Wand-2026-Wedding-Favour-Lifestyle-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645560</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.50 GBP</g:price>
@@ -27696,7 +27825,7 @@ Lining 100% Cotton</g:material>
       <g:description>Sprinkle the well wishes with more of a meaning on your big day with this Dried Wildflower Petal Confetti. Dye-free, these slow falling, naturally biodegradable, dried delphinium and wildflower petals are handpicked and hand packed on a farm in Shropshire, UK, and packaged in recyclable glassine. Whether you shower the happy couple with love, or sprinkle the tables for a finishing touch, your purchase will be funding life-saving research and your wedding day will be helping save many lives.  Sold singly., Dye-free., Naturally biodegradable petals., Outer packaging is made from glassine, and is recyclable., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/dried-wildflower-petal-confetti?variant=49003823268157</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30435-Petal-confetti-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1739802423</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30435-Petal-Confetti-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773149713</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30435-Petal-Confetti-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777994208</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.00 GBP</g:price>
@@ -73653,7 +73782,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -86968,7 +87097,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/spaniel-dog-hot-water-bottle?variant=49371924562237</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81389-Spaniel-and-robin-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773232557</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
