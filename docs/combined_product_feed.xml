@@ -3034,6 +3034,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
+      <g:sale_price>3.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -3117,6 +3118,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -3158,6 +3160,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -3199,6 +3202,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -3325,6 +3329,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -3366,6 +3371,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -3407,6 +3413,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -35816,6 +35823,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -52831,7 +52839,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15457011270007</g:item_group_id>
       
       <g:title>Pack of 12 12ml Watercolours</g:title>
-      <g:description>Soft colour and gentle brushwork can turn painting into a calming, everyday escape. This set of 12 watercolours is ideal for small creative projects or more detailed artworks. The compact 12ml tubes make experimenting easy without waste, and their portable size is perfect for painting at home or on the go.</g:description>
+      <g:description>Soft colour and gentle brushwork can turn painting into a calming, everyday escape. This set of 12 watercolours is ideal for small creative projects or more detailed artworks. The compact 12ml tubes make experimenting easy without waste, and their portable size is perfect for painting at home or on the go. Colours included White, Crimson Red, Magenta, Lime Green, Yellow, Navy Blue, Sky Blue, Orange, Black, Bright Red, Dark Green, and Violet.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/pack-of-12-watercolours?variant=57015309664631</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86281-12ml-Watercolours-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776697218</g:image_link>
       <g:condition>new</g:condition>
@@ -53160,6 +53168,50 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>CANVAS and FIR</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86289</g:id>
+      <g:item_group_id>15457011106167</g:item_group_id>
+      
+      <g:title>Pack of 6 Assorted Artist Brushes</g:title>
+      <g:description>Having a small selection of reliable brushes can make painting feel easier to start and more enjoyable to continue. This assorted brush set gives you a mix of shapes and sizes for different techniques, from broad strokes to finer details. Ideal for painting at home, creative classes or relaxed craft time. Features  4 brushes in sizes 2/4", 2 brushes in sizes 3/4", </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pack-of-6-assorted-artist-brushes?variant=57015309402487</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86289-6-Assorted-Artist-Brushes-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776697171</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418544999</g:gtin>
+ 
+      <g:brand>SiL Artist</g:brand>
+      <g:product_type>Brushes</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>80% WOODEN/10% BRISTLE and 10% STEEL</g:material>
+      <g:product_length>0.2 cm </g:product_length>
+      <g:product_height>24 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -53637,9 +53689,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83925</g:id>
       <g:item_group_id>15062550741367</g:item_group_id>
       
@@ -53679,7 +53729,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83926</g:id>
       <g:item_group_id>15062550380919</g:item_group_id>
       
@@ -86469,9 +86521,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF42065</g:id>
       <g:item_group_id>9521283072317</g:item_group_id>
       <g:google_product_category>180</g:google_product_category>
@@ -86513,7 +86563,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83736CHEF</g:id>
       <g:item_group_id>14781842063735</g:item_group_id>
       
@@ -87302,6 +87354,1616 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86240</g:id>
+      <g:item_group_id>15458028945783</g:item_group_id>
+      
+      <g:title>Soleil Boules Set</g:title>
+      <g:description>Some of the best summer moments happen outdoors with simple games everyone can enjoy. This boules set is perfect for lawn games, picnics and relaxed afternoons in the garden or park. Easy to pick up and fun for all ages, it’s a great way to bring people together for a bit of friendly competition.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-boules-set?variant=57019246641527</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86240-Soleil-Boules-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442473</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418696346</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Games</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% PE</g:material>
+      <g:product_length>195 mm </g:product_length>
+      <g:product_width>285 mm </g:product_width>
+      <g:product_height>72 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86256YELLOW</g:id>
+      <g:item_group_id>15458028487031</g:item_group_id>
+      
+      <g:title>Soleil Cabana Stripe Beach Bag - Yellow</g:title>
+      <g:description>These beach bags are the ultimate summer accessory, combining standout stripe style with a spacious inside. Designed with sturdy, boat‑inspired rope handles and bold stripes, they feel both fashionable and practical. Perfect for beach days, poolside lounging or seaside strolls, they’re a warm‑weather essential.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-cabana-stripe-beachbag?variant=57019420737911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86256-Cabana-Stripe-Beach-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442878</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418609513</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86256GREEN</g:id>
+      <g:item_group_id>15458028487031</g:item_group_id>
+      
+      <g:title>Soleil Cabana Stripe Beach Bag - Green</g:title>
+      <g:description>These beach bags are the ultimate summer accessory, combining standout stripe style with a spacious inside. Designed with sturdy, boat‑inspired rope handles and bold stripes, they feel both fashionable and practical. Perfect for beach days, poolside lounging or seaside strolls, they’re a warm‑weather essential.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-cabana-stripe-beachbag?variant=57058511225207</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86256-Cabana-Stripe-Beach-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442878</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418609513</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86244GREEN</g:id>
+      <g:item_group_id>15458028781943</g:item_group_id>
+      
+      <g:title>Soleil Cooler Bag - Green</g:title>
+      <g:description>Warm days out are always better when food and drinks stay cool. This cooler bag is a handy summer essential for picnics, beach trips and days on the go. Designed with zipped cooling compartments to help maintain freshness, it’s practical, easy to carry and simple to pack. Available in two beach-ready colours, it fits neatly into relaxed outdoor plans.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-cooler-bag?variant=57058502246775</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86244-23.5x35.5cm-Soleil-Cooler-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442531</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>13.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689362</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86244BLUE</g:id>
+      <g:item_group_id>15458028781943</g:item_group_id>
+      
+      <g:title>Soleil Cooler Bag - Blue</g:title>
+      <g:description>Warm days out are always better when food and drinks stay cool. This cooler bag is a handy summer essential for picnics, beach trips and days on the go. Designed with zipped cooling compartments to help maintain freshness, it’s practical, easy to carry and simple to pack. Available in two beach-ready colours, it fits neatly into relaxed outdoor plans.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-cooler-bag?variant=57058502279543</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86244-23.5x35.5cm-Soleil-Cooler-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442531</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>13.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689362</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86245BLUE</g:id>
+      <g:item_group_id>15458028814711</g:item_group_id>
+      
+      <g:title>Soleil Enamel Chopping Board - Blue</g:title>
+      <g:description>This wooden chopping board combines a natural wood finish with printed stripes at the handle, making it just as nice to leave out as it is to use. Ideal for light food prep, serving bread or snacks, or styling on an outdoor table, it fits easily into everyday cooking and summer entertaining.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/enamel-chopping-board?variant=57019338129783</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86245-50cm-Enamel-Chopping-Board-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442514</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>23.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689577</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Chopping Boards</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_height>50 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86245YELLOW</g:id>
+      <g:item_group_id>15458028814711</g:item_group_id>
+      
+      <g:title>Soleil Enamel Chopping Board - Yellow</g:title>
+      <g:description>This wooden chopping board combines a natural wood finish with printed stripes at the handle, making it just as nice to leave out as it is to use. Ideal for light food prep, serving bread or snacks, or styling on an outdoor table, it fits easily into everyday cooking and summer entertaining.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/enamel-chopping-board?variant=57019338162551</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86245-50cm-Enamel-Chopping-Board-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442514</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>23.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR86245YELLOW</g:mpn>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Chopping Boards</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_height>50 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86245GREEN</g:id>
+      <g:item_group_id>15458028814711</g:item_group_id>
+      
+      <g:title>Soleil Enamel Chopping Board - Green</g:title>
+      <g:description>This wooden chopping board combines a natural wood finish with printed stripes at the handle, making it just as nice to leave out as it is to use. Ideal for light food prep, serving bread or snacks, or styling on an outdoor table, it fits easily into everyday cooking and summer entertaining.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/enamel-chopping-board?variant=57019338195319</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86245-50cm-Enamel-Chopping-Board-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442514</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>23.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR86245GREEN</g:mpn>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Chopping Boards</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_height>50 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86249YELLOW</g:id>
+      <g:item_group_id>15458028618103</g:item_group_id>
+      
+      <g:title>Soleil Food Cover - Yellow</g:title>
+      <g:description>Outdoor hosting is more enjoyable when you don’t have to keep an eye on every plate. These striped food covers help protect meals from flies and other pests, so you can relax and enjoy the moment. Ideal for garden gatherings, picnics and summer tables, they simply lift on and off while keeping food visible and fresh.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-food-cover?variant=57019351728503</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86249-35cm-Soleil-Food-Cover-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442593</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR86249YELLOW</g:mpn>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Food Covers</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86249BLUE</g:id>
+      <g:item_group_id>15458028618103</g:item_group_id>
+      
+      <g:title>Soleil Food Cover - Blue</g:title>
+      <g:description>Outdoor hosting is more enjoyable when you don’t have to keep an eye on every plate. These striped food covers help protect meals from flies and other pests, so you can relax and enjoy the moment. Ideal for garden gatherings, picnics and summer tables, they simply lift on and off while keeping food visible and fresh.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-food-cover?variant=57019351662967</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86249-35cm-Soleil-Food-Cover-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442593</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689706</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Food Covers</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86249GREEN</g:id>
+      <g:item_group_id>15458028618103</g:item_group_id>
+      
+      <g:title>Soleil Food Cover - Green</g:title>
+      <g:description>Outdoor hosting is more enjoyable when you don’t have to keep an eye on every plate. These striped food covers help protect meals from flies and other pests, so you can relax and enjoy the moment. Ideal for garden gatherings, picnics and summer tables, they simply lift on and off while keeping food visible and fresh.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-food-cover?variant=57019351695735</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86249-35cm-Soleil-Food-Cover-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442593</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR86249GREEN</g:mpn>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Food Covers</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86242</g:id>
+      <g:item_group_id>15458028716407</g:item_group_id>
+      
+      <g:title>Soleil Handheld Fan</g:title>
+      <g:description>You don’t realise how useful a handheld fan is until you need one. Compact enough for desks and small spaces, this USB powered fan provides a refreshing breeze while you work, making warm afternoons at home or in the office more comfortable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-handheld-fan?variant=57019246379383</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86242-7.8x16cm-Soleil-Handheld-Fan-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442553</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418699576</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Fans</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>75% PP/20% COPPER &amp;amp; 5% IRON</g:material>
+      <g:product_length>68 mm </g:product_length>
+      <g:product_width>160 mm </g:product_width>
+      <g:product_height>78 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86255YELLOW</g:id>
+      <g:item_group_id>15458028454263</g:item_group_id>
+      
+      <g:title>Soleil Outdoor Cushion - Yellow</g:title>
+      <g:description>Made for relaxed outdoor living, this cushion adds a comfortable finishing touch to garden chairs, benches and patio seating. The vibrant striped design features fresh, sun‑washed colours with contrast piping and tie fastenings to help keep it in place. Easy to mix and match across outdoor spaces, it works just as well for alfresco dining as lazy afternoons in the garden.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-cushion?variant=57052257911159</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86255-45x45cm-Soleil-SC-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442697</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689133</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Cushions</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86255BLUE</g:id>
+      <g:item_group_id>15458028454263</g:item_group_id>
+      
+      <g:title>Soleil Outdoor Cushion - Blue</g:title>
+      <g:description>Made for relaxed outdoor living, this cushion adds a comfortable finishing touch to garden chairs, benches and patio seating. The vibrant striped design features fresh, sun‑washed colours with contrast piping and tie fastenings to help keep it in place. Easy to mix and match across outdoor spaces, it works just as well for alfresco dining as lazy afternoons in the garden.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-cushion?variant=57052257943927</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86255-45x45cm-Soleil-SC-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442697</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689133</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Cushions</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86255GREEN</g:id>
+      <g:item_group_id>15458028454263</g:item_group_id>
+      
+      <g:title>Soleil Outdoor Cushion - Green</g:title>
+      <g:description>Made for relaxed outdoor living, this cushion adds a comfortable finishing touch to garden chairs, benches and patio seating. The vibrant striped design features fresh, sun‑washed colours with contrast piping and tie fastenings to help keep it in place. Easy to mix and match across outdoor spaces, it works just as well for alfresco dining as lazy afternoons in the garden.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-cushion?variant=57052257976695</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86255-45x45cm-Soleil-SC-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442697</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689133</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Cushions</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86259YELLOW</g:id>
+      <g:item_group_id>15458028388727</g:item_group_id>
+      
+      <g:title>Soleil Outdoor Seat Pad - Yellow</g:title>
+      <g:description>Perfect for outdoor seating this summer, this lightly padded seat pad makes garden chairs, benches and picnic spots more comfortable. The vibrant striped design comes in fresh summer tones, finished with tie fastenings to help keep it securely in place. Easy to move and style, it works well for alfresco dining or relaxed afternoons outside.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-seat-pad?variant=57056618381687</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86259-40x40cm-Soleil-Seat-Pad-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442740</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689140</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Cushions</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86259GREEN</g:id>
+      <g:item_group_id>15458028388727</g:item_group_id>
+      
+      <g:title>Soleil Outdoor Seat Pad - Green</g:title>
+      <g:description>Perfect for outdoor seating this summer, this lightly padded seat pad makes garden chairs, benches and picnic spots more comfortable. The vibrant striped design comes in fresh summer tones, finished with tie fastenings to help keep it securely in place. Easy to move and style, it works well for alfresco dining or relaxed afternoons outside.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-seat-pad?variant=57056618414455</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86259-40x40cm-Soleil-Seat-Pad-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442740</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689140</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Cushions</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86259BLUE</g:id>
+      <g:item_group_id>15458028388727</g:item_group_id>
+      
+      <g:title>Soleil Outdoor Seat Pad - Blue</g:title>
+      <g:description>Perfect for outdoor seating this summer, this lightly padded seat pad makes garden chairs, benches and picnic spots more comfortable. The vibrant striped design comes in fresh summer tones, finished with tie fastenings to help keep it securely in place. Easy to move and style, it works well for alfresco dining or relaxed afternoons outside.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-seat-pad?variant=57056618447223</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86259-40x40cm-Soleil-Seat-Pad-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442740</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689140</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Cushions</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86250YELLOW</g:id>
+      <g:item_group_id>15458028650871</g:item_group_id>
+      
+      <g:title>Soleil Paper Fan - Yellow</g:title>
+      <g:description>Hot day? Outdoor event creeping into a heatwave? This paper hand fan is a simple, joyful way to keep cool. Lightweight and easy to flick open, it creates an instant breeze whenever you need it. When you’re done, it folds away neatly for easy storage in a bag or pocket.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-paper-fan?variant=57024570786167</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86250-38x25cm-Soleil-Paper-Fan-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442582</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689546</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Fans</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Bamboo</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86250BLUE</g:id>
+      <g:item_group_id>15458028650871</g:item_group_id>
+      
+      <g:title>Soleil Paper Fan - Blue</g:title>
+      <g:description>Hot day? Outdoor event creeping into a heatwave? This paper hand fan is a simple, joyful way to keep cool. Lightweight and easy to flick open, it creates an instant breeze whenever you need it. When you’re done, it folds away neatly for easy storage in a bag or pocket.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-paper-fan?variant=57024570818935</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86250-38x25cm-Soleil-Paper-Fan-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442582</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689546</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Fans</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Bamboo</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86250GREEN</g:id>
+      <g:item_group_id>15458028650871</g:item_group_id>
+      
+      <g:title>Soleil Paper Fan - Green</g:title>
+      <g:description>Hot day? Outdoor event creeping into a heatwave? This paper hand fan is a simple, joyful way to keep cool. Lightweight and easy to flick open, it creates an instant breeze whenever you need it. When you’re done, it folds away neatly for easy storage in a bag or pocket.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-paper-fan?variant=57024570851703</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86250-38x25cm-Soleil-Paper-Fan-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442582</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689546</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Fans</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Bamboo</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86243</g:id>
+      <g:item_group_id>15458028749175</g:item_group_id>
+      
+      <g:title>Soleil Pocket Fan</g:title>
+      <g:description>You don’t realise how useful a pocket fan is until you need one. Compact and easy to carry, this fan is ideal for warm days out, travel, commuting or keeping cool when the heat catches you by surprise. Small enough to slip into a bag or pocket, it’s a practical everyday item that helps you stay comfortable wherever you are.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-pocket-fan?variant=57019246412151</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86243-6x12.5cm-Soleil-Pocket-Fan-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442544</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418699583</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Hand Fans</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>50% ABS/24% PP/12% IRON/11% COPPER/1% ZINC &amp;amp; 2% NYLON</g:material>
+      <g:product_length>40 mm </g:product_length>
+      <g:product_width>60 mm </g:product_width>
+      <g:product_height>125 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86248BLUE</g:id>
+      <g:item_group_id>15458028683639</g:item_group_id>
+      
+      <g:title>Soleil Round Tin Tray - Blue</g:title>
+      <g:description>You don’t always realise how handy a small tray can be until it’s within reach. These tin trays are perfect for carrying drinks outside, serving snacks in the garden or keeping everyday bits neatly together at home. With cheerful stripes and a relaxed summer feel, they slip easily into outdoor tables, picnics or coffee breaks in the sun.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-round-tin-tray?variant=57019344847223</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86248-33.5cm-Soleil-Round-Tin-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442565</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418691747</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Tray</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86248YELLOW</g:id>
+      <g:item_group_id>15458028683639</g:item_group_id>
+      
+      <g:title>Soleil Round Tin Tray - Green</g:title>
+      <g:description>You don’t always realise how handy a small tray can be until it’s within reach. These tin trays are perfect for carrying drinks outside, serving snacks in the garden or keeping everyday bits neatly together at home. With cheerful stripes and a relaxed summer feel, they slip easily into outdoor tables, picnics or coffee breaks in the sun.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-round-tin-tray?variant=57019344912759</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86248-33.5cm-Soleil-Round-Tin-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442565</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418691747</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Tray</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86248GREEN</g:id>
+      <g:item_group_id>15458028683639</g:item_group_id>
+      
+      <g:title>Soleil Round Tin Tray - Yellow</g:title>
+      <g:description>You don’t always realise how handy a small tray can be until it’s within reach. These tin trays are perfect for carrying drinks outside, serving snacks in the garden or keeping everyday bits neatly together at home. With cheerful stripes and a relaxed summer feel, they slip easily into outdoor tables, picnics or coffee breaks in the sun.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-round-tin-tray?variant=57019344879991</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86248-33.5cm-Soleil-Round-Tin-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442565</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418691747</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Tray</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86246BLUE</g:id>
+      <g:item_group_id>15458028880247</g:item_group_id>
+      
+      <g:title>Soleil Stripe Jug Vase - Blue</g:title>
+      <g:description>Nothing says summer quite like cold water poured from a cheerful jug. With their bold stripes and breezy colours, these jugs bring a playful pop to garden tables, picnics and everyday meals outdoors. Perfect for serving refreshing water on warm days.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stripe-jug-vase?variant=57019327414647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86246-26cm-Soleil-Stripe-Jug-Vase-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442883</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86246-26cm-Soleil-Stripe-Jug-Vase-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442499</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418673774</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Jugs</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86246GREEN</g:id>
+      <g:item_group_id>15458028880247</g:item_group_id>
+      
+      <g:title>Soleil Stripe Jug Vase - Green</g:title>
+      <g:description>Nothing says summer quite like cold water poured from a cheerful jug. With their bold stripes and breezy colours, these jugs bring a playful pop to garden tables, picnics and everyday meals outdoors. Perfect for serving refreshing water on warm days.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stripe-jug-vase?variant=57019327447415</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86246-26cm-Soleil-Stripe-Jug-Vase-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442883</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86246-26cm-Soleil-Stripe-Jug-Vase-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442499</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418673774</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Jugs</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86246YELLOW</g:id>
+      <g:item_group_id>15458028880247</g:item_group_id>
+      
+      <g:title>Soleil Stripe Jug Vase - Yellow</g:title>
+      <g:description>Nothing says summer quite like cold water poured from a cheerful jug. With their bold stripes and breezy colours, these jugs bring a playful pop to garden tables, picnics and everyday meals outdoors. Perfect for serving refreshing water on warm days.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stripe-jug-vase?variant=57019327480183</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86246-26cm-Soleil-Stripe-Jug-Vase-Yellow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442883</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86246-26cm-Soleil-Stripe-Jug-Vase-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442499</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418673774</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Jugs</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86258GREEN</g:id>
+      <g:item_group_id>15458028323191</g:item_group_id>
+      
+      <g:title>Soleil Stripe Vase with Handles - Green</g:title>
+      <g:description>These gorgeous striped flower vases are perfect for holding summer blooms like fresh tulips or styling with faux stems all year round. Available in three stunning colours, it makes an eye‑catching addition to kitchen tables, shelves or display areas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-stripe-vase-with-handles?variant=57019397734775</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442769</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442769</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>15.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418668961</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Vases</g:product_type>
+
+      <g:color>Green</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86258YELLOW</g:id>
+      <g:item_group_id>15458028323191</g:item_group_id>
+      
+      <g:title>Soleil Stripe Vase with Handles - Yellow</g:title>
+      <g:description>These gorgeous striped flower vases are perfect for holding summer blooms like fresh tulips or styling with faux stems all year round. Available in three stunning colours, it makes an eye‑catching addition to kitchen tables, shelves or display areas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-stripe-vase-with-handles?variant=57019397767543</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Yellow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442769</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442769</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>15.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418668961</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Vases</g:product_type>
+
+      <g:color>Green</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86258BLUE</g:id>
+      <g:item_group_id>15458028323191</g:item_group_id>
+      
+      <g:title>Soleil Stripe Vase with Handles - Blue</g:title>
+      <g:description>These gorgeous striped flower vases are perfect for holding summer blooms like fresh tulips or styling with faux stems all year round. Available in three stunning colours, it makes an eye‑catching addition to kitchen tables, shelves or display areas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-stripe-vase-with-handles?variant=57019397702007</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442768</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442769</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>15.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418668961</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Vases</g:product_type>
+
+      <g:color>Green</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86241</g:id>
+      <g:item_group_id>15458028978551</g:item_group_id>
+      
+      <g:title>Soleil Table Fly Repeller</g:title>
+      <g:description>Eating outside is one of summer’s simple pleasures – flies, not so much. This tabletop fly repellent fan helps keep bugs away while you enjoy meals outdoors. Quiet yet effective, the soft rotating blades create a gentle deterrent without disrupting conversation. Compact and easy to place on a table, it’s ideal for picnics, barbecues and garden dining.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/table-fly-repeller?variant=57019246707063</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86241-26x9cm-White-Table-Fly-Repeller-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442459</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418699552</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Insect Repellent</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>97% PP/1% COPPER/1% IRON &amp;amp; 1% STEEL
+
+</g:material>
+      <g:product_length>95 mm </g:product_length>
+      <g:product_width>265 mm </g:product_width>
+      <g:product_height>95 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86251YELLOW</g:id>
+      <g:item_group_id>15458028519799</g:item_group_id>
+      
+      <g:title>Soleil Tin Mug - Yellow</g:title>
+      <g:description>Whether it’s a morning brew at the campsite or a drink by the firepit, this tin mug is made for easy outdoor living. Lightweight, durable and not too precious, it’s ideal for camping trips, festivals and summer adventures.  The cheerful striped design brings a beach‑club feel wherever you are.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-tin-mug?variant=57052230975863</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86251-Yellow-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387276</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86251-Tin-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387276</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689553</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Mugs</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86251BLUE</g:id>
+      <g:item_group_id>15458028519799</g:item_group_id>
+      
+      <g:title>Soleil Tin Mug - Blue</g:title>
+      <g:description>Whether it’s a morning brew at the campsite or a drink by the firepit, this tin mug is made for easy outdoor living. Lightweight, durable and not too precious, it’s ideal for camping trips, festivals and summer adventures.  The cheerful striped design brings a beach‑club feel wherever you are.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-tin-mug?variant=57052231008631</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86251-Soleil-Blue-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387276</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86251-Tin-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387276</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689553</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Mugs</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86251GREEN</g:id>
+      <g:item_group_id>15458028519799</g:item_group_id>
+      
+      <g:title>Soleil Tin Mug - Green</g:title>
+      <g:description>Whether it’s a morning brew at the campsite or a drink by the firepit, this tin mug is made for easy outdoor living. Lightweight, durable and not too precious, it’s ideal for camping trips, festivals and summer adventures.  The cheerful striped design brings a beach‑club feel wherever you are.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-tin-mug?variant=57052231041399</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86251-Soleil-Green-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387276</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86251-Tin-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387276</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689553</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Mugs</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86247BLUE</g:id>
+      <g:item_group_id>15458028913015</g:item_group_id>
+      
+      <g:title>Soleil Utensil Pot - Blue</g:title>
+      <g:description>A simple way to keep everyday kitchen tools close to hand, this ceramic utensil pot helps keep worktops tidy while adding a decorative touch. The vertical striped design brings a fresh, summery feel that works well in both modern and classic kitchens.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-utensil-pot?variant=57032559853943</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86247-Soleil-Blue-Utensil-Pot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387202</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86247-Soleil-Utensil-Pot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387202</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689928</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Kitchen Storage</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86247YELLOW</g:id>
+      <g:item_group_id>15458028913015</g:item_group_id>
+      
+      <g:title>Soleil Utensil Pot - Yellow</g:title>
+      <g:description>A simple way to keep everyday kitchen tools close to hand, this ceramic utensil pot helps keep worktops tidy while adding a decorative touch. The vertical striped design brings a fresh, summery feel that works well in both modern and classic kitchens.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-utensil-pot?variant=57032559821175</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86247-Soleil-Yellow-Utensil-Pot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387202</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86247-Soleil-Utensil-Pot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387202</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689928</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Kitchen Storage</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86247GREEN</g:id>
+      <g:item_group_id>15458028913015</g:item_group_id>
+      
+      <g:title>Soleil Utensil Pot - Green</g:title>
+      <g:description>A simple way to keep everyday kitchen tools close to hand, this ceramic utensil pot helps keep worktops tidy while adding a decorative touch. The vertical striped design brings a fresh, summery feel that works well in both modern and classic kitchens.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-utensil-pot?variant=57032559886711</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86247-Soleil-Green-Utensil-Pot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387202</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86247-Soleil-Utensil-Pot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777387202</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418689928</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Kitchen Storage</g:product_type>
+
+      <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
