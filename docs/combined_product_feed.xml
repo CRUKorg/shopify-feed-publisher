@@ -7188,48 +7188,6 @@ PINEWOOD
 
 	
     <item>
-      <g:id>BB84800GREEN</g:id>
-      <g:item_group_id>15036964864375</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Bathroom Towels Bundle - Mint Green</g:title>
-      <g:description>Add a touch of fresh colour to your bathroom with this set of mint green bath towels. This bundle includes 1 of each of a hand mitt, hand towel, bath towel and bath sheet. These towels are also available to purchase individually from the majority of Cancer Research UK shops and superstores.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-towel-bundle-green?variant=55398841647479</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84800GREEN-Bowelbabe-Towel-Bundle-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1751899456</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>17.95 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>BB84800GREEN</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bundle</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>BB84978</g:id>
       <g:item_group_id>15421205643639</g:item_group_id>
       
@@ -21353,7 +21311,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83860</g:id>
       <g:item_group_id>15078680297847</g:item_group_id>
       
@@ -21396,9 +21356,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83756</g:id>
       <g:item_group_id>15088792109431</g:item_group_id>
       
@@ -21611,51 +21569,6 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>CERAMIC / CORK BACKED</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83714</g:id>
-      <g:item_group_id>15089096393079</g:item_group_id>
-      
-      <g:title>Clover the Highland Cow Small Tray</g:title>
-      <g:description>Serve up festive cheer with this charming tray, ideal for carrying mince pies, nibbles, or small plates.  Featuring a Highland cow in a Father Christmas hat, it’s perfect for seasonal gatherings and just as handy year-round for moving pots of tea or mugs. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/clover-the-highland-cow-small-tray?variant=55599663415671</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83714-Clover-Highland-Cow-Small-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755190488</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83714-Clover-Highland-Cow-Small-Tray-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815476</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.69 GBP</g:price>
-      <g:sale_price>1.19 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123837149</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Tray</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>14 cm </g:product_width>
-      <g:product_height>20 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -36169,89 +36082,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CR80760</g:id>
-      <g:item_group_id>14950495093111</g:item_group_id>
-      
-      <g:title>Highland Cow Coasters - Green</g:title>
-      <g:description>Perfect for protecting your surfaces while adding a touch of country chic. A must-have for any animal lover and a great gift for any occasion! Available in green and white Co-ordinating items also available</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-coasters?variant=55095914135927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80760-Highland-Cow-Green-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743779425</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123807609</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coasters</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR80761</g:id>
-      <g:item_group_id>14950495093111</g:item_group_id>
-      
-      <g:title>Highland Cow Coasters - White</g:title>
-      <g:description>Perfect for protecting your surfaces while adding a touch of country chic. A must-have for any animal lover and a great gift for any occasion! Available in green and white Co-ordinating items also available</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-coasters?variant=55095914168695</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80761-Highland-Cow-White-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743779425</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123807616</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coasters</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR80768</g:id>
       <g:item_group_id>14952448262519</g:item_group_id>
       
@@ -36808,172 +36638,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR80762</g:id>
-      <g:item_group_id>14950502334839</g:item_group_id>
-      
-      <g:title>Highland Cow TeaBag Tidy - Green</g:title>
-      <g:description>Save your worktop from tea drips and stains with this handy teabag tidy. Available in green and white Co-ordinating items also available</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-teabag-tidy-1?variant=55095956013431</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80762-Highland-Cow-Green-Tea-Bagtidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743780247</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123807623</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Teabag Tidy</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR80763</g:id>
-      <g:item_group_id>14950502334839</g:item_group_id>
-      
-      <g:title>Highland Cow TeaBag Tidy - White</g:title>
-      <g:description>Save your worktop from tea drips and stains with this handy teabag tidy. Available in green and white Co-ordinating items also available</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-teabag-tidy-1?variant=55095956046199</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80763-Highland-Cow-White-Tea-Bagtidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743780247</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123807630</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Teabag Tidy</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR80764</g:id>
-      <g:item_group_id>14950503383415</g:item_group_id>
-      
-      <g:title>Highland Cow Tote Bag - Green</g:title>
-      <g:description>Carry your belongings in style with our Highland Cow Tote Bag. Available in green with white handles and white with green handles  Co-ordinating items also available</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tote-bag?variant=55095959028087</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80764-Highland-Cow-Green-Totebag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743780537</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123807647</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR80765</g:id>
-      <g:item_group_id>14950503383415</g:item_group_id>
-      
-      <g:title>Highland Cow Tote Bag - White</g:title>
-      <g:description>Carry your belongings in style with our Highland Cow Tote Bag. Available in green with white handles and white with green handles  Co-ordinating items also available</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tote-bag?variant=55095959060855</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80765-Highland-Cow-White-Totebag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743780537</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123807654</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -38613,7 +38277,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR80099</g:id>
       <g:item_group_id>14991994192247</g:item_group_id>
       
@@ -38833,9 +38499,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84541</g:id>
       <g:item_group_id>15089097245047</g:item_group_id>
       
@@ -47952,47 +47616,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>LW82396</g:id>
-      <g:item_group_id>9676787188029</g:item_group_id>
-      <g:google_product_category>2747</g:google_product_category>
-      <g:title>MooGoo Baby Tail Swat Body Roll-On</g:title>
-      <g:description>MooGoo Baby Range Tail Swat Outdoor Body Roll-On is a natural formula without synthetic ingredients.  Gentle enough for children and babies, and can be applied liberally all over, even to the face area, and reapplied as often as needed without worry. Suitable for all ages and skin types, including sensitive skin. Features:  MooGoo Baby Tail Swat Body Roll-On, 115ml, A lightweight outdoor face &amp; body cream that deters biting insects, Not an insect repellent, but changes your scent to something bugs don't like, Made using natural, healthy, moisturising ingredients like Soy Bean Oil, Suitable for all ages including children and newborns, Can be applied liberally anywhere on the body, including the face, Naturally preserved with Hops Extract – free of Parabens and Phenoxyethanol, Suitable for all skin types, including sensitive skin , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/moogoo-tail-swat-body-spray?variant=49421929283901</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82396-MooGoo-BabyTailSwatRollOn-115ml-Cancer-Reserach-UK-Online-Shop_1024x1024.jpg?v=1727361098</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>8.89 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9335955004997</g:gtin>
- 
-      <g:brand>MooGoo</g:brand>
-      <g:product_type>Baby Skincare</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Cancer Care</g:custom_label_0>
-      <g:custom_label_1>Cancer Care</g:custom_label_1>
-      <g:custom_label_2>Skincare</g:custom_label_2>
-      <g:custom_label_4>Cancer Care</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>LW82387</g:id>
       <g:item_group_id>9676278464829</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
@@ -53689,7 +53312,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83925</g:id>
       <g:item_group_id>15062550741367</g:item_group_id>
       
@@ -53987,9 +53612,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW84456</g:id>
       <g:item_group_id>9659100889405</g:item_group_id>
       
@@ -62633,7 +62256,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Race-for-Life-Pink-Trainers-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771499066</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Race-for-Life-Pink-Trainers-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771499082</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>19.99 GBP</g:price>
       <g:sale_price>8.99 GBP</g:sale_price>
 
@@ -86521,7 +86144,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF42065</g:id>
       <g:item_group_id>9521283072317</g:item_group_id>
       <g:google_product_category>180</g:google_product_category>
@@ -87060,9 +86685,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>GC32935</g:id>
       <g:item_group_id>9521285595453</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -88633,7 +88256,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442768</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442769</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>15.99 GBP</g:price>
 
       <g:shipping>
@@ -89112,7 +88735,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/spaniel-dog-hot-water-bottle?variant=49371924562237</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81389-Spaniel-and-robin-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773232557</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
