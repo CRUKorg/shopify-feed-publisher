@@ -910,51 +910,6 @@
 
 	
     <item>
-      <g:id>CX76441</g:id>
-      <g:item_group_id>15237082481015</g:item_group_id>
-      
-      <g:title>30cm Wooden Village Decoration</g:title>
-      <g:description>Create a cosy festive scene with this beautifully crafted wooden Christmas village decoration. From the frosted pine trees to the tiny picket fence, every detail is thoughtfully designed to create a warm, storybook winter scene.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/30cm-wooden-village-decoration?variant=56166791446903</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76441-30cm-Wooden-Village-AI-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1765470104</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76441-30cm-Wooden-Village-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1765470104</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>19.99 GBP</g:price>
-      <g:sale_price>9.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844352823</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Wood</g:material>
-      <g:product_height>30 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR86285</g:id>
       <g:item_group_id>15457011433847</g:item_group_id>
       
@@ -1736,6 +1691,47 @@ PINEWOOD
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR79583</g:id>
+      <g:item_group_id>14950306775415</g:item_group_id>
+      
+      <g:title>Alpine Design 2-Seater Bistro Garden Furniture Set</g:title>
+      <g:description>Perfect for a bite to eat on the balcony, or grabbing a cuppa in the garden, this two-seater bistro garden set makes a great contemporary addition to your outdoor space. Features:  2 single folding chairs and table, Chair: 90 x 37cm, Table: 71 x 60cm, Total weight: 28kg ,  Care instructions:  Wipe clean with a sponge and warm soapy water, then dry using a soft, clean cloth., Do not use scourers, abrasives or chemical cleaners., The furniture has been powder-coated to ensure durability, however we cannot guarantee that it will not corrode in time., In case the furniture is subjected to weathering, see some tips below:, Use furniture covers to protect the product when not in use, During bad weather and winter months, the product should be stored in a cool dry place, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/alpine-design-2-seater-bistro-garden-furniture-set?variant=55094190702967</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79583-Alpine-Bistro-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743761427</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>99.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR79583</g:mpn>
+
+      <g:product_type>Outdoor Furniture</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Furniture</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -7601,7 +7597,7 @@ PINEWOOD
       <g:gtin>5017414255839</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Umbrella</g:product_type>
+      <g:product_type>Umbrellas</g:product_type>
       <g:color>Purple</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -8854,7 +8850,7 @@ PINEWOOD
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-ladies-pink-leopard-print-trainer-socks?variant=56906704290167</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84992PINK-Pink-Bowelbabe-Fund-Trainer-socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776688235</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -32590,6 +32586,133 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR80196Taupe</g:id>
+      <g:item_group_id>9522401149245</g:item_group_id>
+      
+      <g:title>Geometric Taupe Design Outdoor Rug - S</g:title>
+      <g:description>Sometimes outdoor spaces need softening just as much as indoor ones. This stunning rug adds structure underfoot with a calm geometric pattern that brings style to patios, balconies and garden seating areas. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/geometric-taupe-design-outdoor-rug?variant=49006101791037</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80198-Taupe-Geometric-Outdoor-Rug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778661346</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR80196Taupe</g:mpn>
+
+      <g:product_type>Outdoor Rugs</g:product_type>
+
+<g:size>M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>150 cm </g:product_length>
+      <g:product_width>90 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR80197Taupe</g:id>
+      <g:item_group_id>9522401149245</g:item_group_id>
+      
+      <g:title>Geometric Taupe Design Outdoor Rug - M</g:title>
+      <g:description>Sometimes outdoor spaces need softening just as much as indoor ones. This stunning rug adds structure underfoot with a calm geometric pattern that brings style to patios, balconies and garden seating areas. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/geometric-taupe-design-outdoor-rug?variant=49006101823805</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80198-Taupe-Geometric-Outdoor-Rug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778661346</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR80197Taupe</g:mpn>
+
+      <g:product_type>Outdoor Rugs</g:product_type>
+
+<g:size>M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>180 cm </g:product_length>
+      <g:product_width>120 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR80198Taupe</g:id>
+      <g:item_group_id>9522401149245</g:item_group_id>
+      
+      <g:title>Geometric Taupe Design Outdoor Rug - L</g:title>
+      <g:description>Sometimes outdoor spaces need softening just as much as indoor ones. This stunning rug adds structure underfoot with a calm geometric pattern that brings style to patios, balconies and garden seating areas. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/geometric-taupe-design-outdoor-rug?variant=49006101856573</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80198-Taupe-Geometric-Outdoor-Rug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778661346</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>16.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR80198Taupe</g:mpn>
+
+      <g:product_type>Outdoor Rugs</g:product_type>
+
+<g:size>M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>200 cm </g:product_length>
+      <g:product_width>150 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW81785PUDDING</g:id>
       <g:item_group_id>14670532706679</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -38484,9 +38607,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80529</g:id>
       <g:item_group_id>15231392448887</g:item_group_id>
       
@@ -38527,7 +38648,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84538</g:id>
       <g:item_group_id>15089096950135</g:item_group_id>
       <g:google_product_category>673</g:google_product_category>
@@ -41553,6 +41676,47 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR79585</g:id>
+      <g:item_group_id>14950305694071</g:item_group_id>
+      
+      <g:title>Leaf Design 2-Seater Bistro Garden Furniture Set</g:title>
+      <g:description>Perfect for a bite to eat on the balcony, or grabbing a cuppa in the garden, this two-seater bistro garden set makes a great contemporary addition to your outdoor space. Features:  2 single folding chairs and table, Chair: 90 x 37cm, Table: 71 x 60cm, Total weight: 28kg ,  Care instructions:  Wipe clean with a sponge and warm soapy water, then dry using a soft, clean cloth., Do not use scourers, abrasives or chemical cleaners., The furniture has been powder-coated to ensure durability, however we cannot guarantee that it will not corrode in time., In case the furniture is subjected to weathering, see some tips below:, Use furniture covers to protect the product when not in use, During bad weather and winter months, the product should be stored in a cool dry place, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/leaf-design-2-seater-bistro-garden-furniture-set?variant=55094181593463</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79585-Leaf-Design-Bistro-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743761293</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>99.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR79585</g:mpn>
+
+      <g:product_type>Outdoor Furniture</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Furniture</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -45856,6 +46020,53 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85527</g:id>
+      <g:item_group_id>15393216528759</g:item_group_id>
+      
+      <g:title>Meg Hawkins Diffuser Sheep - Cashmere &amp; Wool</g:title>
+      <g:description>Bring a touch of countryside charm to your home with this beautifully scented reed diffuser, featuring a gorgeous watercolour sheep design. Its soft cotton and cashmere fragrance offers gentle aromatherapy benefits while working hard to combat bad odours, leaving your home fresh, and luxurious.  Features  Cashmere &amp; wool scented, Lasts 2-3 months, Elegant watercolour design, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/meg-hawkins-diffuser-sheep-cashmere-wool?variant=56773070520695</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85527-Meg-Hawkins-Sheep-Diffuser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771844890</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85527-Meg-Hawkins-Sheep-Diffuser-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771844889</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85527-Meg-Hawkins-Sheep-Diffuser-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771844890</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>16.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322116076</g:gtin>
+ 
+      <g:brand>Meg Hawkins</g:brand>
+      <g:product_type>Diffusers</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>glass</g:material>
+      <g:product_length>83 mm </g:product_length>
+      <g:product_width>224 mm </g:product_width>
+      <g:product_height>105 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85524</g:id>
       <g:item_group_id>15393216758135</g:item_group_id>
       
@@ -45945,6 +46156,54 @@ Lining 100% Cotton</g:material>
       <g:product_length>100 mm </g:product_length>
       <g:product_width>100 mm </g:product_width>
       <g:product_height>112 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85525</g:id>
+      <g:item_group_id>15393216594295</g:item_group_id>
+      
+      <g:title>Meg Hawkins Double Wick Candle 400g Sheep - Cashmere &amp; Wool</g:title>
+      <g:description>Perfect for creating a cosy, welcoming atmosphere, this candle fills your home with a fresh cashmere and wool fragrance that brings gentle comfort to any room. As it burns, the scent naturally neutralises unwanted odours, leaving your space soft, clean, and beautifully inviting. Perfect for moments of self‑indulgence, mindful relaxation, or gifting to those who appreciate calm and comfort. Features  Double wick, 50 hour burn time, Candle weighs 400g, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/meg-hawkins-2-wick-candle-400g-sheep-cashmere-wool?variant=56773070586231</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85525-Meg-Hawkins-400g-Sheep-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771951923</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85525-Meg-Hawkins-400g-Sheep-Candle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771951923</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85525-Meg-Hawkins-400g-Sheep-Candle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771951923</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322116601</g:gtin>
+ 
+      <g:brand>Meg Hawkins</g:brand>
+      <g:product_type>Candles</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Glass
+70% Soy Wax/30% Paraffin Wax</g:material>
+      <g:product_length>100 mm </g:product_length>
+      <g:product_width>100 mm </g:product_width>
+      <g:product_height>114 mm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -49983,7 +50242,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-spf15-natural-lip-balm?variant=49004052840765</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42343-MooGoo-Lip-Balm-SPF-15-5g-Group-2-Cancer-Research-UK-Online-Shop_772dea3b-afdb-4304-908b-452985baea5b_1024x1024.jpg?v=1719230361</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -53429,9 +53688,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW81783</g:id>
       <g:item_group_id>9659101053245</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -53644,7 +53901,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83307PEN</g:id>
       <g:item_group_id>15214025867639</g:item_group_id>
       <g:google_product_category>328</g:google_product_category>
@@ -63153,7 +63412,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>14944994689399</g:item_group_id>
       
       <g:title>Race For Life Pink Towel</g:title>
-      <g:description>Features:  Race for Life Pink Towel , Size: 70 x 140cm,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
+      <g:description>After a muddy challenge or a rain‑soaked run, having the right towel makes all the difference. This lightweight microfibre towel is designed to dry quickly and help brush off mud, water and sweat with ease. Features:  Race for Life Pink Towel , Size: 70 x 140cm,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/race-for-life-pink-towel?variant=55074258223479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC83020-Race-For-Life-Towel-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743502977</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC83020-Race-For-Life-Towel-V2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743502977</g:additional_image_link>
@@ -86262,9 +86521,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF30430</g:id>
       <g:item_group_id>9521282744637</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -86479,7 +86736,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85706</g:id>
       <g:item_group_id>15391333777783</g:item_group_id>
       
@@ -89332,6 +89591,49 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR82247</g:id>
+      <g:item_group_id>14871286415735</g:item_group_id>
+      
+      <g:title>Sparky the Springer Umbrella</g:title>
+      <g:description>Embrace every rainy day with the Sparky the Springer Umbrella. This umbrella not only keeps you dry, but also adds a touch of joy and playfulness to your everyday routine.  Co-ordinating items are also available.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/sparky-the-springer-umbrella?variant=54802875318647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82247SparkytheSpringerStandardUmbrella1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733415276</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82247SparkytheSpringerStandardUmbrella2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733415276</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82247SparkytheSpringerStandardUmbrella3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733415276</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR82247</g:mpn>
+
+      <g:product_type>Umbrellas</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -93316,6 +93618,46 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR79584</g:id>
+      <g:item_group_id>9521339498813</g:item_group_id>
+      <g:google_product_category>6367</g:google_product_category>
+      <g:title>Sunflower Design 2-Seater Bistro Garden Furniture Set</g:title>
+      <g:description>Perfect for a bite to eat on the balcony, or grabbing a cuppa in the garden, this two-seater bistro garden set makes a great contemporary addition to your outdoor space. Black metal framework with sunflower mosaic design. Features:  2 single folding chairs and table, Chair: 90 x 37cm, Table: 71 x 60cm, Total weight: 28kg,  Care instructions:  Wipe clean with a sponge and warm soapy water, then dry using a soft, clean cloth., Do not use scourers, abrashives or chemical cleaners., The furniture has been powder-coated to ensure durability, however we cannot guarantee that it will not corrode in time., In case the furniture is subjected to weathering, see some tips below:, Use furniture covers to protect the product when not in use, During bad weather and winter months, the product should be stored in a cool dry place, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/sunflower-design-2-seater-bistro-garden-furniture-set?variant=49004376457533</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79584-two-seater-metal-framework-bistro-set-sunflower-design_31507_36bd681b-0b20-4c93-8b9e-e12f019b1de9_1024x1024.jpg?v=1719231574</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>99.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5052460325280</g:gtin>
+
+      <g:product_type>Outdoor Furniture</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Furniture</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
