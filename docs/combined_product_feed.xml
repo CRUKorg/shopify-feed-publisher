@@ -159,7 +159,8 @@
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418515104</g:gtin>
-
+ 
+      <g:brand>SiL Artist</g:brand>
       <g:product_type>Art Sets</g:product_type>
 
       <g:size>0</g:size>
@@ -201,7 +202,8 @@
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418515104</g:gtin>
-
+ 
+      <g:brand>SiL Artist</g:brand>
       <g:product_type>Art Sets</g:product_type>
 
       <g:size>0</g:size>
@@ -243,7 +245,8 @@
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418515104</g:gtin>
-
+ 
+      <g:brand>SiL Artist</g:brand>
       <g:product_type>Art Sets</g:product_type>
 
       <g:size>0</g:size>
@@ -286,7 +289,8 @@
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418665526</g:gtin>
-
+ 
+      <g:brand>SiL Artist</g:brand>
       <g:product_type>Art Sets</g:product_type>
 
       <g:size>0</g:size>
@@ -328,7 +332,8 @@
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418665526</g:gtin>
-
+ 
+      <g:brand>SiL Artist</g:brand>
       <g:product_type>Art Sets</g:product_type>
 
       <g:size>0</g:size>
@@ -370,7 +375,8 @@
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418665526</g:gtin>
-
+ 
+      <g:brand>SiL Artist</g:brand>
       <g:product_type>Art Sets</g:product_type>
 
       <g:size>0</g:size>
@@ -412,7 +418,8 @@
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418665526</g:gtin>
-
+ 
+      <g:brand>SiL Artist</g:brand>
       <g:product_type>Art Sets</g:product_type>
 
       <g:size>0</g:size>
@@ -18427,51 +18434,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84375</g:id>
-      <g:item_group_id>15106160722295</g:item_group_id>
-      <g:google_product_category>5359</g:google_product_category>
-      <g:title>Christmas Card Advent Calendar</g:title>
-      <g:description>Countdown to Christmas with this charming card-style advent calendar. Behind each of the 24 numbered doors is a delightful seasonal illustration, making every day a joyful surprise.  With 24 draws to fill with your own festive treats, this advent calendar makes a fantastic option for those with preferred tastes.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-card-advent-calendar?variant=55673655656823</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84375-Cancer-Research-UK-Online-Shop_2_1024x1024.jpg?v=1757689906</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>5.99 GBP</g:price>
-      <g:sale_price>4.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128617133</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Advent Calendars</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>5 cm </g:product_length>
-      <g:product_width>27 cm </g:product_width>
-      <g:product_height>27 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX84376</g:id>
       <g:item_group_id>15128260510071</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
@@ -20429,48 +20391,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84626TREE</g:id>
-      <g:item_group_id>15101252141431</g:item_group_id>
-      
-      <g:title>Christmas Tree Cookie Cutters - 5 pack</g:title>
-      <g:description>Get into the Christmas spirit with this delightful pack of cookie cutters. Perfect for whipping up batches of cheerful cookies, this set brings joy to kitchens of all ages. Whether you're crafting treats for Santa or keeping little hands busy during the holidays, these cutters make baking fun, creative, and mess-free. </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-cookie-cutters-5-pack?variant=55649628356983</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84626Tree-Tree-Cookie-Cutters-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823185</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84626Tree-Tree-Cookie-Cutters-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823230</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418397137</g:gtin>
-
-      <g:product_type>Cookie Cutters</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% Polypropylene (PP)</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX84024</g:id>
       <g:item_group_id>15090028937591</g:item_group_id>
       
@@ -21352,7 +21272,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83756</g:id>
       <g:item_group_id>15088792109431</g:item_group_id>
       
@@ -21437,9 +21359,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83708</g:id>
       <g:item_group_id>15089095868791</g:item_group_id>
       
@@ -21742,6 +21662,46 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85065</g:id>
+      <g:item_group_id>15459932864887</g:item_group_id>
+      
+      <g:title>Coastal Striped Cooling Beach Bag</g:title>
+      <g:description>Keeping drinks cold while you’re out for the day makes beach trips and picnics far more enjoyable. This cooling bag is designed to help keep refreshments chilled, with a roomy interior that works well for days by the coast, park lunches or outdoor events. Finished with classic coastal stripes, it’s easy to picture alongside towels, deckchairs and summer plans. Features:  Decking rope inspired handles, Aluminium foil lined with foam insulation and a polyester outer, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/coastal-striped-cooling-beach-bag?variant=57024518652279</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85065-Coastal-Stripe-Beach-Bag-Cooler-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776675694</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247903</g:gtin>
+
+      <g:product_type>Coolbags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -27992,7 +27952,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9521294180669</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Donkey Long Hot Water Bottle</g:title>
-      <g:description>Snuggle up with this novelty Donkey Long Hot Water Bottle, designed to bring warmth, comfort, and a touch of fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Snuggle up with this novelty Donkey Long Hot Water Bottle, designed to bring warmth, comfort, and a touch of fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/donkey-long-hot-water-bottle?variant=49004326748477</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83791-Donkey-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755787073</g:image_link>
       <g:condition>new</g:condition>
@@ -29757,7 +29717,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14907866710391</g:item_group_id>
       
       <g:title>Explorer Foldable Handy Cart</g:title>
-      <g:description>Fantastic for festivals, brilliant on the beach: this foldable cart gives you extra carrying capacity whilst being easy to steer and store. The handle is adjustable to suit different body heights and provides easy steering no matter if you're pushing or pulling the cart. The extra-wide wheels handle a variety of terrains, including on the beach, with a wheel lock function to prevent the cart rolling away. And, when you're done, just fold it down for easy storage or transport in a car. No assembly required. Maximum load 100kg. </g:description>
+      <g:description>Perfect for busy gardens and outdoor jobs, this foldable cart takes the strain out of moving heavy items around your space. Whether you’re pulling bags of compost, plant pots, tools or logs, it gives you extra carrying capacity without the need to lift or carry. The adjustable handle makes it comfortable to pull for different heights, while the wide wheels roll smoothly over grass, gravel and uneven ground. When you’re finished, it folds down neatly for storage in a shed, garage or car boot – with no assembly required Maximum load 100kg.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/explorer-foldable-handy-cart?variant=54942526603639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81530-Foldable-Handy-Cart-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738855082</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81530-Foldable-Handy-Cart-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738855082</g:additional_image_link>
@@ -34667,6 +34627,130 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85067</g:id>
+      <g:item_group_id>15459939156343</g:item_group_id>
+      
+      <g:title>Green Bee Cooling Beach Bag</g:title>
+      <g:description>Keeping drinks cold while you’re out for the day makes beach trips and picnics far more enjoyable. This cooling bag is designed to help keep refreshments chilled, with a roomy interior that works well for days by the coast, park lunches or outdoor events. Finished with a sweet bee design, it’s easy to picture alongside towels, deckchairs and summer plans. Features:  Decking rope inspired handles, Aluminium foil lined with foam insulation and a polyester outer, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/green-bee-cooling-beach-bag?variant=57024540115319</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85067-Green-Bee-Beach-Bag-Cooler-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776675830</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247927</g:gtin>
+
+      <g:product_type>Coolbags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85057</g:id>
+      <g:item_group_id>15459980476791</g:item_group_id>
+      <g:google_product_category>5913</g:google_product_category>
+      <g:title>Green Bee Outdoor Seat Pads - Pack of 2</g:title>
+      <g:description>Add a welcome pop of floral colour and extra comfort to your garden or patio with these outdoor seat pads.  Designed to sit neatly on existing chairs, they’re an easy way to refresh outdoor furniture without replacing what you already have.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/green-bee-outdoor-seat-pads-pack-of-2?variant=57024717816183</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85057-Green-Bee-Outdoor-Seat-Pads-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776680208</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>13.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247828</g:gtin>
+
+      <g:product_type>Outdoor Furniture</g:product_type>
+      <g:color>green</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester with water resistant backing</g:material>
+      <g:product_length>38 cm </g:product_length>
+      <g:product_height>38 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85061</g:id>
+      <g:item_group_id>15459918283127</g:item_group_id>
+      <g:google_product_category>4143</g:google_product_category>
+      <g:title>Green Bee Outdoor Tablecloth</g:title>
+      <g:description>Make outdoor dining feel effortless with a table covering sized for gatherings of four to six. This sweet bee designed tablecloth brings a relaxed, British summertime feel to gardens, patios and get‑togethers. Features  132 x 178cm, suitable for a table seating 4-6 people , Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/outdoor-tablecloth-green-bee?variant=57024480805239</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85061-Green-Bee-Outdoor-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776674711</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247866</g:gtin>
+
+      <g:product_type>Tablecloth</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>PVC</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85063</g:id>
       <g:item_group_id>15459968582007</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -38519,9 +38603,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80092</g:id>
       <g:item_group_id>14988551487863</g:item_group_id>
       
@@ -38607,7 +38689,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR80529</g:id>
       <g:item_group_id>15231392448887</g:item_group_id>
       
@@ -49908,7 +49992,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>9521049960765</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
       <g:title>MooGoo Scalp Cream</g:title>
-      <g:description>Many people receiving cancer care notice changes in their skin, especially around the scalp, hairline, neck, ears, and eye areas. These areas can become red, dry, or itchy due to increased sensitivity. This cream is designed to provide calming moisture using naturally derived oils, helping to soothe skin that feels irritated or uncomfortable. Let MooGoo’s Scalp Cream support your skin while it works to return to a more comfortable, healthy-feeling state. Features:  For relief of dry skin around the scalp, ears, hairline, eyes and along the side of the nose, A lightweight moisturiser that's easily absorbed into skin, Made with natural oils like coconut and olive oil, Soothing ingredients include aloe vera and allantoin, </g:description>
+      <g:description>Many people receiving cancer care notice changes in their skin, especially around the scalp, hairline, neck, ears, and eye areas. These areas can become red, dry, or itchy due to increased sensitivity. This cream is designed to provide calming moisture using naturally derived oils, helping to soothe skin that feels irritated or uncomfortable. Features:  For relief of dry skin around the scalp, ears, hairline, eyes and along the side of the nose, A lightweight moisturiser that's easily absorbed into skin, Made with natural oils like coconut and olive oil, Soothing ingredients include aloe vera and allantoin, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-scalp-cream?variant=49004047204669</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42329-MooGoo-Scalp-Cream-120g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770283970</g:image_link>
       <g:condition>new</g:condition>
@@ -53497,7 +53581,8 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418589921</g:gtin>
-
+ 
+      <g:brand>SiL Artist</g:brand>
       <g:product_type>Art Sets</g:product_type>
 
       <g:size>0</g:size>
@@ -53603,9 +53688,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD76615</g:id>
       <g:item_group_id>9521079386429</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -53688,7 +53771,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW81783</g:id>
       <g:item_group_id>9659101053245</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -57977,7 +58062,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80414-Race-for-Life-Pretty-Muddy-Ladies-Pink-Ombre-Vest-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404803</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80414-Race-for-Life-Pretty-Muddy-Ladies-Pink-Ombre-Vest-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>11.00 GBP</g:price>
 
       <g:shipping>
@@ -62860,7 +62945,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80381-Race-for-Life-Mens-T-Shirt-Blue-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404727</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80381-Race-for-Life-Mens-Blue-T-Shirt-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404727</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>12.00 GBP</g:price>
 
       <g:shipping>
@@ -86267,7 +86352,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521280254269</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
       <g:title>Silver Feather Pin Badge</g:title>
-      <g:description>The delicate feather features an embossed and detailed outline design with a butterfly pinch clasp to finish. Find a pin to reflect your own taste and personality within our pin badge collection. Features:	8x23mm,	Butterfly pinch clasp,	Backing card included,	Assembly required,	The poly bags used are made from Polypropylene material which is recycled	 , </g:description>
+      <g:description>This delicate feather pin makes a charming wedding favour your guests can treasure long after the day itself. Featuring an embossed outline design and finished with a secure butterfly clasp, it’s a small yet meaningful keepsake to thank friends and family for sharing in your celebration. Features:  8x23mm, Butterfly pinch clasp, Backing card included, Assembly required, The poly bags used are made from Polypropylene material which is recycled , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/silver-feather-pin-badge?variant=49004310200637</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF42059-Silver-Feather-2026-Wedding-Favour-Pin-Badge-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777475747</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF42059-Silver-Feather-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645562</g:additional_image_link>
@@ -86439,9 +86524,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX76920</g:id>
       <g:item_group_id>9521282023741</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
@@ -86521,12 +86604,14 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF30430</g:id>
       <g:item_group_id>9521282744637</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
       <g:title>Silver Star of David Pin Badge</g:title>
-      <g:description>Designed to honour the symbol commonly associated with Judaism and the Jewish People, personalise your day with this Star of David keepsake, as it's the little things that always mean more. Features:	Backing card included,	Butterfly pinch clasp,	Assembly required,	The poly bags used are made from Polypropylene material which is recycled,  </g:description>
+      <g:description>Designed to honour a cherished symbol of Judaism, this Star of David keepsake makes a meaningful wedding favour for Jewish celebrations. Thoughtfully chosen to mark your special day, it offers guests a lasting reminder of your union, faith and shared traditions. Perfect for placing at each table setting or gifting as a small token of thanks, it’s a beautiful example of how the smallest details can carry the deepest significance. Features:  Backing card included, Butterfly pinch clasp, Assembly required, The poly bags used are made from Polypropylene material which is recycled,  </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/silver-star-david-pin-badge?variant=49004314591549</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30430-Star-of-David-2026-Wedding-Favour-Pin-Badge-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777475773</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30430-Silver-Star-of-David-2026-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645560</g:additional_image_link>
@@ -93666,11 +93751,12 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521340154173</g:item_group_id>
       <g:google_product_category>543562</g:google_product_category>
       <g:title>Sunflower Matchstick Seedsticks</g:title>
-      <g:description>Let memories of your special day grow with these easy to plant sunflower seed Seedsticks. Each matchbook-style pack contains 5 cardboard sticks, and each stick has sunflower seeds embedded in it, ready to burst into colour. Sunflowers traditionally represent happiness, friendship, unwavering faith, and unconditional love - making them perfect as a thoughtful wedding favour for your guests, a creative way to celebrate any celebration, and a great addition to any greetings card. Features:  1 pack of 5 sunflower Seedsticks, Plastic-free; made from 100% recycled cardboard, Made in Britain, Book size approximately: 4 x 5 x 0.5cm (closed), 4 x 9 x 0.5cm (open).Each stick measures approximately 3.5 x 0.5cm., </g:description>
+      <g:description>Let your wedding day be remembered long after the last dance with these easy‑to‑plant sunflower seedsticks – a thoughtful favour your guests can take home and grow. Each matchbook‑style pack contains five cardboard sticks, embedded with sunflower seeds that bloom into bright, joyful flowers.  Symbolising happiness, friendship, unwavering faith and unconditional love, they’re a meaningful way to thank your guests and celebrate the start of your life together, while leaving them with a living reminder of your special day. Features:  1 pack of 5 sunflower Seedsticks, Plastic-free; made from 100% recycled cardboard, Made in Britain, Book size approximately: 4 x 5 x 0.5cm (closed), 4 x 9 x 0.5cm (open).Each stick measures approximately 3.5 x 0.5cm., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/sunflower-matchstick-seedsticks?variant=49004377178429</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF73933-Sunflower-Seedsticks-3-Cancer-Research-UK-Online-Shop_640acd0f-3a72-4611-8749-f69c710bafef_1024x1024.jpg?v=1719231576</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF73933-Sunflower-Seedsticks-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404352</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF73933-Sunflower-Seedsticks-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404352</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF73933-Sunflower-Seedsticks-2026-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645562</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.00 GBP</g:price>
@@ -100046,7 +100132,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521378165053</g:item_group_id>
       <g:google_product_category>214</g:google_product_category>
       <g:title>Trulife Barbara Everyday Pocketed Softcup Bra in White - 32A / White / VAT Exempt</g:title>
-      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides,   </g:description>
+      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-barbara-everyday-pocketed-softcup-bra-white?variant=55489056047479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-FRONT_5d80ce8c-a099-4207-997e-7fe22cdfeac9_1024x1024.jpg?v=1753433233</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-BACK_1024x1024.jpg?v=1753433233</g:additional_image_link>
@@ -100090,7 +100176,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521378165053</g:item_group_id>
       <g:google_product_category>214</g:google_product_category>
       <g:title>Trulife Barbara Everyday Pocketed Softcup Bra in White - 32B / White / VAT Exempt</g:title>
-      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides,   </g:description>
+      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-barbara-everyday-pocketed-softcup-bra-white?variant=55489056080247</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-FRONT_5d80ce8c-a099-4207-997e-7fe22cdfeac9_1024x1024.jpg?v=1753433233</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-BACK_1024x1024.jpg?v=1753433233</g:additional_image_link>
@@ -100134,7 +100220,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521378165053</g:item_group_id>
       <g:google_product_category>214</g:google_product_category>
       <g:title>Trulife Barbara Everyday Pocketed Softcup Bra in White - 34C / White / VAT Exempt</g:title>
-      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides,   </g:description>
+      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-barbara-everyday-pocketed-softcup-bra-white?variant=55489056113015</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-FRONT_5d80ce8c-a099-4207-997e-7fe22cdfeac9_1024x1024.jpg?v=1753433233</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-BACK_1024x1024.jpg?v=1753433233</g:additional_image_link>
@@ -100178,7 +100264,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521378165053</g:item_group_id>
       <g:google_product_category>214</g:google_product_category>
       <g:title>Trulife Barbara Everyday Pocketed Softcup Bra in White - 34DD / White / VAT Exempt</g:title>
-      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides,   </g:description>
+      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-barbara-everyday-pocketed-softcup-bra-white?variant=55489056145783</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-FRONT_5d80ce8c-a099-4207-997e-7fe22cdfeac9_1024x1024.jpg?v=1753433233</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-BACK_1024x1024.jpg?v=1753433233</g:additional_image_link>
@@ -100222,7 +100308,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521378165053</g:item_group_id>
       <g:google_product_category>214</g:google_product_category>
       <g:title>Trulife Barbara Everyday Pocketed Softcup Bra in White - 34DD/E / White / VAT Exempt</g:title>
-      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides,   </g:description>
+      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-barbara-everyday-pocketed-softcup-bra-white?variant=55489056178551</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-FRONT_5d80ce8c-a099-4207-997e-7fe22cdfeac9_1024x1024.jpg?v=1753433233</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-BACK_1024x1024.jpg?v=1753433233</g:additional_image_link>
@@ -100266,7 +100352,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521378165053</g:item_group_id>
       <g:google_product_category>214</g:google_product_category>
       <g:title>Trulife Barbara Everyday Pocketed Softcup Bra in White - 36D / White / VAT Exempt</g:title>
-      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides,   </g:description>
+      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-barbara-everyday-pocketed-softcup-bra-white?variant=55489056211319</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-FRONT_5d80ce8c-a099-4207-997e-7fe22cdfeac9_1024x1024.jpg?v=1753433233</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-BACK_1024x1024.jpg?v=1753433233</g:additional_image_link>
@@ -100310,7 +100396,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521378165053</g:item_group_id>
       <g:google_product_category>214</g:google_product_category>
       <g:title>Trulife Barbara Everyday Pocketed Softcup Bra in White - 36DD / White / VAT Exempt</g:title>
-      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides,   </g:description>
+      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-barbara-everyday-pocketed-softcup-bra-white?variant=55489056244087</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-FRONT_5d80ce8c-a099-4207-997e-7fe22cdfeac9_1024x1024.jpg?v=1753433233</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-BACK_1024x1024.jpg?v=1753433233</g:additional_image_link>
@@ -100354,7 +100440,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521378165053</g:item_group_id>
       <g:google_product_category>214</g:google_product_category>
       <g:title>Trulife Barbara Everyday Pocketed Softcup Bra in White - 50D / White / VAT Exempt</g:title>
-      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides,   </g:description>
+      <g:description>This Barbara everyday pocketed softcup bra in white by Trulife is a medium support bra, perfect for everyday use.Designed to enhance confidence, all-day comfort and support, this bra has a versatile fit. It includes adjustable, elastic back straps and back closure. A wide under bust band provides optimum support. Pockets provide extra coolness and comfort, made with breathable moisture-wicking COOLMAX® material.The lace overlay accentuates the tailored style, and includes a satin ribbon bow in the middle. A pretty lace trim at the neckline comes in a complimentary mix of colours.Features:  75% nylon 25% elastane, Medium support, Rear adjustable straps, Breathable CoolMax pockets both sides, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-barbara-everyday-pocketed-softcup-bra-white?variant=55489056276855</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-FRONT_5d80ce8c-a099-4207-997e-7fe22cdfeac9_1024x1024.jpg?v=1753433233</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40412-BARBARA-BACK_1024x1024.jpg?v=1753433233</g:additional_image_link>
