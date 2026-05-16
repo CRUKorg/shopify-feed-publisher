@@ -828,51 +828,6 @@
 
 	
     <item>
-      <g:id>CX76442</g:id>
-      <g:item_group_id>15236971069815</g:item_group_id>
-      
-      <g:title>25cm Wooden Village Decoration</g:title>
-      <g:description>Bring the magic of a winter wonderland into your home with this charming wooden Christmas village. Featuring three snow-topped houses, frosted trees, and graceful reindeer, this beautifully crafted piece adds a cosy, festive touch to any mantel, shelf, or centrepiece.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/25cm-wooden-village-decoration?variant=56166510231927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76442-25cm-Wooden-Village-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762950234</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76442-25cm-Wooden-Village-AI-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1765879036</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>14.99 GBP</g:price>
-      <g:sale_price>7.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844352984</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Wood</g:material>
-      <g:product_height>25 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR86279</g:id>
       <g:item_group_id>15457011761527</g:item_group_id>
       
@@ -1706,7 +1661,7 @@ PINEWOOD
       <g:item_group_id>14950306775415</g:item_group_id>
       
       <g:title>Alpine Design 2-Seater Bistro Garden Furniture Set</g:title>
-      <g:description>Perfect for a bite to eat on the balcony, or grabbing a cuppa in the garden, this two-seater bistro garden set makes a great contemporary addition to your outdoor space. Features:  2 single folding chairs and table, Chair: 90 x 37cm, Table: 71 x 60cm, Total weight: 28kg ,  Care instructions:  Wipe clean with a sponge and warm soapy water, then dry using a soft, clean cloth., Do not use scourers, abrasives or chemical cleaners., The furniture has been powder-coated to ensure durability, however we cannot guarantee that it will not corrode in time., In case the furniture is subjected to weathering, see some tips below:, Use furniture covers to protect the product when not in use, During bad weather and winter months, the product should be stored in a cool dry place, </g:description>
+      <g:description>Perfect for a bite to eat on the balcony, or grabbing a cuppa in the garden, this two-seater bistro garden set makes a great contemporary addition to your outdoor space. Features:  2 single folding chairs and table, Chair: 90 x 37cm, Table: 71 x 60cm ,  Care instructions:  Wipe clean with a sponge and warm soapy water, then dry using a soft, clean cloth., Do not use scourers, abrasives or chemical cleaners., The furniture has been powder-coated to ensure durability, however we cannot guarantee that it will not corrode in time., In case the furniture is subjected to weathering, see some tips below:, Use furniture covers to protect the product when not in use, During bad weather and winter months, the product should be stored in a cool dry place, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/alpine-design-2-seater-bistro-garden-furniture-set?variant=55094190702967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79583-Alpine-Bistro-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743761427</g:image_link>
       <g:condition>new</g:condition>
@@ -1732,9 +1687,10 @@ PINEWOOD
 
       <g:product_type>Outdoor Furniture</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Furniture</g:custom_label_2>
@@ -2806,7 +2762,7 @@ PINEWOOD
       <g:gtin>5034123830836</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:color>Dark Blue</g:color>
       <g:size>0</g:size>
@@ -2847,7 +2803,7 @@ PINEWOOD
       <g:gtin>5034123830829</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:color>Dark Blue</g:color>
       <g:size>0</g:size>
@@ -3140,7 +3096,7 @@ PINEWOOD
       <g:gtin>5034123830928</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:color>Pollen Yellow</g:color>
       <g:size>0</g:size>
@@ -3182,7 +3138,7 @@ PINEWOOD
       <g:gtin>5034123830904</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:color>Pollen Yellow</g:color>
       <g:size>0</g:size>
@@ -3224,7 +3180,7 @@ PINEWOOD
       <g:gtin>5034123830911</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:color>Pollen Yellow</g:color>
       <g:size>0</g:size>
@@ -3351,7 +3307,7 @@ PINEWOOD
       <g:gtin>5034123830874</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
@@ -3393,7 +3349,7 @@ PINEWOOD
       <g:gtin>5034123830881</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
@@ -3435,7 +3391,7 @@ PINEWOOD
       <g:gtin>5034123830898</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
@@ -4305,7 +4261,7 @@ PINEWOOD
       <g:gtin>5034123845434</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
       <g:color>Sand</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -4347,7 +4303,7 @@ PINEWOOD
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -4387,7 +4343,7 @@ PINEWOOD
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -4427,7 +4383,7 @@ PINEWOOD
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -4558,7 +4514,7 @@ PINEWOOD
       <g:gtin>5034123845458</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
+      <g:product_type>Bags</g:product_type>
 
       <g:size>4</g:size>
       <g:size_type>regular</g:size_type>
@@ -7647,7 +7603,7 @@ PINEWOOD
       <g:gtin>5034123806114</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Travel Cup</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -7734,7 +7690,7 @@ PINEWOOD
       <g:gtin>5034123806121</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Travel Cup</g:product_type>
 
       <g:color>Purple</g:color>
       <g:size>0</g:size>
@@ -7778,7 +7734,7 @@ PINEWOOD
       <g:mpn>CR80613</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Travel Cup</g:product_type>
 
       <g:color>Purple</g:color>
       <g:size>0</g:size>
@@ -7822,7 +7778,7 @@ PINEWOOD
       <g:mpn>CR80614</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Travel Cup</g:product_type>
 
       <g:color>Purple</g:color>
       <g:size>0</g:size>
@@ -8002,7 +7958,7 @@ PINEWOOD
       <g:mpn>CR79751</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Art</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -8048,7 +8004,7 @@ PINEWOOD
       <g:mpn>CR79749</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Art</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -8094,7 +8050,7 @@ PINEWOOD
       <g:mpn>CR79747</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Art</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -8141,7 +8097,7 @@ PINEWOOD
       <g:mpn>CR79750</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Art</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
@@ -8187,7 +8143,7 @@ PINEWOOD
       <g:mpn>CR79748</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Art</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
@@ -8233,7 +8189,7 @@ PINEWOOD
       <g:mpn>CR79746</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Art</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
@@ -10177,7 +10133,7 @@ PINEWOOD
       <g:gtin>5034123766463</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -20164,7 +20120,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418634591</g:gtin>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -20205,7 +20161,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418634591</g:gtin>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -21036,7 +20992,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123836883</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -21359,7 +21315,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83708</g:id>
       <g:item_group_id>15089095868791</g:item_group_id>
       
@@ -21402,9 +21360,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83705</g:id>
       <g:item_group_id>15089095672183</g:item_group_id>
       
@@ -21949,47 +21905,6 @@ Lining 100% Cotton</g:material>
       <g:mpn>CR82513</g:mpn>
 
       <g:product_type>Tea Towel</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR82246</g:id>
-      <g:item_group_id>14873790447991</g:item_group_id>
-      
-      <g:title>Cooper the Cockapoo Plaque</g:title>
-      <g:description>Add a touch of charm to your home with Cooper the Cockapoo Plaque It reads "A Cockapoo makes a House A Home" Co-ordinating items also available.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/cooper-the-cockapoo-plaque?variant=54814616420727</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82246-CoopertheCockapooPlaque-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1733999307</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CR82246</g:mpn>
-
-      <g:product_type>Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -26359,7 +26274,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241987</g:gtin>
 
-      <g:product_type>Cushion</g:product_type>
+      <g:product_type>Cushions</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -26847,7 +26762,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123836906</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -27642,49 +27557,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX76927</g:id>
-      <g:item_group_id>9520825303357</g:item_group_id>
-      <g:google_product_category>5974</g:google_product_category>
-      <g:title>Disney Princess Musical Jewellery Box - Ariel</g:title>
-      <g:description>Store all your shiny things, gadgets, gizmos, whosits and whatsits in a manner fit for a Disney Princess with this Little Mermaid Ariel musical jewellery box. Featuring a pastel blue box with Ariel's name in gold foil, with Ariel showing Flounder a book. The wind-up mechanism plays Beautiful Dreamer when the box is opened and an Ariel plaque gently rotates inside. The perfect gift for any Disney Princess fan. Features:  Belle design also available, 10.5 x 11.5 x 8.5cm, Packaging size: 11 x 11.5 x 9cm, 258g, Wind-up musical mechanism, Oval-shaped mirror under the sea lid, Silver shell-shaped push clasp, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/disney-princess-musical-jewellery-box-ariel?variant=49003804852541</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76927-Disney-Princess-Ariel-Musical-Jewellery-Box-2-Cancer-Research-UK-Online-Shop_3bc0c34a-dd6b-4115-b255-a41764c227cd_1024x1024.jpg?v=1734683121</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76927-Disney-Princess-Ariel-Musical-Jewellery-Box-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683121</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>19.99 GBP</g:price>
-      <g:sale_price>11.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5017224867918</g:gtin>
- 
-      <g:brand>Disney</g:brand>
-      <g:product_type>Christmas Gifts</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX76932</g:id>
       <g:item_group_id>9520826581309</g:item_group_id>
       <g:google_product_category>3144</g:google_product_category>
@@ -27850,7 +27722,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5017224944435</g:gtin>
  
       <g:brand>Disney</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -33160,7 +33032,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418623021</g:gtin>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -33248,7 +33120,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836982</g:gtin>
 
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
       <g:color>Orange</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -33556,7 +33428,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418622840</g:gtin>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -33600,7 +33472,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418622840</g:gtin>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -33730,7 +33602,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418656524</g:gtin>
 
-      <g:product_type>Cushion</g:product_type>
+      <g:product_type>Cushions</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -33775,7 +33647,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418635666</g:gtin>
 
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -34053,91 +33925,6 @@ Lining 100% Cotton</g:material>
       <g:product_length>13 cm </g:product_length>
       <g:product_width>13 cm </g:product_width>
       <g:product_height>18 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84628KISSES</g:id>
-      <g:item_group_id>15090030412151</g:item_group_id>
-      
-      <g:title>Gingerbread Wooden Plaque - Kisses &amp; Christmas Wishes</g:title>
-      <g:description>Add a heart warming touch to your festive décor with this charming wooden plaque. Adorned with a cosy gingerbread illustration and a cute 3D gingerbread character for extra seasonal charm, this wooden plaque is perfect for kitchens, hallways, or anywhere you want to spread a little Christmas cheer,. Sold separately Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-wooden-plaque?variant=55650351808887</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84628-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764761869</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84628-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759146450</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-      <g:sale_price>2.79 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418622888</g:gtin>
-
-      <g:product_type>Plaque</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>90% MDF/5% resin/5% glass</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX84628CALORIES</g:id>
-      <g:item_group_id>15090030412151</g:item_group_id>
-      
-      <g:title>Gingerbread Wooden Plaque - Calories Don't Count</g:title>
-      <g:description>Add a heart warming touch to your festive décor with this charming wooden plaque. Adorned with a cosy gingerbread illustration and a cute 3D gingerbread character for extra seasonal charm, this wooden plaque is perfect for kitchens, hallways, or anywhere you want to spread a little Christmas cheer,. Sold separately Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-wooden-plaque?variant=55650351776119</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84628-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764761869</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84628-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1759146450</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-      <g:sale_price>2.79 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418622888</g:gtin>
-
-      <g:product_type>Plaque</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>90% MDF/5% resin/5% glass</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -36170,7 +35957,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241970</g:gtin>
 
-      <g:product_type>Cushion</g:product_type>
+      <g:product_type>Cushions</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -36182,6 +35969,95 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85075</g:id>
+      <g:item_group_id>14950478119287</g:item_group_id>
+      
+      <g:title>Highland Cow Breakfast Mug - Beige</g:title>
+      <g:description>Embrace your mornings with this adorable Highland Cow Breakfast Mug, designed to bring a little countryside comfort to your daily routine. Ideal for tea, coffee or hot chocolate, it adds a cosy, characterful touch to your kitchen or desk.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-breakfast-mug?variant=57075641549175</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85075-Highland-Cow-Face-Beige-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778169356</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850759</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Mugs</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>10 cm </g:product_length>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>13 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85076</g:id>
+      <g:item_group_id>14950478119287</g:item_group_id>
+      
+      <g:title>Highland Cow Breakfast Mug - Grey</g:title>
+      <g:description>Embrace your mornings with this adorable Highland Cow Breakfast Mug, designed to bring a little countryside comfort to your daily routine. Ideal for tea, coffee or hot chocolate, it adds a cosy, characterful touch to your kitchen or desk.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-breakfast-mug?variant=57075645481335</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85076-Highland-Cow-Face-Grey-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778169356</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850766</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Mugs</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>10 cm </g:product_length>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>13 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -36435,7 +36311,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836999</g:gtin>
 
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -36448,6 +36324,89 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85079</g:id>
+      <g:item_group_id>14950495093111</g:item_group_id>
+      
+      <g:title>Highland Cow Coaster - Beige</g:title>
+      <g:description>Hot drinks can easily leave marks behind, especially on busy surfaces. These fine china coasters helps protect tables from heat, spills and everyday wear while adding a decorative Highland cow touch. Features  Single coaster, Made from fine china , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-coasters?variant=55095914168695</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85079-Highland-Cow-Standing-Ceramic-Coaster-Beige-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778228132</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850797</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Coasters</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85080</g:id>
+      <g:item_group_id>14950495093111</g:item_group_id>
+      
+      <g:title>Highland Cow Coaster - Grey</g:title>
+      <g:description>Hot drinks can easily leave marks behind, especially on busy surfaces. These fine china coasters helps protect tables from heat, spills and everyday wear while adding a decorative Highland cow touch. Features  Single coaster, Made from fine china , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-coasters?variant=57077093302647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85080-Highland-Cow-Standing-Ceramic-Coaster-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778228133</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850803</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Coasters</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -36628,17 +36587,16 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83747FAMILY</g:id>
-      <g:item_group_id>15090028773751</g:item_group_id>
+      <g:id>CR85083</g:id>
+      <g:item_group_id>15475182207351</g:item_group_id>
       
-      <g:title>Highland Cow Plaques - Family</g:title>
-      <g:description>Add a cosy country touch to your Christmas décor with these charming highland cow plaques. Choose from three designs, with each featuring a festive cow in a Father Christmas hat alongside a positive, heart-warming message. Ideal for lovers of rustic style, uplifting quotes, and adorable highland cows, these mini signs are perfect for shelves, mantels, or gifting. Sold as separate products. Plaques read the following:  FRIENDS and family welcome, HOME is where the herd is, FAMILY is the heart of the HOME,  Each plaque measures 20 x 4 x 1 cm. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-plaque?variant=55604443840887</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83746-Highland-Cow-Plaques-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755879862</g:image_link>
+      <g:title>Highland Cow Placemats - Beige</g:title>
+      <g:description>From knocked drinks to food spills, family gatherings often come with a little mess. These placemats protect your table from stains and food, while the charming Highland cow design brings a friendly, countryside feel to mealtimes. Features  Set of 4 placemats , Cork backed, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-placemats?variant=57077063745911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85083-Highland-Cow-Standing-Beige-Placemats-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778226629</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36654,32 +36612,35 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418664727</g:gtin>
+      <g:gtin>5034123850834</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Placemats</g:product_type>
 
-      <g:product_type>Plaque</g:product_type>
-
-      <g:size>1</g:size>
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:material>100% MDF</g:material>
+      <g:product_length>21.5 cm </g:product_length>
+      <g:product_width>29 cm </g:product_width>
+      <g:product_height>1.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 	
     <item>
-      <g:id>CX83747HEARD</g:id>
-      <g:item_group_id>15090028773751</g:item_group_id>
+      <g:id>CR85084</g:id>
+      <g:item_group_id>15475182207351</g:item_group_id>
       
-      <g:title>Highland Cow Plaques - Herd</g:title>
-      <g:description>Add a cosy country touch to your Christmas décor with these charming highland cow plaques. Choose from three designs, with each featuring a festive cow in a Father Christmas hat alongside a positive, heart-warming message. Ideal for lovers of rustic style, uplifting quotes, and adorable highland cows, these mini signs are perfect for shelves, mantels, or gifting. Sold as separate products. Plaques read the following:  FRIENDS and family welcome, HOME is where the herd is, FAMILY is the heart of the HOME,  Each plaque measures 20 x 4 x 1 cm. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-plaque?variant=55604443873655</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83746-Highland-Cow-Plaques-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755879862</g:image_link>
+      <g:title>Highland Cow Placemats - Grey</g:title>
+      <g:description>From knocked drinks to food spills, family gatherings often come with a little mess. These placemats protect your table from stains and food, while the charming Highland cow design brings a friendly, countryside feel to mealtimes. Features  Set of 4 placemats , Cork backed, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-placemats?variant=57077063778679</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85084-Highland-Cow-Standing-Grey-Placemats-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778226629</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36695,59 +36656,22 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418664727</g:gtin>
+      <g:gtin>5034123850841</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Placemats</g:product_type>
 
-      <g:product_type>Plaque</g:product_type>
-
-      <g:size>1</g:size>
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:material>100% MDF</g:material>
+      <g:product_length>21.5 cm </g:product_length>
+      <g:product_width>29 cm </g:product_width>
+      <g:product_height>1.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83747HEART</g:id>
-      <g:item_group_id>15090028773751</g:item_group_id>
-      
-      <g:title>Highland Cow Plaques - Heart</g:title>
-      <g:description>Add a cosy country touch to your Christmas décor with these charming highland cow plaques. Choose from three designs, with each featuring a festive cow in a Father Christmas hat alongside a positive, heart-warming message. Ideal for lovers of rustic style, uplifting quotes, and adorable highland cows, these mini signs are perfect for shelves, mantels, or gifting. Sold as separate products. Plaques read the following:  FRIENDS and family welcome, HOME is where the herd is, FAMILY is the heart of the HOME,  Each plaque measures 20 x 4 x 1 cm. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-plaque?variant=55604443906423</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83746-Highland-Cow-Plaques-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755879862</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418664727</g:gtin>
-
-      <g:product_type>Plaque</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% MDF</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -36926,6 +36850,95 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85086</g:id>
+      <g:item_group_id>15475260883319</g:item_group_id>
+      
+      <g:title>Highland Cow Small Tray - Beige</g:title>
+      <g:description>Perfect for everyday use, this charming Highland cow tray is ideal for carrying teas, coffees and a selection of snacks from kitchen to sofa or desk.  The compact size makes it easy to handle, while the characterful design adds a warm, homely touch to breaks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-small-tray?variant=57077389787511</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85086-Highland-Cow-Grey-Small-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778237072</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850865</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tray</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>14 cm </g:product_length>
+      <g:product_width>20.5 cm </g:product_width>
+      <g:product_height>1.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85085</g:id>
+      <g:item_group_id>15475260883319</g:item_group_id>
+      
+      <g:title>Highland Cow Small Tray - Grey</g:title>
+      <g:description>Perfect for everyday use, this charming Highland cow tray is ideal for carrying teas, coffees and a selection of snacks from kitchen to sofa or desk.  The compact size makes it easy to handle, while the characterful design adds a warm, homely touch to breaks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-small-tray?variant=57077389820279</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85085-Highland-Cow-Grey-Small-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778237072</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850858</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tray</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>14 cm </g:product_length>
+      <g:product_width>20.5 cm </g:product_width>
+      <g:product_height>1.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84033</g:id>
       <g:item_group_id>15090029166967</g:item_group_id>
       
@@ -37008,6 +37021,184 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85081</g:id>
+      <g:item_group_id>14950502334839</g:item_group_id>
+      
+      <g:title>Highland Cow Teabag Tidy - Beige</g:title>
+      <g:description>Save your worktop from stains and splashes with this handy tea bag tidy. Designed for holding used tea bags neatly in one place, it’s a thoughtful little kitchen essential and an easy gift for tea lovers.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tea-bag-tidy?variant=57077050245495</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85081-Highland-Cow-Face-Beige-Tea-Bag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778225232</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850810</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Teabag Tidy</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>9.5 cm </g:product_length>
+      <g:product_width>12.5 cm </g:product_width>
+      <g:product_height>1.6 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85082</g:id>
+      <g:item_group_id>14950502334839</g:item_group_id>
+      
+      <g:title>Highland Cow Teabag Tidy - Grey</g:title>
+      <g:description>Save your worktop from stains and splashes with this handy tea bag tidy. Designed for holding used tea bags neatly in one place, it’s a thoughtful little kitchen essential and an easy gift for tea lovers.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tea-bag-tidy?variant=57077050278263</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85082-Highland-Cow-Face-Grey-Tea-Bag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778225232</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850827</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Teabag Tidy</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>9.5 cm </g:product_length>
+      <g:product_width>12.5 cm </g:product_width>
+      <g:product_height>1.6 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85077</g:id>
+      <g:item_group_id>14950503383415</g:item_group_id>
+      
+      <g:title>Highland Cow Tote Bag - Beige</g:title>
+      <g:description>Extra space always comes in handy, whether you’re shopping, heading out for the day or carrying everyday essentials. This large tote bag offers plenty of room while staying easy to carry. Finished with a sweet all‑over Highland cow design, it adds a touch of countryside charm to practical errands.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tote-bag?variant=55095959060855</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85078-Highland-Cow-Standing-All-over-Print-Grey-Large-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778229251</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123807654</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>19 cm </g:product_length>
+      <g:product_width>43 cm </g:product_width>
+      <g:product_height>35 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85078</g:id>
+      <g:item_group_id>14950503383415</g:item_group_id>
+      
+      <g:title>Highland Cow Tote Bag - Grey</g:title>
+      <g:description>Extra space always comes in handy, whether you’re shopping, heading out for the day or carrying everyday essentials. This large tote bag offers plenty of room while staying easy to carry. Finished with a sweet all‑over Highland cow design, it adds a touch of countryside charm to practical errands.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tote-bag?variant=57077123350903</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85077-Highland-Cow-Standing-All-over-Print-Beige-large-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778229251</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123850780</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>19 cm </g:product_length>
+      <g:product_width>43 cm </g:product_width>
+      <g:product_height>35 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -38075,7 +38266,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123836852</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -38560,9 +38751,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80086</g:id>
       <g:item_group_id>14988528222583</g:item_group_id>
       
@@ -38603,7 +38792,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR80092</g:id>
       <g:item_group_id>14988551487863</g:item_group_id>
       
@@ -38631,7 +38822,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322020076</g:gtin>
 
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -38985,7 +39176,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123845373</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
       <g:color>White</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -39030,7 +39221,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -39071,7 +39262,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -39112,7 +39303,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -39244,7 +39435,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123845397</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
+      <g:product_type>Bags</g:product_type>
       <g:color>Grey</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -41768,7 +41959,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>14950305694071</g:item_group_id>
       
       <g:title>Leaf Design 2-Seater Bistro Garden Furniture Set</g:title>
-      <g:description>Perfect for a bite to eat on the balcony, or grabbing a cuppa in the garden, this two-seater bistro garden set makes a great contemporary addition to your outdoor space. Features:  2 single folding chairs and table, Chair: 90 x 37cm, Table: 71 x 60cm, Total weight: 28kg ,  Care instructions:  Wipe clean with a sponge and warm soapy water, then dry using a soft, clean cloth., Do not use scourers, abrasives or chemical cleaners., The furniture has been powder-coated to ensure durability, however we cannot guarantee that it will not corrode in time., In case the furniture is subjected to weathering, see some tips below:, Use furniture covers to protect the product when not in use, During bad weather and winter months, the product should be stored in a cool dry place, </g:description>
+      <g:description>Perfect for a bite to eat on the balcony, or grabbing a cuppa in the garden, this two-seater bistro garden set makes a great contemporary addition to your outdoor space. Features:  2 single folding chairs and table, Chair: 90 x 37cm, Table: 71 x 60cm ,  Care instructions:  Wipe clean with a sponge and warm soapy water, then dry using a soft, clean cloth., Do not use scourers, abrasives or chemical cleaners., The furniture has been powder-coated to ensure durability, however we cannot guarantee that it will not corrode in time., In case the furniture is subjected to weathering, see some tips below:, Use furniture covers to protect the product when not in use, During bad weather and winter months, the product should be stored in a cool dry place, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/leaf-design-2-seater-bistro-garden-furniture-set?variant=55094181593463</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79585-Leaf-Design-Bistro-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743761293</g:image_link>
       <g:condition>new</g:condition>
@@ -41794,9 +41985,10 @@ Lining 100% Cotton</g:material>
 
       <g:product_type>Outdoor Furniture</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Furniture</g:custom_label_2>
@@ -42872,7 +43064,7 @@ Lining 100% Cotton</g:material>
       <g:gtin />
       <g:mpn>CR82238</g:mpn>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -43840,7 +44032,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241390</g:gtin>
 
-      <g:product_type>Bag</g:product_type>
+      <g:product_type>Bags</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -43885,7 +44077,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241406</g:gtin>
 
-      <g:product_type>Bag</g:product_type>
+      <g:product_type>Bags</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -43930,7 +44122,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241413</g:gtin>
 
-      <g:product_type>Bag</g:product_type>
+      <g:product_type>Bags</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -50120,7 +50312,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-skin-milk-udder-cream?variant=55305216590199</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42324-MooGoo-Skin-Milk-200g-3-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1729251619</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.49 GBP</g:price>
 
       <g:shipping>
@@ -50142,7 +50334,7 @@ Lining 100% Cotton</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Cream</g:product_type>
 
-<g:size>200g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -50182,7 +50374,7 @@ Lining 100% Cotton</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Cream</g:product_type>
 
-<g:size>200g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -53643,9 +53835,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF42057</g:id>
       <g:item_group_id>9521079320893</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -53688,7 +53878,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD76615</g:id>
       <g:item_group_id>9521079386429</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -56374,52 +56566,6 @@ Lining 100% Cotton</g:material>
 <g:size>50 LEDs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83674</g:id>
-      <g:item_group_id>15101534011767</g:item_group_id>
-      
-      <g:title>Premier Wooden Tree and Reindeer LED Decoration</g:title>
-      <g:description>Bring the woodland vibes into your home with this LED-lit tree and stag decoration. At the flick of a switch, warm white LEDs add a golden glow to your room with the wooden trees and deer casting beautiful shadows and silhouettes.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/premier-wooden-tree-and-reindeer-led-decoration?variant=55651258433911</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83674-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756377436</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>12.99 GBP</g:price>
-      <g:sale_price>9.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844454138</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Lights</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Wood</g:material>
-      <g:product_length>6 cm </g:product_length>
-      <g:product_width>28 cm </g:product_width>
-      <g:product_height>44 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -59556,7 +59702,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5060321964370</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
+      <g:product_type>Bags</g:product_type>
       <g:color>Blue</g:color>
       <g:size>4</g:size>
       <g:size_type>regular</g:size_type>
@@ -62945,7 +63091,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80381-Race-for-Life-Mens-T-Shirt-Blue-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404727</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80381-Race-for-Life-Mens-Blue-T-Shirt-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404727</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.00 GBP</g:price>
 
       <g:shipping>
@@ -63032,7 +63178,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521147347261</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
       <g:title>Race for Life Men's Pink Ombre T-Shirt - S</g:title>
-      <g:description> Jog, run or sprint through your Race for Life event in this season’s tee — the ultimate race day essential.   No matter how cancer affects us, life is worth Racing for.   Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
+      <g:description>Jog, run or sprint through your Race for Life event in this season's tee - the ultimate race day essential. No matter how cancer affects us, life is worth Racing for. Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/race-life-mens-pink-ombre-t-shirt?variant=49004157534525</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770927728</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404723</g:additional_image_link>
@@ -63079,7 +63225,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521147347261</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
       <g:title>Race for Life Men's Pink Ombre T-Shirt - M</g:title>
-      <g:description> Jog, run or sprint through your Race for Life event in this season’s tee — the ultimate race day essential.   No matter how cancer affects us, life is worth Racing for.   Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
+      <g:description>Jog, run or sprint through your Race for Life event in this season's tee - the ultimate race day essential. No matter how cancer affects us, life is worth Racing for. Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/race-life-mens-pink-ombre-t-shirt?variant=49005571309885</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770927728</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404723</g:additional_image_link>
@@ -63127,7 +63273,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521147347261</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
       <g:title>Race for Life Men's Pink Ombre T-Shirt - L</g:title>
-      <g:description> Jog, run or sprint through your Race for Life event in this season’s tee — the ultimate race day essential.   No matter how cancer affects us, life is worth Racing for.   Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
+      <g:description>Jog, run or sprint through your Race for Life event in this season's tee - the ultimate race day essential. No matter how cancer affects us, life is worth Racing for. Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/race-life-mens-pink-ombre-t-shirt?variant=49005571342653</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770927728</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404723</g:additional_image_link>
@@ -63175,7 +63321,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521147347261</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
       <g:title>Race for Life Men's Pink Ombre T-Shirt - XL</g:title>
-      <g:description> Jog, run or sprint through your Race for Life event in this season’s tee — the ultimate race day essential.   No matter how cancer affects us, life is worth Racing for.   Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
+      <g:description>Jog, run or sprint through your Race for Life event in this season's tee - the ultimate race day essential. No matter how cancer affects us, life is worth Racing for. Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/race-life-mens-pink-ombre-t-shirt?variant=49005571375421</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770927728</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404723</g:additional_image_link>
@@ -63223,7 +63369,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521147347261</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
       <g:title>Race for Life Men's Pink Ombre T-Shirt - 2XL</g:title>
-      <g:description> Jog, run or sprint through your Race for Life event in this season’s tee — the ultimate race day essential.   No matter how cancer affects us, life is worth Racing for.   Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
+      <g:description>Jog, run or sprint through your Race for Life event in this season's tee - the ultimate race day essential. No matter how cancer affects us, life is worth Racing for. Features:  Race for Life Men's Pink Ombre T-Shirt, Available in sizes S - XXL,  Feel the power of moving together with your fellow Race for Lifers by signing up here.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/race-life-mens-pink-ombre-t-shirt?variant=49005571408189</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770927728</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80376-Race-for-Life-Mens-T-Shirt-Ombre-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404723</g:additional_image_link>
@@ -63477,7 +63623,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5060321964318</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
+      <g:product_type>Bags</g:product_type>
       <g:color>Pink/Blue</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -64299,7 +64445,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5034123836876</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -66513,7 +66659,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241963</g:gtin>
 
-      <g:product_type>Cushion</g:product_type>
+      <g:product_type>Cushions</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -66725,7 +66871,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -66766,7 +66912,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -66807,7 +66953,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
 
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -75613,7 +75759,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -82540,7 +82686,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5017224937345</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82816,7 +82962,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5017224916524</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82858,7 +83004,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32314</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82900,7 +83046,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32315</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -83333,7 +83479,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322145700</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -83381,7 +83527,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322145687</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -83429,7 +83575,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322145670</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -83478,7 +83624,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW85555</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84111,7 +84257,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32320FOCUS</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84154,50 +84300,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32320BALANCE</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Cancer Care</g:custom_label_0>
-      <g:custom_label_1>Cancer Care</g:custom_label_1>
-      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
-      <g:custom_label_4>Cancer Care</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>LW32320BREATHE</g:id>
-      <g:item_group_id>9521252106557</g:item_group_id>
-      <g:google_product_category>708</g:google_product_category>
-      <g:title>Serenity Small Inspirational Plaque - Just Breathe</g:title>
-      <g:description>Bring a little inspiration to your home with this small, heart-shaped ceramic plaque with embossed motivational quote.The message reads: "Just breathe". Perfect for lovers of mindfulness, motivation and meditation.Part of our Serenity collection - a range of self-care gifts designed to help you press pause on the stresses of everyday life.Features:	1 white ceramic heart pendant with rustic twine hanging loop,	6 designs available,	5017224916548, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/serenity-small-inspirational-plaque-just-breathe?variant=49004279365949</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32320-Serenity-Inspirational-Plaques-Just-Breathe-Cancer-Research-UK-Online-Shop_0_4c9ef0f0-9725-4397-8491-00961c1bbe36_1024x1024.jpg?v=1719231299</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32320-Serenity-Inspirational-Plaques-Group-Cancer-Research-UK-Online-Shop_1_a05c27e7-475f-477e-9c00-7cdd84202dde_1024x1024.jpg?v=1719404525</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>LW32320BREATHE</g:mpn>
- 
-      <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84240,50 +84343,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32320MINDSET</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Cancer Care</g:custom_label_0>
-      <g:custom_label_1>Cancer Care</g:custom_label_1>
-      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
-      <g:custom_label_4>Cancer Care</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>LW32320ONESTEP</g:id>
-      <g:item_group_id>9521253646653</g:item_group_id>
-      <g:google_product_category>708</g:google_product_category>
-      <g:title>Serenity Small Inspirational Plaque - One Step at a Time</g:title>
-      <g:description>Bring a little inspiration to your home with this small, heart-shaped ceramic plaque with embossed motivational quote.The message reads: "One step at a time". Perfect for lovers of mindfulness, motivation and meditationPart of our Serenity collection - a range of self-care gifts designed to help you press pause on the stresses of everyday life.Features:	1 white ceramic heart pendant with rustic twine hanging loop,	6 designs available,	5017224916548, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/serenity-small-inspirational-plaque-one-step-time?variant=49004281037117</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32320-Serenity-Inspirational-Plaques-One-Step-at-a-Time-Cancer-Research-UK-Online-Shop_773a13fe-f20a-4137-b86e-4e6418066172_1024x1024.jpg?v=1719231303</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32320-Serenity-Inspirational-Plaques-Group-Cancer-Research-UK-Online-Shop_1_cf74516d-ebe1-4211-9dbd-d1773f16be4b_1024x1024.jpg?v=1719404521</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>LW32320ONESTEP</g:mpn>
- 
-      <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84326,7 +84386,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32320STAY</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Plaque</g:product_type>
+      <g:product_type>Decorative Plaques</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -86524,7 +86584,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX76920</g:id>
       <g:item_group_id>9521282023741</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
@@ -86604,9 +86666,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF30430</g:id>
       <g:item_group_id>9521282744637</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -93476,7 +93536,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5014728129177</g:gtin>
  
       <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
       <g:color>White</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -93562,7 +93622,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5014728129184</g:gtin>
  
       <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
       <g:color>White</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -94907,7 +94967,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5034123836890</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -95213,7 +95273,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5034123836869</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -100765,7 +100825,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -107243,7 +107303,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322020083</g:gtin>
 
-      <g:product_type>Mug</g:product_type>
+      <g:product_type>Mugs</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
