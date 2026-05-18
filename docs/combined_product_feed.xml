@@ -49608,7 +49608,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-milk-wash?variant=49004039373117</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42338-MooGoo-Milk-Wash-500ml-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760834404</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.49 GBP</g:price>
 
       <g:shipping>
@@ -66799,50 +66799,6 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
-      <g:id>CX83676</g:id>
-      <g:item_group_id>15101539746167</g:item_group_id>
-      
-      <g:title>Robin Duo Wooden Stump Decoration</g:title>
-      <g:description>Add a touch of woodland charm to your festive décor with this adorable duo of robin decorations. Each robin is perched on a rustic, wood-look log, bringing warmth and character to shelves, mantels, or table settings. Their sweet design and compact size make them perfect for adding a cosy winter vibe to any corner of your home. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/robin-duo-wooden-stump-decoration?variant=55651315876215</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/cx83676-robin-stump-decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757593936</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844454152</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>4 cm </g:product_length>
-      <g:product_width>8 cm </g:product_width>
-      <g:product_height>11 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83746PLACE</g:id>
       <g:item_group_id>15090028740983</g:item_group_id>
       
@@ -83369,7 +83325,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204436</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84315-Serenity-Mindfulness-Journey-7-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749204437</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -86666,7 +86622,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF30430</g:id>
       <g:item_group_id>9521282744637</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -86709,9 +86667,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF42065</g:id>
       <g:item_group_id>9521283072317</g:item_group_id>
       <g:google_product_category>180</g:google_product_category>
