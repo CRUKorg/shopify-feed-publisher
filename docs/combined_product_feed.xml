@@ -3405,6 +3405,86 @@ PINEWOOD
 
 	
     <item>
+      <g:id>CR85068</g:id>
+      <g:item_group_id>15018150068599</g:item_group_id>
+      
+      <g:title>Bee Kneeling Pad</g:title>
+      <g:description>Make gardening kinder on your knees with this green kneeling pad, styled with a sweet bee  print. Soft and supportive, this pad provides cushioned comfort while planting bulbs, weeding or tackling low‑level jobs, helping you garden for longer with less strain. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/bee-kneeling-pad?variant=55335687061879</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85068-Green-Bee-Kneeling-Pad-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776678806</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247934</g:gtin>
+
+      <g:product_type>Kneeling Pad</g:product_type>
+      <g:color>green</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85069</g:id>
+      <g:item_group_id>15459974218103</g:item_group_id>
+      
+      <g:title>Bee Kneeling Pads</g:title>
+      <g:description>Make gardening kinder on your knees with this duo of green kneeling pads, styled with a sweet bee print. Soft and supportive, each pad provides cushioned comfort while planting bulbs, weeding or tackling low‑level jobs, helping you garden for longer with less strain.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/bee-kneeling-pads-duo?variant=57024684097911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85069-Green-Bee-Pack-of-2-Kneeling-Pads-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776679392</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247941</g:gtin>
+
+      <g:product_type>Kneeling Pads</g:product_type>
+      <g:color>green</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR83093</g:id>
       <g:item_group_id>15017210446199</g:item_group_id>
       
@@ -21273,9 +21353,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83756</g:id>
       <g:item_group_id>15088792109431</g:item_group_id>
       
@@ -21360,7 +21438,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83708</g:id>
       <g:item_group_id>15089095868791</g:item_group_id>
       
@@ -34630,6 +34710,49 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85066</g:id>
+      <g:item_group_id>15459991683447</g:item_group_id>
+      
+      <g:title>Green Bee Cooler Bag</g:title>
+      <g:description>Keep drinks and snacks cool during warm summer days with this handy cool bag, designed for easy days outdoors. The sweet bee print adds a fun, summer touch, while the practical shape makes it simple to pack for picnics, beach trips or days out. Features:  Aluminium foil lined with foam insulation and a polyester outer, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/green-bee-striped-coolbag?variant=57024764936567</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85066-Green-Bee-Small-Cooler-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776681459</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247910</g:gtin>
+
+      <g:product_type>Coolbags</g:product_type>
+      <g:color>green</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>20 cm </g:product_length>
+      <g:product_width>20 cm </g:product_width>
+      <g:product_height>17 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85067</g:id>
       <g:item_group_id>15459939156343</g:item_group_id>
       
@@ -34660,6 +34783,46 @@ Lining 100% Cotton</g:material>
       <g:product_type>Coolbags</g:product_type>
 
       <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85070</g:id>
+      <g:item_group_id>15018149544311</g:item_group_id>
+      
+      <g:title>Green Bee Garden Bag</g:title>
+      <g:description>Keeping tools close to hand makes gardening feel calmer and more enjoyable. This storage bag is designed with practical compartments to organise essentials, while a sturdy handle makes it easy to lift and carry around the garden. Finished in a rich green with a bee and wildflower print, it feels at home among late‑summer borders and allotments.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/bee-garden-bag?variant=55335682474359</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85070-Green-Bee-Gardening-Storage-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776675138</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247958</g:gtin>
+
+      <g:product_type>Garden Bag</g:product_type>
+      <g:color>green</g:color>
+      <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -36627,6 +36790,93 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85072</g:id>
+      <g:item_group_id>15477890220407</g:item_group_id>
+      
+      <g:title>Highland Cow Duo Tea Towels</g:title>
+      <g:description>Sometimes a kitchen just needs a bit more moo-d. This cheerful tea towel duo brings Highland cow charm to everyday washing‑up and baking moments. One towel features repeating cow illustrations, while the other shows a close‑up, shaggy‑fringed design.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tea-towel-duo?variant=57087323570551</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85072-Highland-Cow-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247781</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tea Towel</g:product_type>
+      <g:color>beige</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>48 cm </g:product_width>
+      <g:product_height>74 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85071</g:id>
+      <g:item_group_id>15477890154871</g:item_group_id>
+      
+      <g:title>Highland Cow Face Cushion Grey</g:title>
+      <g:description>Sometimes a room needs a softer, country touch to feel truly welcoming. This cushion brings gentle character into your home, featuring a beautifully illustrated Highland cow set against a grey background. Perfect for layering on a sofa, armchair or bed, it adds warmth without overpowering your space.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-face-cushion-grey?variant=57087323505015</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85071-Highland-Cow-Face-Cushion-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247774</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cushion</g:product_type>
+      <g:color>grey</g:color>
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:product_width>43 cm </g:product_width>
+      <g:product_height>43 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR80768</g:id>
       <g:item_group_id>14952448262519</g:item_group_id>
       
@@ -36799,6 +37049,93 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85073BEIGE</g:id>
+      <g:item_group_id>15477890122103</g:item_group_id>
+      
+      <g:title>Highland Cow Outdoor Tablecloth - Beige</g:title>
+      <g:description>Outdoor meals are meant to be relaxed, even when the drinks spill and plates get passed around. These tablecloths brings easy‑going country charm to garden tables, featuring playful Highland cow illustrations that feel right at home outdoors. Designed to cope with everyday spills, the surface wipes clean with minimal fuss.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-outdoor-tablecloth?variant=57088171999607</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85073BEIGE-Highland-Cow-Outdoor-Tablecloth-Beige-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247798</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tablecloth</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>178 cm </g:product_length>
+      <g:product_width>132 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85073GREY</g:id>
+      <g:item_group_id>15477890122103</g:item_group_id>
+      
+      <g:title>Highland Cow Outdoor Tablecloth - Grey</g:title>
+      <g:description>Outdoor meals are meant to be relaxed, even when the drinks spill and plates get passed around. These tablecloths brings easy‑going country charm to garden tables, featuring playful Highland cow illustrations that feel right at home outdoors. Designed to cope with everyday spills, the surface wipes clean with minimal fuss.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-outdoor-tablecloth?variant=57088172032375</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85073GREY-Highland-Cow-Outdoor-Tablecloth-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247798</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tablecloth</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>178 cm </g:product_length>
+      <g:product_width>132 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -37237,6 +37574,89 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85074BEIGE</g:id>
+      <g:item_group_id>15477889991031</g:item_group_id>
+      
+      <g:title>Highland Cow Storage Bag - Beige</g:title>
+      <g:description>Some days call for storage that can moo‑ve with you. This roomy storage bag is made for carrying everyday essentials from A to B with ease, whether you’re tidying, travelling or packing for a weekend away. Covered in a charming Highland cow print, it brings a touch of countryside character while staying practical and sturdy.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-storage-bag?variant=57088153747831</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85074BEIGE-Highland-Cow-Storage-Bag-Beige-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247804</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85074GREY</g:id>
+      <g:item_group_id>15477889991031</g:item_group_id>
+      
+      <g:title>Highland Cow Storage Bag - Grey</g:title>
+      <g:description>Some days call for storage that can moo‑ve with you. This roomy storage bag is made for carrying everyday essentials from A to B with ease, whether you’re tidying, travelling or packing for a weekend away. Covered in a charming Highland cow print, it brings a touch of countryside character while staying practical and sturdy.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-storage-bag?variant=57088153780599</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85074GREY-Highland-Cow-Storage-Bag-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674247804</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:color>Beige</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -38320,9 +38740,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83962</g:id>
       <g:item_group_id>15454419681655</g:item_group_id>
       
@@ -38717,7 +39135,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83691</g:id>
       <g:item_group_id>15078742327671</g:item_group_id>
       
@@ -48711,7 +49131,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-cow-lick-natural-lip-balm?variant=49004026495293</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42342-MooGoo-Lip-Balm-Cow-Lick-Group-2-Cancer-Research-UK-Online-Shop_1_1fd1bfc6-1506-4205-9d7c-0b9055421990_1024x1024.jpg?v=1719230292</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -53281,9 +53701,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85741</g:id>
       <g:item_group_id>15405432668535</g:item_group_id>
       
@@ -53715,7 +54133,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86290</g:id>
       <g:item_group_id>15457011138935</g:item_group_id>
       
@@ -85844,9 +86264,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SH79615</g:id>
       <g:item_group_id>9521268949309</g:item_group_id>
       <g:google_product_category>1856</g:google_product_category>
@@ -86620,7 +87038,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF29376</g:id>
       <g:item_group_id>9521278615869</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -89854,6 +90274,91 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Kitchen Storage</g:product_type>
 
       <g:color>Blue</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR86252YELLOW</g:id>
+      <g:item_group_id>15458028552567</g:item_group_id>
+      
+      <g:title>Soleil Vase Diffuser - Yellow</g:title>
+      <g:description>Sometimes a space just needs a lighter, fresher scent to feel ready for summer. These summer‑themed lemon-scented diffusers are an easy way to bring that feeling indoors, whether placed in a hallway, bedroom or bathroom.  With their soft colours and relaxed design, they fit naturally into warm‑weather living and make everyday moments feel more uplifting.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-vase-diffuser?variant=57019387412855</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86252-100ml-Soleil-Diffuser-Yellow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442658</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86252-100ml-Soleil-Diffuser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442658</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>13.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418702382</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Diffusers</g:product_type>
+
+      <g:color>Yellow</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR86252BLUE</g:id>
+      <g:item_group_id>15458028552567</g:item_group_id>
+      
+      <g:title>Soleil Vase Diffuser - Blue</g:title>
+      <g:description>Sometimes a space just needs a lighter, fresher scent to feel ready for summer. These summer‑themed lemon-scented diffusers are an easy way to bring that feeling indoors, whether placed in a hallway, bedroom or bathroom.  With their soft colours and relaxed design, they fit naturally into warm‑weather living and make everyday moments feel more uplifting.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/soleil-vase-diffuser?variant=57019387380087</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86252-100ml-Soleil-Diffuser-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442658</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86252-100ml-Soleil-Diffuser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442658</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>13.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418702382</g:gtin>
+ 
+      <g:brand>Club Soleil</g:brand>
+      <g:product_type>Diffusers</g:product_type>
+
+      <g:color>Yellow</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -104998,7 +105503,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>9521404150077</g:item_group_id>
       <g:google_product_category>5455</g:google_product_category>
       <g:title>White Place Cards - Pack of 10</g:title>
-      <g:description>Help every guest at your wedding find their seat with these White Place Cards. Subtle but trendy, this pack of 10 place cards is ideal for any wedding or celebration and will make an effortless and stylish table accessory. These stand alone folding cards feature thank you messaging, with room for you to personalise with your guest's names and even a space to feature a donation made on your behalf. Features:  Pack of 10, Pin not included,  </g:description>
+      <g:description>Help every guest at your wedding find their seat with these White Place Cards. Subtle but trendy, this pack of 10 place cards is ideal for any wedding or celebration and will make an effortless and stylish table accessory. These stand alone folding cards feature thank you messaging, with room for you to personalise with your guest's names and even a space to feature a donation made on your behalf. Features:  Pack of 10, Pin not included, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/white-place-cards-pack-10?variant=49004448186685</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30437-Wedding-favour-place-cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771342510</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30437-Wedding-favour-place-cards-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771342510</g:additional_image_link>
@@ -105026,7 +105531,7 @@ Blue: 80% polyester/20% cotton</g:material>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Place Cards</g:product_type>
-      <g:color>White</g:color>
+      <g:color>white</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
