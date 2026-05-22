@@ -8852,7 +8852,7 @@ PINEWOOD
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-ladies-green-leopard-print-trainer-socks?variant=56989079241079</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84992GREEN-Green-Bowelbabe-Fund-Trainer-socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776688257</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -10022,7 +10022,7 @@ PINEWOOD
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF29384-Brachiosaurus-Dino-2026-Wedding-Favour-Pin-Badge-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777475460</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF29384-Brachiosaurus-Dino-2026-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645563</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.00 GBP</g:price>
 
       <g:shipping>
@@ -18677,49 +18677,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84626GINGER</g:id>
-      <g:item_group_id>15090030150007</g:item_group_id>
-      
-      <g:title>Christmas Gingerbread Cookie Cutters - 5 pack</g:title>
-      <g:description>Get into the Christmas spirit with this delightful pack of cookie cutters. Perfect for whipping up batches of cheerful cookies, this set brings joy to kitchens of all ages. Whether you're crafting treats for Santa or keeping little hands busy during the holidays, these cutters make baking fun, creative, and mess-free.  Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-cookie-cutters-5-pack?variant=55604445380983</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84626Gingerbread-Gingerbread-Cookie-Cutters-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823310</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84626Gingerbread-Gingerbread-Cookie-Cutters-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756823296</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418397137</g:gtin>
-
-      <g:product_type>Baking Set</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% Polypropylene (PP)</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83737RED</g:id>
       <g:item_group_id>15107340140919</g:item_group_id>
       <g:google_product_category>3144</g:google_product_category>
@@ -21353,7 +21310,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83756</g:id>
       <g:item_group_id>15088792109431</g:item_group_id>
       
@@ -21394,9 +21353,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83875</g:id>
       <g:item_group_id>15077031084407</g:item_group_id>
       
@@ -38740,7 +38697,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83962</g:id>
       <g:item_group_id>15454419681655</g:item_group_id>
       
@@ -38783,9 +38742,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83920</g:id>
       <g:item_group_id>15062572925303</g:item_group_id>
       
@@ -50581,7 +50538,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-natural-lip-balm-vanilla-dream?variant=49004045467965</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81504-MooGoo-Body-Care-Lip-Balm-Vanilla-Dream-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771260313</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -53701,7 +53658,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85741</g:id>
       <g:item_group_id>15405432668535</g:item_group_id>
       
@@ -53746,9 +53705,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80716</g:id>
       <g:item_group_id>9521076306237</g:item_group_id>
       <g:google_product_category>4143</g:google_product_category>
@@ -86264,7 +86221,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SH79615</g:id>
       <g:item_group_id>9521268949309</g:item_group_id>
       <g:google_product_category>1856</g:google_product_category>
@@ -86305,9 +86264,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SH82290</g:id>
       <g:item_group_id>9676217975101</g:item_group_id>
       
@@ -103597,7 +103554,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129382263</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>189.00 GBP</g:price>
 
       <g:shipping>
