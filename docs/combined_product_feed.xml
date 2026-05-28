@@ -8725,7 +8725,7 @@ PINEWOOD
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79745-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Hope_20Diffuser_20-_20Rose_20_26_20Patchouli_bbad6bc2-721b-40da-98dd-6922bc9a127e_1024x1024.jpg?v=1719229202</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79743-Bowelbabe_20Fund_20for_20Cancer_20Research_20UK-Diffusers_1024x1024.jpg?v=1719405776</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -19642,130 +19642,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84622VANILLA</g:id>
-      <g:item_group_id>15090029724023</g:item_group_id>
-      
-      <g:title>Christmas Pot Pourri - Spiced Vanilla</g:title>
-      <g:description>Add seasonal elegance to your home with these beautifully packaged pot pourri bags, each tied with a decorative ribbon and filled with fragrant botanicals. Available in three delightful scents – Spiced Vanilla, Cinnamon, and Gardenia, these pot pourri bags are perfect for freshening up living spaces, wardrobes, or gift hampers. Their long-lasting fragrance ensures your home stays beautifully scented throughout the festive season. This product measures 18 x 10 cm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-pot-pourri?variant=55650744074615</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-vanilla-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418888765</g:gtin>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Potpourri</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX84622CINNAMON</g:id>
-      <g:item_group_id>15090029724023</g:item_group_id>
-      
-      <g:title>Christmas Pot Pourri - Cinnamon</g:title>
-      <g:description>Add seasonal elegance to your home with these beautifully packaged pot pourri bags, each tied with a decorative ribbon and filled with fragrant botanicals. Available in three delightful scents – Spiced Vanilla, Cinnamon, and Gardenia, these pot pourri bags are perfect for freshening up living spaces, wardrobes, or gift hampers. Their long-lasting fragrance ensures your home stays beautifully scented throughout the festive season. This product measures 18 x 10 cm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-pot-pourri?variant=55650744107383</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Cinnamon-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418888765</g:gtin>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Potpourri</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX84622GARDENIA</g:id>
-      <g:item_group_id>15090029724023</g:item_group_id>
-      
-      <g:title>Christmas Pot Pourri - Gardenia</g:title>
-      <g:description>Add seasonal elegance to your home with these beautifully packaged pot pourri bags, each tied with a decorative ribbon and filled with fragrant botanicals. Available in three delightful scents – Spiced Vanilla, Cinnamon, and Gardenia, these pot pourri bags are perfect for freshening up living spaces, wardrobes, or gift hampers. Their long-lasting fragrance ensures your home stays beautifully scented throughout the festive season. This product measures 18 x 10 cm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-pot-pourri?variant=55650744140151</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Gardenia-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84622-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755876323</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418888765</g:gtin>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Potpourri</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CW81823PUDDING</g:id>
       <g:item_group_id>14669213172087</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -21120,7 +20996,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83694</g:id>
       <g:item_group_id>15078734856567</g:item_group_id>
       
@@ -21162,9 +21040,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83711</g:id>
       <g:item_group_id>15089096065399</g:item_group_id>
       
@@ -33686,48 +33562,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84621</g:id>
-      <g:item_group_id>15090029592951</g:item_group_id>
-      
-      <g:title>Gingerbread Man Napkins - 12 pack</g:title>
-      <g:description>Perfect for festive feasts, this pack of 12 gingerbread man napkins brings playful charm to your Christmas table. With enough for large gatherings, they’re ideal for family dinners or seasonal parties. Brighten up your place settings and make every guest feel part of the celebration. Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-man-napkins-12-pack?variant=55604444725623</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84621-Gingerbread-Man-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755258804</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418627753</g:gtin>
-
-      <g:product_type>Napkins</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% paper</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83696</g:id>
       <g:item_group_id>15089095115127</g:item_group_id>
       
@@ -34268,7 +34102,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/green-bee-bench-cushion?variant=57024633864567</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85059-Green-Bee-Bench-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776677854</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.99 GBP</g:price>
 
       <g:shipping>
@@ -38550,7 +38384,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83849</g:id>
       <g:item_group_id>15076753867127</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -38638,9 +38474,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83706</g:id>
       <g:item_group_id>15089095704951</g:item_group_id>
       
@@ -53469,7 +53303,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86281</g:id>
       <g:item_group_id>15457011270007</g:item_group_id>
       
@@ -53636,9 +53472,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86278</g:id>
       <g:item_group_id>15457011204471</g:item_group_id>
       
@@ -86380,7 +86214,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW84368</g:id>
       <g:item_group_id>15128233902455</g:item_group_id>
       
@@ -86540,9 +86376,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42213</g:id>
       <g:item_group_id>9521273798973</g:item_group_id>
       <g:google_product_category>2700</g:google_product_category>
@@ -87891,7 +87725,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418696346</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Games</g:product_type>
 
       <g:size>0</g:size>
@@ -87936,7 +87770,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418609513</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Bags</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -87977,7 +87811,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418609513</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Bags</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88019,7 +87853,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689362</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Bags</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88060,7 +87894,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689362</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Bags</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88102,7 +87936,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689577</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Chopping Boards</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88145,7 +87979,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CR86245YELLOW</g:mpn>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Chopping Boards</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88188,7 +88022,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CR86245GREEN</g:mpn>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Chopping Boards</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88232,7 +88066,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CR86249YELLOW</g:mpn>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Food Covers</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88273,7 +88107,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689706</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Food Covers</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88315,7 +88149,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CR86249GREEN</g:mpn>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Food Covers</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88357,7 +88191,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418699576</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Fans</g:product_type>
 
       <g:size>0</g:size>
@@ -88402,7 +88236,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689133</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Cushions</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88443,7 +88277,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689133</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Cushions</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88484,7 +88318,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689133</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Cushions</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88526,7 +88360,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689140</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Cushions</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88567,7 +88401,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689140</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Cushions</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88608,7 +88442,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689140</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Cushions</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88650,7 +88484,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689546</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Fans</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88692,7 +88526,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689546</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Fans</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88734,7 +88568,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689546</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Fans</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -88777,7 +88611,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418699583</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Hand Fans</g:product_type>
 
       <g:size>0</g:size>
@@ -88822,7 +88656,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418691747</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Tray</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88863,7 +88697,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418691747</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Tray</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88904,7 +88738,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418691747</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Tray</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88947,7 +88781,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418694014</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Diffusers</g:product_type>
 
       <g:color>Blue</g:color>
@@ -88992,7 +88826,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418694014</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Diffusers</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89037,7 +88871,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418694014</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Diffusers</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89083,7 +88917,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418673774</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Jugs</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89125,7 +88959,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418673774</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Jugs</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89167,7 +89001,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418673774</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Jugs</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89210,7 +89044,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418668961</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Vases</g:product_type>
 
       <g:color>Green</g:color>
@@ -89252,7 +89086,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418668961</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Vases</g:product_type>
 
       <g:color>Green</g:color>
@@ -89294,7 +89128,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418668961</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Vases</g:product_type>
 
       <g:color>Green</g:color>
@@ -89336,7 +89170,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418699552</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Insect Repellent</g:product_type>
 
       <g:size>0</g:size>
@@ -89384,7 +89218,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689553</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Mugs</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -89426,7 +89260,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689553</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Mugs</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -89468,7 +89302,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689553</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Mugs</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -89510,7 +89344,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689386</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Candles</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -89551,7 +89385,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689386</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Candles</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -89592,7 +89426,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689386</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Candles</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -89637,7 +89471,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689409</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Candles</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89684,7 +89518,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689409</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Candles</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89731,7 +89565,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689409</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Candles</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89777,7 +89611,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689928</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Kitchen Storage</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89819,7 +89653,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689928</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Kitchen Storage</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89861,7 +89695,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418689928</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Kitchen Storage</g:product_type>
 
       <g:color>Blue</g:color>
@@ -89904,7 +89738,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418702382</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Diffusers</g:product_type>
 
       <g:color>Yellow</g:color>
@@ -89946,7 +89780,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418702382</g:gtin>
  
-      <g:brand>Club Soleil</g:brand>
+      <g:brand>Temerity Jones</g:brand>
       <g:product_type>Diffusers</g:product_type>
 
       <g:color>Yellow</g:color>
