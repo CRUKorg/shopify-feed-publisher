@@ -7496,7 +7496,7 @@ PINEWOOD
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84971BLUE-Luggage-Strap-Zebra-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1775644303</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84971BLUE-Luggage-Strap-Zebra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1775644303</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -20026,47 +20026,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84623</g:id>
-      <g:item_group_id>15090029789559</g:item_group_id>
-      
-      <g:title>Christmas Tree Row Decoration</g:title>
-      <g:description>Festive wooden trees spell out “CHRISTMAS” in this charming decoration, perfect for mantlepieces and shelves. With snowy white detailing and cosy knitted hats, each tree adds warmth and whimsy to your seasonal display. A cheerful centrepiece that brings holiday spirit to any room. This product measures 30 x 3 x 10 cm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-row?variant=55604444922231</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84623-Christmas-Tree-Row-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755258485</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418654476</g:gtin>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>75% MDF/20% plywood</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83307TREE</g:id>
       <g:item_group_id>9520792863037</g:item_group_id>
       <g:google_product_category>328</g:google_product_category>
@@ -21040,7 +20999,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83711</g:id>
       <g:item_group_id>15089096065399</g:item_group_id>
       
@@ -21082,9 +21043,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83718</g:id>
       <g:item_group_id>15089096622455</g:item_group_id>
       
@@ -33652,52 +33611,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84625</g:id>
-      <g:item_group_id>15090030117239</g:item_group_id>
-      
-      <g:title>Gingerbread Storage Tin</g:title>
-      <g:description>Keep your festive treats fresh with this charming gingerbread-themed storage tin. Decorated with cheerful gingerbread men and heart-shaped cookies, it’s perfect for storing biscuits, sweets, or baking essentials. The wooden lid adds a rustic touch, making it a practical and decorative addition to your kitchen. Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-storage-tin?variant=55604445282679</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84625-Christmas-Gingerbread-Storage-Tin-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761127927</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84625-Gingerbread-Storage-Tin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761127927</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.49 GBP</g:price>
-      <g:sale_price>5.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418385714</g:gtin>
-
-      <g:product_type>Storage Tin</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>60% galvanised iron/30% mango wood/10% silicone</g:material>
-      <g:product_length>13 cm </g:product_length>
-      <g:product_width>13 cm </g:product_width>
-      <g:product_height>18 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>WF42058</g:id>
       <g:item_group_id>9520906010941</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -35731,6 +35644,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85090</g:id>
+      <g:item_group_id>15477889892727</g:item_group_id>
+      
+      <g:title>Highland Cow Ankle Socks</g:title>
+      <g:description>Everyday socks should feel comfortable while adding a little personality to your outfit. These ankle socks are ideal for daily wear, sitting neatly with trainers or casual shoes. Finished with a Highland cow design, they bring subtle country charm without being over the top. Features  Size UK 4-8, Pack of 3, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-ankle-socks?variant=57087323275639</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85090-Highland-Cow-Ankle-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983342</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033326850907</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83844</g:id>
       <g:item_group_id>15078067437943</g:item_group_id>
       <g:google_product_category>4453</g:google_product_category>
@@ -36297,6 +36251,49 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85088</g:id>
+      <g:item_group_id>15477890089335</g:item_group_id>
+      
+      <g:title>Highland Cow Foldaway Bag</g:title>
+      <g:description>Having a reusable bag to hand often makes everyday trips easier, whether for shopping, errands or days out. This foldaway bag is lightweight and easy to carry, tucking neatly away when not in use. Decorated with a charming Highland cow print, it adds a touch of countryside character while staying practical for life on the go.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-all-over-grey-print-foldaway-bag?variant=57087323439479</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85090-Higland-Cow-Foldaway-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983342</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5017414298263</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bags</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>45 cm </g:product_width>
+      <g:product_height>40 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -37265,6 +37262,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85089</g:id>
+      <g:item_group_id>15477889859959</g:item_group_id>
+      
+      <g:title>Highland Cow Trainer Socks</g:title>
+      <g:description>Trainer socks are a staple for busy days, workouts and casual wear. These charming Highland cow designed socks sit neatly below the ankle, offering comfort without showing above your shoes. Features  UK 4-7, Pack of 3, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-trainer-socks?variant=57087323242871</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85089-Highland-Cow-Trainer-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983343</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033326850891</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR80758</g:id>
       <g:item_group_id>14950492569975</g:item_group_id>
       
@@ -37343,6 +37381,47 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85087</g:id>
+      <g:item_group_id>15477890056567</g:item_group_id>
+      
+      <g:title>Highland Cow Umbrella</g:title>
+      <g:description>British weather has a habit of changing without warning, making a reliable umbrella an everyday essential. This umbrella brings a little cheer to grey days, featuring a playful Highland cow design that feels right at home in the countryside. Easy to keep close by for commutes, school runs or weekend walks.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-all-over-grey-print-umbrella?variant=57087323406711</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85087-Highland-Cow-Umbrella-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983343</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5017414298256</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Umbrellas</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -38384,9 +38463,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83849</g:id>
       <g:item_group_id>15076753867127</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -38474,7 +38551,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83706</g:id>
       <g:item_group_id>15089095704951</g:item_group_id>
       
@@ -53303,9 +53382,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86281</g:id>
       <g:item_group_id>15457011270007</g:item_group_id>
       
@@ -53472,7 +53549,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86278</g:id>
       <g:item_group_id>15457011204471</g:item_group_id>
       
@@ -73584,7 +73663,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -86214,9 +86293,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW84368</g:id>
       <g:item_group_id>15128233902455</g:item_group_id>
       
@@ -86376,7 +86453,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW42213</g:id>
       <g:item_group_id>9521273798973</g:item_group_id>
       <g:google_product_category>2700</g:google_product_category>
@@ -97359,7 +97438,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF42061-Top-Hat-2026-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777648699</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF42061-Top-Hat-2026-Wedding-Favour-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777648707</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.00 GBP</g:price>
 
       <g:shipping>
