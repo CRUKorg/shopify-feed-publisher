@@ -42439,89 +42439,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84027MERRY</g:id>
-      <g:item_group_id>15090029035895</g:item_group_id>
-      
-      <g:title>LED Christmas Shops Decoration - Merry Christmas</g:title>
-      <g:description>Create a warm festive glow with these charming LED-powered Christmas decorations. Featuring intricately detailed houses, miniature trees, and a glowing arch of lights, these wooden scenes bring seasonal magic to any shelf or mantel. Choose from two heart-warming messages: “Warm wishes for a cosy Christmas” or “We wish you a merry Christmas.” This product measures 20.5 x 5 x 17.5 cm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/led-christmas-shops-decoration?variant=55650779726199</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84027-MerryXmas-LED-Shops-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763132592</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84027-LED-Shops-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763132549</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>9.99 GBP</g:price>
-      <g:sale_price>6.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418634799</g:gtin>
-
-      <g:product_type>Christmas Lights</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX84027WISHES</g:id>
-      <g:item_group_id>15090029035895</g:item_group_id>
-      
-      <g:title>LED Christmas Shops Decoration - Warm Wishes</g:title>
-      <g:description>Create a warm festive glow with these charming LED-powered Christmas decorations. Featuring intricately detailed houses, miniature trees, and a glowing arch of lights, these wooden scenes bring seasonal magic to any shelf or mantel. Choose from two heart-warming messages: “Warm wishes for a cosy Christmas” or “We wish you a merry Christmas.” This product measures 20.5 x 5 x 17.5 cm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/led-christmas-shops-decoration?variant=55650779758967</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84027-Warmwishes-LED-Shop-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763132569</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84027-LED-Shops-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763132549</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>9.99 GBP</g:price>
-      <g:sale_price>6.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418634799</g:gtin>
-
-      <g:product_type>Christmas Lights</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83739</g:id>
       <g:item_group_id>15090028511607</g:item_group_id>
       
@@ -53382,7 +53299,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86281</g:id>
       <g:item_group_id>15457011270007</g:item_group_id>
       
@@ -53425,9 +53344,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86291GRA</g:id>
       <g:item_group_id>15457011171703</g:item_group_id>
       
@@ -80301,7 +80218,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485609017719</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfi-bra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405577</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -86293,7 +86210,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW84368</g:id>
       <g:item_group_id>15128233902455</g:item_group_id>
       
@@ -86332,9 +86251,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR32629</g:id>
       <g:item_group_id>9522292490557</g:item_group_id>
       <g:google_product_category>505287</g:google_product_category>
