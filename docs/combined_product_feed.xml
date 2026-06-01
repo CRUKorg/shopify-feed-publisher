@@ -18352,48 +18352,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX84030</g:id>
-      <g:item_group_id>15090029101431</g:item_group_id>
-      
-      <g:title>Christmas Baking Set</g:title>
-      <g:description>Whip up festive favourites with this versatile Christmas baking set. Ideal for rolling out cookie dough, stirring melted chocolate or butter, and prepping sweet treats with ease. A must-have for seasonal kitchens and family baking fun.  This baking set comes with 8 pieces, including smaller and larger cookie cutters in 3 designs., A rolling pin and spatula are also included., </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-baking-set?variant=55604444234103</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84030-8-Piece-Christmas-Baking-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755259833</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>9.99 GBP</g:price>
-      <g:sale_price>6.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418650188</g:gtin>
-
-      <g:product_type>Baking Set</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>10% beech wood/60% stainless steel/20% silicone/10% rubber wood</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX84376</g:id>
       <g:item_group_id>15128260510071</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
@@ -21043,7 +21001,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83718</g:id>
       <g:item_group_id>15089096622455</g:item_group_id>
       
@@ -21084,9 +21044,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83887</g:id>
       <g:item_group_id>15089098064247</g:item_group_id>
       
@@ -38463,7 +38421,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83849</g:id>
       <g:item_group_id>15076753867127</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -38505,9 +38465,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83861</g:id>
       <g:item_group_id>15078692520311</g:item_group_id>
       
@@ -53344,7 +53302,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86291GRA</g:id>
       <g:item_group_id>15457011171703</g:item_group_id>
       
@@ -53466,9 +53426,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86278</g:id>
       <g:item_group_id>15457011204471</g:item_group_id>
       
@@ -86251,7 +86209,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR32629</g:id>
       <g:item_group_id>9522292490557</g:item_group_id>
       <g:google_product_category>505287</g:google_product_category>
@@ -86370,9 +86330,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42213</g:id>
       <g:item_group_id>9521273798973</g:item_group_id>
       <g:google_product_category>2700</g:google_product_category>
