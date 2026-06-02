@@ -10022,7 +10022,7 @@ PINEWOOD
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF29384-Brachiosaurus-Dino-2026-Wedding-Favour-Pin-Badge-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777475460</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF29384-Brachiosaurus-Dino-2026-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645563</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.00 GBP</g:price>
 
       <g:shipping>
@@ -31479,7 +31479,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF42056-Football-2026-Wedding-Favour-Pin-Badge-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777476408</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF42056-Football-2026-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645561</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.00 GBP</g:price>
 
       <g:shipping>
@@ -36653,6 +36653,90 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85121GREY</g:id>
+      <g:item_group_id>15477889958263</g:item_group_id>
+      
+      <g:title>Highland Cow Short Wellie Socks - Grey</g:title>
+      <g:description>When pulling on wellies, the right socks can make all the difference. These short socks are designed to sit comfortably inside wellington boots, adding a soft layer without extra bulk. Finished with a Highland cow design, they bring a touch of countryside charm to outdoor jobs, dog walks or muddy days out. Features:  1 pair ladies wellington socks, One size: 4-8, Available two different designs, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-short-wellie-socks?variant=57138824708471</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85121GREY-Highland-Cow-short-wellie-socks-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983343</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033326851218</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Grey</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85121BEIGE</g:id>
+      <g:item_group_id>15477889958263</g:item_group_id>
+      
+      <g:title>Highland Cow Short Wellie Socks - Beige</g:title>
+      <g:description>When pulling on wellies, the right socks can make all the difference. These short socks are designed to sit comfortably inside wellington boots, adding a soft layer without extra bulk. Finished with a Highland cow design, they bring a touch of countryside charm to outdoor jobs, dog walks or muddy days out. Features:  1 pair ladies wellington socks, One size: 4-8, Available two different designs, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-short-wellie-socks?variant=57138824741239</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85121BEIGE-Highland-Cow-short-wellie-socks-Beige-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983343</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR85121BEIGE</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Grey</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83876</g:id>
       <g:item_group_id>15077054284151</g:item_group_id>
       
@@ -38421,9 +38505,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83849</g:id>
       <g:item_group_id>15076753867127</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -38465,7 +38547,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83861</g:id>
       <g:item_group_id>15078692520311</g:item_group_id>
       
@@ -53302,9 +53386,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86291GRA</g:id>
       <g:item_group_id>15457011171703</g:item_group_id>
       
@@ -53426,7 +53508,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86278</g:id>
       <g:item_group_id>15457011204471</g:item_group_id>
       
@@ -86209,9 +86293,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR32629</g:id>
       <g:item_group_id>9522292490557</g:item_group_id>
       <g:google_product_category>505287</g:google_product_category>
@@ -86330,7 +86412,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW42213</g:id>
       <g:item_group_id>9521273798973</g:item_group_id>
       <g:google_product_category>2700</g:google_product_category>
@@ -94051,7 +94135,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF76997-Sunflower-2026-Wedding-Favour-Lifestyle-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645561</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF76997-Sunflower-2026-Wedding-Favour-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777645562</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.00 GBP</g:price>
 
       <g:shipping>
@@ -97313,7 +97397,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF42061-Top-Hat-2026-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777648699</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF42061-Top-Hat-2026-Wedding-Favour-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777648707</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.00 GBP</g:price>
 
       <g:shipping>
