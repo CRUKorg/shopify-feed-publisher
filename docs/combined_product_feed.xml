@@ -161,7 +161,7 @@
       <g:gtin>5024418515104</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Art Sets</g:product_type>
+      <g:product_type>Art Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -204,7 +204,7 @@
       <g:gtin>5024418515104</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Art Sets</g:product_type>
+      <g:product_type>Art Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -247,7 +247,7 @@
       <g:gtin>5024418515104</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Art Sets</g:product_type>
+      <g:product_type>Art Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -291,7 +291,7 @@
       <g:gtin>5024418665526</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Art Sets</g:product_type>
+      <g:product_type>Art Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -334,7 +334,7 @@
       <g:gtin>5024418665526</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Art Sets</g:product_type>
+      <g:product_type>Art Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -377,7 +377,7 @@
       <g:gtin>5024418665526</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Art Sets</g:product_type>
+      <g:product_type>Art Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -420,7 +420,7 @@
       <g:gtin>5024418665526</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Art Sets</g:product_type>
+      <g:product_type>Art Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -685,7 +685,7 @@
       <g:gtin>5024418665557</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -812,7 +812,7 @@
       <g:gtin>5024418665441</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Easels</g:product_type>
+      <g:product_type>Easel</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -856,7 +856,7 @@
       <g:gtin>5024418534846</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Palettes</g:product_type>
+      <g:product_type>Palette</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -900,7 +900,7 @@
       <g:gtin>5024418544944</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -944,7 +944,7 @@
       <g:gtin>5024418620181</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Colouring Sets</g:product_type>
+      <g:product_type>Colouring Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -1203,7 +1203,7 @@ PINEWOOD
       <g:gtin>5024418301752</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Colouring Sets</g:product_type>
+      <g:product_type>Colouring Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -1417,7 +1417,7 @@ PINEWOOD
       <g:gtin>5024418665434</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -1837,6 +1837,47 @@ PINEWOOD
 
 	
     <item>
+      <g:id>CR81544</g:id>
+      <g:item_group_id>15483202175351</g:item_group_id>
+      <g:google_product_category>6367</g:google_product_category>
+      <g:title>Annecy Design 2-Seater Bistro Garden Furniture Set</g:title>
+      <g:description>A garden table and chairs set is a simple way to make outdoor time more enjoyable. This two‑seater arrangement offers a comfortable spot for dining, drinks or conversation, whether used daily or saved for relaxed moments outside. Built with garden and patios, this bistro set easy to maintain and straightforward to store. Features:  2 single folding chairs and table, Chairs: 42 x 48 x 81cm , Table: 71 (H) x 60 (D)cm , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/annecy-design-2-seater-bistro-garden-furniture-set?variant=57106190532983</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81544-Annecy-2-Seater-White-Bistro-Outdoor-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779977811</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81544-Annecy-2-Seater-White-Bistro-Outdoor-Set-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779977813</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>99.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053840000000</g:gtin>
+
+      <g:product_type>Outdoor Furniture</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Furniture</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84396</g:id>
       <g:item_group_id>15106138046839</g:item_group_id>
       
@@ -2079,7 +2120,7 @@ PINEWOOD
       <g:gtin>9420005407108</g:gtin>
  
       <g:brand>The Aromatherapy Co</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -2122,7 +2163,7 @@ PINEWOOD
       <g:gtin>9420005407139</g:gtin>
  
       <g:brand>The Aromatherapy Co</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -2164,7 +2205,7 @@ PINEWOOD
       <g:gtin>9420005407122</g:gtin>
  
       <g:brand>The Aromatherapy Co</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -2207,7 +2248,7 @@ PINEWOOD
       <g:gtin>9420005407153</g:gtin>
  
       <g:brand>The Aromatherapy Co</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -2249,7 +2290,7 @@ PINEWOOD
       <g:gtin>9420005407115</g:gtin>
  
       <g:brand>The Aromatherapy Co</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -2292,7 +2333,7 @@ PINEWOOD
       <g:gtin>9420005407146</g:gtin>
  
       <g:brand>The Aromatherapy Co</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -2507,7 +2548,7 @@ PINEWOOD
       <g:gtin>5056238557637</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Puzzles</g:product_type>
+      <g:product_type>Puzzle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -2551,7 +2592,7 @@ PINEWOOD
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094091</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -3098,7 +3139,7 @@ PINEWOOD
       <g:gtin>5034123830928</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:color>Pollen Yellow</g:color>
       <g:size>0</g:size>
@@ -3140,7 +3181,7 @@ PINEWOOD
       <g:gtin>5034123830904</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:color>Pollen Yellow</g:color>
       <g:size>0</g:size>
@@ -3182,7 +3223,7 @@ PINEWOOD
       <g:gtin>5034123830911</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:color>Pollen Yellow</g:color>
       <g:size>0</g:size>
@@ -3309,7 +3350,7 @@ PINEWOOD
       <g:gtin>5034123830874</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
@@ -3351,7 +3392,7 @@ PINEWOOD
       <g:gtin>5034123830881</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
@@ -3393,7 +3434,7 @@ PINEWOOD
       <g:gtin>5034123830898</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
@@ -3684,7 +3725,7 @@ PINEWOOD
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094114</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -4430,7 +4471,7 @@ PINEWOOD
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -4470,7 +4511,7 @@ PINEWOOD
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -4510,7 +4551,7 @@ PINEWOOD
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -4641,7 +4682,7 @@ PINEWOOD
       <g:gtin>5034123845458</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:size>4</g:size>
       <g:size_type>regular</g:size_type>
@@ -5895,7 +5936,7 @@ PINEWOOD
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247323</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Blue</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -5938,7 +5979,7 @@ PINEWOOD
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247330</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Blue</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -5981,7 +6022,7 @@ PINEWOOD
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247347</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Blue</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -7302,7 +7343,7 @@ PINEWOOD
       <g:gtin>5056274793075</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -7345,7 +7386,7 @@ PINEWOOD
       <g:gtin>5023674247743</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>blue</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -7476,7 +7517,7 @@ PINEWOOD
       <g:gtin>5023674247736</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>pink</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -7601,7 +7642,7 @@ PINEWOOD
       <g:gtin>5052460370310</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -7645,7 +7686,7 @@ PINEWOOD
       <g:gtin>5063322009521</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -7687,7 +7728,7 @@ PINEWOOD
       <g:gtin>5017414255839</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Umbrellas</g:product_type>
+      <g:product_type>Umbrella</g:product_type>
       <g:color>Purple</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -8085,7 +8126,7 @@ PINEWOOD
       <g:mpn>CR79751</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -8131,7 +8172,7 @@ PINEWOOD
       <g:mpn>CR79749</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -8177,7 +8218,7 @@ PINEWOOD
       <g:mpn>CR79747</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -8224,7 +8265,7 @@ PINEWOOD
       <g:mpn>CR79750</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
@@ -8270,7 +8311,7 @@ PINEWOOD
       <g:mpn>CR79748</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
@@ -8316,7 +8357,7 @@ PINEWOOD
       <g:mpn>CR79746</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
 <g:size>M</g:size>
       <g:size_type>regular</g:size_type>
@@ -8362,7 +8403,7 @@ PINEWOOD
       <g:gtin>5023674247743</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>green</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -8403,7 +8444,7 @@ PINEWOOD
       <g:gtin>5017414298454</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>green</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -8534,7 +8575,7 @@ PINEWOOD
       <g:gtin>5023674247736</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>green</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -8659,7 +8700,7 @@ PINEWOOD
       <g:gtin>5017414298447</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Umbrellas</g:product_type>
+      <g:product_type>Umbrella</g:product_type>
       <g:color>green</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -8748,7 +8789,7 @@ PINEWOOD
       <g:gtin>5063322009538</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -8789,7 +8830,7 @@ PINEWOOD
       <g:gtin>5052460370310</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -9312,7 +9353,7 @@ PINEWOOD
       <g:gtin>5056274793068</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -9355,7 +9396,7 @@ PINEWOOD
       <g:gtin>5023674247743</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>pink</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -9396,7 +9437,7 @@ PINEWOOD
       <g:gtin>5017414298416</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>pink</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -9527,7 +9568,7 @@ PINEWOOD
       <g:gtin>5023674247736</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>pink</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -9652,7 +9693,7 @@ PINEWOOD
       <g:gtin>5017414298409</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Umbrellas</g:product_type>
+      <g:product_type>Umbrella</g:product_type>
       <g:color>pink</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -9693,7 +9734,7 @@ PINEWOOD
       <g:gtin>5052460370310</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -12758,7 +12799,7 @@ Lining 100% Cotton</g:material>
       <g:mpn>VFCRDBANM</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
 
       <g:color>Cyan</g:color>
 <g:size>M/L</g:size>
@@ -12802,7 +12843,7 @@ Lining 100% Cotton</g:material>
       <g:mpn>VFCRDBANKPKM</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
 
       <g:color>Cyan</g:color>
 <g:size>M/L</g:size>
@@ -12846,7 +12887,7 @@ Lining 100% Cotton</g:material>
       <g:mpn>VFCRDBANS</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
 
       <g:color>Cyan</g:color>
 <g:size>M/L</g:size>
@@ -12890,7 +12931,7 @@ Lining 100% Cotton</g:material>
       <g:mpn>VFCRDBANKPKS</g:mpn>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
 
       <g:color>Cyan</g:color>
 <g:size>M/L</g:size>
@@ -16884,7 +16925,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5056240000000</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -19589,7 +19630,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418634591</g:gtin>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -19630,7 +19671,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418634591</g:gtin>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -20965,9 +21006,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85058</g:id>
       <g:item_group_id>14965073445239</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -21006,7 +21045,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85064</g:id>
       <g:item_group_id>14965434384759</g:item_group_id>
       
@@ -21217,6 +21258,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR81543</g:id>
+      <g:item_group_id>15483202044279</g:item_group_id>
+      <g:google_product_category>6367</g:google_product_category>
+      <g:title>Colmar Design 2-Seater Bistro Garden Furniture Set</g:title>
+      <g:description>Inspired by classic café seating, this bistro set adds a relaxed feel to outdoor living. With a table and two chairs, it’s ideal for light meals, drinks or unwinding outside. Designed to be practical as well as comfortable, it the perfect upgrade for your summer dining. Features:  2 single folding chairs and table, Chairs: 42 x 48 x 81cm , Table: 71 (H) x 60 (D)cm , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/colmar-design-2-seater-bistro-garden-furniture-set?variant=57106190401911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81543-Colmar-2-Seater-Blue-Bistro-Outdoor-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779977811</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81543-Colmar-2-Seater-Blue-Bistro-Outdoor-Set-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779977814</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>99.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053840000000</g:gtin>
+
+      <g:product_type>Outdoor Furniture</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Furniture</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>WF79606</g:id>
       <g:item_group_id>9520801841469</g:item_group_id>
       <g:google_product_category>2781</g:google_product_category>
@@ -21372,7 +21454,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322127041</g:gtin>
 
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -21459,7 +21541,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247323</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Blue</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -21502,7 +21584,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247330</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Blue</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -21545,7 +21627,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247347</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Blue</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -21769,7 +21851,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>9781398860193</g:gtin>
 
-      <g:product_type>Puzzles</g:product_type>
+      <g:product_type>Puzzle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -29082,7 +29164,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094459</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -31799,7 +31881,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236679</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -31839,7 +31921,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236686</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -31879,7 +31961,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236693</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -32591,7 +32673,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418623021</g:gtin>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -32987,7 +33069,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418622840</g:gtin>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -33031,7 +33113,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418622840</g:gtin>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -34117,7 +34199,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247323</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Green</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -34160,7 +34242,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247330</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Green</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -34203,7 +34285,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247347</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Green</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -34382,7 +34464,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322127102</g:gtin>
 
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -36077,7 +36159,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5017414298263</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -36906,7 +36988,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674247804</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Beige</g:color>
       <g:size>0</g:size>
@@ -36947,7 +37029,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674247804</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Beige</g:color>
       <g:size>0</g:size>
@@ -37078,7 +37160,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123807654</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Beige</g:color>
       <g:size>0</g:size>
@@ -37122,7 +37204,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123850780</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Beige</g:color>
       <g:size>0</g:size>
@@ -37291,7 +37373,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5017414298256</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Umbrellas</g:product_type>
+      <g:product_type>Umbrella</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -38384,9 +38466,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83861</g:id>
       <g:item_group_id>15078692520311</g:item_group_id>
       
@@ -38475,7 +38555,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83702</g:id>
       <g:item_group_id>15089095410039</g:item_group_id>
       
@@ -38801,7 +38883,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5056240000000</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -39283,7 +39365,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -39324,7 +39406,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -39365,7 +39447,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418667940</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -39497,7 +39579,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123845397</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>Grey</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -40344,7 +40426,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322127072</g:gtin>
 
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -40392,7 +40474,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094213</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -42087,7 +42169,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247323</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Green</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -42130,7 +42212,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247330</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Green</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -42173,7 +42255,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247347</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Green</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -43043,7 +43125,7 @@ Lining 100% Cotton</g:material>
       <g:gtin />
       <g:mpn>CR82238</g:mpn>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -43299,7 +43381,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247323</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Orange</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -43342,7 +43424,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247330</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Orange</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -43385,7 +43467,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247347</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Orange</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -43650,7 +43732,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094428</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -44055,7 +44137,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241390</g:gtin>
 
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -44100,7 +44182,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241406</g:gtin>
 
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -44145,7 +44227,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674241413</g:gtin>
 
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Nougat</g:color>
       <g:size>0</g:size>
@@ -45459,7 +45541,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094411</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -45640,7 +45722,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116014</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -45689,7 +45771,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322115987</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -45736,7 +45818,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116007</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -45784,7 +45866,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116038</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -45832,7 +45914,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322115963</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -45881,7 +45963,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322115970</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46112,7 +46194,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116113</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46159,7 +46241,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116083</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46206,7 +46288,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116106</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46254,7 +46336,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116137</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46302,7 +46384,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116069</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46349,7 +46431,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116076</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46397,7 +46479,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116595</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -46445,7 +46527,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116588</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>wax</g:size>
       <g:size_type>regular</g:size_type>
@@ -46493,7 +46575,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116601</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -46544,7 +46626,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116564</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -46590,7 +46672,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116526</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46637,7 +46719,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116533</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46684,7 +46766,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116182</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -46731,7 +46813,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322116168</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -47681,7 +47763,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418474739</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -47860,7 +47942,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247323</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Black</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -47903,7 +47985,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247330</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Black</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -47946,7 +48028,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247347</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Black</g:color>
 <g:size>S</g:size>
       <g:size_type>regular</g:size_type>
@@ -51914,6 +51996,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR81542</g:id>
+      <g:item_group_id>15483201716599</g:item_group_id>
+      <g:google_product_category>6367</g:google_product_category>
+      <g:title>Nimes Design 2-Seater Bistro Garden Furniture Set</g:title>
+      <g:description>Outdoor seating should feel considered as well as comfortable. This table and two‑chair set brings a clean, contemporary look to outdoor living, making it easy to enjoy meals, drinks or quiet moments outside. Features:  2 single folding chairs and table, Chairs: 42 x 48 x 81cm , Table: 71 (H) x 60 (D)cm , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/nimes-design-2-seater-bistro-garden-furniture-set?variant=57106190106999</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81542-Nimes-2-Seater-Grey-Bistro-Outdoor-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779977812</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81542-Nimes-2-Seater-Grey-Bistro-Outdoor-Set-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779977814</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>99.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053840000000</g:gtin>
+
+      <g:product_type>Outdoor Furniture</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Furniture</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW29174</g:id>
       <g:item_group_id>14909069558135</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -52943,7 +53066,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322127058</g:gtin>
 
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53029,7 +53152,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418665458</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Brushes</g:product_type>
+      <g:product_type>Brush</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53073,7 +53196,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418550716</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Colouring Sets</g:product_type>
+      <g:product_type>Colouring Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53118,7 +53241,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418620174</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Colouring Sets</g:product_type>
+      <g:product_type>Colouring Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53163,7 +53286,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418665496</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Pencils</g:product_type>
+      <g:product_type>Pencil</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53204,7 +53327,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418665496</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Pencils</g:product_type>
+      <g:product_type>Pencil</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53245,7 +53368,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418665496</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Pencils</g:product_type>
+      <g:product_type>Pencil</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53287,7 +53410,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418665540</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Brushes</g:product_type>
+      <g:product_type>Brush</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53300,9 +53423,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86287</g:id>
       <g:item_group_id>15457011532151</g:item_group_id>
       
@@ -53331,7 +53452,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418544982</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53375,7 +53496,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418545347</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Brushes</g:product_type>
+      <g:product_type>Brush</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53417,7 +53538,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418515838</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53428,7 +53549,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86289</g:id>
       <g:item_group_id>15457011106167</g:item_group_id>
       
@@ -53457,7 +53580,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418544999</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Brushes</g:product_type>
+      <g:product_type>Brush</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -53707,7 +53830,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418589921</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Art Sets</g:product_type>
+      <g:product_type>Art Set</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54495,6 +54618,48 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR81545</g:id>
+      <g:item_group_id>15483201913207</g:item_group_id>
+      <g:google_product_category>6367</g:google_product_category>
+      <g:title>Pink Design 2-Seater Bistro Garden Furniture Set</g:title>
+      <g:description>This outdoor furniture set offers an easy way to create a welcoming seating area outside. The table and two chairs provide a comfortable place to sit, eat or relax, without unnecessary fuss. Made for outdoor conditions, it’s designed to be low maintenance and practical for regular use. Features:  2 single folding chairs and table, Chairs: 42 x 48 x 81cm , Table: 71 (H) x 60 (D)cm , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pink-design-2-seater-bistro-garden-furniture-set?variant=57106190270839</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81545-2-Seater-Pink-Bistro-Outdoor-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779977812</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81545-2-Seater-Pink-Bistro-Outdoor-Set-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779977812</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81545-2-Seater-Pink-Bistro-Outdoor-Set-AI-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779978556</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>99.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053840000000</g:gtin>
+
+      <g:product_type>Outdoor Furniture</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Furniture</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>WF30838</g:id>
       <g:item_group_id>9521079746877</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -54571,7 +54736,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322127089</g:gtin>
 
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54616,7 +54781,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418665861</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54657,7 +54822,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418665847</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54698,7 +54863,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418298625</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54739,7 +54904,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418665854</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54780,7 +54945,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418550723</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -54821,7 +54986,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5024418474173</g:gtin>
  
       <g:brand>SiL Artist</g:brand>
-      <g:product_type>Canvases</g:product_type>
+      <g:product_type>Canvas</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -55309,7 +55474,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5056240000000</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -59636,7 +59801,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5060321964370</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>Blue</g:color>
       <g:size>4</g:size>
       <g:size_type>regular</g:size_type>
@@ -59683,7 +59848,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5060321964271</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
 
       <g:color>Pink</g:color>
 <g:size>S</g:size>
@@ -59729,7 +59894,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5060321964288</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
 
       <g:color>Pink</g:color>
 <g:size>S</g:size>
@@ -59775,7 +59940,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5060321964295</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
 
       <g:color>Pink</g:color>
 <g:size>S</g:size>
@@ -59821,7 +59986,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5060321964301</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
 
       <g:color>Pink</g:color>
 <g:size>S</g:size>
@@ -63557,7 +63722,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5060321964318</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
       <g:color>Pink/Blue</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -66681,7 +66846,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -66722,7 +66887,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -66763,7 +66928,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418664710</g:gtin>
 
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -66976,7 +67141,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094107</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
       <g:color>grey</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -79927,7 +80092,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485609050487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81743,6 +81908,153 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>LW85547</g:id>
+      <g:item_group_id>15491648717175</g:item_group_id>
+      
+      <g:title>Serenity Amethyst Crystal Bowl Diffuser &amp; Oil</g:title>
+      <g:description>Create a calming corner you didn’t know you needed, where scent and stillness meet. This crystal bowl diffuser gently fills your space with relaxing fragrance while amethyst stones add a soothing visual touch. Perfect on a bedside or coffee table, it brings quiet luxury into everyday life.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-amethyst-crystal-bowl-diffuser-oil?variant=57150435623287</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85547-Serenity-Amethyst-Crystal-Bowl-Diffuser--Oil-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85547-Serenity-Amethyst-Crystal-Bowl-Diffuser--Oil-Closeup-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674450</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85547-Serenity-Amethyst-Crystal-Bowl-Diffuser--Oil-White-Cutout-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674450</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85547-Serenity-Amethyst-Crystal-Bowl-Diffuser--Oil-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85547-Serenity-Amethyst-Crystal-Bowl-Diffuser--Oil-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674420</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85547-Serenity-Amethyst-Crystal-Bowl-Diffuser--Oil-Range-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674418</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322145557</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Diffuser</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>110 mm </g:product_length>
+      <g:product_width>110 mm </g:product_width>
+      <g:product_height>94 mm </g:product_height>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW85546</g:id>
+      <g:item_group_id>15491648749943</g:item_group_id>
+      
+      <g:title>Serenity Amethyst Crystal Infused 230ml Oil Diffuser</g:title>
+      <g:description>The Serenity Amethyst Crystal Infused Oil Diffuser makes an elegant, ready-to-gift treat, perfect for bringing calm to everyday moments. Featuring real amethyst crystals within a sleek glass bottle, it adds a touch of natural beauty while releasing a soft, soothing fragrance.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-amethyst-crystal-infused-230ml-oil-diffuser?variant=57150435656055</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85546-Serenity-Amethyst-Crystal-Infused-230ml-Oil-Diffuser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674450</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85546-Serenity-Amethyst-Crystal-Infused-230ml-Oil-Diffuser-White-Cut-Out-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674447</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85546-Serenity-Amethyst-Crystal-Infused-230ml-Oil-Diffuser-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85546-Serenity-Amethyst-Crystal-Infused-230ml-Oil-Diffuser-White-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674419</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85546-Serenity-Amethyst-Crystal-Infused-230ml-Oil-Diffuser-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674418</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85546-Serenity-Amethyst-Crystal-Infused-230ml-Oil-Diffuser-Range-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674420</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322145540</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Diffuser</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>80 mm </g:product_length>
+      <g:product_width>80 mm </g:product_width>
+      <g:product_height>118 mm </g:product_height>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW85545</g:id>
+      <g:item_group_id>15491648848247</g:item_group_id>
+      
+      <g:title>Serenity Amethyst Crystal Infused 380g Candle</g:title>
+      <g:description>The Serenity Amethyst Crystal Infused Candle brings a sense of calm and understated luxury to any space. Featuring genuine amethyst crystals and a soothing lavender tone, it creates a peaceful, relaxing atmosphere. Encased in a beautifully crafted glass jar with a soft gradient from light to deep purple, it’s elegantly presented and ready to gift.  Perfect for unwinding, it’s ideal for moments of relaxation, reflection, or sharing a little tranquillity with loved ones.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-amethyst-crystal-infused-380g-candle?variant=57150435754359</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85545-Serenity-Amethyst-Crystal-Infused-380g-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674450</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85545-Serenity-Amethyst-Crystal-Infused-380g-Candle-Cut-Out-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85545-Serenity-Amethyst-Crystal-Infused-380g-Candle-Cut-Out-Lid-Off-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674450</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85545-Serenity-Amethyst-Crystal-Infused-380g-Candle-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674418</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85545-Serenity-Amethyst-Crystal-Infused-380g-Candle-Lit-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674419</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85545-Serenity-Amethyst-Crystal-Infused-380g-Candle-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322145519</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>100 mm </g:product_length>
+      <g:product_width>100 mm </g:product_width>
+      <g:product_height>112 mm </g:product_height>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW84288</g:id>
       <g:item_group_id>14996982006135</g:item_group_id>
       
@@ -81778,7 +82090,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070347</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
 <g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
@@ -81826,7 +82138,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070354</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
 <g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
@@ -81871,7 +82183,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070378</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -81965,7 +82277,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070446</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
 <g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
@@ -82013,7 +82325,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070453</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
 <g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
@@ -82059,7 +82371,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070514</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82104,7 +82416,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070477</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82328,7 +82640,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32301</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82455,7 +82767,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322079012</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82544,7 +82856,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070392</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
 <g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
@@ -82592,7 +82904,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070408</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
 <g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
@@ -82638,7 +82950,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070422</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82772,7 +83084,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5017224916524</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82814,7 +83126,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32314</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -82856,7 +83168,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32315</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -83519,7 +83831,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32303</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -83729,7 +84041,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32300</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -83814,7 +84126,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32304</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -83856,7 +84168,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32307</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
 <g:size>L</g:size>
       <g:size_type>regular</g:size_type>
@@ -83899,7 +84211,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32299</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -83947,6 +84259,149 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW85544</g:id>
+      <g:item_group_id>15491648782711</g:item_group_id>
+      
+      <g:title>Serenity Rose Quartz Crystal Bowl Diffuser &amp; Oil</g:title>
+      <g:description>The Serenity Rose Quartz Crystal Bowl Diffuser &amp; Oil offers a calming way to enhance any space, blending gentle aromatherapy with an elegant crystal-inspired design. This distinctive set features a glass bowl filled with soft pink liquid, paired with a precision dropper for adding fragrance with ease. Beautifully presented in a coordinated gift box, it’s ideal for creating a peaceful atmosphere or giving as a thoughtful, ready-to-wrap present.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-rose-quartz-crystal-bowl-diffuser-oil?variant=57150435688823</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85544-Serenity-Rose-Quartz-Crystal-Bowl-Diffuser--Oil-White-Cutout-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674448</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85544-Serenity-Rose-Quartz-Crystal-Bowl-Diffuser--Oil-Close-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674448</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85544-Serenity-Rose-Quartz-Crystal-Bowl-Diffuser--Oil-Close-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85544-Serenity-Rose-Quartz-Crystal-Bowl-Diffuser--Oil-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674450</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85544-Serenity-Rose-Quartz-Crystal-Bowl-Diffuser--Oil-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674419</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85544-Serenity-Rose-Quartz-Crystal-Bowl-Diffuser--Oil-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674417</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322145533</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Diffuser</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW85543</g:id>
+      <g:item_group_id>15491648881015</g:item_group_id>
+      
+      <g:title>Serenity Rose Quartz Crystal Infused 230ml Oil Diffuser</g:title>
+      <g:description>The Serenity Rose Quartz Crystal Infused Oil Diffuser brings a sense of calm and balance to any room. Filled with genuine rose quartz crystals, it gently disperses a soft, soothing fragrance to encourage relaxation and tranquillity. Presented in a stylish peach-toned box, it’s ready to gift, while the sleek bottle design adds a modern touch to any space. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-rose-quartz-crystal-infused-230ml-oil-diffuser?variant=57150435787127</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85543-Serenity-Rose-Quartz-Crystal-Infused-230ml-Oil-Diffuser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85543-Serenity-Rose-Quartz-Crystal-Infused-230ml-Oil-Diffuser-White-Cut-Out-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674446</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85543-Serenity-Rose-Quartz-Crystal-Infused-230ml-Oil-Diffuser-Closeup-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674419</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85543-Serenity-Rose-Quartz-Crystal-Infused-230ml-Oil-Diffuser-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674448</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85543-Serenity-Rose-Quartz-Crystal-Infused-230ml-Oil-Diffuser-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674418</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322145526</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Diffuser</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>80 mm </g:product_length>
+      <g:product_width>80 mm </g:product_width>
+      <g:product_height>118 mm </g:product_height>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW85542</g:id>
+      <g:item_group_id>15491648913783</g:item_group_id>
+      
+      <g:title>Serenity Rose Quartz Crystal Infused 380g Candle</g:title>
+      <g:description>The Serenity Rose Quartz Crystal Infused Candle offers a gentle way to create calm and comfort at home. Housed in an elegant glass vessel, it features genuine rose quartz crystals, known for encouraging love, healing and relaxation. As it burns, its soft fragrance fills the space, helping you unwind and reset. A thoughtful gift or self-care treat, it brings a peaceful ambience to everyday moments.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-rose-quartz-crystal-infused-380g-candle?variant=57150435819895</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85542-Serenity-Rose-Quartz-Crystal-Infused-380g-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85542-Serenity-Rose-Quartz-Crystal-Infused-380g-Candle-Candle-and-Box-Closeup-Lid-Off-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674449</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85542-Serenity-Rose-Quartz-Crystal-Infused-380g-Candle-Box-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674448</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85542-Serenity-Rose-Quartz-Crystal-Infused-380g-Candle-Closeup-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674419</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85542-Serenity-Rose-Quartz-Crystal-Infused-380g-Candle-Candle-and-Box-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674417</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85542-Serenity-Rose-Quartz-Crystal-Infused-380g-Candle-Range-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780674419</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322145502</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>100 mm </g:product_length>
+      <g:product_width>100 mm </g:product_width>
+      <g:product_height>112 mm </g:product_height>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
@@ -84067,7 +84522,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32320FOCUS</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84110,7 +84565,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32320BALANCE</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84153,7 +84608,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32320MINDSET</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84196,7 +84651,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW32320STAY</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Decorative Plaques</g:product_type>
+      <g:product_type>Decorative Plaque</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84326,7 +84781,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070507</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -84373,7 +84828,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070491</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84605,7 +85060,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070538</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -84650,7 +85105,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322070521</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -85392,9 +85847,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SH82290</g:id>
       <g:item_group_id>9676217975101</g:item_group_id>
       
@@ -86260,7 +86713,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF29379</g:id>
       <g:item_group_id>9521280745789</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -87431,7 +87886,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418609513</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -87472,7 +87927,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418609513</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -87514,7 +87969,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689362</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -87555,7 +88010,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689362</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Bags</g:product_type>
+      <g:product_type>Bag</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -87597,7 +88052,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689577</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Chopping Boards</g:product_type>
+      <g:product_type>Chopping Board</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -87640,7 +88095,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>CR86245YELLOW</g:mpn>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Chopping Boards</g:product_type>
+      <g:product_type>Chopping Board</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -87683,7 +88138,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>CR86245GREEN</g:mpn>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Chopping Boards</g:product_type>
+      <g:product_type>Chopping Board</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -87852,7 +88307,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418699576</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Fans</g:product_type>
+      <g:product_type>Fan</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -88145,7 +88600,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689546</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Fans</g:product_type>
+      <g:product_type>Fan</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -88187,7 +88642,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689546</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Fans</g:product_type>
+      <g:product_type>Fan</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -88229,7 +88684,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689546</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Fans</g:product_type>
+      <g:product_type>Fan</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -88442,7 +88897,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418694014</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -88487,7 +88942,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418694014</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -88532,7 +88987,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418694014</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -88727,7 +89182,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Yellow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442769</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86258-21cm-Stripe-Vase-with-Handles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442769</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>15.99 GBP</g:price>
 
       <g:shipping>
@@ -89005,7 +89460,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689386</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -89046,7 +89501,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689386</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -89087,7 +89542,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689386</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -89132,7 +89587,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689409</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -89179,7 +89634,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689409</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -89226,7 +89681,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689409</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:color>Blue</g:color>
       <g:size>0</g:size>
@@ -89399,7 +89854,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418702382</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -89441,7 +89896,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418702382</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Diffusers</g:product_type>
+      <g:product_type>Diffuser</g:product_type>
 
       <g:color>Yellow</g:color>
       <g:size>0</g:size>
@@ -89665,7 +90120,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CR82247</g:mpn>
 
-      <g:product_type>Umbrellas</g:product_type>
+      <g:product_type>Umbrella</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -89839,7 +90294,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5023674246562</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -89879,7 +90334,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5023674246579</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -89920,7 +90375,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5023674246555</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -89961,7 +90416,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5023674246548</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -90578,7 +91033,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5023674228971</g:gtin>
  
       <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Dog Bandanas</g:product_type>
+      <g:product_type>Dog Bandana</g:product_type>
       <g:color>orange</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -92455,7 +92910,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236679</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92497,7 +92952,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236679</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92539,7 +92994,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236679</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92581,7 +93036,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674217463</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92623,7 +93078,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674217463</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92665,7 +93120,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236686</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92707,7 +93162,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236686</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92749,7 +93204,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236686</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92791,7 +93246,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674217487</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92833,7 +93288,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674217487</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92875,7 +93330,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236693</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92917,7 +93372,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236693</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -92959,7 +93414,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674236693</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -93001,7 +93456,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674217500</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -93043,7 +93498,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674217500</g:gtin>
 
-      <g:product_type>Outdoor Rugs</g:product_type>
+      <g:product_type>Outdoor Rug</g:product_type>
 
       <g:color>Yellow</g:color>
 <g:size>S</g:size>
@@ -93260,7 +93715,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>9781398860209</g:gtin>
 
-      <g:product_type>Puzzles</g:product_type>
+      <g:product_type>Puzzle</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -99711,7 +100166,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999358839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>46.00 GBP</g:price>
 
       <g:shipping>
@@ -104500,7 +104955,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF76999-Welsh-Flag-2026-Wedding-Favour-Pin-Badge-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777475803</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF76999-Welsh-Flag-2026-Wedding-Favour-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1777648550</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.00 GBP</g:price>
 
       <g:shipping>
@@ -105199,7 +105654,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094442</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -105246,7 +105701,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322127133</g:gtin>
 
-      <g:product_type>Keyrings</g:product_type>
+      <g:product_type>Keyring</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -105294,7 +105749,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5063322094312</g:gtin>
 
-      <g:product_type>Toys</g:product_type>
+      <g:product_type>Toy</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -106473,7 +106928,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CX81276</g:mpn>
 
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -106514,7 +106969,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CX81275</g:mpn>
 
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -106555,7 +107010,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CX81277</g:mpn>
 
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -106596,7 +107051,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin />
       <g:mpn>CX81274</g:mpn>
 
-      <g:product_type>Candles</g:product_type>
+      <g:product_type>Candle</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -106982,7 +107437,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>9781398860216</g:gtin>
 
-      <g:product_type>Puzzles</g:product_type>
+      <g:product_type>Puzzle</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -107505,9 +107960,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80096</g:id>
       <g:item_group_id>14991989866871</g:item_group_id>
       
