@@ -3929,6 +3929,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -3973,6 +3974,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
+      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4061,6 +4063,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4147,6 +4150,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4281,6 +4285,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4325,6 +4330,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4411,6 +4417,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4453,6 +4460,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4493,6 +4501,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4533,6 +4542,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4664,6 +4674,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5177,7 +5188,7 @@ PINEWOOD
     </item>
 	
     <item>
-      <g:id>CR84793</g:id>
+      <g:id>CR47452</g:id>
       <g:item_group_id>15473411686775</g:item_group_id>
       
       <g:title>Blenheim Planter with Bee Design - White / 40cm</g:title>
@@ -5188,7 +5199,7 @@ PINEWOOD
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84788-and-CR84792-Grey-Bee-Blenheim-Plant-Pot-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84790-and-CR84795-Sea-Green-Bee-Blenheim-Plant-Pot-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -5652,7 +5663,7 @@ PINEWOOD
     </item>
 	
     <item>
-      <g:id>CR84787</g:id>
+      <g:id>CR43532</g:id>
       <g:item_group_id>15017107882359</g:item_group_id>
       
       <g:title>Blenheim Planter with Tree Design - Sea Green / 30cm</g:title>
@@ -5661,7 +5672,7 @@ PINEWOOD
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84795-56cm-Blenheim-Sea-Green-Tree-Plant-Pot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065056</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -5703,7 +5714,7 @@ PINEWOOD
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84795-56cm-Blenheim-Sea-Green-Tree-Plant-Pot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065056</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80041-BlenheimPotGrey2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1750256756</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -39731,6 +39742,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39775,6 +39787,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39862,6 +39875,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39907,6 +39921,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39948,6 +39963,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -39989,6 +40005,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -40031,6 +40048,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -40121,6 +40139,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43667,6 +43686,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>2.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -58867,7 +58887,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80414-Race-for-Life-Pretty-Muddy-Ladies-Pink-Ombre-Vest-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404803</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80414-Race-for-Life-Pretty-Muddy-Ladies-Pink-Ombre-Vest-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>11.00 GBP</g:price>
 
       <g:shipping>
@@ -90662,6 +90682,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>2.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
