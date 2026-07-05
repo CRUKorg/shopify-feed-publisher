@@ -3535,7 +3535,7 @@ PINEWOOD
       <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-duo-tea-towels?variant=55594625204599</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84563-Dog-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509472</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>3.49 GBP</g:sale_price>
 
@@ -3716,7 +3716,7 @@ PINEWOOD
       <g:link>https://shop.cancerresearchuk.org/products/betty-the-border-terrier-cushion?variant=55594624811383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84556-Betty-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509197</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.49 GBP</g:price>
       <g:sale_price>4.99 GBP</g:sale_price>
 
@@ -23665,7 +23665,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23709,7 +23709,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23753,7 +23753,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Rose</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23774,7 +23774,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-12-2048x2048-Cancer-Research-UK-Online-Shop_a2a95dc7-41e9-4819-8cc1-ff7399789625_1024x1024.jpg?v=1755701328</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-8-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755701328</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -23798,7 +23798,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Rose</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -27641,133 +27641,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83879</g:id>
-      <g:item_group_id>15077047337335</g:item_group_id>
-      
-      <g:title>Hedgehog Slippers - Small - UK 3-4</g:title>
-      <g:description>Enjoy warmth and comfort with these cosy Hedgehog Slippers, available in a range of sizes to fit everyone. Their soft design keeps your feet snug, making them perfect for relaxing at home while adding a touch of playful charm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/hedgehog-slippers?variant=55554693071223</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83879-Hedgehog-Slippers-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185400</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83879-Hedgehog-Slippers-Small-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756817418</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242328</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Slippers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester/EPE/TPR</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83880</g:id>
-      <g:item_group_id>15077047337335</g:item_group_id>
-      
-      <g:title>Hedgehog Slippers - Medium - UK 5-6</g:title>
-      <g:description>Enjoy warmth and comfort with these cosy Hedgehog Slippers, available in a range of sizes to fit everyone. Their soft design keeps your feet snug, making them perfect for relaxing at home while adding a touch of playful charm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/hedgehog-slippers?variant=55554693103991</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83879-Hedgehog-Slippers-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185400</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83879-Hedgehog-Slippers-Small-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756817418</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242335</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Slippers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester/EPE/TPR</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83881</g:id>
-      <g:item_group_id>15077047337335</g:item_group_id>
-      
-      <g:title>Hedgehog Slippers - Large - UK 7-8</g:title>
-      <g:description>Enjoy warmth and comfort with these cosy Hedgehog Slippers, available in a range of sizes to fit everyone. Their soft design keeps your feet snug, making them perfect for relaxing at home while adding a touch of playful charm.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/hedgehog-slippers?variant=55554693136759</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83879-Hedgehog-Slippers-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185400</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83879-Hedgehog-Slippers-Small-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756817418</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242342</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Slippers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester/EPE/TPR</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -38492,7 +38365,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>GC32937</g:id>
       <g:item_group_id>9521072079165</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -38531,9 +38406,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW84442</g:id>
       <g:item_group_id>15106111537527</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -42107,7 +41980,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80431-Race-for-Life-Pretty-Muddy-Kids-T-Shirt-Ombre-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404021</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80431-Race-for-Life-Pretty-Muddy-Kids-Pink-Ombre-T-Shirt-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404021</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.00 GBP</g:price>
 
       <g:shipping>
@@ -45498,7 +45371,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80386-Race-for-Life-Kids-T-Shirt-Ombre-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770928998</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80386-Race-for-Life-Kids-T-Shirt-Ombre-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770928998</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.00 GBP</g:price>
 
       <g:shipping>
@@ -72541,7 +72414,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SN84908</g:id>
       <g:item_group_id>15352163500407</g:item_group_id>
       <g:google_product_category>538</g:google_product_category>
@@ -72622,9 +72497,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81808</g:id>
       <g:item_group_id>9659072839997</g:item_group_id>
       
