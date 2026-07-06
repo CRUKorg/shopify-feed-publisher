@@ -2392,7 +2392,7 @@ PINEWOOD
       <g:link>https://shop.cancerresearchuk.org/products/bee-kneeling-pads-duo?variant=57024684097911</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85069-Green-Bee-Pack-of-2-Kneeling-Pads-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776679392</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -21253,50 +21253,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83866</g:id>
-      <g:item_group_id>15076892574071</g:item_group_id>
-      
-      <g:title>Dinky the Dachshund Doormat</g:title>
-      <g:description>Welcome guests with a smile using this festive doormat featuring a dachshund in a red and white striped sweater and Santa hat. With the playful phrase “Dachshund through the snow,” it’s a fun and functional way to add seasonal charm to your entrance.  Designed to help wipe dirt off shoes while spreading holiday cheer, it’s perfect for porches, hallways, or any doorway needing a touch of Christmas spirit. Dig up the rest of our dachshund homewares, decorations and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/dinky-the-dachshund-doormat?variant=55552889389431</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83866-Dinky-Dachshund-Doormat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754480662</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-      <g:sale_price>1.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242199</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Doormats</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>58 cm </g:product_width>
-      <g:product_height>40 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83869</g:id>
       <g:item_group_id>15077066080631</g:item_group_id>
       <g:google_product_category>696</g:google_product_category>
@@ -23810,7 +23766,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR80526</g:id>
       <g:item_group_id>15231392579959</g:item_group_id>
       
@@ -23851,9 +23809,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR79693</g:id>
       <g:item_group_id>9520867082557</g:item_group_id>
       <g:google_product_category>583</g:google_product_category>
@@ -26793,7 +26749,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/green-bee-bench-cushion?variant=57024633864567</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85059-Green-Bee-Bench-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776677854</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.99 GBP</g:price>
 
       <g:shipping>
@@ -38406,7 +38362,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW84442</g:id>
       <g:item_group_id>15106111537527</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -38525,9 +38483,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81812HOHOHO</g:id>
       <g:item_group_id>14671572238711</g:item_group_id>
       
@@ -50208,7 +50164,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/robin-plaque?variant=55604443775351</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83746-Robin-Plaques-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755880181</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -72497,7 +72453,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX81808</g:id>
       <g:item_group_id>9659072839997</g:item_group_id>
       
@@ -72539,9 +72497,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84021</g:id>
       <g:item_group_id>15090028839287</g:item_group_id>
       
@@ -84298,7 +84254,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/unisex-bobble-hat?variant=49371926528317</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81375-Bobble-Hat-Pink-Cancer-Research-UK-Online-Shop_1be3bcc8-7fe3-4c6a-8011-6f55fbb96433_1024x1024.jpg?v=1763731375</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
 
       <g:shipping>
