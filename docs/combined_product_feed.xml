@@ -3644,7 +3644,7 @@ PINEWOOD
       <g:gtin>5034123845441</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coasters</g:product_type>
+      <g:product_type>Coaster</g:product_type>
       <g:color>Grey</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -3826,7 +3826,7 @@ PINEWOOD
       <g:gtin>5034123845434</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
       <g:color>Sand</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -16187,52 +16187,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83688</g:id>
-      <g:item_group_id>15076793713015</g:item_group_id>
-      <g:google_product_category>4257</g:google_product_category>
-      <g:title>Clover the Highland Cow Breakfast Mug</g:title>
-      <g:description>This generously sized Highland Cow mug is built for busy mornings and cosy evenings alike.  Its sturdy handle and durable finish make it ideal for daily use, whether you're sipping coffee, tea, or hot chocolate.  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/clover-the-highland-cow-breakfast-mug?variant=55552499351927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760442392</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83688-Clover-Highland-Cow-Breakfast-Mug-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756816033</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123836883</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>13 cm </g:product_width>
-      <g:product_height>10 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83847</g:id>
       <g:item_group_id>15076740694391</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -21321,7 +21275,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123836906</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -21497,7 +21451,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123837019</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coasters</g:product_type>
+      <g:product_type>Coaster</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -23711,7 +23665,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR79693</g:id>
       <g:item_group_id>9520867082557</g:item_group_id>
       <g:google_product_category>583</g:google_product_category>
@@ -23754,9 +23710,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83916</g:id>
       <g:item_group_id>15062547661175</g:item_group_id>
       
@@ -25780,7 +25734,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836982</g:gtin>
 
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
       <g:color>Orange</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -26138,7 +26092,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418635666</g:gtin>
 
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -27877,7 +27831,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123850759</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:color>Beige</g:color>
       <g:size>0</g:size>
@@ -27921,7 +27875,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123850766</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:color>Beige</g:color>
       <g:size>0</g:size>
@@ -28095,7 +28049,7 @@ Lining 100% Cotton</g:material>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123836999</g:gtin>
 
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -28140,7 +28094,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123850797</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coasters</g:product_type>
+      <g:product_type>Coaster</g:product_type>
 
       <g:color>Beige</g:color>
       <g:size>0</g:size>
@@ -28181,7 +28135,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123850803</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coasters</g:product_type>
+      <g:product_type>Coaster</g:product_type>
 
       <g:color>Beige</g:color>
       <g:size>0</g:size>
@@ -29585,50 +29539,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83685</g:id>
-      <g:item_group_id>15076774183287</g:item_group_id>
-      <g:google_product_category>4257</g:google_product_category>
-      <g:title>Humphrey the Hare Breakfast Mug</g:title>
-      <g:description>This ceramic mug combines seasonal charm with everyday practicality.  Featuring a festive design of holly leaves, berries, and a characterful hare motif, it offers a generous capacity ideal for coffee, tea, or hot chocolate.  Looking for more of Humphrey? Spring into the rest of our sweet hare decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/humphrey-the-hare-breakfast-mug?variant=55552468582775</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83685-Humphrey-Hare-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123836852</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>13 cm </g:product_width>
-      <g:product_height>10 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83861</g:id>
       <g:item_group_id>15078692520311</g:item_group_id>
       
@@ -29843,50 +29753,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CR80092</g:id>
-      <g:item_group_id>14988551487863</g:item_group_id>
-      
-      <g:title>If Friends Were Flowers Mug</g:title>
-      <g:description>A beautiful, flower and bee design ceramic mug that's ideal for any garden lover, nature enthusiast, or just as a gift to yourself for a moment of relaxation. Alongside the flowers and bees is the phrase "If friends were flowers I'd pick you".</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/if-friends-were-flowers-mug?variant=55237681381751</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80092-If-Friends-Were-Flowers-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1747835938</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5063322020076</g:gtin>
-
-      <g:product_type>Mugs</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Ceramic</g:material>
-      <g:product_length>7.5 cm </g:product_length>
-      <g:product_width>11 cm </g:product_width>
-      <g:product_height>8 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR80529</g:id>
       <g:item_group_id>15231392448887</g:item_group_id>
       
@@ -29959,7 +29825,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123845380</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coasters</g:product_type>
+      <g:product_type>Coaster</g:product_type>
       <g:color>Grey</g:color>
       <g:size>4</g:size>
       <g:size_type>regular</g:size_type>
@@ -30142,7 +30008,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5034123845373</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
       <g:color>White</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -30643,7 +30509,7 @@ Lining 100% Cotton</g:material>
       <g:title>Julie Longer Style Lace Front Synthetic Hair Wig - Spring Honey / VAT Exempt</g:title>
       <g:description>A ready-made, long length acrylic wig with bouncy curls and a face-framing fringe. Made from modacrylic synthetic fibres and a high quality hand-tied partial monofilament fabric top, with sheer lace front hair line and a comfortable open wefted back. Features:  Available in 3 shades: Spring Honey, Dark Brown, and Honey Glaze Rooted., Adjustable elastic hooks allow you to tighten or loosen the wig., Includes full aftercare information and safety leaflet., Includes a complimentary 15-minute virtual consultation with a Wig Specialist to discuss aftercare, styling and answer any questions you may have., 154g,  With each purchase, you will receive a complimentary 15-minute virtual consultation with a Wig Specialist to discuss aftercare, styling and answer any questions you may have. To arrange your call, please follow this link: https://www.morehairnow.com/online-booking, select a time and date, enter your details and add the hashtag #CancerCare to the comments section.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/julie-longer-style-lace-front-synthetic-hair-wig?variant=49003983175997</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Julie-Longer-Style-Mono-Lace-Front-Synthetic-Hair-Wig-a-Cancer-Research-UK-Online-Shop_902b27be-a94e-4503-8052-5f1451e678eb_1024x1024.jpg?v=1719230045</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Julie-Longer-Style-Mono-Lace-Front-Synthetic-Hair-Wig-a-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783610724</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>324.98 GBP</g:price>
@@ -30688,7 +30554,7 @@ Lining 100% Cotton</g:material>
       <g:title>Julie Longer Style Lace Front Synthetic Hair Wig - Honey Glaze / VAT Exempt</g:title>
       <g:description>A ready-made, long length acrylic wig with bouncy curls and a face-framing fringe. Made from modacrylic synthetic fibres and a high quality hand-tied partial monofilament fabric top, with sheer lace front hair line and a comfortable open wefted back. Features:  Available in 3 shades: Spring Honey, Dark Brown, and Honey Glaze Rooted., Adjustable elastic hooks allow you to tighten or loosen the wig., Includes full aftercare information and safety leaflet., Includes a complimentary 15-minute virtual consultation with a Wig Specialist to discuss aftercare, styling and answer any questions you may have., 154g,  With each purchase, you will receive a complimentary 15-minute virtual consultation with a Wig Specialist to discuss aftercare, styling and answer any questions you may have. To arrange your call, please follow this link: https://www.morehairnow.com/online-booking, select a time and date, enter your details and add the hashtag #CancerCare to the comments section.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/julie-longer-style-lace-front-synthetic-hair-wig?variant=49005518061885</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Julie-Longer-Style-Mono-Lace-Front-Synthetic-Hair-Wig-a-Cancer-Research-UK-Online-Shop_902b27be-a94e-4503-8052-5f1451e678eb_1024x1024.jpg?v=1719230045</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Julie-Longer-Style-Mono-Lace-Front-Synthetic-Hair-Wig-a-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783610724</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>324.98 GBP</g:price>
@@ -30733,7 +30599,7 @@ Lining 100% Cotton</g:material>
       <g:title>Julie Longer Style Lace Front Synthetic Hair Wig - Dark Brown / VAT Exempt</g:title>
       <g:description>A ready-made, long length acrylic wig with bouncy curls and a face-framing fringe. Made from modacrylic synthetic fibres and a high quality hand-tied partial monofilament fabric top, with sheer lace front hair line and a comfortable open wefted back. Features:  Available in 3 shades: Spring Honey, Dark Brown, and Honey Glaze Rooted., Adjustable elastic hooks allow you to tighten or loosen the wig., Includes full aftercare information and safety leaflet., Includes a complimentary 15-minute virtual consultation with a Wig Specialist to discuss aftercare, styling and answer any questions you may have., 154g,  With each purchase, you will receive a complimentary 15-minute virtual consultation with a Wig Specialist to discuss aftercare, styling and answer any questions you may have. To arrange your call, please follow this link: https://www.morehairnow.com/online-booking, select a time and date, enter your details and add the hashtag #CancerCare to the comments section.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/julie-longer-style-lace-front-synthetic-hair-wig?variant=49005518094653</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Julie-Longer-Style-Mono-Lace-Front-Synthetic-Hair-Wig-a-Cancer-Research-UK-Online-Shop_902b27be-a94e-4503-8052-5f1451e678eb_1024x1024.jpg?v=1719230045</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Julie-Longer-Style-Mono-Lace-Front-Synthetic-Hair-Wig-a-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783610724</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>324.98 GBP</g:price>
@@ -33738,7 +33604,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322122701</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -33784,7 +33650,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322122749</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -33830,7 +33696,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322122732</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -33876,7 +33742,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322122718</g:gtin>
  
       <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -37318,7 +37184,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-refreshing-oatmeal-cleansing-bar?variant=49004046319933</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81498-MooGoo-Cleansers-Soap-Bar-Oatmeal-Cancer-Research-UK-Online-Shop_e176a0c0-e327-42c5-8936-477f1147b6ce_1024x1024.jpg?v=1719230344</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -38392,7 +38258,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW84442</g:id>
       <g:item_group_id>15106111537527</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -38677,9 +38545,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85741</g:id>
       <g:item_group_id>15405432668535</g:item_group_id>
       
@@ -48829,51 +48695,6 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
-      <g:id>CX83687</g:id>
-      <g:item_group_id>15076790567287</g:item_group_id>
-      <g:google_product_category>4257</g:google_product_category>
-      <g:title>Ralph Robin &amp; Family Breakfast Mug</g:title>
-      <g:description>This ceramic mug is a great choice for everyday use, whether you're enjoying a morning coffee or winding down with a hot drink in the evening.  Its generous size and comfortable handle make it ideal for breakfast time, while the festive robin design adds seasonal charm. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ralph-robin-family-breakfast-mug?variant=55552489587063</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83687-Ralph-Robin-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83687-Ralph-Robin-Breakfast-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756816842</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123836876</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>13 cm </g:product_width>
-      <g:product_height>10 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83695</g:id>
       <g:item_group_id>15089095082359</g:item_group_id>
       
@@ -56608,7 +56429,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -65710,7 +65531,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5017224937345</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -66503,7 +66324,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322145700</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -66551,7 +66372,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322145687</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -66599,7 +66420,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5063322145670</g:gtin>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -66648,7 +66469,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:mpn>LW85555</g:mpn>
  
       <g:brand>Serenity by Sophia</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -71613,7 +71434,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689553</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:color>Green</g:color>
       <g:size>0</g:size>
@@ -71655,7 +71476,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689553</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:color>Green</g:color>
       <g:size>0</g:size>
@@ -71697,7 +71518,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5024418689553</g:gtin>
  
       <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
 
       <g:color>Green</g:color>
       <g:size>0</g:size>
@@ -72484,7 +72305,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX81808</g:id>
       <g:item_group_id>9659072839997</g:item_group_id>
       
@@ -72697,9 +72520,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU84274</g:id>
       <g:item_group_id>15144570683767</g:item_group_id>
       
@@ -75586,7 +75407,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5014728129177</g:gtin>
  
       <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
       <g:color>White</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -75629,7 +75450,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5014728129207</g:gtin>
  
       <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Coasters</g:product_type>
+      <g:product_type>Coaster</g:product_type>
       <g:color>White</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -75672,7 +75493,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5014728129184</g:gtin>
  
       <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Mugs</g:product_type>
+      <g:product_type>Mug</g:product_type>
       <g:color>White</g:color>
       <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
@@ -77049,50 +76870,6 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
-      <g:id>CX83689</g:id>
-      <g:item_group_id>15076794892663</g:item_group_id>
-      <g:google_product_category>4257</g:google_product_category>
-      <g:title>Tink the Tabby Cat Breakfast Mug</g:title>
-      <g:description>Enjoy your morning brew in this generously sized ceramic mug, perfect for coffee, tea, or hot chocolate.  Its sturdy build makes it ideal for daily use, while the festive kitten design adds a cheerful touch to your breakfast routine.  Easy to clean and comfortable to hold, it’s a great choice for cosy winter mornings or as a seasonal gift. Fancy pouncing on more of Tink? Follow the paw prints to more cat decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tink-the-tabby-cat-breakfast-mug?variant=55552502825335</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83689-Tink-Tabby-Cat-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123836890</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>13 cm </g:product_width>
-      <g:product_height>10 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83700</g:id>
       <g:item_group_id>15078744097143</g:item_group_id>
       <g:google_product_category>2363</g:google_product_category>
@@ -77122,7 +76899,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5034123837002</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coasters</g:product_type>
+      <g:product_type>Coaster</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -77175,50 +76952,6 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83686</g:id>
-      <g:item_group_id>15076757668215</g:item_group_id>
-      <g:google_product_category>4257</g:google_product_category>
-      <g:title>Titch the Tiny Mouse Breakfast Mug</g:title>
-      <g:description>This ceramic mug offers both practicality and seasonal appeal.  Its generous capacity makes it suitable for a variety of hot beverages, while the smooth finish and comfortable handle ensure ease of use throughout the day.  The festive design, featuring a mouse in a Santa hat holding a pine branch with red berries, adds a refined touch to your winter tableware. Scurry down the hole and discover the rest of our sweet mouse decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/titch-the-tiny-mouse-breakfast-mug?variant=55552441385335</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83686-Titch-Mouse-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760362333</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123836869</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mugs</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>13 cm </g:product_width>
-      <g:product_height>10 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -87383,50 +87116,6 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Greeting Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR80093</g:id>
-      <g:item_group_id>14988554338679</g:item_group_id>
-      
-      <g:title>You Make The World Mug</g:title>
-      <g:description>A beautiful, flower and bee design ceramic mug that's ideal for any garden lover, nature enthusiast, or just as a gift to yourself for a moment of relaxation. Alongside the flowers and bees is the phrase "You make the world a little nicer and a little brighter".</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/you-make-the-world-mug?variant=55237688263031</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80093-You-Make-The-World-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1747836282</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5063322020083</g:gtin>
-
-      <g:product_type>Mugs</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Ceramic</g:material>
-      <g:product_length>7.5 cm </g:product_length>
-      <g:product_width>11 cm </g:product_width>
-      <g:product_height>8 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
