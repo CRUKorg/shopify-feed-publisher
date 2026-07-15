@@ -579,6 +579,50 @@
 
 	
     <item>
+      <g:id>CR85318</g:id>
+      <g:item_group_id>15507011109239</g:item_group_id>
+      
+      <g:title>190T 190x75cm Polyester Sleeping Bag</g:title>
+      <g:description>Perfect for camping, festivals and overnight stays, this lightweight sleeping bag offers a cosy place to rest after a day of adventure. The insulated padded filling helps retain warmth for enhanced comfort throughout the night. Crafted from durable 190T polyester, it is designed to handle regular outdoor use while remaining compact and easy to carry. When your trip is over, simply pack it away for convenient storage and transport.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/190t-190-x-75cm-polyester-sleeping-bag?variant=57249286717815</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85318-Sleeping-Bag-190T-Polyester-190-x-75-Flat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783524590</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85318-Sleeping-Bag-190T-Polyester-190-x-75-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783524589</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674251009</g:gtin>
+
+      <g:product_type>Sleeping Bag</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:product_width>78 cm </g:product_width>
+      <g:product_height>180 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW84370</g:id>
       <g:item_group_id>9659071299901</g:item_group_id>
       
@@ -1052,6 +1096,48 @@ PINEWOOD
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85321</g:id>
+      <g:item_group_id>15507011207543</g:item_group_id>
+      
+      <g:title>Adult 230x80cm Sleeping Bag</g:title>
+      <g:description>Enjoy a comfortable night's sleep on your next camping trip, festival, hiking adventure or overnight stay with this spacious adult sleeping bag. Measuring 230 x 80cm, it provides plenty of room to stretch out while the mummy-style design helps retain warmth for a cosy and restful sleep. The lightweight construction makes it easy to carry, while the full-length zip allows for convenient access and ventilation when needed.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/adult-230-x-80cm-sleeping-bag?variant=57249286816119</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85321-Sleeping-Bag-230x80x55-Flat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783524590</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85321-Sleeping-Bag-230x80x55-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783524589</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674251030</g:gtin>
+
+      <g:product_type>Sleeping Bag</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -8173,7 +8259,7 @@ PINEWOOD
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-pink-leopard-print-foldaway-bag?variant=57007338455415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84943-Folding-Tote-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776243281</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -13321,7 +13407,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262738</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262739</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.99 GBP</g:price>
 
       <g:shipping>
@@ -23610,9 +23696,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83916</g:id>
       <g:item_group_id>15062547661175</g:item_group_id>
       
@@ -23743,7 +23827,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83956</g:id>
       <g:item_group_id>15454419517815</g:item_group_id>
       
@@ -38411,9 +38497,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86280</g:id>
       <g:item_group_id>15457011794295</g:item_group_id>
       
@@ -38501,7 +38585,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86291GRA</g:id>
       <g:item_group_id>15457011171703</g:item_group_id>
       
@@ -39868,6 +39954,92 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CR85319</g:id>
+      <g:item_group_id>15507011142007</g:item_group_id>
+      
+      <g:title>Polyester Double Sleeping Bag 170T 180x150cm</g:title>
+      <g:description>Share the comfort of a cosy night's sleep outdoors with this spacious 170T polyester double sleeping bag. Designed for two people, the generous 180 x 150cm size provides plenty of room to relax, making it ideal for camping trips, festivals, caravanning and family adventures. The soft padded filling helps to retain warmth while the durable polyester outer layer offers long-lasting performance for regular outdoor use.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/polyester-double-sleeping-bag-170t-180x150cm?variant=57249286750583</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85319-Double-Sleeping-Bag-170T-Polyester-180-x-150-Flat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783524591</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85319-Double-Sleeping-Bag-170T-Polyester-180-x-150-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783524588</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>19.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674251016</g:gtin>
+
+      <g:product_type>Sleeping Bag</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:product_width>150 cm </g:product_width>
+      <g:product_height>180 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85320</g:id>
+      <g:item_group_id>15507011174775</g:item_group_id>
+      
+      <g:title>Polyester Sleeping Bag 190T 180x75cm</g:title>
+      <g:description>Stay warm and comfortable on your next outdoor adventure with this practical polyester sleeping bag. The soft padded filling provides added insulation and comfort, making it ideal for camping trips, festivals, sleepovers and other outdoor activities. Designed with a durable 190T polyester outer shell, this sleeping bag is built to withstand regular use while remaining easy to pack away and transport. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/polyester-sleeping-bag-190t-180x75cm?variant=57249286783351</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85320-Sleeping-Bag-190T-Polyester-180-x-30-x-75-Flat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783524590</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85320-Sleeping-Bag-190T-Polyester-180-x-30-x-75-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783524589</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>12.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674251023</g:gtin>
+
+      <g:product_type>Sleeping Bag</g:product_type>
+      <g:color>green</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83824CAT</g:id>
       <g:item_group_id>14668272632183</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
@@ -39953,6 +40125,47 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CR85326</g:id>
+      <g:item_group_id>15507011436919</g:item_group_id>
+      
+      <g:title>Pop-Up 3x3m Gazebo</g:title>
+      <g:description>When planning outdoor gatherings, having reliable shelter can elevate the experience; whether it’s a summer garden party, market stall or camping trip. This 3x3m pop-up gazebo offers quick setup with a sturdy frame, while windows on all sides allow you to take in the views and enjoy the outdoors while staying dry and protected from the elements. Features  Zip close mechanism, Panoramic windows, Pegs required and included, Building instructions provided, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pop-up-3x3m-gazebo?variant=57249287078263</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85326-3x3-Gazebo-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783351598</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>49.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674251085</g:gtin>
+
+      <g:product_type>Gazebo</g:product_type>
+      <g:color>green</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyurethane</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -40481,7 +40694,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/premier-60cm-280-led-lit-ultrabright-star-decoration-timer?variant=49005546209597</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70749-Premier-60cm-Ultrabright-LED-Lit-White-Star-Decoration-Cancer-Research-UK-Online-Shop_69c4f6ac-009a-46e5-9e92-e73bb50ad45b_1024x1024.jpg?v=1734683073</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>49.99 GBP</g:price>
       <g:sale_price>29.99 GBP</g:sale_price>
 
@@ -42352,7 +42565,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80414-Race-for-Life-Pretty-Muddy-Ladies-Pink-Ombre-Vest-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404803</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80414-Race-for-Life-Pretty-Muddy-Ladies-Pink-Ombre-Vest-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>11.00 GBP</g:price>
 
       <g:shipping>
@@ -51303,7 +51516,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-georgia-pocketed-t-shirt-bra?variant=49006114931005</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/GEORGIASKIN_1024x1024.jpg?v=1719236146</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -56204,7 +56417,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -69696,7 +69909,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/soleil-boules-set?variant=57019246641527</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86240-Soleil-Boules-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442473</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -72250,9 +72463,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU84273</g:id>
       <g:item_group_id>15144655159671</g:item_group_id>
       
@@ -72522,7 +72733,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU84279</g:id>
       <g:item_group_id>15144672723319</g:item_group_id>
       
@@ -79697,7 +79910,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999063927</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>46.00 GBP</g:price>
 
       <g:shipping>
@@ -79720,7 +79933,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79763,7 +79976,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79806,7 +80019,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79849,7 +80062,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79892,7 +80105,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79935,7 +80148,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79978,7 +80191,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79998,7 +80211,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999293303</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>46.00 GBP</g:price>
 
       <g:shipping>
@@ -80021,7 +80234,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80064,7 +80277,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80084,7 +80297,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999358839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>46.00 GBP</g:price>
 
       <g:shipping>
@@ -80107,7 +80320,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80150,7 +80363,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80193,7 +80406,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80236,7 +80449,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80279,7 +80492,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80322,7 +80535,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80342,7 +80555,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999555447</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>46.00 GBP</g:price>
 
       <g:shipping>
@@ -80365,7 +80578,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80408,7 +80621,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80451,7 +80664,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80494,7 +80707,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80537,7 +80750,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80580,7 +80793,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80623,7 +80836,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80666,7 +80879,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80709,7 +80922,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80752,7 +80965,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80772,7 +80985,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999883127</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>46.00 GBP</g:price>
 
       <g:shipping>
@@ -80795,7 +81008,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>2</g:size>
+<g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -81382,7 +81595,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81471,7 +81684,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81649,7 +81862,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -82184,7 +82397,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -83389,7 +83602,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129382263</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>189.00 GBP</g:price>
 
       <g:shipping>
@@ -83432,7 +83645,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129415031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>189.00 GBP</g:price>
 
       <g:shipping>
@@ -83475,7 +83688,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129447799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>189.00 GBP</g:price>
 
       <g:shipping>
@@ -84741,7 +84954,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30437-Wedding-favour-place-cards-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771342510</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF30437-Wedding-favour-place-cards-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771342510</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>3.00 GBP</g:price>
 
       <g:shipping>
