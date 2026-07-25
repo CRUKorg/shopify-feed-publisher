@@ -15329,48 +15329,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>SN83451</g:id>
-      <g:item_group_id>15088087761271</g:item_group_id>
-      
-      <g:title>Children's Halloween Painting Kit</g:title>
-      <g:description>   Unleash your little artist's creativity this Halloween with this Children's Halloween Painting Kit. Filled with fun colours and spooky shapes, this easy to use crafting kit invites children to paint their own magical monsters, pumpkins, and ghosts. It encourages imagination and fine motor skills while providing a joyful, mess-friendly experience.  Perfect for school and term time projects. Each character has a magnet attached for easy display on the fridge! Features  4 DIY Halloween characters, 6 different coloured paints, 1 brush included,  Sink your teeth into our matching Halloween merch.   </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/childrens-halloween-painting-kit?variant=55596181029239</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83451-Paint-Your-Own-Halloween-Character-Magnets-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755686580</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-      <g:sale_price>1.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844326404</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Crafts</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Crafts</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83753</g:id>
       <g:item_group_id>15079888650615</g:item_group_id>
       
@@ -23824,7 +23782,9 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR79693</g:id>
       <g:item_group_id>9520867082557</g:item_group_id>
       <g:google_product_category>583</g:google_product_category>
@@ -23867,9 +23827,7 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83916</g:id>
       <g:item_group_id>15062547661175</g:item_group_id>
       
@@ -34387,7 +34345,7 @@ Ground Sheet: 100% Polyethylene
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85536-Meg-Hawkins-Mini-Diffuser-Set-The-Highlands-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771843653</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85536-Meg-Hawkins-Mini-Diffuser-Set-The-Highlands-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771843653</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>23.99 GBP</g:price>
 
       <g:shipping>
@@ -36312,7 +36270,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-full-cream-moisturiser?variant=55305190998391</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42323-MooGoo-Full-Cream-200g-3-Cancer-Research-UK-Online-Shop_8c9b1cbb-8bfe-49c0-a9e5-4f907c8a4355_1024x1024.jpg?v=1719230314</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.49 GBP</g:price>
 
       <g:shipping>
@@ -36334,7 +36292,7 @@ Ground Sheet: 100% Polyethylene
       <g:brand>MooGoo</g:brand>
       <g:product_type>Moisturiser</g:product_type>
 
-<g:size>200g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -36374,7 +36332,7 @@ Ground Sheet: 100% Polyethylene
       <g:brand>MooGoo</g:brand>
       <g:product_type>Moisturiser</g:product_type>
 
-<g:size>200g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -38514,7 +38472,9 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86291GRA</g:id>
       <g:item_group_id>15457011171703</g:item_group_id>
       
@@ -38636,9 +38596,7 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86278</g:id>
       <g:item_group_id>15457011204471</g:item_group_id>
       
@@ -43269,551 +43227,6 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN83445ORANGE</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Small / Orange</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55596186567031</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.09 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238789</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>10 cm </g:product_length>
-      <g:product_width>10 cm </g:product_width>
-      <g:product_height>7 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83445GOLD</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Small / Gold</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841122679</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.09 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238789</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>10 cm </g:product_length>
-      <g:product_width>10 cm </g:product_width>
-      <g:product_height>7 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83445BROWN</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Small / Brown</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841155447</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.09 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238789</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>10 cm </g:product_length>
-      <g:product_width>10 cm </g:product_width>
-      <g:product_height>7 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83445GREEN</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Small / Yellow</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841188215</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.09 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238789</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>10 cm </g:product_length>
-      <g:product_width>10 cm </g:product_width>
-      <g:product_height>7 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83446ORANGE</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Medium / Orange</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55596186599799</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238796</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>15 cm </g:product_length>
-      <g:product_width>15 cm </g:product_width>
-      <g:product_height>12 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83446GOLD</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Medium / Gold</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841220983</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238796</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>15 cm </g:product_length>
-      <g:product_width>15 cm </g:product_width>
-      <g:product_height>12 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83446BROWN</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Medium / Brown</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841253751</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238796</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>15 cm </g:product_length>
-      <g:product_width>15 cm </g:product_width>
-      <g:product_height>12 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83446GREEN</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Medium / Yellow</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841286519</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238796</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>15 cm </g:product_length>
-      <g:product_width>15 cm </g:product_width>
-      <g:product_height>12 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83447ORANGE</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Large / Orange</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55596186632567</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238802</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>20 cm </g:product_length>
-      <g:product_width>20 cm </g:product_width>
-      <g:product_height>15 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83447GOLD</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Large / Gold</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841319287</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238802</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>20 cm </g:product_length>
-      <g:product_width>20 cm </g:product_width>
-      <g:product_height>15 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83447BROWN</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Large / Brown</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841352055</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238802</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>20 cm </g:product_length>
-      <g:product_width>20 cm </g:product_width>
-      <g:product_height>15 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SN83447GREEN</g:id>
-      <g:item_group_id>15088089596279</g:item_group_id>
-      
-      <g:title>Pumpkin Decorations - Large / Yellow</g:title>
-      <g:description>Perfect for floors or shelves, these pumpkin decorations add autumnal charm to any room. Whether placed individually or grouped, they create a welcoming seasonal atmosphere that enhances your décor effortlessly. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-decorations?variant=55635841384823</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83446-Medium-Pumpkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755607234</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674238802</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Halloween Decorations</g:product_type>
-
-      <g:color>Orange</g:color>
-<g:size>Small</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester cover with polystyrene inner</g:material>
-      <g:product_length>20 cm </g:product_length>
-      <g:product_width>20 cm </g:product_width>
-      <g:product_height>15 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -48478,6 +47891,127 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_1>Race For Life</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SHINEGARLAND</g:id>
+      <g:item_group_id>15518619861367</g:item_group_id>
+      
+      <g:title>Rainbow Lei Garlands - 2</g:title>
+      <g:description>Add some colour to your Shine Night Walk with this bright, rainbow-coloured garland. This Hawaiian style lei garland features groups of 6cm diameter petals in a variety of bright colours over the 100cm length (loop hangs 50cm). Perfect for parties, Pride events, and festivals. Please note, these garlands don't light up but they do add some colour and fun to your outfit!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/rainbow-garlands?variant=57318691832183</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Festival-Garland-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784893703</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5026619170854</g:gtin>
+
+      <g:product_type>Accessories</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SHINEGARLAND</g:id>
+      <g:item_group_id>15518619861367</g:item_group_id>
+      
+      <g:title>Rainbow Lei Garlands - 5</g:title>
+      <g:description>Add some colour to your Shine Night Walk with this bright, rainbow-coloured garland. This Hawaiian style lei garland features groups of 6cm diameter petals in a variety of bright colours over the 100cm length (loop hangs 50cm). Perfect for parties, Pride events, and festivals. Please note, these garlands don't light up but they do add some colour and fun to your outfit!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/rainbow-garlands?variant=57321379430775</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Festival-Garland-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784893703</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5026619170854</g:gtin>
+
+      <g:product_type>Accessories</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SHINEGARLAND</g:id>
+      <g:item_group_id>15518619861367</g:item_group_id>
+      
+      <g:title>Rainbow Lei Garlands - 10</g:title>
+      <g:description>Add some colour to your Shine Night Walk with this bright, rainbow-coloured garland. This Hawaiian style lei garland features groups of 6cm diameter petals in a variety of bright colours over the 100cm length (loop hangs 50cm). Perfect for parties, Pride events, and festivals. Please note, these garlands don't light up but they do add some colour and fun to your outfit!</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/rainbow-garlands?variant=57321379463543</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Festival-Garland-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784893703</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5026619170854</g:gtin>
+
+      <g:product_type>Accessories</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -55254,7 +54788,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -63259,7 +62793,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -63400,7 +62934,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -69581,10 +69115,10 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:id>CX70582SNOWFLAKE</g:id>
       <g:item_group_id>9521287004477</g:item_group_id>
       <g:google_product_category>2675</g:google_product_category>
-      <g:title>Snowflake Door Mat - Standard</g:title>
-      <g:description>Made from hardwearing coir matting and embossed with 3 snowflakes, this traditional style doormat will be a fantastic festive addition to your hallway.</g:description>
+      <g:title>Snowflake Doormat - Standard</g:title>
+      <g:description>Made from durable natural coir, this hardwearing doormat is designed to help keep dirt and debris at the door while adding a festive touch to your home. Featuring three embossed snowflakes across the centre, the classic design brings a subtle seasonal charm that complements both traditional and contemporary décor. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/snowflake-door-mat?variant=56243612844407</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70582-Snowflake-Door-Mat-Cancer-Research-UK-Online-Shop_b753e83d-e7f4-4ca6-ac00-fc7911975e7c_1024x1024.jpg?v=1734683058</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70582-Snowflake-Door-Mat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784892621</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
@@ -69622,10 +69156,10 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:id>CX70594SNOWFLAKE</g:id>
       <g:item_group_id>9521287004477</g:item_group_id>
       <g:google_product_category>2675</g:google_product_category>
-      <g:title>Snowflake Door Mat - Long</g:title>
-      <g:description>Made from hardwearing coir matting and embossed with 3 snowflakes, this traditional style doormat will be a fantastic festive addition to your hallway.</g:description>
+      <g:title>Snowflake Doormat - Long</g:title>
+      <g:description>Made from durable natural coir, this hardwearing doormat is designed to help keep dirt and debris at the door while adding a festive touch to your home. Featuring three embossed snowflakes across the centre, the classic design brings a subtle seasonal charm that complements both traditional and contemporary décor. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/snowflake-door-mat?variant=49004319506749</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70582-Snowflake-Door-Mat-Cancer-Research-UK-Online-Shop_b753e83d-e7f4-4ca6-ac00-fc7911975e7c_1024x1024.jpg?v=1734683058</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX70582-Snowflake-Door-Mat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784892621</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
@@ -72491,7 +72025,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>VFSU2CSOCKF</g:id>
       <g:item_group_id>9521307124029</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -72534,9 +72070,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU84279</g:id>
       <g:item_group_id>15144672723319</g:item_group_id>
       
@@ -79711,7 +79245,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999063927</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -79734,7 +79268,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79777,7 +79311,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79820,7 +79354,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79863,7 +79397,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79906,7 +79440,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79949,7 +79483,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79992,7 +79526,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80012,7 +79546,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999293303</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -80035,7 +79569,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80078,7 +79612,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80098,7 +79632,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999358839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -80121,7 +79655,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80164,7 +79698,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80207,7 +79741,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80250,7 +79784,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80293,7 +79827,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80336,7 +79870,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80356,7 +79890,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999555447</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -80379,7 +79913,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80422,7 +79956,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80465,7 +79999,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80508,7 +80042,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80551,7 +80085,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80594,7 +80128,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80637,7 +80171,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80680,7 +80214,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80723,7 +80257,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80766,7 +80300,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80786,7 +80320,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999883127</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -80809,7 +80343,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -81396,7 +80930,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81485,7 +81019,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81663,7 +81197,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -82198,7 +81732,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -83403,7 +82937,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129382263</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -83446,7 +82980,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129415031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -83489,7 +83023,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129447799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -85053,89 +84587,6 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
-      <g:id>SN80985</g:id>
-      <g:item_group_id>15088087728503</g:item_group_id>
-      
-      <g:title>Wind Up Walking Pumpkins</g:title>
-      <g:description>Add a touch of spooky charm to your Halloween with these cute wind-up pumpkins. They waddle about when wound up, making them perfect for party favours, table decorations, or a fun surprise for kids and grown-ups. Sink your teeth into our matching Halloween merch. </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/5cm-wind-up-walking-pumpkin?variant=55596180996471</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN80985-Wind-Up-Walking-Pumpkin-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755606518</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>0.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844129869</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Toys</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_height>5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN80984</g:id>
-      <g:item_group_id>15088087695735</g:item_group_id>
-      
-      <g:title>Wind Up Walking Zombies</g:title>
-      <g:description>Add a touch of spooky charm to your Halloween with this set of wind-up toys. Detailed in black and white, they waddle about when wound up, making them perfect for party favours, table decorations, or a fun festive surprise for kids and grown-ups alike. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/wind-up-walking-zombies?variant=55596180963703</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN80984-Wind-Up-Zombies-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755606407</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>0.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844129876</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Toys</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR85694</g:id>
       <g:item_group_id>15391334400375</g:item_group_id>
       
@@ -86473,50 +85924,6 @@ Blue: 80% polyester/20% cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5056238558788</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Cards</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Cards</g:custom_label_1>
-      <g:custom_label_2>Cards</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CD83949</g:id>
-      <g:item_group_id>15063158227319</g:item_group_id>
-      
-      <g:title>Y Ddraig Goch 10 Welsh Bilingual Christmas Cards</g:title>
-      <g:description>Celebrate a classic Cymru Christmas with this bold Welsh Dragon card. This adorable dragon is wearing his Welsh flag Christmas jumper whilst firing up some festive magic. Features:  Pack of 10 cards with envelopes., Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year., 15x15cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/y-ddraig-goch-10-welsh-bilingual-christmas-cards?variant=55490141618551</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83949-Y-Ddraig-Goch-Welsh-Bilingual-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185409</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83949-Y-Ddraig-Goch-Welsh-Bilingual-Christmas-Cards-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185410</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83949-Y-Ddraig-Goch-Welsh-Bilingual-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185443</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-      <g:sale_price>1.69 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5056238558641</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Christmas Cards</g:product_type>
