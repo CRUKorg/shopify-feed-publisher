@@ -6675,7 +6675,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84972BLUE-Storage-Bag-Zebra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776181012</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84972BLUE-Storage-Bag-Zebra-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776181012</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
 
       <g:shipping>
@@ -9400,89 +9400,6 @@ Ground sheet: 100% Polyethylene
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:gender>female</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR80735-SM</g:id>
-      <g:item_group_id>14619792572791</g:item_group_id>
-      
-      <g:title>Breast Cancer Awareness Pink Slouch Socks - S/M</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy pink slouch socks. Available in S/M and L/XL</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/breast-cancer-awareness-slouch-socks?variant=53463375053175</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80735-SM-Slouch-Socks-BCA-Cancer-Research-UK-Online-Shop_f793d5d2-b7b1-48d3-a1b3-e7086c5403de_1024x1024.jpg?v=1727875311</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674231438</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-<g:size>S/M</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR80735-LXL</g:id>
-      <g:item_group_id>14619792572791</g:item_group_id>
-      
-      <g:title>Breast Cancer Awareness Pink Slouch Socks - L/XL</g:title>
-      <g:description>Keep your toes toasty with these super-soft and comfy pink slouch socks. Available in S/M and L/XL</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/breast-cancer-awareness-slouch-socks?variant=53463375085943</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80735-LXL--Slouch-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727879738</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80735-SM-Slouch-Socks-BCA-Cancer-Research-UK-Online-Shop_f793d5d2-b7b1-48d3-a1b3-e7086c5403de_1024x1024.jpg?v=1727875311</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CR80735-LXL</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-<g:size>S/M</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -16527,7 +16444,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/stripe-bench-cushion?variant=55149470155127</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85058-Coastal-Stripe-Bench-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776677404</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.99 GBP</g:price>
 
       <g:shipping>
@@ -31516,7 +31433,7 @@ Ground Sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84933LOBSTER-Lobster-Print-Outdoor-Rug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770223593</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84933LOBSTER-Lobster-Print-Outdoor-Rug-AI-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770827151</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
 
       <g:shipping>
@@ -38596,7 +38513,9 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86278</g:id>
       <g:item_group_id>15457011204471</g:item_group_id>
       
@@ -38638,9 +38557,7 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86287</g:id>
       <g:item_group_id>15457011532151</g:item_group_id>
       
@@ -72070,7 +71987,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU84279</g:id>
       <g:item_group_id>15144672723319</g:item_group_id>
       
@@ -72155,9 +72074,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU31196</g:id>
       <g:item_group_id>9521323147581</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -81286,7 +81203,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
