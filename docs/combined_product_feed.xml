@@ -1427,6 +1427,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>99.99 GBP</g:price>
+      <g:sale_price>49.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -2542,6 +2543,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4054,7 +4056,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
-      <g:sale_price>4.99 GBP</g:sale_price>
+      <g:sale_price>4.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4187,7 +4189,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4369,7 +4371,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4412,7 +4414,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4453,7 +4455,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4494,7 +4496,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4536,7 +4538,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4907,6 +4909,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4949,8 +4952,9 @@ Ground sheet: 100% Polyethylene
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84788-and-CR84792-Grey-Bee-Blenheim-Plant-Pot-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84790-and-CR84795-Sea-Green-Bee-Blenheim-Plant-Pot-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>10.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -4995,6 +4999,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5039,6 +5044,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>10.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5083,6 +5089,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5127,6 +5134,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>10.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5297,6 +5305,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5424,6 +5433,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5597,6 +5607,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5640,6 +5651,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -5683,6 +5695,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -9646,7 +9659,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/breast-cancer-awareness-3-pack-ladies-heart-print-trainer-socks?variant=53466598244727</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80785Heart-Hearts-Trainer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728054195</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -16550,6 +16563,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16593,6 +16607,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16633,6 +16648,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>13.99 GBP</g:price>
+      <g:sale_price>9.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16676,6 +16692,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16719,6 +16736,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16761,6 +16779,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>99.99 GBP</g:price>
+      <g:sale_price>49.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16891,6 +16910,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16934,6 +16954,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16977,6 +16998,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -23188,6 +23210,53 @@ Ground Sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>SN85277</g:id>
+      <g:item_group_id>15519230296439</g:item_group_id>
+      
+      <g:title>Enter If You Dare Doormat</g:title>
+      <g:description>Only the bravest visitors should step forward! The Enter If You Dare Doormat sets the tone for a spine-tingling Halloween experience before guests even cross the threshold. Perfect for haunted houses, Halloween parties, or anyone who loves a good scare, this eerie doormat is sure to make visitors think twice before entering. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/enter-if-you-dare-doormat?variant=57321729851767</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85277-Enter-If-You-Dare-Halloween-Door-Mat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85277-Enter-If-You-Dare-Halloween-Door-Mat-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786962897</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250774</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Doormat</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Pile: 100% PET
+Backing: TPE
+</g:material>
+      <g:product_width>58 cm </g:product_width>
+      <g:product_height>40 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85739</g:id>
       <g:item_group_id>15405432602999</g:item_group_id>
       
@@ -23391,7 +23460,7 @@ Ground Sheet: 100% Polyethylene
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Bra-Balancer-2-3-Cup-Size-MASTECTOMY-USE-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1781102349</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Bra-Balancer-2-3-Cup-Size-ASYMMETRY-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1781102349</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>49.00 GBP</g:price>
 
       <g:shipping>
@@ -23768,6 +23837,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>59.99 GBP</g:price>
+      <g:sale_price>49.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -23795,6 +23865,98 @@ Ground Sheet: 100% Polyethylene
       <g:product_length>90 cm </g:product_length>
       <g:product_width>56 cm </g:product_width>
       <g:product_height>99 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85286</g:id>
+      <g:item_group_id>15519243141495</g:item_group_id>
+      
+      <g:title>Extra Large Bat Hand Warmer</g:title>
+      <g:description>Keep warm this autumn with our adorable bath hand warmer. Designed with a cheerful face, soft plush fabric, and cosy hand pockets, it's perfect for chilly days. Whether you're relaxing indoors or heading out for Halloween fun, this charming pumpkin adds a seasonal touch while keeping your hands snug. Simply slip your hands into the side pockets of this cuddly bat and enjoy instant warmth, comfort and cosiness. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/extra-large-bat-hand-warmer?variant=57321792110967</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85286-Halloween-Bat-Hand-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85286-Extra-Large-Bat-Hand-Warmer-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961371</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>12.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250835</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester
+</g:material>
+      <g:product_width>38 cm </g:product_width>
+      <g:product_height>51 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85285</g:id>
+      <g:item_group_id>15519240618359</g:item_group_id>
+      
+      <g:title>Extra Large Pumpkin Hand Warmer</g:title>
+      <g:description>Keep warm this autumn with our adorable Pumpkin Hand Warmer. Designed with a cheerful face, soft plush fabric, and cosy hand pockets, it's perfect for chilly days. Whether you're relaxing indoors or heading out for Halloween fun, this charming pumpkin adds a seasonal touch while keeping your hands snug. Simply slip your hands into the side pockets of this cuddly pumpkin and enjoy instant warmth, comfort and cosiness. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/extra-large-pumpkin-hand-warmer?variant=57321787523447</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85285-Halloween-Pumpkin-Hand-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85285-Extra-Large-Pumpkin-Hand-Warmer-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961371</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>12.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250828</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hand Warmer</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester
+</g:material>
+      <g:product_width>26 cm </g:product_width>
+      <g:product_height>38 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -23848,9 +24010,7 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR80526</g:id>
       <g:item_group_id>15231392579959</g:item_group_id>
       
@@ -23980,7 +24140,9 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83956</g:id>
       <g:item_group_id>15454419517815</g:item_group_id>
       
@@ -26580,6 +26742,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26744,6 +26907,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26786,6 +26950,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26829,6 +26994,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26872,6 +27038,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -26897,6 +27064,91 @@ Ground Sheet: 100% Polyethylene
       <g:material>Recyclable polypropylene</g:material>
       <g:product_length>150 cm </g:product_length>
       <g:product_width>200 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85283B</g:id>
+      <g:item_group_id>15528719810935</g:item_group_id>
+      
+      <g:title>Halloween Easy Wipe-Clean Tablecloth - Black</g:title>
+      <g:description>Durable and easy to clean, these Halloween indoor/outdoor tablecloths are perfect for spooky picnics, haunted house parties, and frightfully fun family gatherings. Suitable for rectangular tables with 4-6 place settings, these flannel-backed tablecloths helps protect surfaces from spills and scratches. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/halloween-easy-wipe-clean-tablecloth?variant=57370926776695</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85283-Halloween-Tablecloth-Black-Cancer-Research-UK-Online-Shop_8b2c4c94-5164-47d5-b31f-e5b3470e5260_1024x1024.jpg?v=1786525255</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250859</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tablecloth</g:product_type>
+
+      <g:color>Black</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>PEVA face with non-woven 100% polyester backing</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN85283W</g:id>
+      <g:item_group_id>15528719810935</g:item_group_id>
+      
+      <g:title>Halloween Easy Wipe-Clean Tablecloth - White</g:title>
+      <g:description>Durable and easy to clean, these Halloween indoor/outdoor tablecloths are perfect for spooky picnics, haunted house parties, and frightfully fun family gatherings. Suitable for rectangular tables with 4-6 place settings, these flannel-backed tablecloths helps protect surfaces from spills and scratches. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/halloween-easy-wipe-clean-tablecloth?variant=57370926743927</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85283-Halloween-Tablecloth-White-Cancer-Research-UK-Online-Shop_e3812ec0-6a09-438c-9ec0-5b5775ea006a_1024x1024.jpg?v=1786525254</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250859</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tablecloth</g:product_type>
+
+      <g:color>Black</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>PEVA face with non-woven 100% polyester backing</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -27349,6 +27601,53 @@ Ground Sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>SN85279</g:id>
+      <g:item_group_id>15519245697399</g:item_group_id>
+      
+      <g:title>Happy Halloween Doormat</g:title>
+      <g:description>Roll out a wickedly warm welcome with this Happy Halloween Doormat! Featuring a spooky pumpkin greeting, this doorstep essential is perfect for greeting trick-or-treaters, party guests, and wandering witches.  Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/happy-halloween-doormat?variant=57321796895095</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85279-Pumpkin-Happy-Halloween-Door-Mat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85279-Happy-Halloween-Doormat-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787062176</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250798</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Doormat</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Pile: 100% PET
+Backing: TPE
+</g:material>
+      <g:product_width>58 cm </g:product_width>
+      <g:product_height>40 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CC84460</g:id>
       <g:item_group_id>9659072348477</g:item_group_id>
       
@@ -27576,8 +27875,9 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-breakfast-mug?variant=57075641549175</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85075-Highland-Cow-Face-Beige-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778169356</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27598,7 +27898,7 @@ Ground Sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Mug</g:product_type>
 
-      <g:color>Beige</g:color>
+      <g:color>Grey</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -27622,6 +27922,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27642,7 +27943,7 @@ Ground Sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Mug</g:product_type>
 
-      <g:color>Beige</g:color>
+      <g:color>Grey</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -27841,6 +28142,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27882,6 +28184,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27924,6 +28227,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -27967,6 +28271,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28054,6 +28359,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28097,6 +28403,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28141,6 +28448,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
+      <g:sale_price>5.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28185,6 +28493,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
+      <g:sale_price>5.59 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28358,6 +28667,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28402,6 +28712,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28530,6 +28841,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -28574,6 +28886,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29528,7 +29841,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29575,7 +29888,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29621,7 +29934,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
-      <g:sale_price>4.99 GBP</g:sale_price>
+      <g:sale_price>3.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29666,7 +29979,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
-      <g:sale_price>2.99 GBP</g:sale_price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29711,7 +30024,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
+      <g:sale_price>2.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29757,7 +30070,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29799,7 +30112,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29841,7 +30154,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29884,7 +30197,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -29976,7 +30289,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30376,6 +30689,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31011,6 +31325,95 @@ Ground Sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>SN85293</g:id>
+      <g:item_group_id>15095099523447</g:item_group_id>
+      
+      <g:title>Ladies 2 Pack Halloween Socks</g:title>
+      <g:description>Step into spooky season with our women's Halloween socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun.  Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-2-pack-halloween-socks?variant=55622558744951</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85293-Ladies-Halloween-Socks-Twin-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-Socks-Group-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961371</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033326852932</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>4</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85296</g:id>
+      <g:item_group_id>15099003502967</g:item_group_id>
+      
+      <g:title>Ladies Halloween Welly Socks</g:title>
+      <g:description>Step into spooky season with our women's Halloween welly socks, designed especially for Wellington or other long boots. Made from soft, durable fabric, these socks are perfect for those muddy and chilly autumn walks. Features  One size, Single pack,  Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-halloween-welly-socks?variant=55637095973239</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85296-Ladies-Halloween-Wellie-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907526</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033326852963</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>4</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85184</g:id>
       <g:item_group_id>15018126213495</g:item_group_id>
       
@@ -31147,6 +31550,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>99.99 GBP</g:price>
+      <g:sale_price>65.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31190,6 +31594,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31233,6 +31638,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31276,6 +31682,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31304,6 +31711,52 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85290</g:id>
+      <g:item_group_id>15519217156471</g:item_group_id>
+      
+      <g:title>Leopard Ear Muffs</g:title>
+      <g:description>Add a dash of spooky silliness to your Halloween look with these leopard ear muffs.  Soft, plush, and delightfully eerie, they’re perfect for keeping warm while turning heads at haunted happenings.  Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/leopard-ear-muffs?variant=57321684009335</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85290-Leopard-Print-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907528</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85290-Leopard-Ear-Muffs-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961370</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250897</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Earmuffs</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester cover/Polyester filling with plastic frame</g:material>
+      <g:product_length>12 cm </g:product_length>
+      <g:product_width>19 cm </g:product_width>
+      <g:product_height>16 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -31362,6 +31815,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31405,6 +31859,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -31448,6 +31903,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -34220,6 +34676,51 @@ Ground Sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>SN85294</g:id>
+      <g:item_group_id>15095102079351</g:item_group_id>
+      
+      <g:title>Men's 2 Pack Halloween Socks</g:title>
+      <g:description>Step into spooky season with our Men’s Halloween Socks, designed for comfort and character. Made from soft, durable fabric, these socks are perfect for all-day wear, whether you're haunting the house or heading out for Halloween fun.  Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-halloween-socks?variant=55622561661303</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85294-Mens-Halloween-Socks-Twin-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907525</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-Socks-Group-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961371</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>8033326852949</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>4</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>Cotton/polyester/elastine</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX76497</g:id>
       <g:item_group_id>9521013227837</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -34682,6 +35183,97 @@ Ground Sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>SN85280</g:id>
+      <g:item_group_id>15528721613175</g:item_group_id>
+      
+      <g:title>Mini Plush Pumpkin</g:title>
+      <g:description>More adorable than spooky, this Mini Plush Pumpkin is packed with Halloween fun. Its soft plush fabric and cheerful expression make it the perfect friend for playtime, cuddles, and seasonal gifting. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mini-plush-pumpkin?variant=57370933526903</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85280-Mini-Plush-Pumpkin-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907526</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250804</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Toy</g:product_type>
+      <g:color>orange</g:color>
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:material>Fabric</g:material>
+      <g:product_width>7 cm </g:product_width>
+      <g:product_height>10 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85281</g:id>
+      <g:item_group_id>15528722366839</g:item_group_id>
+      
+      <g:title>Mini Plush Spider</g:title>
+      <g:description>Bring home a little Halloween fun with this Mini Plush Spider. Soft to the touch and irresistibly cuddly, its fluffy legs and friendly smile make it a lovable companion for all ages. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mini-plush-spider?variant=57370936181111</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85281-Mini-Plush-Spider-Cancer-Research-UK-Online-Shop_7ca33b09-20de-4722-85d8-94c9be4eae17_1024x1024.jpg?v=1786525415</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250811</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Toy</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:material>100% Polyester
+</g:material>
+      <g:product_width>12 cm </g:product_width>
+      <g:product_height>5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85703</g:id>
       <g:item_group_id>15391333941623</g:item_group_id>
       
@@ -34736,6 +35328,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -34779,6 +35372,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>6.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -34822,6 +35416,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -36892,7 +37487,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-refreshing-oatmeal-cleansing-bar?variant=49004046319933</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81498-MooGoo-Cleansers-Soap-Bar-Oatmeal-Cancer-Research-UK-Online-Shop_e176a0c0-e327-42c5-8936-477f1147b6ce_1024x1024.jpg?v=1719230344</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -37732,6 +38327,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>99.99 GBP</g:price>
+      <g:sale_price>49.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -37843,9 +38439,7 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW84469TREE</g:id>
       <g:item_group_id>9521214816573</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -38566,7 +39160,9 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR86290</g:id>
       <g:item_group_id>15457011138935</g:item_group_id>
       
@@ -39227,6 +39823,7 @@ Ground Sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>99.99 GBP</g:price>
+      <g:sale_price>49.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -43153,6 +43750,52 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85288</g:id>
+      <g:item_group_id>15519216796023</g:item_group_id>
+      
+      <g:title>Pumpkin Ear Muffs</g:title>
+      <g:description>Add a dash of spooky silliness to your Halloween look with these orange pumpkin ear muffs.  Soft, plush, and delightfully eerie, they’re perfect for keeping warm while turning heads at haunted happenings.  Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pumpkin-ear-muffs?variant=57321682764151</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85288-Pumpkin-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85288-Pumpkin-Ear-Muffs-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961371</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250873</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Earmuffs</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester cover/Polyester filling with plastic frame</g:material>
+      <g:product_length>12 cm </g:product_length>
+      <g:product_width>19 cm </g:product_width>
+      <g:product_height>16 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -54682,7 +55325,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -55258,7 +55901,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -61113,7 +61756,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608132983</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfi-bra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405577</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -62148,7 +62791,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608886647</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40232-Royce-Comfi-Bra-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405597</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -62687,7 +63330,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -62875,7 +63518,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -63063,7 +63706,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -69528,6 +70171,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -69569,6 +70213,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>11.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -69694,6 +70339,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>23.49 GBP</g:price>
+      <g:sale_price>18.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -69736,6 +70382,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>23.49 GBP</g:price>
+      <g:sale_price>18.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -69779,6 +70426,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>23.49 GBP</g:price>
+      <g:sale_price>18.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70414,6 +71062,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>3.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70455,6 +71104,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>3.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70496,6 +71146,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>3.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70539,6 +71190,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70584,6 +71236,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70629,6 +71282,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70675,6 +71329,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
+      <g:sale_price>15.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70717,6 +71372,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>18.99 GBP</g:price>
+      <g:sale_price>15.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70759,6 +71415,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
+      <g:sale_price>15.19 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70802,6 +71459,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>12.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70844,6 +71502,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>12.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70886,6 +71545,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>12.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -70976,6 +71636,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71018,6 +71679,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71060,6 +71722,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71102,6 +71765,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71143,6 +71807,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71184,6 +71849,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71229,6 +71895,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>5.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71276,6 +71943,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>5.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71323,6 +71991,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.49 GBP</g:price>
+      <g:sale_price>5.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71482,9 +72151,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR86252YELLOW</g:id>
       <g:item_group_id>15458028552567</g:item_group_id>
       
@@ -71496,6 +72163,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>13.49 GBP</g:price>
+      <g:sale_price>10.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71538,6 +72206,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>13.49 GBP</g:price>
+      <g:sale_price>10.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -71565,6 +72234,52 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85289</g:id>
+      <g:item_group_id>15095091036535</g:item_group_id>
+      
+      <g:title>Spider Ear Muffs</g:title>
+      <g:description>Bring a creepy-cute touch to chilly Halloween nights with these adorable Spider Earmuffs! Designed with a super-soft plush spider body, fluffy grey finish and playful black spider legs, these cosy earmuffs keep ears warm while adding a fun spooky twist to your outfit. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/spider-ear-muffs?variant=55622548226423</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85289-Spider-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85289-Spider-Ear-Muffs-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961370</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250880</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Earmuffs</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester cover/Polyester filling with plastic frame</g:material>
+      <g:product_length>12 cm </g:product_length>
+      <g:product_width>19 cm </g:product_width>
+      <g:product_height>16 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -72264,7 +72979,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU31196</g:id>
       <g:item_group_id>9521323147581</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -73886,6 +74603,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -73928,6 +74646,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -73970,6 +74689,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74012,6 +74732,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74054,6 +74775,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74096,6 +74818,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74138,6 +74861,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74180,6 +74904,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74222,6 +74947,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74264,6 +74990,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74306,6 +75033,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>8.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74348,6 +75076,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>8.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74390,6 +75119,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>8.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74432,6 +75162,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>8.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -74474,6 +75205,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>16.99 GBP</g:price>
+      <g:sale_price>8.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -75308,7 +76040,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71326-Stand-Up-To-Cancer-Bake-Off-2023-Tea-Towel-4-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405381</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU2C-Bake-Off-2023-Lifestyle-0123-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405381</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>22.99 GBP</g:price>
       <g:sale_price>10.99 GBP</g:sale_price>
 
@@ -79089,6 +79821,53 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>SN85278</g:id>
+      <g:item_group_id>15519225250167</g:item_group_id>
+      
+      <g:title>Trick or Treat Doormat</g:title>
+      <g:description>Get your home Halloween-ready with the Trick or Treat Doormat! This spooky Halloween accessory welcomes little monsters, ghosts, and goblins as they arrive for sweet treats. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/trick-or-treat-doormat?variant=57321715106167</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85278-Trick-or-Treat-Halloween-Door-Mat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85278-Halloween-Door-Mat-Trick-or-Treat-Spider-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961372</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250781</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Doormat</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Pile: 100% PET
+Backing: TPE
+</g:material>
+      <g:product_width>58 cm </g:product_width>
+      <g:product_height>40 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD85594</g:id>
       <g:item_group_id>15520896647543</g:item_group_id>
       
@@ -79269,7 +80048,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999063927</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -79292,7 +80071,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79335,7 +80114,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79378,7 +80157,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79421,7 +80200,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79464,7 +80243,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79484,7 +80263,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999227767</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -79507,7 +80286,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79550,7 +80329,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79570,7 +80349,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999293303</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -79593,7 +80372,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79636,7 +80415,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79656,7 +80435,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999358839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -79679,7 +80458,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79722,7 +80501,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79765,7 +80544,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79808,7 +80587,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79851,7 +80630,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79894,7 +80673,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79914,7 +80693,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999555447</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -79937,7 +80716,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -79980,7 +80759,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80023,7 +80802,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80066,7 +80845,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80109,7 +80888,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80152,7 +80931,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80195,7 +80974,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80238,7 +81017,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80281,7 +81060,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80324,7 +81103,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80367,7 +81146,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:product_type>Breast Form</g:product_type>
 
       <g:color>Beige</g:color>
-<g:size>1</g:size>
+<g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>adult</g:age_group>
@@ -80776,7 +81555,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -80798,7 +81577,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -80843,7 +81622,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -80887,7 +81666,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -80932,7 +81711,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -80954,7 +81733,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -80976,7 +81755,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81021,7 +81800,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81043,7 +81822,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81065,7 +81844,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81110,7 +81889,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81154,7 +81933,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81199,7 +81978,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81221,7 +82000,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81243,7 +82022,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81288,7 +82067,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81310,7 +82089,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81332,7 +82111,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81377,7 +82156,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81399,7 +82178,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81421,7 +82200,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81466,7 +82245,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81510,7 +82289,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81555,7 +82334,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81599,7 +82378,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81644,7 +82423,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81689,7 +82468,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81734,7 +82513,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81756,7 +82535,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -81779,7 +82558,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81824,7 +82603,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -82961,7 +83740,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129382263</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -83004,7 +83783,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129415031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -83047,7 +83826,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129447799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -83873,6 +84652,49 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CD85611</g:id>
+      <g:item_group_id>15520897270135</g:item_group_id>
+      <g:google_product_category>95</g:google_product_category>
+      <g:title>We Are All Made Of Stars 10 Christmas Cards</g:title>
+      <g:description>This beautiful Christmas card features an original design by Seirian, aged 10, from North Wales. After being diagnosed with acute lymphoblastic leukaemia in 2022, her extraordinary bravery earned her a Cancer Research UK Children &amp; Young People's Star Award. Titled We Are All Made of Stars, Seirian's Christmas card design is rich with symbolism. The rainbow represents hope, the birds symbolise love, the castle ruin stands for strength, the daisy reflects determination, and Seirian herself embodies courage. Together, they create a powerful and uplifting design that celebrates resilience, hope and the strength of the human spirit. Share the ultimate meaning of Christmas, hope, love and compassion, with this truly special card. Read more about Seirian's story.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/we-are-all-made-of-stars-10-christmas-cards?variant=57337929990519</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85611-We-Are-All-Made-Of-Stars-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786451182</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238562075</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Cards</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>170 mm </g:product_width>
+      <g:product_height>120 mm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Cards</g:custom_label_1>
+      <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW42182</g:id>
       <g:item_group_id>9521395859773</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -84313,7 +85135,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/white-wool-christmas-tree-decoration?variant=49004449104189</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76949-White-Christmas-Tree-Wool-Decoration-With-Wooden-Base-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783681667</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.99 GBP</g:price>
       <g:sale_price>1.99 GBP</g:sale_price>
 
@@ -85429,7 +86251,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81276-Orange-CInnamon-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1765294743</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81276-Woodbridge-Large-Jar-Candle-AI-Lifestyle-Image-Cancer-Research-Online-Shop_1024x1024.jpg?v=1771247479</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
