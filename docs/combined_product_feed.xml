@@ -54,7 +54,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/100-foil-paper-chains?variant=55760993419639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86001-100-Christmas-Paper-Chains-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784549570</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -583,7 +583,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/150-assorted-contemporary-self-adhesive-gift-labels?variant=53495887888759</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85911-150-Contemporary-Christmas-Gift-Labels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -710,7 +710,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/20-assorted-metallic-gift-wrap-bows?variant=49371869675837</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84370-Metallic-Gift-Bows-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757505216</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -1195,7 +1195,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/60-assorted-novelty-self-adhesive-gift-labels?variant=55683220701559</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85910-60-Pack-Novelty-Christmas-Gift-Labels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -1351,97 +1351,6 @@ Ground sheet: 100% Polyethylene
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX81323IVORY</g:id>
-      <g:item_group_id>9521165336893</g:item_group_id>
-      <g:google_product_category>5359</g:google_product_category>
-      <g:title>Advent Candle with Glass Holder - Cream</g:title>
-      <g:description>Mark the days until Christmas in candlelight with this simple Advent Candle.These printed candles offers a traditional alternative to an advent calendar and comes with a dainty glass candle holder.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/advent-candle-with-glass-holder?variant=53484967526775</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81323-Cream-Advent-Calendar-Cancer-Research-UK-Online-Shop_b5bba3b1-b888-4f36-88bb-3218dbdd8079_1024x1024.jpg?v=1764863484</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-      <g:sale_price>2.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844414453</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Advent Candles</g:product_type>
-
-      <g:color>Cream</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>6.5 cm </g:product_length>
-      <g:product_width>6 cm </g:product_width>
-      <g:product_height>30.5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX81323RED</g:id>
-      <g:item_group_id>9521165336893</g:item_group_id>
-      <g:google_product_category>5359</g:google_product_category>
-      <g:title>Advent Candle with Glass Holder - Red</g:title>
-      <g:description>Mark the days until Christmas in candlelight with this simple Advent Candle.These printed candles offers a traditional alternative to an advent calendar and comes with a dainty glass candle holder.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/advent-candle-with-glass-holder?variant=53484967494007</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81323-Red-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764863484</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-      <g:sale_price>2.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844414453</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Advent Candles</g:product_type>
-
-      <g:color>Cream</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>6.5 cm </g:product_length>
-      <g:product_width>6 cm </g:product_width>
-      <g:product_height>30.5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -2147,7 +2056,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bauble-headband?variant=57312769835383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85971-Bauble-Headband-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464091</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -5845,7 +5754,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/blue-silver-midnight-wonder-gift-tags-20-pack?variant=49003692425533</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85904-Midnight-Blue-Christmas-Gift-Tag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -15750,7 +15659,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-christmas-card-advent-calendar?variant=57312761676151</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85937-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464101</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -15794,7 +15703,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/childrens-christmas-gloves?variant=55680079233399</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84388-childrens-gloves-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757501083</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -15881,7 +15790,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-1000-sticker-book?variant=55761254089079</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84412-Christmas-Sticker-Book-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784544748</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -15964,7 +15873,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-card-advent-calendar?variant=55673655656823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84375-Adult-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787137893</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -16008,7 +15917,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-charm-bracelet-advent-calendar?variant=55756794298743</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84376-Bracelet-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757505907</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -16423,7 +16332,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-necklace-and-bracelet?variant=57371284439415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85984-Christmas-Snowflake-Necklace-and-Bracelet-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464085</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -16548,7 +16457,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-paper-chain-characters?variant=57315015360887</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86004-Make-Your-Own-Paper-Chain-Character-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -16632,7 +16541,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-pencils-novelty-erasers-5-pack?variant=49371873771837</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81843-Christmas-Kids-Create-Pencils-Erasers-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784545126</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -16674,7 +16583,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-pendent-necklace?variant=55750301483383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-Single-Pendant-NecklaceCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757492900</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -16714,7 +16623,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-pendent-necklace?variant=55750301516151</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-Single-Pendant-NecklaceCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757492900</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -17086,7 +16995,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-scene-stickers?variant=57307043496311</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85946-Christmas-Scene-Stickers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464094</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -17128,7 +17037,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-scratch-art-activity-sheets?variant=49003752227133</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85999-Kids-Create-Scratch-Art-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784548867</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -17296,7 +17205,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-stampers-10-pack?variant=55761169088887</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84411-10-Christmas-Stampers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757689204</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -17378,7 +17287,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-hair-clips?variant=55673591234935</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84395-Tree-Hairclips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756379526</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -17638,7 +17547,6 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
-      <g:sale_price>1.69 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22742,7 +22650,6 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22787,7 +22694,6 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
-      <g:sale_price>6.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22829,7 +22735,6 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22873,7 +22778,6 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
-      <g:sale_price>4.89 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22918,7 +22822,6 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.29 GBP</g:price>
-      <g:sale_price>2.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -22961,7 +22864,6 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
-      <g:sale_price>0.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -23091,7 +22993,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/disney-princess-6-christmas-gift-tags?variant=57354597040503</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85917-Disney-Princess-Christmas-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -23173,7 +23075,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/disney-stitch-2m-christmas-wrapping-paper?variant=55674205012343</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85901-Stitch-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464103</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -23438,7 +23340,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/drawstring-jumbo-christmas-sack?variant=55756907544951</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84381-Jumbo-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757689664</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -23554,7 +23456,9 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85874</g:id>
       <g:item_group_id>15529645080951</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -23563,7 +23467,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/driving-home-christmas-gift-bag?variant=57375979405687</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85874-Driving-Home-Medium-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464078</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -23585,7 +23489,7 @@ Ground Sheet: 100% Polyethylene
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:product_width>28.5 cm </g:product_width>
@@ -23605,7 +23509,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/driving-home-christmas-gift-bag?variant=57375979438455</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85875-Driving-Home-Large-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464085</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -23627,7 +23531,7 @@ Ground Sheet: 100% Polyethylene
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:product_width>35 cm </g:product_width>
@@ -23669,7 +23573,7 @@ Ground Sheet: 100% Polyethylene
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:product_width>48 cm </g:product_width>
@@ -23679,9 +23583,7 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD85601</g:id>
       <g:item_group_id>15520896876919</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -24046,7 +23948,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/eco-nature-bauble-recycled-large-gift-bag?variant=53484846383479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81885-Eco-Nature-Bauble-Large-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1729176770</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -24128,7 +24030,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/festive-foliage-recyclable-3m-christmas-wrapping-paper?variant=49003853480253</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/XECO502C-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757519718</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -24886,7 +24788,7 @@ Ground Sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81806-Giftmaker-Elf-Christmas-Hat-Cancer-Research-UK-Online-Shop_9ef630f7-eef3-4a18-84d3-e9165236d68d_1024x1024.jpg?v=1734683004</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81806-Novelty-Elf-Ears-Christmas-Hat-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683004</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -27389,6 +27291,47 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CC85933</g:id>
+      <g:item_group_id>15536928358775</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Giftmaker 6 Make Your Own Christmas Crackers</g:title>
+      <g:description>Get creative this festive season with this Make Your Own Christmas Cracker Set. Designed with classic red and white Christmas foliage prints, it contains everything needed to make 8 custom crackers. Fill them with favourite sweets, thoughtful gifts or funny messages and create unforgettable moments around the dinner table.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-6-make-your-own-christmas-crackers?variant=57393527980407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC85933-Traditional-Make-Your-Own-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464095</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213597869</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CC85930</g:id>
       <g:item_group_id>14669379305847</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -27397,7 +27340,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-cream-gold-plastic-free-christmas-crackers?variant=55672919916919</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84462-Gold-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764003156</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -29047,7 +28990,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/grinch-2m-christmas-wrapping-paper?variant=57393452286327</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85902-Grinch-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464102</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -29794,7 +29737,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/hasbro-cluedo-6-family-christmas-crackers?variant=55680051577207</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84459-Hasbro-Cluedo-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787137505</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -29877,7 +29820,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/hasbro-guess-who-6-christmas-crackers?variant=55757545898359</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC84461-Guess-Who-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772191242</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -30402,7 +30345,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-coasters?variant=57077093302647</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85080-Highland-Cow-Standing-Ceramic-Coaster-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778228133</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -32141,7 +32084,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/inflatable-candy-cane-toy?variant=57314962145655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85988-Inflatable-Candy-Cane-Toy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464074</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -34240,7 +34183,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/letter-santa-pack?variant=49006103560509</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX32525-Letter-to-Santa-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683037</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -35876,7 +35819,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76529-Angel-Make-Your-Own-Hand-Puppet-Cancer-Research-UK-Online-Shop_cb19bce2-79ae-4d40-910f-bb96257e9a64_1024x1024.jpg?v=1734683091</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81836-Angel-Hand-Puppet-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683091</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -35917,7 +35860,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/make-your-own-christmas-hand-puppet-gonk?variant=49004005032253</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76529-Gonk-Make-Your-Own-Hand-Puppet-Cancer-Research-UK-Online-Shop_53002a35-8d2f-4a84-989e-d6ea24311176_1024x1024.jpg?v=1734683090</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -35958,7 +35901,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/make-your-own-christmas-hand-puppet-santa?variant=49004005785917</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76529-Santa-Make-Your-Own-Hand-Puppet-Cancer-Research-UK-Online-Shop_ab4d3ce0-ffef-4f01-b019-352ea888b306_1024x1024.jpg?v=1734683089</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -35999,7 +35942,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/santa-paper-chain-3-pack?variant=57315017982327</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86005-Make-Your-Own-Santa-Beard-Paper-Chain-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -36089,7 +36032,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/marvel-spiderman-2m-christmas-wrapping-paper?variant=53471974982007</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85897-Spiderman-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464102</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -36173,7 +36116,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/marvel-spiderman-large-christmas-gift-bag?variant=57393411522935</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85882-Spiderman-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -37531,7 +37474,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/merry-christmas-gift-bag?variant=57393342284151</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84435-Merry-Christmas-Text-Gift-Bag-Large-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784194819</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -37553,7 +37496,7 @@ Backing: TPE
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>Bottle</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -37571,7 +37514,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/merry-christmas-gift-bag?variant=55673459278199</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84437-Merry-Christmas-Text-Gift-Bag-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784194846</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -37593,7 +37536,7 @@ Backing: TPE
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>Bottle</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -37611,7 +37554,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/merry-christmas-gift-bag?variant=55673459310967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84436-Merry-Christmas-Text-Gift-Bag-Medium-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784194872</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -37633,7 +37576,7 @@ Backing: TPE
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>Bottle</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -37651,7 +37594,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/merry-christmas-gift-bag?variant=55673459343735</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84435-Merry-Christmas-Text-Gift-Bag-Large-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784194819</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -37673,7 +37616,7 @@ Backing: TPE
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>Bottle</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -37713,7 +37656,7 @@ Backing: TPE
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>Bottle</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -37773,7 +37716,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/metal-door-wreath-holders?variant=55756831916407</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84377-Wreath-Holder-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760705755</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -37814,7 +37757,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/metal-door-wreath-holders?variant=55756831949175</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84377-Wreath-Holder-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760705755</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -37898,7 +37841,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/midnight-santa-gift-bag?variant=49005528842557</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85877-Midnight-Christmas-Medium-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -37940,7 +37883,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/midnight-santa-gift-bag?variant=49005528809789</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85878-Midnight-Christmas-Large-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464094</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -41748,7 +41691,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81809-Giftmaker-Novelty-Christmas-Headband-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682910</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81809-Elf-Legs-Novelty-Headband-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682910</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -41789,7 +41732,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81809-Giftmaker-Novelty-Christmas-Headband-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682910</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81809-Elf-Legs-Novelty-Headband-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682910</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -41831,7 +41774,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81810-Giftmaker-Reindeer-Sequin-Headband-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682909</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81810-Giftmaker-Reindeer-Sequin-Headband-1-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758269218</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -41873,7 +41816,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81810-Giftmaker-Reindeer-Sequin-Headband-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682909</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81810-Giftmaker-Reindeer-Sequin-Headband-1-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758269218</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -42477,7 +42420,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/paint-your-own-tree-decoration?variant=49006105657661</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81840-Paint-Your-Own-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784545339</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -42517,7 +42460,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/paint-your-own-tree-decoration?variant=49006105690429</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81840-Paint-Your-Own-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784545339</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -42694,7 +42637,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/paw-patrol-2m-christmas-wrapping-paper?variant=53471995625847</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84475-Paw-Patrol-Gift-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756374938</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -42953,7 +42896,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/peppa-pig-2m-christmas-wrapping-paper?variant=53471990022519</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85899-Peppa-Pig-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464102</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -42996,7 +42939,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/peppa-pig-6-christmas-gift-tags?variant=57354571710839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85915-6-Peppa-Pig-Christmas-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464086</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -44430,89 +44373,6 @@ Backing: TPE
 
       <g:color>Gold</g:color>
       <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83507</g:id>
-      <g:item_group_id>9680622813501</g:item_group_id>
-      <g:google_product_category>2608</g:google_product_category>
-      <g:title>Premier Multi-Coloured LED Indoor/Outdoor Battery Operated Timer Lights - 50 LEDs</g:title>
-      <g:description>Let your home and garden shine this Christmas with these battery powered, multi-coloured LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Why keep them just for Christmas? These lights look beautiful all year round! Features:  Multi-coloured LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/premier-multi-coloured-led-indoor-outdoor-battery-operated-timer-lights?variant=49433381404989</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81329-Premier-Timelights-MultiAction-Battery-50-LEDs-Rainbow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682948</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-      <g:sale_price>2.39 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844450697</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Lights</g:product_type>
-
-<g:size>50 LEDs</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83511</g:id>
-      <g:item_group_id>9680622813501</g:item_group_id>
-      <g:google_product_category>2608</g:google_product_category>
-      <g:title>Premier Multi-Coloured LED Indoor/Outdoor Battery Operated Timer Lights - 100 LEDs</g:title>
-      <g:description>Let your home and garden shine this Christmas with these battery powered, multi-coloured LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Why keep them just for Christmas? These lights look beautiful all year round! Features:  Multi-coloured LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/premier-multi-coloured-led-indoor-outdoor-battery-operated-timer-lights?variant=49433381437757</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81333-Premier-Timelights-MultiAction-Battery-100-LEDs-Rainbow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682948</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844450734</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Lights</g:product_type>
-
-<g:size>50 LEDs</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -52113,7 +51973,6 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -52454,7 +52313,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/red-christmas-tissue-paper-10-sheets?variant=55673666142583</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84367-Christmas-Red-Tissue-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784552228</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -53100,97 +52959,6 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83670CREAM</g:id>
-      <g:item_group_id>9521210229053</g:item_group_id>
-      <g:google_product_category>5359</g:google_product_category>
-      <g:title>Robin Advent Candle - Cream</g:title>
-      <g:description>Count down the days of Advent with this charming robin advent candle. This classic pillar candle is numbered down the centre in gold, allowing you to burn the candle each day in the countdown to Christmas. Available in two colour options, white and cream, sold separately. Each candle measures approximately 20cm tall x 5cm diameter, and has its own presentation box and clear glass base.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/robin-advent-candle?variant=53484948717943</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683064</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063004</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063037</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX83670CREAM</g:mpn>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Advent Candles</g:product_type>
-
-      <g:color>Cream</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Paraffin wax</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83670IVORY</g:id>
-      <g:item_group_id>9521210229053</g:item_group_id>
-      <g:google_product_category>5359</g:google_product_category>
-      <g:title>Robin Advent Candle - White</g:title>
-      <g:description>Count down the days of Advent with this charming robin advent candle. This classic pillar candle is numbered down the centre in gold, allowing you to burn the candle each day in the countdown to Christmas. Available in two colour options, white and cream, sold separately. Each candle measures approximately 20cm tall x 5cm diameter, and has its own presentation box and clear glass base.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/robin-advent-candle?variant=53484948750711</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683064</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063004</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063037</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX83670IVORY</g:mpn>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Advent Candles</g:product_type>
-
-      <g:color>Cream</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Paraffin wax</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -58659,7 +58427,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -59235,7 +59003,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -67193,7 +66961,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/novelty-santa-reindeer-stickers?variant=55673626755447</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84379-Santa-Stickers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756377642</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -67658,7 +67426,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/santa-fancy-dress-costume?variant=57354665394551</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85964-Santa-Costume-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464079</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -67831,7 +67599,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/santas-travels-christmas-sack?variant=57312519389559</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85958-Santa-Sack-with-4C-Print-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464086</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
 
       <g:shipping>
@@ -70185,7 +69953,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW32298</g:id>
       <g:item_group_id>9521245389117</g:item_group_id>
       <g:google_product_category>3898</g:google_product_category>
@@ -70310,9 +70080,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW32299</g:id>
       <g:item_group_id>9521247813949</g:item_group_id>
       <g:google_product_category>5847</g:google_product_category>
@@ -73493,7 +73261,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/snow-scene-stickers?variant=57312480428407</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85947-Snow-Scene-Stickers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464099</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -73661,7 +73429,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/snowman-printed-hessian-sack?variant=53495894409591</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81814-Snowman-Hessian-Gift-Sack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682885</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -75914,7 +75682,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/special-delivery-christmas-stocking?variant=57312516079991</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85961-Santas-Special-Delivery-Stocking-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464086</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -76002,7 +75770,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/spiderman-6-christmas-gift-tags?variant=57354606051703</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85918-Spiderman-Christmas-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -76255,7 +76023,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/stackable-gingerbread-pens?variant=57315065037175</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86007-Stackable-Gingerbread-Crayons-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464091</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -78393,7 +78161,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/stitch-6-christmas-gift-tags?variant=57354607591799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85919-Stitch-Christmas-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -80055,7 +79823,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79625-Great-Stand-Up-To-Cancer-Bake-Off-2024-Adult-Star-Baker-Apron-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405348</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79625-Great-Stand-Up-To-Cancer-Bake-Off-2024-Adult-Star-Baker-Apron-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405348</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>8.99 GBP</g:sale_price>
 
@@ -80469,7 +80237,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771602408</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769690922</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.49 GBP</g:price>
 
       <g:shipping>
@@ -80876,7 +80644,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/titch-the-tiny-mouse-set-of-4-placemats?variant=55599660695927</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83703-Titch-Tiny-Mouse-4-Placemats-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755191855</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.49 GBP</g:price>
       <g:sale_price>4.99 GBP</g:sale_price>
 
@@ -81503,7 +81271,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/6-toy-box-tags?variant=57358852161911</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85846-Tom-Smith-6-Toy-Box-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153887</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -81544,7 +81312,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-toy-box-premium-christmas-crackers?variant=57358851834231</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC85840-Tom-Smith-Toy-Box-Premium-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786098398</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -81585,7 +81353,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-8-12-days-family-christmas-crackers?variant=57358852325751</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC85851-Tom-Smith-12-Days-Family-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786098399</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -84883,7 +84651,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999358839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -86003,7 +85771,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -86025,7 +85793,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86070,7 +85838,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86114,7 +85882,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86159,7 +85927,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86203,7 +85971,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86248,7 +86016,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86292,7 +86060,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86337,7 +86105,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86381,7 +86149,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86426,7 +86194,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86470,7 +86238,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86515,7 +86283,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86559,7 +86327,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86604,7 +86372,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86648,7 +86416,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86693,7 +86461,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86737,7 +86505,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86782,7 +86550,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86826,7 +86594,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86871,7 +86639,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86916,7 +86684,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86961,7 +86729,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -87006,7 +86774,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -87051,7 +86819,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -89540,7 +89308,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/whimsical-wood-christmas-gift-bag?variant=57396947943799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85858-Whimsical-Wood-Small-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464072</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
@@ -89580,7 +89348,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/whimsical-wood-christmas-gift-bag?variant=57396947648887</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85859-Whimsical-Wood-Medium-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464080</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -89622,7 +89390,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/whimsical-wood-christmas-gift-bag?variant=57396947681655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85860-Whimsical-Wood-Large-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464082</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -89664,7 +89432,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/whimsical-wood-christmas-gift-bag?variant=57396947714423</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85861-Whimsical-Wood-XLarge-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464091</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
