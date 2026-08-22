@@ -33,7 +33,7 @@
       <g:gtin>5012128619144</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -603,7 +603,7 @@
       <g:gtin>5012128627729</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -644,7 +644,7 @@
       <g:gtin>5012128627712</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -738,6 +738,47 @@
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86002</g:id>
+      <g:item_group_id>14670546829687</g:item_group_id>
+      
+      <g:title>200-Piece Paper Chain Activity Pack</g:title>
+      <g:description>Get the kids involved with the festive decorations with this pack of 200 paper chains. Each pack includes 5 different designs, and each piece has their own sticky tab to make the paper chains easy to make.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/200-piece-paper-chain-activity-pack?variant=53481612280183</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81838-200-Piece-Paper-Chain-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682920</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128632136</g:gtin>
+ 
+      <g:brand>Kids Create</g:brand>
+      <g:product_type>Christmas Activities</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -961,6 +1002,132 @@ PINEWOOD
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW85922G</g:id>
+      <g:item_group_id>15541912371575</g:item_group_id>
+      
+      <g:title>3m Metallic Ribbon and Bow - Gold</g:title>
+      <g:description>Add a touch of shimmer to your festive decorating with these metallic ribbon and large bows. Featuring a sparkling metallic finish, they're perfect for dressing Christmas trees, wreaths, garlands, staircases, gifts and displays.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/3m-metallic-ribbon-and-bow?variant=57401686425975</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85922-Metallic-Ribbon-and-Bow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464099</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128630828</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Gold</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85922S</g:id>
+      <g:item_group_id>15541912371575</g:item_group_id>
+      
+      <g:title>3m Metallic Ribbon and Bow - Silver</g:title>
+      <g:description>Add a touch of shimmer to your festive decorating with these metallic ribbon and large bows. Featuring a sparkling metallic finish, they're perfect for dressing Christmas trees, wreaths, garlands, staircases, gifts and displays.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/3m-metallic-ribbon-and-bow?variant=57401686458743</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85922-Metallic-Ribbon-and-Bow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464099</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CW85922S</g:mpn>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Gold</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85922R</g:id>
+      <g:item_group_id>15541912371575</g:item_group_id>
+      
+      <g:title>3m Metallic Ribbon and Bow - Red</g:title>
+      <g:description>Add a touch of shimmer to your festive decorating with these metallic ribbon and large bows. Featuring a sparkling metallic finish, they're perfect for dressing Christmas trees, wreaths, garlands, staircases, gifts and displays.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/3m-metallic-ribbon-and-bow?variant=57401686491511</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85922-Metallic-Ribbon-and-Bow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464099</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CW85922R</g:mpn>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Gold</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -1215,7 +1382,7 @@ Ground sheet: 100% Polyethylene
       <g:gtin>5012128627705</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -2987,7 +3154,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-breakfast-mug?variant=57189986107767</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85179-Bee-Print-Breakfast-Mug-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144144</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -3009,7 +3176,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Mug</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>White</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -3050,7 +3217,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Mug</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>White</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -5774,7 +5941,7 @@ Ground sheet: 100% Polyethylene
       <g:gtin>5012128627620</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
       <g:color>blue</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -7218,48 +7385,6 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
       <g:color>pink</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>BB84971BLUE</g:id>
-      <g:item_group_id>15449087902071</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Blue Zebra Stripe Travel Strap</g:title>
-      <g:description> Inspired by a legacy rooted in strength, resilience and rebellious hope, this blue zebra stripe luggage strap combines striking design with dependable function.  The strap offers instant reassurance with a secure, click‑into‑place buckle, keeping suitcases of all sizes firmly closed throughout even the busiest journeys.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-blue-zebra-stripe-travel-strap?variant=56988663939447</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84971BLUE-Luggage-Strap-Zebra-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1775644303</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84971BLUE-Luggage-Strap-Zebra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1775644303</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247729</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Travel Accessories</g:product_type>
-      <g:color>green</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -15509,7 +15634,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128616587</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -15950,6 +16075,47 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX86000</g:id>
+      <g:item_group_id>9520781918525</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Christmas Colouring Book</g:title>
+      <g:description>Keep children entertained over the Christmas period with this Christmas Colouring Book. Filled with festive illustrations to colour in, it offers a simple and creative activity for quiet time at home, family gatherings and holiday travel.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-colouring-book?variant=49003748196669</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86000-Christmas-Sticker-Activity-Book-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787335198</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128631290</g:gtin>
+ 
+      <g:brand>Kids Create</g:brand>
+      <g:product_type>Christmas Activities</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW84432</g:id>
       <g:item_group_id>15106118451575</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -16066,6 +16232,47 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW85924</g:id>
+      <g:item_group_id>15541912895863</g:item_group_id>
+      
+      <g:title>Christmas Hamper Building Set</g:title>
+      <g:description>Create a gift that's as special as what's inside with this Christmas Hamper Pack. Perfect for building your own festive hampers, this all-in-one set includes shredded tissue paper, clear cello wrap, a pull bow and a festive gift tag to give your presents a beautifully professional finish.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-hamper-building-set?variant=57401687114103</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85924-Christmas-Hamper-Building-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.29 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128630965</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -16533,6 +16740,89 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX85938</g:id>
+      <g:item_group_id>15541871083895</g:item_group_id>
+      
+      <g:title>Christmas Party Cups and Straws- 4 Pack</g:title>
+      <g:description>Bring a splash of fun to every Christmas celebration with these colourful Christmas Cups with Lids &amp; Straws! Featuring cheerful seasonal characters including Santa, snowmen, penguins and reindeer, these reusable 330ml tumblers are perfect for serving festive drinks at Christmas parties and family gatherings.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-party-cups-and-straws-4-pack?variant=57401145524599</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85938-Christmas-Party-Cups-Lids-and-Straws-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464094</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128631191</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Activities</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85939</g:id>
+      <g:item_group_id>15541872460151</g:item_group_id>
+      
+      <g:title>Christmas Party Food Platters- 2 Pack</g:title>
+      <g:description>Serve up a Christmas feast in festive style with these Christmas Party Food Platters. Featuring a charming seasonal pattern of reindeer, Christmas trees and snowflakes, accented by an elegant gold border, these food platters are perfect for displaying sandwiches, mince pies, festive treats and party nibbles.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-party-food-platters-2-pack?variant=57401147851127</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85939-Christmas-Food-Platters-Set-of-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464099</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128631238</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Activities</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81843</g:id>
       <g:item_group_id>9659073331517</g:item_group_id>
       
@@ -16661,7 +16951,7 @@ Lining 100% Cotton</g:material>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Christmas Pets Gift Bag - M</g:title>
       <g:description>Make gifting fun with this charming Christmas Pets Gift Bag, available in sizes medium to extra large. Its festive design adds a playful touch to your holiday presents, making every gift feel extra special and ready to surprise. Whether for small treats or larger treasures, this bag is a cheerful way to share joy this Christmas.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag?variant=55673471402359</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag-2025?variant=55673471402359</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84430-Christmas-Pets-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757429484</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
@@ -16701,7 +16991,7 @@ Lining 100% Cotton</g:material>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Christmas Pets Gift Bag - L</g:title>
       <g:description>Make gifting fun with this charming Christmas Pets Gift Bag, available in sizes medium to extra large. Its festive design adds a playful touch to your holiday presents, making every gift feel extra special and ready to surprise. Whether for small treats or larger treasures, this bag is a cheerful way to share joy this Christmas.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag?variant=55673471435127</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag-2025?variant=55673471435127</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW884429-Christmas-Pets-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757429538</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
@@ -16741,7 +17031,7 @@ Lining 100% Cotton</g:material>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Christmas Pets Gift Bag - XL</g:title>
       <g:description>Make gifting fun with this charming Christmas Pets Gift Bag, available in sizes medium to extra large. Its festive design adds a playful touch to your holiday presents, making every gift feel extra special and ready to surprise. Whether for small treats or larger treasures, this bag is a cheerful way to share joy this Christmas.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag?variant=55673471467895</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag-2025?variant=55673471467895</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW884431-Christmas-Pets-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757429587</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -16767,6 +17057,127 @@ Lining 100% Cotton</g:material>
       <g:product_type>Gift Bags</g:product_type>
 
 <g:size>XL</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW85866</g:id>
+      <g:item_group_id>15536881271159</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Christmas Pets Gift Bag - M</g:title>
+      <g:description>Make gifting fun with this charming Christmas Pets Gift Bag, available in sizes medium to extra large. Its festive design adds a playful touch to your holiday presents, making every gift feel extra special and ready to surprise. Whether for small treats or larger treasures, this bag is a cheerful way to share joy this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag-2026?variant=57393345429879</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85866-Christmas-Pets-Medium-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464082</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213596169</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+<g:size>M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85867</g:id>
+      <g:item_group_id>15536881271159</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Christmas Pets Gift Bag - L</g:title>
+      <g:description>Make gifting fun with this charming Christmas Pets Gift Bag, available in sizes medium to extra large. Its festive design adds a playful touch to your holiday presents, making every gift feel extra special and ready to surprise. Whether for small treats or larger treasures, this bag is a cheerful way to share joy this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag-2026?variant=57393345462647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85867-Christmas-Pets-Large-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464086</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213596152</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+<g:size>M</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85868</g:id>
+      <g:item_group_id>15536881271159</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Christmas Pets Gift Bag - XL</g:title>
+      <g:description>Make gifting fun with this charming Christmas Pets Gift Bag, available in sizes medium to extra large. Its festive design adds a playful touch to your holiday presents, making every gift feel extra special and ready to surprise. Whether for small treats or larger treasures, this bag is a cheerful way to share joy this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag-2026?variant=57393345495415</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85868-Christmas-Pets-XLarge-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464095</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213596145</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+<g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -17223,6 +17634,47 @@ Lining 100% Cotton</g:material>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012128617065</g:gtin>
+ 
+      <g:brand>Kids Create</g:brand>
+      <g:product_type>Christmas Activities</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86003</g:id>
+      <g:item_group_id>15541772747127</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Christmas Sticker Carry Along Set</g:title>
+      <g:description>Keep little ones entertained throughout the Christmas period with this Christmas Activity Carry-Along Set. With colouring pages, puzzles, games and creative activities, this set provides hours of engaging festive fun at home or on the go. Key Features:  Includes 3 activity books and 4 sticker sheets, Over 200 colourful stickers, Colouring, puzzles and other Christmas activities, Sturdy carry-along case with handle, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-sticker-carry-along-set?variant=57400812011895</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86003-Christmas-Sticker-Carry-Along-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787315768</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.29 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128632112</g:gtin>
  
       <g:brand>Kids Create</g:brand>
       <g:product_type>Christmas Activities</g:product_type>
@@ -18361,6 +18813,47 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW85909</g:id>
+      <g:item_group_id>15541694562679</g:item_group_id>
+      <g:google_product_category>8213</g:google_product_category>
+      <g:title>Cute Novelty Gift Tags - 20 Pack</g:title>
+      <g:description>Elevate your gift-giving with these sweet novelty gift tags. Designed to bring a pop of festive charm, these gift tags are perfect for your Christmas gifting.   20 gift tags with metallic string, Recyclable packaging , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cute-novelty-gift-tags-20-pack?variant=57400613011831</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85909-Cute-Novelty-Christmas-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464091</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128627651</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Gift Tags</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -23013,7 +23506,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012213602624</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -23151,9 +23644,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC28803</g:id>
       <g:item_group_id>14950348783991</g:item_group_id>
       
@@ -23583,7 +24074,9 @@ Ground Sheet: 100% Polyethylene
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD85601</g:id>
       <g:item_group_id>15520896876919</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -24779,6 +25272,47 @@ Ground Sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>CW85905</g:id>
+      <g:item_group_id>15541693940087</g:item_group_id>
+      <g:google_product_category>8213</g:google_product_category>
+      <g:title>Elegant Traditional Gift Tags - 20 Pack</g:title>
+      <g:description>Elevate your gift-giving with our elegant traditional gift tags. Designed to bring a pop of festive charm, these labels are perfect for the Christmas gifting.   20 gift tags with metallic string, Recyclable packaging , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/elegant-traditional-gift-tags-20-pack?variant=57400609440119</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85905-Elegant-Traditional-Christmas-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464091</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128627613</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Gift Tags</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81806</g:id>
       <g:item_group_id>9659072545085</g:item_group_id>
       
@@ -25871,7 +26405,7 @@ Backing: TPE
       <g:gtin>5012128616457</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -25915,7 +26449,7 @@ Backing: TPE
       <g:gtin>5012128616471</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -27373,6 +27907,47 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CC85932</g:id>
+      <g:item_group_id>15541910438263</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Giftmaker 8 Ho Ho Ho Plastic-Free Christmas Crackers</g:title>
+      <g:description>Pull, snap and celebrate with these festive plastic-free Christmas crackers. Featuring a cheerful white "Ho Ho Ho" design, they're a stylish and eco-conscious choice for your feast. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with a tree and wreath design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-ho-ho-ho-plastic-free-christmas-crackers?variant=57401679479159</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC85932-Ho-Ho-Ho-Family-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464101</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213597807</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CC81795</g:id>
       <g:item_group_id>14670545486199</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -27441,6 +28016,47 @@ Backing: TPE
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012213582421</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Crackers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Crackers</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CC85931</g:id>
+      <g:item_group_id>14669440057719</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Giftmaker 8 Traditional Foliage Plastic-Free Christmas Crackers</g:title>
+      <g:description>Pull a plastic-free cracker this Christmas with these stunning foliage designed ones from Giftmaker. Fully recyclable and plastic-free, this pack of 8 x 12" crackers with a tree and wreath design definitely look the part. Each one contains a hat, joke, and novelty.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/giftmaker-8-traditional-foliage-plastic-free-christmas-crackers?variant=53472446447991</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC85931-Foliage-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464101</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213597821</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Crackers</g:product_type>
@@ -29053,7 +29669,7 @@ Backing: TPE
       <g:gtin>5012213602617</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -30432,7 +31048,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-face-cushion-grey?variant=57087323505015</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85071-Highland-Cow-Face-Cushion-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.49 GBP</g:price>
       <g:sale_price>4.99 GBP</g:sale_price>
 
@@ -33692,6 +34308,47 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CW85857</g:id>
+      <g:item_group_id>15541866135927</g:item_group_id>
+      
+      <g:title>Kraft Mixed Bag Packs</g:title>
+      <g:description>Present gifts with ease using these Mixed Kraft Christmas Gift Bags. This pack includes three assorted designs, featuring traditional seasonal patterns on kraft paper backgrounds for a classic Christmas look. Complete with sturdy cord handles and matching gift tags, they're ideal for wrapping bottles, treats, clothing, accessories and other gifts.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/kraft-mixed-bag-packs?variant=57401133564279</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85857-Kraft-Mixed-Gift-Bags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787334552</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213598682</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>WF30436</g:id>
       <g:item_group_id>9520998809917</g:item_group_id>
       <g:google_product_category>5455</g:google_product_category>
@@ -34612,6 +35269,47 @@ Backing: TPE
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CW85914</g:id>
+      <g:item_group_id>15541869052279</g:item_group_id>
+      <g:google_product_category>8213</g:google_product_category>
+      <g:title>Luggage and Sticker Gift Tags</g:title>
+      <g:description>Make every present look extra magical this Christmas with these Assorted Christmas Gift Tags! Featuring 56 festive tags and labels in a mix of charming seasonal designs, including Santa, Christmas trees and snowy scenes they're the perfect finishing touch for gifts of all shapes and sizes.  With 4 large gift tags, 52 sticky labels and metallic cord included, adding a personal message is easy.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luggage-and-sticker-gift-tags?variant=57401138315639</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85914-Tags-Luggage-and-Sticker-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464092</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128630781</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Gift Tags</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -37705,9 +38403,7 @@ Backing: TPE
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84377SNOW</g:id>
       <g:item_group_id>15128267456887</g:item_group_id>
       
@@ -38526,7 +39222,9 @@ Backing: TPE
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW84826</g:id>
       <g:item_group_id>15057227514231</g:item_group_id>
       
@@ -41765,6 +42463,87 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CX85963REIN</g:id>
+      <g:item_group_id>14671570698615</g:item_group_id>
+      
+      <g:title>Novelty Christmas Tie - Reindeer</g:title>
+      <g:description>Add festive fun to your outfit with one of our novelty Christmas ties! Featuring a cheerful snowman and a playful reindeer design, they're perfect for Christmas parties, work events or the big day itself. Great as stocking fillers or Secret Santa gifts, they're a fun way to spread seasonal cheer.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/novelty-christmas-tie?variant=53484723732855</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85963-Novelty-Christmas-Tie-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787335063</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128595073</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Novelty Tie</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85963SNOW</g:id>
+      <g:item_group_id>14671570698615</g:item_group_id>
+      
+      <g:title>Novelty Christmas Tie - Snowman</g:title>
+      <g:description>Add festive fun to your outfit with one of our novelty Christmas ties! Featuring a cheerful snowman and a playful reindeer design, they're perfect for Christmas parties, work events or the big day itself. Great as stocking fillers or Secret Santa gifts, they're a fun way to spread seasonal cheer.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/novelty-christmas-tie?variant=53484723700087</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85963-Novelty-Christmas-Tie-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787335063</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128595073</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Novelty Tie</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81810BROWN</g:id>
       <g:item_group_id>14671569617271</g:item_group_id>
       
@@ -42959,7 +43738,7 @@ Backing: TPE
       <g:gtin>5012213602600</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -52292,7 +53071,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5012128616440</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -69375,9 +70154,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW32323</g:id>
       <g:item_group_id>9521240834365</g:item_group_id>
       <g:google_product_category>5663</g:google_product_category>
@@ -70080,7 +70857,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW32299</g:id>
       <g:item_group_id>9521247813949</g:item_group_id>
       <g:google_product_category>5847</g:google_product_category>
@@ -71505,7 +72284,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH79613-Shine-Tattoo-2-Cancer-Research-UK-Online-Shop_d51f8dde-7968-4b76-b115-5bdc76247502_1024x1024.jpg?v=1719231334</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH79613-Shine-Tattoo-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727614508</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.00 GBP</g:price>
 
       <g:shipping>
@@ -75790,7 +76569,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5012213602631</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -78181,7 +78960,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5012213602648</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -78460,7 +79239,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/striped-outdoor-rug?variant=55129364529527</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851BLUE-Turquoise-Blue-Stripe-Design-Outdoor-Rug-Lifestyle-square-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1747386564</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>4.99 GBP</g:sale_price>
 
@@ -82613,7 +83392,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5012128616419</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Tags</g:product_type>
+      <g:product_type>Christmas Gift Tags</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -91265,9 +92044,7 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>GC32936</g:id>
       <g:item_group_id>14909065560439</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
