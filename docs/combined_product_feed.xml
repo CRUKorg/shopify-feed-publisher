@@ -8719,7 +8719,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-ladies-ankle-socks?variant=56906695049591</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84991PINK-Pink-Bowelbabe-Fund-Ankle-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776688212</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -15953,7 +15953,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15517345022327</g:item_group_id>
       
       <g:title>Christmas Bauble Earrings</g:title>
-      <g:description>Celebrate the season in style with these festive Christmas bauble earrings.  Featuring colourful bauble designs with a sparkling finish, they're perfect for adding a touch of festive charm to your holiday outfits.</g:description>
+      <g:description>Celebrate the season in style with these festive Christmas bauble earrings.  Featuring colourful bauble designs with a sparkling finish, they're perfect for adding a touch of festive charm to your holiday outfits. Each bauble is approximately 3cm diameter. For pierced ears.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-bauble-earrings?variant=57312584171895</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85981-Christmas-Bauble-Earrings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464091</g:image_link>
       <g:condition>new</g:condition>
@@ -15979,9 +15979,10 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Earrings</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Metal / PET / Foil</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -16535,7 +16536,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15528818246007</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
       <g:title>Christmas Necklace and Bracelet</g:title>
-      <g:description>Inspired by the beauty of a winter snowfall, this Christmas Pendant Necklace &amp; Bracelet Set features matching snowflake charms suspended from delicate silver-tone chains. A stylish accessory for the festive season, it's ideal for gifting or adding a decorative finishing touch to Christmas party outfits.</g:description>
+      <g:description>Inspired by the beauty of a winter snowfall, this Christmas Pendant Necklace &amp; Bracelet Set features matching snowflake charms suspended from delicate silver-tone chains. A stylish accessory for the festive season, it's ideal for gifting or adding a decorative finishing touch to Christmas party outfits. Necklace chain length 46cm; bracelet chain length 24cm; pendants approximately 2.5 x 2.5cm.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-necklace-and-bracelet?variant=57371284439415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85984-Christmas-Snowflake-Necklace-and-Bracelet-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464085</g:image_link>
       <g:condition>new</g:condition>
@@ -16613,12 +16614,92 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX85980SANTA</g:id>
+      <g:item_group_id>15128020320631</g:item_group_id>
+      
+      <g:title>Christmas Novelty Stud Earrings - Santa &amp; Penguins</g:title>
+      <g:description>Bring festive fun to your ears with this playful set of Christmas novelty stud earrings. Whether you're mixing them up or wearing them as matching sets, these cheerful studs are perfect for adding a merry twist to your holiday outfits. Lightweight, easy to wear, and full of seasonal spirit, these festive ear decorations are ideal for parties, gifting, or everyday festive flair! Each pack includes two pairs.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-novelty-stud-earrings?variant=57405734977911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85980-Christmas-Stud-Earrings-Cancer-Research-UK-Online-Shop_c6a84671-1164-4969-a0d8-ed79c40a5798_1024x1024.jpg?v=1787579477</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128632037</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Earrings</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85980SNOW</g:id>
+      <g:item_group_id>15128020320631</g:item_group_id>
+      
+      <g:title>Christmas Novelty Stud Earrings - Gingerbread &amp; Trees</g:title>
+      <g:description>Bring festive fun to your ears with this playful set of Christmas novelty stud earrings. Whether you're mixing them up or wearing them as matching sets, these cheerful studs are perfect for adding a merry twist to your holiday outfits. Lightweight, easy to wear, and full of seasonal spirit, these festive ear decorations are ideal for parties, gifting, or everyday festive flair! Each pack includes two pairs.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-novelty-stud-earrings?variant=57405735010679</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85980-Christmas-Stud-Earrings-Cancer-Research-UK-Online-Shop_c6a84671-1164-4969-a0d8-ed79c40a5798_1024x1024.jpg?v=1787579477</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128632037</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Earrings</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
       <g:id>CX84391</g:id>
       <g:item_group_id>15128020320631</g:item_group_id>
       
-      <g:title>Christmas Novelty Stud Earrings</g:title>
+      <g:title>Christmas Novelty Stud Earrings - Candy Canes &amp; Snowflakes</g:title>
       <g:description>Bring festive fun to your ears with this playful set of Christmas novelty stud earrings. Whether you're mixing them up or wearing them as matching sets, these cheerful studs are perfect for adding a merry twist to your holiday outfits. Lightweight, easy to wear, and full of seasonal spirit, these festive ear decorations are ideal for parties, gifting, or everyday festive flair! Each pack includes two pairs.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-novelty-stud-earrings?variant=55755760435575</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-novelty-stud-earrings?variant=57405735043447</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84391-Christmas-Stud-Earrings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757497552</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
@@ -16643,11 +16724,9 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Earrings</g:product_type>
 
-      <g:size>3</g:size>
+      <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:age_group>kids</g:age_group>
-      <g:gender>female</g:gender>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -16660,7 +16739,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15517744824695</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Christmas Paper Chain Characters</g:title>
-      <g:description>Create festive decorations the whole family can enjoy with these Christmas Character Paper Chains. Featuring a selection of cheerful seasonal characters, they're a fun and easy way to add colour and festive charm to your home.  Simply assemble the paper chains and hang them around walls, doorways, windows or Christmas displays to create a festive atmosphere. Features  43 coloured paper chains, Self-adhesive die-cut pieces, 8 wiggly eyes, 4 ribbons,  </g:description>
+      <g:description>Create festive decorations the whole family can enjoy with these Christmas Character Paper Chains. Featuring a selection of cheerful seasonal characters, they're a fun and easy way to add colour and festive charm to your home.  Simply assemble the paper chains and hang them around walls, doorways, windows or Christmas displays to create a festive atmosphere. Each pack contains 43 coloured paper chains, self-adhesive die-cut pieces, 8 wiggly eyes, and 4 ribbons. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-paper-chain-characters?variant=57315015360887</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86004-Make-Your-Own-Paper-Chain-Character-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
@@ -16690,6 +16769,9 @@ Lining 100% Cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
+      <g:product_length>1.5 cm </g:product_length>
+      <g:product_width>19 cm </g:product_width>
+      <g:product_height>29 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -16868,9 +16950,9 @@ Lining 100% Cotton</g:material>
       <g:id>CX84393SANTA</g:id>
       <g:item_group_id>15126871736695</g:item_group_id>
       
-      <g:title>Christmas Pendent Necklace - Santa</g:title>
-      <g:description>Sprinkle festive magic onto your Christmas outfit with this charming pendant necklace. Perfect for festive gatherings, it’s a stylish and cute accessory that brightens your look with a touch of seasonal sparkle. Celebrate the season in style! Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-pendent-necklace?variant=55750301483383</g:link>
+      <g:title>Christmas Pendant Necklace - Santa</g:title>
+      <g:description>Sprinkle festive magic onto your Christmas outfit with this charming pendant necklace. Perfect for festive gatherings, it’s a stylish and cute accessory that brightens your look with a touch of seasonal sparkle. Celebrate the season in style! 46cm chain length; pendants approximately 2 x 1.5cm. Sold separately.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pendant-necklace?variant=55750301483383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-Single-Pendant-NecklaceCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757492900</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -16908,9 +16990,9 @@ Lining 100% Cotton</g:material>
       <g:id>CX84393CANE</g:id>
       <g:item_group_id>15126871736695</g:item_group_id>
       
-      <g:title>Christmas Pendent Necklace - Candy Cane</g:title>
-      <g:description>Sprinkle festive magic onto your Christmas outfit with this charming pendant necklace. Perfect for festive gatherings, it’s a stylish and cute accessory that brightens your look with a touch of seasonal sparkle. Celebrate the season in style! Sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-pendent-necklace?variant=55750301516151</g:link>
+      <g:title>Christmas Pendant Necklace - Candy Cane</g:title>
+      <g:description>Sprinkle festive magic onto your Christmas outfit with this charming pendant necklace. Perfect for festive gatherings, it’s a stylish and cute accessory that brightens your look with a touch of seasonal sparkle. Celebrate the season in style! 46cm chain length; pendants approximately 2 x 1.5cm. Sold separately.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pendant-necklace?variant=55750301516151</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-Single-Pendant-NecklaceCancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757492900</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -17653,7 +17735,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15541772747127</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Christmas Sticker Carry Along Set</g:title>
-      <g:description>Keep little ones entertained throughout the Christmas period with this Christmas Activity Carry-Along Set. With colouring pages, puzzles, games and creative activities, this set provides hours of engaging festive fun at home or on the go. Key Features:  Includes 3 activity books and 4 sticker sheets, Over 200 colourful stickers, Colouring, puzzles and other Christmas activities, Sturdy carry-along case with handle, </g:description>
+      <g:description>Keep little ones entertained throughout the Christmas period with this Christmas Activity Carry-Along Set. With colouring pages, puzzles, games and creative activities, this set provides hours of engaging festive fun at home or on the go. Pack includes:  Includes 3 activity books and 4 sticker sheets, Over 200 colourful stickers, Colouring, puzzles and other Christmas activities, Sturdy carry-along case with handle, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-sticker-carry-along-set?variant=57400812011895</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86003-Christmas-Sticker-Carry-Along-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787315768</g:image_link>
       <g:condition>new</g:condition>
@@ -17682,6 +17764,9 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>2 cm </g:product_length>
+      <g:product_width>24.5 cm </g:product_width>
+      <g:product_height>21.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -23435,11 +23520,11 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CW84473</g:id>
+      <g:id>CW85898</g:id>
       <g:item_group_id>14669227590007</g:item_group_id>
       
       <g:title>Disney Princess 2m Christmas Wrapping Paper</g:title>
-      <g:description>Wrap your gifts in royal style with this magical Disney Princesses paper! Featuring beloved characters, it’s perfect for fairytale-worthy surprises. If you've got a Disney fan amongst your friends and family, this could be just the festive extra that makes their day! Pair it up with our co-ordinating gift bag to complete the look. Fully recyclable.</g:description>
+      <g:description>Wrap your gifts in royal style with this magical Disney Princesses paper! Featuring beloved characters, it’s perfect for fairytale-worthy surprises. If you've got a Disney fan amongst your friends and family, this could be just the festive extra that makes their day! Pair it up with our co-ordinating gift bag to complete the look. Fully recyclable with plastic-free packaging. Made in the UK.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/disney-princess-2m-christmas-wrapping-paper?variant=53472015483255</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85898-Disney-Princess-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464102</g:image_link>
       <g:condition>new</g:condition>
@@ -23460,7 +23545,7 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213586306</g:gtin>
+      <g:gtin>5012213601436</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Wrapping Paper</g:product_type>
@@ -28105,6 +28190,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>100% polyester</g:material>
       <g:product_width>59 cm </g:product_width>
       <g:product_height>77 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -36539,9 +36625,10 @@ Backing: TPE
       <g:brand>Kids Create</g:brand>
       <g:product_type>Christmas Activities</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Felt / polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -36580,9 +36667,10 @@ Backing: TPE
       <g:brand>Kids Create</g:brand>
       <g:product_type>Christmas Activities</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Felt / polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -36621,9 +36709,10 @@ Backing: TPE
       <g:brand>Kids Create</g:brand>
       <g:product_type>Christmas Activities</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Felt / Polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -36636,7 +36725,7 @@ Backing: TPE
       <g:item_group_id>15517745643895</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
       <g:title>Make Your Own Santa Paper Chains - 3 Pack</g:title>
-      <g:description>Create a festive decoration that's fun to make and display with this Santa Face Paper Chain kit. Featuring cheerful Santa faces, these three paper chains are an easy Christmas craft activity that children will love. Simply assemble the paper chains and hang them around your home, classroom or party space to add instant festive cheer. Feature  3 Santa faces, 2 self-adhesive boards, Sticker sheet, White paper chains, Ribbon, </g:description>
+      <g:description>Create a festive decoration that's fun to make and display with this Santa Face Paper Chain kit. Featuring cheerful Santa faces, these three paper chains are an easy Christmas craft activity that children will love. Simply assemble the paper chains and hang them around your home, classroom or party space to add instant festive cheer. Each pack contains 3 Santa faces, 2 self-adhesive boards, a sticker sheet, white paper chains, and ribbon.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/santa-paper-chain-3-pack?variant=57315017982327</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86005-Make-Your-Own-Santa-Beard-Paper-Chain-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
       <g:condition>new</g:condition>
@@ -43224,6 +43313,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Plaster of Paris/3ml paint pots/mini plastic paint brushes/satin ribbon</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -43264,6 +43354,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:material>Plaster of Paris/3ml paint pots/mini plastic paint brushes/satin ribbon</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -67774,6 +67865,47 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CW85908</g:id>
+      <g:item_group_id>15541868134775</g:item_group_id>
+      <g:google_product_category>8213</g:google_product_category>
+      <g:title>Santa &amp; Friends Bright Foiled Christmas Gift Tags - 20 Pack</g:title>
+      <g:description>Elevate your gift-giving with these sweet gift labels. This premium set of festive gift tags add a pop of festive charm - perfect for helping your presents stand out under the tree.   20 gift tags with metallic string, Recyclable packaging, Co-ordinating gift wrap available, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/brights-gift-tags-20-pack?variant=57401135956343</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85908-Brights-Christmas-Gift-Tag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464083</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128627644</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Gift Tags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84379</g:id>
       <g:item_group_id>15106155086199</g:item_group_id>
       
@@ -70114,9 +70246,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW84310</g:id>
       <g:item_group_id>15072330842487</g:item_group_id>
       
@@ -70155,7 +70285,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW84306</g:id>
       <g:item_group_id>15072305512823</g:item_group_id>
       
@@ -76839,8 +76971,8 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:id>CX86007</g:id>
       <g:item_group_id>15517751279991</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
-      <g:title>Stackable Gingerbread Pens</g:title>
-      <g:description>Add a sweet touch of festive fun to your stationery with these Stackable Gingerbread Pens. Featuring adorable gingerbread character sections that stack together, these novelty pens are perfect for children, stocking fillers, party bags and Christmas Eve boxes. Features  3 Pens, 5 colours on each gingerbread character stackable crayon, </g:description>
+      <g:title>Stackable Gingerbread Crayon Pens</g:title>
+      <g:description>Add a sweet touch of festive fun to your stationery with these Stackable Gingerbread Crayon Pens. Featuring adorable gingerbread character sections that stack together, these novelty pens are perfect for children, stocking fillers, party bags and Christmas Eve boxes. Pack of 3 stackable crayon pens, each containing 5 colours.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/stackable-gingerbread-pens?variant=57315065037175</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86007-Stackable-Gingerbread-Crayons-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464091</g:image_link>
       <g:condition>new</g:condition>
@@ -76870,6 +77002,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:age_group>kids</g:age_group>
+      <g:product_length>1 cm </g:product_length>
+      <g:product_width>6 cm </g:product_width>
+      <g:product_height>18 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
@@ -83442,6 +83577,50 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85942</g:id>
+      <g:item_group_id>15541875114359</g:item_group_id>
+      
+      <g:title>Traditional Red Robin Table Cover</g:title>
+      <g:description>Create a festive backdrop for your Christmas celebrations with this charming Robin Tablecloth. Featuring a classic red robin surrounded by holly leaves, winter greenery and bright berries, this cheerful design brings the warmth and magic of the season to your dining table. Its protective, easy-clean finish makes it ideal for festive entertaining.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/traditional-red-robin-table-cover?variant=57401158697335</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85942-Christmas-Party-Traditional-Table-Cover-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464091</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128627989</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Tablecloth</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyethylene (PE)</g:material>
+      <g:product_width>120 cm </g:product_width>
+      <g:product_height>180 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -91951,9 +92130,7 @@ Backing: TPE
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85692</g:id>
       <g:item_group_id>9521424630077</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -92040,7 +92217,9 @@ Backing: TPE
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF71169</g:id>
       <g:item_group_id>9521434329405</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
