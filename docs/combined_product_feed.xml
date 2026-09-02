@@ -2611,7 +2611,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-happy-plaque?variant=55353698681207</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR83092_Yellow_plaque_featuring_bee_design._1024x1024.jpg?v=1757884629</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
       <g:sale_price>1.99 GBP</g:sale_price>
 
@@ -2634,7 +2634,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Decorative Plaque</g:product_type>
 
-      <g:color>Pollen Yellow</g:color>
+      <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -2676,7 +2676,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Decorative Plaque</g:product_type>
 
-      <g:color>Pollen Yellow</g:color>
+      <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -2718,7 +2718,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Decorative Plaque</g:product_type>
 
-      <g:color>Pollen Yellow</g:color>
+      <g:color>Purple Floral</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -5406,7 +5406,7 @@ Ground sheet: 100% Polyethylene
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84788-and-CR84792-Grey-Bee-Blenheim-Plant-Pot-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84790-and-CR84795-Sea-Green-Bee-Blenheim-Plant-Pot-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -8155,7 +8155,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Purple</g:color>
+      <g:color>Green</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -8199,7 +8199,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Purple</g:color>
+      <g:color>Green</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -8220,7 +8220,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-ladies-trainer-socks?variant=55074222866807</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB83112Green-Bowelbabe-Trainer-socks-Green-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1746094219</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -8243,7 +8243,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Socks</g:product_type>
 
-      <g:color>Purple</g:color>
+      <g:color>Green</g:color>
       <g:size>One Size</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -11049,10 +11049,55 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>CX85618</g:id>
+      <g:item_group_id>9659257717053</g:item_group_id>
+      
+      <g:title>Cancer Research UK 2027 Slim Calendar</g:title>
+      <g:description>Stay organised throughout 2027 with this slim month-to-view calendar, designed to hang easily on any wall. Notable UK dates are already highlighted, but there's dedicated spaces for writing in appointments and your own special dates, helping you keep track of important moments with ease and clarity.  Perfect for planning ahead while adding a practical touch to your home or office.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-slim-calendar?variant=49372363555133</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85618-2027-Slim-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907521</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238562211</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Calendar</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>0.2 cm </g:product_length>
+      <g:product_width>15 cm </g:product_width>
+      <g:product_height>34 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Stationery</g:custom_label_2>
+      <g:custom_label_3>Own Brand</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85612</g:id>
       <g:item_group_id>15087266267511</g:item_group_id>
       
-      <g:title>Cancer Research UK 2027 Calendar</g:title>
+      <g:title>Cancer Research UK 2027 Square Calendar</g:title>
       <g:description>Stay organised throughout 2027 with this square calendar, designed to hang easily on any wall. It offers dedicated spaces for writing appointments and special dates, helping you keep track of important moments with ease and clarity. Perfect for planning ahead while adding a practical touch to your home or office. Features:  Illustrations by Bev Ibbotson, Square month to view hanging calendar with drilled hole for hanging on a pin or nail. , All notable UK dates are included., Space provided on each date to write appointments and special dates., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-square-calendar?variant=55594017751415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85612-Bev-Ibbotson-2027-Square-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
@@ -11093,13 +11138,13 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>CX85618</g:id>
-      <g:item_group_id>9659257717053</g:item_group_id>
+      <g:id>CX85617</g:id>
+      <g:item_group_id>15515642757495</g:item_group_id>
       
-      <g:title>Cancer Research UK 2027 Slim Calendar</g:title>
-      <g:description>Stay organised throughout 2027 with this slim month-to-view calendar, designed to hang easily on any wall. Notable UK dates are already highlighted, but there's dedicated spaces for writing in appointments and your own special dates, helping you keep track of important moments with ease and clarity.  Perfect for planning ahead while adding a practical touch to your home or office.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-slim-calendar?variant=49372363555133</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85618-2027-Slim-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907521</g:image_link>
+      <g:title>Cancer Research UK Black 2027 Pocket Diary</g:title>
+      <g:description>Sleek and understated, this compact black pocket diary is your perfect everyday companion for staying effortlessly organised. With its week-to-view layout, it packs a punch in a petite size. And with every page you fill, you're helping fund life-saving cancer research—because planning your future can help change someone else's. Features:  13-month diary (December 2026 - December 2027), Week to view layout, Padded front and back covers ,  Additional information pages:  Personal information page; 2026, 2027 and 2028 overview calendars; 2028 forward planner; International holidays and notable dates chart; International dialling codes; International clothing sizes; International paper size chart; Conversion charts; Address/contact pages; Full colour world and UK maps; National Rail map; London Underground map; Notes pages, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-black-2027-pocket-diary?variant=57306661093751</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85617-2027-Black-Pocket-Diary-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907516</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
@@ -11118,17 +11163,17 @@ Ground sheet: 100% Polyethylene
         <g:price>6.99 GBP</g:price>
       </g:shipping>
       <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5056238562211</g:gtin>
+      <g:gtin>5056238562204</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Calendar</g:product_type>
+      <g:product_type>Diary</g:product_type>
 
-      <g:size>1</g:size>
+      <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:product_length>0.2 cm </g:product_length>
-      <g:product_width>15 cm </g:product_width>
-      <g:product_height>34 cm </g:product_height>
+      <g:product_length>0.9 cm </g:product_length>
+      <g:product_width>8.4 cm </g:product_width>
+      <g:product_height>16.7 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Stationery</g:custom_label_2>
@@ -11401,6 +11446,51 @@ Ground sheet: 100% Polyethylene
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_3>Own Brand</g:custom_label_3>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85614</g:id>
+      <g:item_group_id>15515632828791</g:item_group_id>
+      
+      <g:title>Cancer Research UK Coastal 2027 Desk Diary</g:title>
+      <g:description>Plan your days in style with this elegant coastal calendar, featuring charming seaside imagery that captures the calming spirit of the coast. Ideal for the busiest of people, this diary is packed with useful pages as well as a week to view diary layout. Features:  13-month diary (December 2026 - December 2027), Week to view layout , Padded front and back covers ,  Additional information pages:  Personal information page; 2025, 2026 and 2027 overview calendars; 2027 forward planner; International holidays and notable dates chart; International dialling codes; International clothing sizes; International paper size chart; Conversion charts; Address/contact pages; Full colour world and UK maps; National Rail map; London Underground map; Notes pages,  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-desk-diary-2027-coastal?variant=57306622001527</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85614-2027-Coastal-Desk-Diary-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238562174</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Diary</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>1.2 cm </g:product_length>
+      <g:product_width>14.5 cm </g:product_width>
+      <g:product_height>21.2 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Stationery</g:custom_label_2>
+      <g:custom_label_3>Own Brand</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -16340,6 +16430,51 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_3>Own Brand</g:custom_label_3>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85613</g:id>
+      <g:item_group_id>9595713454397</g:item_group_id>
+      
+      <g:title>Cancer Research UK Wren 2027 Desk Diary</g:title>
+      <g:description>Plan the year ahead in style with this beautiful bird design Cancer Research UK desk diary. Ideal for the busiest of people, this diary is packed with useful pages as well as a week to view diary layout. Features:  13-month diary (December 2026 - December 2027), Week to view layout , Padded front and back covers ,  Additional information pages:  Personal information page; 2025, 2026 and 2027 overview calendars; 2027 forward planner; International holidays and notable dates chart; International dialling codes; International clothing sizes; International paper size chart; Conversion charts; Address/contact pages; Full colour world and UK maps; National Rail map; London Underground map; Notes pages,  </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-desk-diary-birds?variant=49212454928701</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85613-2027-Wren-Desk-Diary-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907526</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238562167</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Diary</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>1.2 cm </g:product_length>
+      <g:product_width>14.5 cm </g:product_width>
+      <g:product_height>21.2 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Stationery</g:custom_label_2>
+      <g:custom_label_3>Own Brand</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -24080,9 +24215,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83690</g:id>
       <g:item_group_id>15076875698551</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -24209,7 +24342,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83862</g:id>
       <g:item_group_id>15078696452471</g:item_group_id>
       
@@ -24433,7 +24568,7 @@ Lining 100% Cotton</g:material>
       <g:title>Disney Princess 6 Christmas Gift Tags</g:title>
       <g:description>Turn every Christmas gift into a royal surprise with these enchanting Disney Princess Gift Tags! Featuring beloved princesses in beautiful, colourful designs, these magical tags are perfect for adding a fairy-tale touch to presents. Whether tucked into a stocking or waiting beneath the Christmas tree, they'll make every gift feel worthy of a princess this festive season. Features  6 gift tags, Recyclable, </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/disney-princess-6-christmas-gift-tags?variant=57354597040503</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85917-Disney-Princess-Christmas-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464100</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85917-Disney-Princess-Christmas-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788262873</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.29 GBP</g:price>
@@ -31299,6 +31434,51 @@ Backing: TPE
 
 	
     <item>
+      <g:id>SN85282S</g:id>
+      <g:item_group_id>15519217811831</g:item_group_id>
+      
+      <g:title>Happy Halloween Tea Towel Duo</g:title>
+      <g:description>Keep your kitchen clean and stylish with these duo set of Halloween inspired kitchen tea towels. A spooky, practical touch for any home. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/happy-halloween-tea-towel-duo?variant=57321686335863</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85282-Enter-If-You-Dare-Happy-Halloween-Tea-Towels-Duo-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907528</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85282S-and-SN85282P-Halloween-Tea-Towels-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961372</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250842</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tea Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Cotton</g:material>
+      <g:product_width>45 cm </g:product_width>
+      <g:product_height>65 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CC84459</g:id>
       <g:item_group_id>15107325821303</g:item_group_id>
       
@@ -35320,7 +35500,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85857-Kraft-Mixed-Gift-Bags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787334552</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
-      <g:price>2.69 GBP</g:price>
+      <g:price>2.99 GBP</g:price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -38607,9 +38787,7 @@ Backing: TPE
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85527</g:id>
       <g:item_group_id>15393216528759</g:item_group_id>
       
@@ -38799,7 +38977,9 @@ Backing: TPE
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85532</g:id>
       <g:item_group_id>15393216299383</g:item_group_id>
       
@@ -70547,9 +70727,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW32306</g:id>
       <g:item_group_id>9522290950461</g:item_group_id>
       <g:google_product_category>588</g:google_product_category>
@@ -70761,7 +70939,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW32319</g:id>
       <g:item_group_id>9521233789245</g:item_group_id>
       <g:google_product_category>2169</g:google_product_category>
@@ -77800,6 +77980,51 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85282P</g:id>
+      <g:item_group_id>15519221416311</g:item_group_id>
+      
+      <g:title>Spider Trick or Treat Tea Towel Duo</g:title>
+      <g:description>Keep your kitchen clean and stylish with these duo set of trick or treat inspired kitchen tea towels. A spooky, practical touch for any home. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/spider-trick-or-treat-tea-towel-duo?variant=57321704718711</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85282-Bats-Trick-or-Treat-Halloween-Tea-Towels-Duo-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85282S-and-SN85282P-Halloween-Tea-Towels-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961372</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674250842</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Tea Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Cotton</g:material>
+      <g:product_width>45 cm </g:product_width>
+      <g:product_height>65 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -92033,9 +92258,7 @@ Backing: TPE
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD85596</g:id>
       <g:item_group_id>15520896713079</g:item_group_id>
       
@@ -92368,7 +92591,9 @@ Backing: TPE
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD85599</g:id>
       <g:item_group_id>15520896811383</g:item_group_id>
       
@@ -92466,7 +92691,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85695-9798337402543-The-Wisdom-of-Pooh-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772189002</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85695-9798337402543-The-Wisdom-of-Pooh-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772189003</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
