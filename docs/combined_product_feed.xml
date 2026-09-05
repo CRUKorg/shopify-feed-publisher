@@ -1056,7 +1056,7 @@ PINEWOOD
       <g:link>https://shop.cancerresearchuk.org/products/3m-metallic-ribbon-and-bow?variant=57401686458743</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85922-Metallic-Ribbon-and-Bow-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464099</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -4776,7 +4776,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/betty-the-border-terrier-mug?variant=55599665054071</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84543-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1768485304</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>2.99 GBP</g:sale_price>
 
@@ -11493,6 +11493,51 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>CX85616</g:id>
+      <g:item_group_id>15515635908983</g:item_group_id>
+      
+      <g:title>Cancer Research UK Coastal 2027 Pocket Diary</g:title>
+      <g:description>Bring a breath of fresh sea air to your daily planning with this charming coastal pocket diary. Its handy week-to-view layout makes it easy to keep track of appointments, birthdays, and everyday plans.  And with every page you fill, you're helping fund life-saving cancer research—because planning your future can help change someone else's. Features:  13-month diary (December 2026 - December 2027), Week to view layout , Padded front and back covers ,  Additional information pages:  Personal information page; 2026, 2027 and 2028 overview calendars; 2028 forward planner; International holidays and notable dates chart; International dialling codes; International clothing sizes; International paper size chart; Conversion charts; Address/contact pages; Full colour world and UK maps; National Rail map; London Underground map; Notes pages, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-coastal-2027-pocket-diary?variant=57306637500791</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85616-2027-Coastal-Pocket-Diary-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238562198</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Diary</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>0.9 cm </g:product_length>
+      <g:product_width>8.4 cm </g:product_width>
+      <g:product_height>16.7 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Stationery</g:custom_label_2>
+      <g:custom_label_3>Own Brand</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>LW42415</g:id>
       <g:item_group_id>9520760455485</g:item_group_id>
       <g:google_product_category>2562</g:google_product_category>
@@ -15013,7 +15058,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262738</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262739</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.99 GBP</g:price>
 
       <g:shipping>
@@ -17455,6 +17500,127 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX85978BELL</g:id>
+      <g:item_group_id>15128015470967</g:item_group_id>
+      
+      <g:title>Christmas Earrings - Bells</g:title>
+      <g:description>Celebrate the season in style with these festive Christmas earrings. Choose from three joyful designs: a glittering pair of bells, a gem-design reindeer, or a sparkling Christmas tree. These fun accessories are perfect for adding personality to your holiday outfits, whether you're heading to a party or just spreading cheer. Make your Christmas look unforgettable with a playful pop of sparkle! Sold separately.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-earrings?variant=55755726061943</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85978-Dangly-Christmas-Earrings-Cancer-Research-UK-Online-Shop_ad78e35a-4695-4dae-b545-d4a32cb711de_1024x1024.jpg?v=1787671920</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128632020</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Earrings</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85978TREE</g:id>
+      <g:item_group_id>15128015470967</g:item_group_id>
+      
+      <g:title>Christmas Earrings - Christmas Tree</g:title>
+      <g:description>Celebrate the season in style with these festive Christmas earrings. Choose from three joyful designs: a glittering pair of bells, a gem-design reindeer, or a sparkling Christmas tree. These fun accessories are perfect for adding personality to your holiday outfits, whether you're heading to a party or just spreading cheer. Make your Christmas look unforgettable with a playful pop of sparkle! Sold separately.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-earrings?variant=55755726094711</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85978-Dangly-Christmas-Earrings-Cancer-Research-UK-Online-Shop_ad78e35a-4695-4dae-b545-d4a32cb711de_1024x1024.jpg?v=1787671920</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128632020</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Earrings</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85978REIN</g:id>
+      <g:item_group_id>15128015470967</g:item_group_id>
+      
+      <g:title>Christmas Earrings - Reindeer</g:title>
+      <g:description>Celebrate the season in style with these festive Christmas earrings. Choose from three joyful designs: a glittering pair of bells, a gem-design reindeer, or a sparkling Christmas tree. These fun accessories are perfect for adding personality to your holiday outfits, whether you're heading to a party or just spreading cheer. Make your Christmas look unforgettable with a playful pop of sparkle! Sold separately.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-earrings?variant=55755743068535</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85978-Dangly-Christmas-Earrings-Cancer-Research-UK-Online-Shop_ad78e35a-4695-4dae-b545-d4a32cb711de_1024x1024.jpg?v=1787671920</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128632020</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Earrings</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW85924</g:id>
       <g:item_group_id>15541912895863</g:item_group_id>
       
@@ -17925,7 +18091,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-novelty-stud-earrings?variant=57405735010679</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85980-Christmas-Stud-Earrings-Cancer-Research-UK-Online-Shop_c6a84671-1164-4969-a0d8-ed79c40a5798_1024x1024.jpg?v=1787671958</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -17965,7 +18131,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-novelty-stud-earrings?variant=57405735043447</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84391-Christmas-Stud-Earrings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757497552</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -20021,7 +20187,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/coloured-kraft-2m-christmas-wrapping-paper?variant=57435539439991</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85893-Colourful-Kraft-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671110</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -20062,7 +20228,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/coloured-kraft-2m-christmas-wrapping-paper?variant=57435539472759</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85893-Colourful-Kraft-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671110</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -20103,7 +20269,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/coloured-kraft-2m-christmas-wrapping-paper?variant=57435539505527</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85893-Colourful-Kraft-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671110</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -21734,9 +21900,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85491</g:id>
       <g:item_group_id>15391524159863</g:item_group_id>
       
@@ -22406,7 +22570,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85510</g:id>
       <g:item_group_id>15391673483639</g:item_group_id>
       
@@ -23234,7 +23400,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771586888</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_d88b160c-9d93-41d9-aaeb-f87dd38bd876_1024x1024.jpg?v=1771587041</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.89 GBP</g:price>
 
       <g:shipping>
@@ -29584,7 +29750,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF73932-Forget-Me-Not-Seedsticks-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405461</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WF73932-Forget-Me-Not-Seedsticks-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405461</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.00 GBP</g:price>
 
       <g:shipping>
@@ -29627,7 +29793,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/fun-foil-1-5m-christmas-wrapping-paper?variant=57435532657015</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85895-Fun-Foil-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671125</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -29667,7 +29833,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/fun-foil-1-5m-christmas-wrapping-paper?variant=57435532689783</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85895-Fun-Foil-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671125</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -29707,7 +29873,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/fun-foil-1-5m-christmas-wrapping-paper?variant=57435532722551</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85895-Fun-Foil-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671125</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -30021,6 +30187,49 @@ Backing: TPE
       <g:size_system>UK</g:size_system>
       <g:product_length>200 cm </g:product_length>
       <g:product_width>150 cm </g:product_width>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85339</g:id>
+      <g:item_group_id>15088088187255</g:item_group_id>
+      
+      <g:title>Ghost Hand Soap Dispenser</g:title>
+      <g:description>Make handwashing fun this Halloween with this playful Ghost Soap Dispenser filled with a spiced pumpkin scent soap. Featuring a spooky seasonal design, it’s perfect for encouraging kids to keep clean. Durable, easy to refill, this makes an ideal bathroom or kitchen addition. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ghost-hand-soap-dispenser?variant=55596181455223</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83407-Ghost-Hand-Soap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117548</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Ghost-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789655</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Group-2048x2048-Cancer-Research-UK-Online-Shop_9f5ec276-5adf-4310-a4f1-c70124c436e4_1024x1024.jpg?v=1755789711</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322189469</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Soap Dispensers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -33589,7 +33798,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tea-towel-duo?variant=57087323570551</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85072-Highland-Cow-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>3.49 GBP</g:sale_price>
 
@@ -34161,7 +34370,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-storage-bag?variant=57088153780599</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85074GREY-Highland-Cow-Storage-Bag-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
 
       <g:shipping>
@@ -35241,7 +35450,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/icon-mix-kraft-2m-christmas-wrapping-paper?variant=57435543863671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85892-Icon-Mix-Kraft-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671096</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -35281,7 +35490,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/icon-mix-kraft-2m-christmas-wrapping-paper?variant=57435543896439</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85892-Icon-Mix-Kraft-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671096</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -35321,7 +35530,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/icon-mix-kraft-2m-christmas-wrapping-paper?variant=57435543929207</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85892-Icon-Mix-Kraft-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671096</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -35627,7 +35836,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/jake-the-jack-russell-cushion?variant=55594624778615</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84555-Jake-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762508975</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.49 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -38789,9 +38998,7 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83777</g:id>
       <g:item_group_id>15099834433911</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -39194,7 +39401,9 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83781</g:id>
       <g:item_group_id>15099115569527</g:item_group_id>
       
@@ -43839,7 +44048,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-moothpaste-fluoride-free-toothpaste?variant=49004040782141</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42344-MooGoo-Fluroride-Fee-Toothpaste-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771447734</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -56633,7 +56842,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/red-and-gold-foil-1-5m-christmas-wrapping-paper?variant=57435523449207</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85896-Red-and-Gold-Foil-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671137</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -56673,7 +56882,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/red-and-gold-foil-1-5m-christmas-wrapping-paper?variant=57435523514743</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85896-Red-and-Gold-Foil-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671137</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -56713,7 +56922,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/red-and-gold-foil-1-5m-christmas-wrapping-paper?variant=57435523481975</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85896-Red-and-Gold-Foil-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671137</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -57694,9 +57903,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85685</g:id>
       <g:item_group_id>15523969892727</g:item_group_id>
       
@@ -57864,7 +58071,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR82187</g:id>
       <g:item_group_id>9521214357821</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -66334,7 +66543,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -66766,7 +66975,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -67534,7 +67743,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -68638,7 +68847,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -69214,7 +69423,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -69310,7 +69519,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -69627,7 +69836,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608100215</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -69762,7 +69971,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608198519</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -69852,7 +70061,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608264055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40232-Royce-Comfi-Bra-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405597</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70032,7 +70241,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608395127</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70167,7 +70376,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608493431</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70257,7 +70466,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608558967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70527,7 +70736,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608755575</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70617,7 +70826,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608821111</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70887,7 +71096,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485609017719</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfi-bra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405577</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -70932,7 +71141,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485609050487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -76485,7 +76694,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH82296-Shine-Large-Star-Wand-1-Cancer-Reserach-UK-Online-Shopv25_1024x1024.jpg?v=1727345409</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH82296-Shine-Large-Star-Wand-2-Cancer-Reserach-UK-Online-Shop_1024x1024.jpg?v=1727345432</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>10.00 GBP</g:price>
 
       <g:shipping>
@@ -81659,6 +81868,51 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>SU81078</g:id>
+      <g:item_group_id>14933584544119</g:item_group_id>
+      
+      <g:title>Stand Up To Cancer Animal Print Ladies Wellington Socks</g:title>
+      <g:description>Perfect for a country walk with the dog, jobs in the garden, or just Standing Up To Cancer, keep your feet warm with these wellie socks. Animal print design, exclusive to Stand Up To Cancer. Features:  1 pair ladies wellie socks, One size: 4-7 , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-animal-print-ladies-wellington-socks?variant=55037032759671</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU81078-SUTC-Wellie-Socks-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1741952462</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SU81078</g:mpn>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Socks</g:product_type>
+      <g:color>Grey/Black/Red</g:color>
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>SU80561</g:id>
       <g:item_group_id>9521305682237</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -84919,6 +85173,55 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>SU32292</g:id>
+      <g:item_group_id>9520930292029</g:item_group_id>
+      <g:google_product_category>4257</g:google_product_category>
+      <g:title>The Great Stand Up To Cancer Bake Off 2022 Star Baker Tea Towels - Pack of 3</g:title>
+      <g:description>Planning to whip up a storm in the kitchen? Keep it spick and span with this set of three The Great Stand up to Cancer Bake Off Star Baker tea towels. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2022.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/great-stand-up-to-cancer-bake-off-2022-star-baker-tea-towels?variant=49003918688573</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU32292-Stand-Up-To-Cancer-Bake-Off-2022-Towels-Cancer-Research-UK-Online-Shop_3f29a452-d1c2-4d5a-bcb4-cc2048110343_1024x1024.jpg?v=1719229827</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Products_02_01_22_0020RE-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405305</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Products_02_01_22_0024RE-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405306</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Products_02_01_22_0025RE-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405306</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CRUK_Products_02_01_22_0027RE-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405306</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674205040</g:gtin>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Tea Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% cotton</g:material>
+      <g:product_width>74 cm </g:product_width>
+      <g:product_height>48 cm </g:product_height>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>SU71328</g:id>
       <g:item_group_id>9520918298941</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
@@ -85053,6 +85356,55 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
+      <g:custom_label_1>Bake Off</g:custom_label_1>
+      <g:custom_label_2>Bake Off</g:custom_label_2>
+      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SU71325</g:id>
+      <g:item_group_id>9520921411901</g:item_group_id>
+      <g:google_product_category>670</g:google_product_category>
+      <g:title>The Great Stand Up To Cancer Bake Off 2023 Star Baker Double Oven Gloves</g:title>
+      <g:description>Keep your hands safe and bake in style for Stand Up To Cancer with our Great Stand up to Cancer Star Baker double oven gloves. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2023.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-2023-star-baker-double-oven-gloves?variant=49003908661565</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71325-Stand-Up-To-Cancer-Bake-Off-2023-Oven-Gloves-1-Cancer-Research-UK-Online-Shop_b439a346-a982-4f4c-aabb-29a616239266_1024x1024.jpg?v=1719229801</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU2C-Bake-Off-2023-Lifestyle-0086-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405374</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU2C-Bake-Off-2023-Lifestyle-3119-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405374</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU2C-Bake-Off-2023-Lifestyle-3162-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405374</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674216077</g:gtin>
+ 
+      <g:brand>Stand Up To Cancer</g:brand>
+      <g:product_type>Oven Gloves</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% cotton outer and lining
+100% polyester filling</g:material>
+      <g:product_width>90 cm </g:product_width>
+      <g:product_height>18 cm </g:product_height>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Bake Off</g:custom_label_1>
       <g:custom_label_2>Bake Off</g:custom_label_2>
@@ -85482,7 +85834,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84827-Great-Stand-Up-To-Cancer-Star-Baker-Apron-2026-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770203792</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84830-Great-Stand-Up-To-Cancer-Star-Baker-Kids-Apron-2026-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770203792</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.99 GBP</g:price>
 
       <g:shipping>
@@ -85575,7 +85927,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84827-Great-Stand-Up-To-Cancer-Star-Baker-Apron-2026-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770203792</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84827-Great-Stand-Up-To-Cancer-Star-Baker-Apron-2026-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769691997</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -86810,9 +87162,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CC85842</g:id>
       <g:item_group_id>15525951996279</g:item_group_id>
       
@@ -87187,7 +87537,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW81846</g:id>
       <g:item_group_id>14668937560439</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -87397,7 +87749,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-frosted-forest-recyclable-gift-bag?variant=53471453151607</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81853-Tom-Smith-Frosted-Forest-Small-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728574287</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
