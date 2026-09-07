@@ -4542,50 +4542,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>CX84561</g:id>
-      <g:item_group_id>15087421391223</g:item_group_id>
-      
-      <g:title>Betty and Jake Oven Gloves</g:title>
-      <g:description>Bring a bit of tail-wagging charm to your cooking with this delightful double oven glove, featuring a pair of sweet dogs ready to lend a paw. Whether you're roasting, baking, or just keeping warm by the oven, this glove is a paw-sitively perfect companion. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-oven-gloves?variant=55594625139063</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84561-Jake-Betty-Oven-Glove-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509591</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674245244</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Oven Gloves</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>19 cm </g:product_width>
-      <g:product_height>91 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX84544</g:id>
       <g:item_group_id>15089097441655</g:item_group_id>
       <g:google_product_category>673</g:google_product_category>
@@ -21900,7 +21856,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85491</g:id>
       <g:item_group_id>15391524159863</g:item_group_id>
       
@@ -22487,9 +22445,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85512</g:id>
       <g:item_group_id>15509515698551</g:item_group_id>
       
@@ -31919,46 +31875,6 @@ Backing: TPE
 
 	
     <item>
-      <g:id>CR85070</g:id>
-      <g:item_group_id>15018149544311</g:item_group_id>
-      
-      <g:title>Green Bee Garden Bag</g:title>
-      <g:description>Keeping tools close to hand makes gardening feel calmer and more enjoyable. This storage bag is designed with practical compartments to organise essentials, while a sturdy handle makes it easy to lift and carry around the garden. Finished in a rich green with a bee and wildflower print, it feels at home among late‑summer borders and allotments.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bee-garden-bag?variant=55335682474359</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85070-Green-Bee-Gardening-Storage-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776675138</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>5.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247958</g:gtin>
-
-      <g:product_type>Garden Bag</g:product_type>
-      <g:color>green</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR85057</g:id>
       <g:item_group_id>15459980476791</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -38120,7 +38036,7 @@ Backing: TPE
 
       <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Orange</g:color>
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Recyclable polypropylene</g:material>
@@ -38142,7 +38058,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84933LOBSTER-Lobster-Print-Outdoor-Rug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770223593</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84933LOBSTER-Lobster-Print-Outdoor-Rug-AI-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770827151</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -38164,7 +38080,7 @@ Backing: TPE
 
       <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Orange</g:color>
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Recyclable polypropylene</g:material>
@@ -38208,7 +38124,7 @@ Backing: TPE
 
       <g:product_type>Outdoor Rug</g:product_type>
       <g:color>Orange</g:color>
-<g:size>M</g:size>
+<g:size>S</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Recyclable polypropylene</g:material>
@@ -38998,7 +38914,9 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83777</g:id>
       <g:item_group_id>15099834433911</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -39265,9 +39183,7 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83803</g:id>
       <g:item_group_id>14798686224759</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -43266,7 +43182,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-fast-hydrating-lotion?variant=49004030165309</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42326-MooGoo-Fast-Hydrating-Lotion-500g-1-Cancer-Research-UK-Online-Shop_0_c4da5a5f-3356-4091-832f-b8e157eb3c99_1024x1024.jpg?v=1719230302</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>18.99 GBP</g:price>
 
       <g:shipping>
@@ -44007,7 +43923,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-milk-wash?variant=49004039373117</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42338-MooGoo-Milk-Wash-500ml-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760834404</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.49 GBP</g:price>
 
       <g:shipping>
@@ -57903,7 +57819,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX85685</g:id>
       <g:item_group_id>15523969892727</g:item_group_id>
       
@@ -57984,9 +57902,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD85588</g:id>
       <g:item_group_id>15520896287095</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -70466,7 +70382,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608558967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -85375,7 +85291,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU2C-Bake-Off-2023-Lifestyle-3119-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405374</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU2C-Bake-Off-2023-Lifestyle-3162-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405374</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>3.49 GBP</g:sale_price>
 
@@ -85470,7 +85386,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79632-Great-Stand-Up-To-Cancer-Bake-Off-2024-Kids-Apron-Hat-Bundle-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405357</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79631-Great-Stand-Up-To-Cancer-Bake-Off-2024-Adult-Kids-Apron-Bundle-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405357</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -87162,7 +87078,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CC85842</g:id>
       <g:item_group_id>15525951996279</g:item_group_id>
       
@@ -87242,9 +87160,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CC85852</g:id>
       <g:item_group_id>15525952323959</g:item_group_id>
       
@@ -87505,7 +87421,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-festive-foliage-recyclable-gift-bag?variant=49005600047421</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW76531-Giftmaker-Festive-Foliage-Large-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738258394</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -90472,7 +90388,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999358839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
