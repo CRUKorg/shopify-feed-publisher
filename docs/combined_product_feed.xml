@@ -3263,7 +3263,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Mug</g:product_type>
 
-      <g:color>White</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -3282,7 +3282,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-breakfast-mug?variant=57189986140535</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85178-Bee-Print-Breakfast-Mug-Cream-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144145</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -3304,7 +3304,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Mug</g:product_type>
 
-      <g:color>White</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -8871,48 +8871,6 @@ Ground sheet: 100% Polyethylene
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Travel Accessories</g:product_type>
-      <g:color>green</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>BB84972GREEN</g:id>
-      <g:item_group_id>15454958027127</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Green Leopard Print Storage Bag</g:title>
-      <g:description>Take some Deborah James inspiration wherever you go with this vibrant green storage bag, designed to bring both positivity and practicality to everyday organisation. Whether you’re sorting daily essentials, carrying lunch on the go or transporting books, this versatile storage solution is made to fit seamlessly into busy, on‑the‑move lifestyles.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-green-leopard-print-storage-bag?variant=57007274164599</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84972GREEN-Leopard-Teal-Storage-bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776241086</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84972GREEN-Storage-Bag-Leopard-Teal-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776241086</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247736</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
       <g:color>green</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -23766,7 +23724,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR79792</g:id>
       <g:item_group_id>15341874839927</g:item_group_id>
       
@@ -24117,9 +24077,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85476</g:id>
       <g:item_group_id>15391496339831</g:item_group_id>
       
@@ -32982,6 +32940,48 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CX85829</g:id>
+      <g:item_group_id>15552116851063</g:item_group_id>
+      
+      <g:title>Hector the Incredible Heffer Candle</g:title>
+      <g:description>Add a warm and inviting touch to your home with this beautifully scented candle, thoughtfully presented in a decorative glass jar that blends fragrance and design in equal measure. Created to enhance everyday moments, it releases a pleasant aroma that gently fills the room, helping to create a cosy and welcoming atmosphere. Features  28 hour burn time, Natural wax candle with a single wick, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-highland-cow-character-candle?variant=57442379891063</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85829-Hector-the-Heffer-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789034466</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85829-Hector-the-Heffer-Candle-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789035207</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858298</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85632</g:id>
       <g:item_group_id>15552118522231</g:item_group_id>
       
@@ -33060,6 +33060,48 @@ Backing: TPE
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Fine China</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85647</g:id>
+      <g:item_group_id>15552117768567</g:item_group_id>
+      
+      <g:title>Hector the Incredible Heffer Pack of 20 Napkins</g:title>
+      <g:description>Bring festive farmhouse charm to your table with these Hector the Incredible Heffer paper napkins. Showcasing a sweet Christmas Highland cow character design, they make a delightful addition to seasonal dining and entertaining. Features  One design, 20 napkins, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-highland-cow-character-napkins?variant=57442381005175</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85647-Hector-the-Heffer-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782231</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85647-Hector-the-Heffer-Napkins-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788795540</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123856478</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -36380,7 +36422,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/jennifer-young-hot-beauty-brightening-menopause-body-oil?variant=54945794031991</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42307-Brightening-Menopause-Body-Oil-Cancer-Care-Collection-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738946961</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>20.00 GBP</g:price>
 
       <g:shipping>
@@ -36423,7 +36465,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42309-Brightening-Menopause-Body-Set-2-Cancer-Care-Collection-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405193</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42309-Brightening-Menopause-Body-Set-3-Cancer-Care-Collection-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405193</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>45.00 GBP</g:price>
 
       <g:shipping>
@@ -38630,9 +38672,7 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83783</g:id>
       <g:item_group_id>15099966128503</g:item_group_id>
       
@@ -38847,7 +38887,9 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83787</g:id>
       <g:item_group_id>15099969077623</g:item_group_id>
       
@@ -39235,6 +39277,94 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
+	
+    <item>
+      <g:id>CX86145</g:id>
+      <g:item_group_id>15099834433911</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Long Hot Water Bottle - Chocolate</g:title>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=57449525739895</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86145-Long-Hot-Water-Bottle-Chocolate-Luxury-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044561</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>11.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253614</g:gtin>
+
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Rubber/polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86146</g:id>
+      <g:item_group_id>15099834433911</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Long Hot Water Bottle - Taupe</g:title>
+      <g:description>Ideal for cuddling up to under the covers, this longer length hot water bottle is ideal for cold winter nights. Available in various colour options, pair it up with our regular or neck hot water bottles, too. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-long-hot-water-bottle?variant=57449525772663</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86146-Long-Hot-Water-Bottle-Taupe-Luxury-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044566</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-5-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>11.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253621</g:gtin>
+
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Rubber/polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
 
 	
     <item>
@@ -39368,51 +39498,6 @@ Backing: TPE
 
 	
     <item>
-      <g:id>CX83803</g:id>
-      <g:item_group_id>14798686224759</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Mini Hand Warmer - Charcoal</g:title>
-      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=55641287852407</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83803-Mini-Hand-Warmers-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763051698</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241567</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Charcoal</g:color>
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester cover</g:material>
-      <g:product_width>10 cm </g:product_width>
-      <g:product_height>14 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX83801</g:id>
       <g:item_group_id>14798686224759</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -39444,7 +39529,52 @@ Backing: TPE
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Charcoal</g:color>
+      <g:color>Nougat</g:color>
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>14 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83803</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Charcoal</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=55641287852407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83803-Mini-Hand-Warmers-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763051698</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674241567</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -39489,13 +39619,142 @@ Backing: TPE
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Charcoal</g:color>
+      <g:color>Nougat</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>100% polyester cover</g:material>
       <g:product_width>10 cm </g:product_width>
       <g:product_height>14 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86158</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Taupe</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520071031</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86158-Mini-Hand-Warmers-Taupe-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253744</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86159</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Chocolate</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520103799</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86159-Mini-Hand-Warmers-Chocolate-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253751</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86160</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Chateau</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520136567</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86160-Mini-Hand-Warmers-Chateau-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044574</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253768</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Nougat</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -51503,6 +51762,47 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
+      <g:id>CX85830</g:id>
+      <g:item_group_id>15552116752759</g:item_group_id>
+      
+      <g:title>Purrkins the Tabby Candle</g:title>
+      <g:description>Add a warm and inviting touch to your home with this beautifully scented candle, thoughtfully presented in a decorative glass jar that blends fragrance and design in equal measure. Created to enhance everyday moments, it releases a pleasant aroma that gently fills the room, helping to create a cosy and welcoming atmosphere. Features  28 hour burn time, Natural wax candle with a single wick, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-cat-character-candle?variant=57442379792759</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85830-Purrkins-the-Tabby-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789034485</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858304</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85628</g:id>
       <g:item_group_id>15552118620535</g:item_group_id>
       
@@ -51537,6 +51837,47 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Fine China</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85648</g:id>
+      <g:item_group_id>15552117801335</g:item_group_id>
+      
+      <g:title>Purrkins the Tabby Pack of 20 Napkins</g:title>
+      <g:description>Add a charming festive touch to your table with these Purrkins the Tabby paper napkins. Featuring a sweet Christmas tabby cat character design, they are perfect for seasonal meals, parties, and festive gatherings. Both practical and decorative, these disposable napkins help keep your table tidy while bringing warmth and character to your Christmas celebrations. Features  One design, 20 napkins, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-cat-character-napkins?variant=57442381037943</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85648-Purrkins-the-Tabby-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782231</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123856485</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -57421,9 +57762,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81815</g:id>
       <g:item_group_id>9521166516541</g:item_group_id>
       <g:google_product_category>5991</g:google_product_category>
@@ -57550,7 +57889,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX76352</g:id>
       <g:item_group_id>9521175888189</g:item_group_id>
       <g:google_product_category>576</g:google_product_category>
@@ -58210,6 +58551,48 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CX85828</g:id>
+      <g:item_group_id>15552117080439</g:item_group_id>
+      
+      <g:title>Robin Choir Candle</g:title>
+      <g:description>Add a warm and inviting touch to your home with this beautifully scented candle, thoughtfully presented in a decorative glass jar that blends fragrance and design in equal measure. Created to enhance everyday moments, it releases a pleasant aroma that gently fills the room, helping to create a cosy and welcoming atmosphere. Features  28 hour burn time, Natural wax candle with a single wick, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-robin-character-candle?variant=57442380185975</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85828-Robin-Choir-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789034435</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85828-Robin-Choir-Candle-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789034904</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858281</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85631</g:id>
       <g:item_group_id>15552118489463</g:item_group_id>
       
@@ -58288,6 +58671,48 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Fine China</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85646</g:id>
+      <g:item_group_id>15552117735799</g:item_group_id>
+      
+      <g:title>Robin Choir Pack of 20 Napkins</g:title>
+      <g:description>Celebrate the magic of Christmas with these sweet Robin Choir paper napkins. Perfect for Christmas dinners, seasonal gatherings, and festive parties, these napkins are both practical and beautifully decorative. Features  One design, 20 napkins, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-robin-character-napkins?variant=57442380972407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85646-Robin-Choir-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782231</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85646-Robin-Choir-Napkins-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788795540</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123856461</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -73555,6 +73980,47 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CX85831</g:id>
+      <g:item_group_id>15552116785527</g:item_group_id>
+      
+      <g:title>Scamp the Scruffy Mutt Candle</g:title>
+      <g:description>Add a warm and inviting touch to your home with this beautifully scented candle, thoughtfully presented in a decorative glass jar that blends fragrance and design in equal measure. Created to enhance everyday moments, it releases a pleasant aroma that gently fills the room, helping to create a cosy and welcoming atmosphere. Features  28 hour burn time, Natural wax candle with a single wick, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-dog-character-candle?variant=57442379825527</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85831-Scamp-the-Scruffy-Mutt-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789034475</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858311</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85629</g:id>
       <g:item_group_id>15552118423927</g:item_group_id>
       
@@ -73589,6 +74055,47 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Fine China</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85649</g:id>
+      <g:item_group_id>15552117571959</g:item_group_id>
+      
+      <g:title>Scamp the Scruffy Mutt Pack of 20 Napkins</g:title>
+      <g:description>Celebrate the magic of Christmas with these sweet Scamp the Scruffy Mutt paper napkins. Perfect for Christmas dinners, seasonal gatherings, and festive parties, these napkins are both practical and beautifully decorative. Features  One design, 20 napkins, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-dog-character-napkins?variant=57442380677495</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85649-Scamp-the-Scruffy-Mutt-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782231</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123856492</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -77535,94 +78042,6 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
-      <g:id>SH86580</g:id>
-      <g:item_group_id>15535208890743</g:item_group_id>
-      <g:google_product_category>5192</g:google_product_category>
-      <g:title>Shine Night Walk Glow Bracelets</g:title>
-      <g:description>Add a touch of fun and visibility to your walk with these bright glow bracelets. They're perfect for helping participants stand out and celebrate the Shine Night Walk experience. What better way to be seen in the dark when you light up the street in the fight against cancer. Be sure to look the part when you light up the streets for your Shine Night Walk.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/shine-night-walk-glow-bracelets?variant=57389355237751</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH86580-Shine-Night-Walk-Glow-Bracelets-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788882312</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>5.00 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>SH86580</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Shine</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SH86582</g:id>
-      <g:item_group_id>15535226814839</g:item_group_id>
-      <g:google_product_category>5192</g:google_product_category>
-      <g:title>Shine Night Walk Glow Drawstring Bag</g:title>
-      <g:description>Carry your essentials in style with this lightweight drawstring bag featuring a vibrant Shine Night Walk glow in the dark design. Perfect for keeping your belongings secure while taking part in the event. What better way to be seen in the dark when you light up the street in the fight against cancer. Be sure to look the part when you light up the streets for your Shine Night Walk.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/shine-night-walk-glow-drawstring-bag?variant=57389388169591</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH86582-Shine-Night-Walk-Glow-in-the-Dark-Drawstring-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788882300</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>5.00 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold><g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>SH86582</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Shine</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>SH28289</g:id>
       <g:item_group_id>9521266557245</g:item_group_id>
       <g:google_product_category>5192</g:google_product_category>
@@ -77756,6 +78175,94 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_1>Shine</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_3>Own Brand</g:custom_label_3>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SH86580</g:id>
+      <g:item_group_id>15535208890743</g:item_group_id>
+      <g:google_product_category>5192</g:google_product_category>
+      <g:title>Shine Night Walk Glow in the Dark Bracelet</g:title>
+      <g:description>Add a touch of fun and visibility to your walk with this bright glow bracelet. It's perfect for helping participants stand out and celebrate the Shine Night Walk experience. What better way to be seen in the dark when you light up the street in the fight against cancer. Pack features one single LED bracelet. Be sure to look the part when you light up the streets for your Shine Night Walk.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/shine-night-walk-glow-bracelets?variant=57389355237751</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH86580-Shine-Night-Walk-Glow-Bracelets-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788882312</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SH86580</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Accessories</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Shine</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SH86582</g:id>
+      <g:item_group_id>15535226814839</g:item_group_id>
+      <g:google_product_category>5192</g:google_product_category>
+      <g:title>Shine Night Walk Glow in the Dark Drawstring Bag</g:title>
+      <g:description>Carry your essentials in style with this lightweight drawstring bag featuring a vibrant Shine Night Walk glow in the dark design. Perfect for keeping your belongings secure while taking part in the event. What better way to be seen in the dark when you light up the street in the fight against cancer. Be sure to look the part when you light up the streets for your Shine Night Walk.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/shine-night-walk-glow-drawstring-bag?variant=57389388169591</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH86582-Shine-Night-Walk-Glow-in-the-Dark-Drawstring-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788882300</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>SH86582</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Accessories</g:product_type>
+
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Shine</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -84824,7 +85331,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/striped-outdoor-rug?variant=55129364398455</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82851NAVY-Navy-White-Stripe-Design-Outdoor-Rug-Lifestyle-square-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1747386564</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>3.49 GBP</g:sale_price>
 
@@ -88251,9 +88758,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU79631</g:id>
       <g:item_group_id>9520924655933</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
@@ -88571,7 +89076,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU85440</g:id>
       <g:item_group_id>15351500603767</g:item_group_id>
       
@@ -89077,6 +89584,47 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
+      <g:id>CX85827</g:id>
+      <g:item_group_id>15552117047671</g:item_group_id>
+      
+      <g:title>Theo the Mouse Candle</g:title>
+      <g:description>Add a warm and inviting touch to your home with this beautifully scented candle, thoughtfully presented in a decorative glass jar that blends fragrance and design in equal measure. Created to enhance everyday moments, it releases a pleasant aroma that gently fills the room, helping to create a cosy and welcoming atmosphere. Features  28 hour burn time, Natural wax candle with a single wick, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-mouse-character-candle?variant=57442380153207</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85827-Theo-the-Mouse-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789034452</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858274</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85630</g:id>
       <g:item_group_id>15552118456695</g:item_group_id>
       
@@ -89153,6 +89701,47 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Fine China</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85645</g:id>
+      <g:item_group_id>15552117703031</g:item_group_id>
+      
+      <g:title>Theo the Mouse Pack of 20 Napkins</g:title>
+      <g:description>Celebrate the magic of Christmas with these sweet Theo the Mouse paper napkins. Perfect for Christmas dinners, seasonal gatherings, and festive parties, these napkins are both practical and beautifully decorative. Features  One design, 20 napkins, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-mouse-character-napkins?variant=57442380775799</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85645-Theo-the-Mouse-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782231</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold><g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123856454</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
