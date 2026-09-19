@@ -2570,7 +2570,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-guest-towel?variant=55336785084791</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR83079-Guest-Towels-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770202845</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
       <g:sale_price>3.79 GBP</g:sale_price>
 
@@ -4486,51 +4486,6 @@ Ground sheet: 100% Polyethylene
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84562</g:id>
-      <g:item_group_id>15087421423991</g:item_group_id>
-      
-      <g:title>Betty and Jake Apron</g:title>
-      <g:description>Make baking and cooking a tail-wagging treat with this charming apron, featuring two sweet dogs ready to join you in the kitchen. Perfect for dog lovers and festive foodies, it’s crafted from durable, easy-care fabric with an adjustable neck strap for a comfy fit. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-apron?variant=55594625171831</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84562-Dog-Apron-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509805</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-      <g:sale_price>2.79 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674245251</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Apron</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% Cotton</g:material>
-      <g:product_width>70 cm </g:product_width>
-      <g:product_height>85 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -24114,7 +24069,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85476</g:id>
       <g:item_group_id>15391496339831</g:item_group_id>
       
@@ -24401,9 +24358,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85505</g:id>
       <g:item_group_id>15391536939383</g:item_group_id>
       
@@ -25893,7 +25848,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/drawstring-santa-christmas-sacks?variant=57312516571511</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85959-Set-of-2-Drawstring-Bags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671812</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -26099,7 +26054,7 @@ Ground Sheet: 100% Polyethylene
       <g:id>CD85601</g:id>
       <g:item_group_id>15520896876919</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
-      <g:title>Dylan The Welsh Dragon 10 Welsh Bilingual Christmas Cards</g:title>
+      <g:title>Dylan the Welsh Dragon 10 Welsh Bilingual Christmas Cards</g:title>
       <g:description>Bring a smile to someone's Christmas with this enchanting bilingual Welsh Christmas card, featuring Wales' iconic red dragon curled up with a festive book in a magical winter scene. Full of charm, imagination, and Welsh spirit, it's perfect for sending heartfelt Christmas greetings in both Welsh and English.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Gold foil finish, Coated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/dylan-the-welsh-dragon-10-christmas-cards?variant=57337929400695</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85601-Dylan-The-Welsh-Dragon-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858566</g:image_link>
@@ -31130,7 +31085,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/gingerbread-mason-jar?variant=57401361727863</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85943-Gingerbread-Mason-Jar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671660</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -34132,7 +34087,7 @@ Backing: TPE
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tablecloth</g:product_type>
 
-      <g:color>Grey</g:color>
+      <g:color>Beige</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -34153,7 +34108,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-outdoor-tablecloth?variant=57088172032375</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85073GREY-Highland-Cow-Outdoor-Tablecloth-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>3.49 GBP</g:sale_price>
 
@@ -34176,7 +34131,7 @@ Backing: TPE
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tablecloth</g:product_type>
 
-      <g:color>Grey</g:color>
+      <g:color>Beige</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -34549,7 +34504,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-storage-bag?variant=57088153780599</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85074GREY-Highland-Cow-Storage-Bag-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
 
       <g:shipping>
@@ -34812,7 +34767,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-all-over-grey-print-umbrella?variant=57087323406711</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85087-Highland-Cow-Umbrella-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983343</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -34855,7 +34810,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81823-Festive-Fun-Trees-Wrapping-Paper-Lifestyle-Cancer-Research-UK-Online-Shop_e69f6357-9109-43f6-a097-0272905f1e4c_1024x1024.jpg?v=1729512973</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81823-Ho-Ho-Ho-Wrapping-Paper-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1729513012</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -37332,7 +37287,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/kraft-mixed-bag-packs?variant=57401133564279</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85857-Kraft-Mixed-Gift-Bags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787334552</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -39050,7 +39005,9 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83777</g:id>
       <g:item_group_id>15099834433911</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -39275,9 +39232,7 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83805</g:id>
       <g:item_group_id>15099685273975</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -43533,7 +43488,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-deodorant-stick-lemon-myrtle?variant=55650756198775</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/MooGoo-StickDeo-65g-LemonMyrtle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756369338</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -45430,7 +45385,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-ultra-gentle-cleanser-ceramides?variant=49004053823805</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42337-MooGoo-Ultra-Gentle-Cleanser-500ml-2022-INT-Cancer-Research-UK-Online-Shop_647123fe-73af-403d-9ce5-36369f1a3162_1024x1024.jpg?v=1719230363</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>18.99 GBP</g:price>
 
       <g:shipping>
@@ -58412,7 +58367,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85925</g:id>
       <g:item_group_id>15106163245431</g:item_group_id>
       
@@ -58451,9 +58408,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX81815</g:id>
       <g:item_group_id>9521166516541</g:item_group_id>
       <g:google_product_category>5991</g:google_product_category>
@@ -82401,7 +82356,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86246-26cm-Soleil-Stripe-Jug-Vase-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442883</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86246-26cm-Soleil-Stripe-Jug-Vase-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442499</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>18.99 GBP</g:price>
       <g:sale_price>15.19 GBP</g:sale_price>
 
@@ -82644,53 +82599,6 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR86241</g:id>
-      <g:item_group_id>15458028978551</g:item_group_id>
-      
-      <g:title>Soleil Table Fly Repeller</g:title>
-      <g:description>Eating outside is one of summer’s simple pleasures – flies, not so much. This tabletop fly repellent fan helps keep bugs away while you enjoy meals outdoors. Quiet yet effective, the soft rotating blades create a gentle deterrent without disrupting conversation. Compact and easy to place on a table, it’s ideal for picnics, barbecues and garden dining.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/table-fly-repeller?variant=57019246707063</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86241-26x9cm-White-Table-Fly-Repeller-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442459</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418699552</g:gtin>
- 
-      <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Insect Repellent</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>97% PP/1% COPPER/1% IRON &amp;amp; 1% STEEL
-
-</g:material>
-      <g:product_length>95 mm </g:product_length>
-      <g:product_width>265 mm </g:product_width>
-      <g:product_height>95 mm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -84501,7 +84409,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-mens-full-logo-black-t-shirt?variant=49005596705085</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU31196-Stand-Up-To-Cancer-Mens-Full-Logo-Black-TShirt-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719231538</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>10.00 GBP</g:price>
 
       <g:shipping>
@@ -89043,7 +88951,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU71326</g:id>
       <g:item_group_id>9520922263869</g:item_group_id>
       <g:google_product_category>4257</g:google_product_category>
@@ -89132,9 +89042,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU79631</g:id>
       <g:item_group_id>9520924655933</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
@@ -95864,7 +95772,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
