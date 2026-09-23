@@ -8931,7 +8931,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84970GREEN-Luggage-Tag-Leopard-Teal-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774013156</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84970GREEN-Luggage-Tag-Leopard-Teal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774013156</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -18664,6 +18664,51 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX86128PUD</g:id>
+      <g:item_group_id>15553513193847</g:item_group_id>
+      
+      <g:title>Christmas Pudding Plush Keychain</g:title>
+      <g:description>Add this adorable plush pudding to your bag as a fabulously festive accessory for the season. Perfect for personalising your everyday, it clips easily to keychains, bags, or backpacks. Alternatively, display it on your desk or shelf as a cheerful seasonal decoration that brings Christmas charm to any space.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pudding-keychain?variant=57449124757879</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86128-Christmas-Pudding-Keyring-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86128-Christmas-Pudding-and-Cow-Keyring-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789055382</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253447</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Keychain</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:product_width>10 cm </g:product_width>
+      <g:product_height>7 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW81823PUDDING</g:id>
       <g:item_group_id>14669213172087</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -24069,9 +24114,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85476</g:id>
       <g:item_group_id>15391496339831</g:item_group_id>
       
@@ -24358,7 +24401,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85505</g:id>
       <g:item_group_id>15391536939383</g:item_group_id>
       
@@ -31765,7 +31810,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/green-bee-picnic-blanket?variant=57024661553527</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85063-Green-Bee-Stripe-Picnic-Blanket-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776678538</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -34236,6 +34281,51 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CX86128COW</g:id>
+      <g:item_group_id>15553512866167</g:item_group_id>
+      
+      <g:title>Highland Cow Plush Keychain</g:title>
+      <g:description>The perfect companion for bags, desks, and beyond, this charming Highland Cow keychain brings a touch of whimsy to your everyday essentials. Whether you're looking for festive seasonal appeal or a year-round accessory, this adorable highland cow design is sure to delight any lover of these beloved creatures. Durable and practical, it's the ideal gift for adding personality to your keys, bag charm, or workspace.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-keychain?variant=57449123742071</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86128-Christmas-Highland-Cow-Keyring-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86128-Christmas-Highland-Cow-Keyring-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789055380</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86128-Christmas-Pudding-and-Cow-Keyring-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789055382</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX86128COW</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Keychain</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83697</g:id>
       <g:item_group_id>15089095180663</g:item_group_id>
       
@@ -35415,7 +35505,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/humphrey-hare-duo-tea-towels?variant=55552426672503</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83849-Humphrey-Hare-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754488435</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
       <g:sale_price>3.49 GBP</g:sale_price>
 
@@ -38798,9 +38888,7 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX83787</g:id>
       <g:item_group_id>15099969077623</g:item_group_id>
       
@@ -39049,7 +39137,9 @@ Backing: TPE
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83777</g:id>
       <g:item_group_id>15099834433911</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -39199,7 +39289,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>11.99 GBP</g:price>
 
       <g:shipping>
@@ -39243,7 +39333,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-4-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-13-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755857816</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>11.99 GBP</g:price>
 
       <g:shipping>
@@ -39674,7 +39764,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86158-Mini-Hand-Warmers-Taupe-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -39717,7 +39807,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86159-Mini-Hand-Warmers-Chocolate-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -39760,7 +39850,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86160-Mini-Hand-Warmers-Chateau-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044574</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -40831,7 +40921,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85540-Meg-Hawkins-Cow-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771841785</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85540-Meg-Hawkins-Cow-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771850986</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.49 GBP</g:price>
 
       <g:shipping>
@@ -58247,9 +58337,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW85885WHITE</g:id>
       <g:item_group_id>15539969130871</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -58411,7 +58499,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85925</g:id>
       <g:item_group_id>15106163245431</g:item_group_id>
       
@@ -88946,9 +89036,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU71325</g:id>
       <g:item_group_id>9520921411901</g:item_group_id>
       <g:google_product_category>670</g:google_product_category>
@@ -89042,7 +89130,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU79628</g:id>
       <g:item_group_id>9520923148605</g:item_group_id>
       <g:google_product_category>639</g:google_product_category>
