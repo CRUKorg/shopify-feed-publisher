@@ -1042,7 +1042,7 @@ PINEWOOD
       <g:size_system>UK</g:size_system>
       <g:material>Metallic polypropylene (PP)</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
@@ -1085,7 +1085,7 @@ PINEWOOD
       <g:size_system>UK</g:size_system>
       <g:material>Metallic polypropylene (PP)</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
@@ -1128,7 +1128,7 @@ PINEWOOD
       <g:size_system>UK</g:size_system>
       <g:material>Metallic polypropylene (PP)</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
@@ -2865,7 +2865,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-happy-plaque?variant=55353698615671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR83091_Sage_Green_plaque_featuring_bee_design_1024x1024.jpg?v=1757884629</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
       <g:sale_price>1.99 GBP</g:sale_price>
 
@@ -16700,6 +16700,277 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX85834B9</g:id>
+      <g:item_group_id>9520787947837</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Children's Pack of 2 Christmas Socks - Blue / 9-12</g:title>
+      <g:description>Treat your feet to a flurry of festive charm with this adorable children's Christmas socks. Featuring two coordinating designs, one pack features with playful penguins dressed for winter adventures and another a pair of sweet Christmas tree designs. Available in 3 sizes: UK 9-12 (EU 27-30), UK 12½-3½ (EU 31-34), and UK 4-6 (EU 35-37).</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-socks-childrens-pack-2?variant=54827639439735</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Blue-and-Grey-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346315</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Pink-and-Red-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346316</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85834B9</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Blue</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85834B12</g:id>
+      <g:item_group_id>9520787947837</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Children's Pack of 2 Christmas Socks - Blue / 12.5 - 3.5</g:title>
+      <g:description>Treat your feet to a flurry of festive charm with this adorable children's Christmas socks. Featuring two coordinating designs, one pack features with playful penguins dressed for winter adventures and another a pair of sweet Christmas tree designs. Available in 3 sizes: UK 9-12 (EU 27-30), UK 12½-3½ (EU 31-34), and UK 4-6 (EU 35-37).</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-socks-childrens-pack-2?variant=53481562046839</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Blue-and-Grey-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346315</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Pink-and-Red-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346316</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85834B12</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Blue</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85834B4</g:id>
+      <g:item_group_id>9520787947837</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Children's Pack of 2 Christmas Socks - Blue / 4 - 6</g:title>
+      <g:description>Treat your feet to a flurry of festive charm with this adorable children's Christmas socks. Featuring two coordinating designs, one pack features with playful penguins dressed for winter adventures and another a pair of sweet Christmas tree designs. Available in 3 sizes: UK 9-12 (EU 27-30), UK 12½-3½ (EU 31-34), and UK 4-6 (EU 35-37).</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-socks-childrens-pack-2?variant=53481562079607</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Blue-and-Grey-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346315</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Pink-and-Red-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346316</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85834B4</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Blue</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85834P9</g:id>
+      <g:item_group_id>9520787947837</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Children's Pack of 2 Christmas Socks - Pink / 9-12</g:title>
+      <g:description>Treat your feet to a flurry of festive charm with this adorable children's Christmas socks. Featuring two coordinating designs, one pack features with playful penguins dressed for winter adventures and another a pair of sweet Christmas tree designs. Available in 3 sizes: UK 9-12 (EU 27-30), UK 12½-3½ (EU 31-34), and UK 4-6 (EU 35-37).</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-socks-childrens-pack-2?variant=54827639472503</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Blue-and-Grey-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346315</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Pink-and-Red-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346316</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85834P9</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Blue</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85834P12</g:id>
+      <g:item_group_id>9520787947837</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Children's Pack of 2 Christmas Socks - Pink / 12.5 - 3.5</g:title>
+      <g:description>Treat your feet to a flurry of festive charm with this adorable children's Christmas socks. Featuring two coordinating designs, one pack features with playful penguins dressed for winter adventures and another a pair of sweet Christmas tree designs. Available in 3 sizes: UK 9-12 (EU 27-30), UK 12½-3½ (EU 31-34), and UK 4-6 (EU 35-37).</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-socks-childrens-pack-2?variant=53481562145143</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Blue-and-Grey-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346315</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Pink-and-Red-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346316</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85834P12</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Blue</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85834P4</g:id>
+      <g:item_group_id>9520787947837</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Children's Pack of 2 Christmas Socks - Pink / 4 - 6</g:title>
+      <g:description>Treat your feet to a flurry of festive charm with this adorable children's Christmas socks. Featuring two coordinating designs, one pack features with playful penguins dressed for winter adventures and another a pair of sweet Christmas tree designs. Available in 3 sizes: UK 9-12 (EU 27-30), UK 12½-3½ (EU 31-34), and UK 4-6 (EU 35-37).</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-socks-childrens-pack-2?variant=53481562177911</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Blue-and-Grey-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346315</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Pink-and-Red-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346316</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85834P4</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:color>Blue</g:color>
+<g:size>9-12</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>kids</g:age_group>
+      <g:gender>unisex</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85991</g:id>
       <g:item_group_id>15129330811255</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -19368,51 +19639,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CX83847</g:id>
-      <g:item_group_id>15076740694391</g:item_group_id>
-      <g:google_product_category>4257</g:google_product_category>
-      <g:title>Clover the Highland Cow Duo Tea Towels</g:title>
-      <g:description>This set of two tea towels offers both functionality and seasonal charm for your kitchen. Designed for both function and style, these towels offer excellent absorbency and durability, making them ideal for drying dishes, hands, or surfaces.  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/clover-the-highland-cow-duo-tea-towels?variant=55552374112631</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83847-Clover-Highland-Cow-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754489577</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83847-Clover-Highland-Cow-Duo-Tea-Towels-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815635</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242007</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Tea Towel</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>74 cm </g:product_length>
-      <g:product_width>48 cm </g:product_width>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83860</g:id>
       <g:item_group_id>15078680297847</g:item_group_id>
       
@@ -19452,6 +19678,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -21019,7 +21246,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85488-Dutch-Tulip-354-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585327</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85489-Mossy-Meadow-398-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585327</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.29 GBP</g:price>
 
       <g:shipping>
@@ -21041,7 +21268,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21093,7 +21320,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21145,7 +21372,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21197,7 +21424,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21249,7 +21476,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21301,7 +21528,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21353,7 +21580,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21405,7 +21632,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21457,7 +21684,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21509,7 +21736,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Cut Grass</g:color>
+      <g:color>Thunderstorm</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -25137,6 +25364,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -25565,6 +25793,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -27856,6 +28085,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -27902,6 +28132,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -28752,6 +28983,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -29481,15 +29713,15 @@ Backing: TPE
 
 	
     <item>
-      <g:id>CW85881</g:id>
+      <g:id>CW85881SLEIGH</g:id>
       <g:item_group_id>15128434442615</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Christmas Santa Gift Bags</g:title>
-      <g:description>Add a traditional touch to your Christmas celebrations with this Giant Santa Gift Bag. Available in two festive designs, each bag features a classic Santa scene highlighted by rich Christmas colours and detailed seasonal artwork. Perfect for large gifts, bundles of presents, or holiday surprises, this spacious gift bag offers a stylish, convenient, and reusable way to present your Christmas gifts. Features  Traditional designs, Two bags sold together, Handles and tags, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-santa-gift-bag?variant=55757364887927</g:link>
+      <g:title>Giant Square Christmas Santa Gift Bags - Sleigh</g:title>
+      <g:description>Add a traditional touch to your Christmas celebrations with this Giant Santa Gift Bag. Available in two festive designs, each bag features a classic Santa scene highlighted by rich Christmas colours and detailed seasonal artwork. Perfect for large gifts, bundles of presents, or holiday surprises, this spacious gift bag offers a stylish, convenient, and reusable way to present your Christmas gifts. Features  Traditional designs, Bags sold separately, Handles and tags, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-santa-gift-bag?variant=57492025049463</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85881-Traditional-Santa-Giant-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787670915</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -29514,9 +29746,46 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:product_length>20.5 cm </g:product_length>
-      <g:product_width>45 cm </g:product_width>
-      <g:product_height>45 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85881TREE</g:id>
+      <g:item_group_id>15128434442615</g:item_group_id>
+      <g:google_product_category>5838</g:google_product_category>
+      <g:title>Giant Square Christmas Santa Gift Bags - Tree</g:title>
+      <g:description>Add a traditional touch to your Christmas celebrations with this Giant Santa Gift Bag. Available in two festive designs, each bag features a classic Santa scene highlighted by rich Christmas colours and detailed seasonal artwork. Perfect for large gifts, bundles of presents, or holiday surprises, this spacious gift bag offers a stylish, convenient, and reusable way to present your Christmas gifts. Features  Traditional designs, Bags sold separately, Handles and tags, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-santa-gift-bag?variant=57492025082231</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85881-Traditional-Santa-Giant-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787670915</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012213597555</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Gift Bags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
@@ -31910,6 +32179,167 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CW85923GREEN</g:id>
+      <g:item_group_id>15541912633719</g:item_group_id>
+      
+      <g:title>Hanging Ribbon - 3 Pack - Large Green Trees</g:title>
+      <g:description>Add the perfect finishing touch to your Christmas wrapping, crafts and decorations with these Hanging Ribbon Packs. Each pack includes three coordinating ribbon designs, neatly presented on a hanging spool set for easy storage and use. Features  3 unique rolls of ribbon, Each roll measures 3 x 2.5m, Hanging presentation for easy display and storage, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hanging-ribbon-3-pack?variant=57491453149559</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85923-Hanging-Ribon-Set-of-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671488</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128630958</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85923BLUE</g:id>
+      <g:item_group_id>15541912633719</g:item_group_id>
+      
+      <g:title>Hanging Ribbon - 3 Pack - Blues</g:title>
+      <g:description>Add the perfect finishing touch to your Christmas wrapping, crafts and decorations with these Hanging Ribbon Packs. Each pack includes three coordinating ribbon designs, neatly presented on a hanging spool set for easy storage and use. Features  3 unique rolls of ribbon, Each roll measures 3 x 2.5m, Hanging presentation for easy display and storage, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hanging-ribbon-3-pack?variant=57491453051255</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85923-Hanging-Ribon-Set-of-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671488</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128630958</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85923RED</g:id>
+      <g:item_group_id>15541912633719</g:item_group_id>
+      
+      <g:title>Hanging Ribbon - 3 Pack - Reds</g:title>
+      <g:description>Add the perfect finishing touch to your Christmas wrapping, crafts and decorations with these Hanging Ribbon Packs. Each pack includes three coordinating ribbon designs, neatly presented on a hanging spool set for easy storage and use. Features  3 unique rolls of ribbon, Each roll measures 3 x 2.5m, Hanging presentation for easy display and storage, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hanging-ribbon-3-pack?variant=57491453116791</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85923-Hanging-Ribon-Set-of-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671488</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128630958</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85923WHITE</g:id>
+      <g:item_group_id>15541912633719</g:item_group_id>
+      
+      <g:title>Hanging Ribbon - 3 Pack - Multi - Polka Dots</g:title>
+      <g:description>Add the perfect finishing touch to your Christmas wrapping, crafts and decorations with these Hanging Ribbon Packs. Each pack includes three coordinating ribbon designs, neatly presented on a hanging spool set for easy storage and use. Features  3 unique rolls of ribbon, Each roll measures 3 x 2.5m, Hanging presentation for easy display and storage, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hanging-ribbon-3-pack?variant=57491453084023</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85923-Hanging-Ribon-Set-of-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671488</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128630958</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR79703</g:id>
       <g:item_group_id>9520937107773</g:item_group_id>
       <g:google_product_category>583</g:google_product_category>
@@ -32382,6 +32812,50 @@ Inner Lining: 100% Polypropylene
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86107</g:id>
+      <g:item_group_id>15519192154487</g:item_group_id>
+      
+      <g:title>Hector the Heffer Luxury Blanket Throw</g:title>
+      <g:description>Stay warm in style this winter with this thick and warm Highland cow design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Design is exclusive to Cancer Research UK.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-luxury-blanket-throw?variant=57321552806263</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86107-Hector-the-Heffer-Luxury-Throw-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044573</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253232</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Blanket</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -33547,6 +34021,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -33605,7 +34080,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-all-over-grey-print-foldaway-bag?variant=57087323439479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85090-Higland-Cow-Foldaway-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983342</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -33680,6 +34155,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -34221,7 +34697,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-storage-bag?variant=57088153747831</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85074BEIGE-Highland-Cow-Storage-Bag-Beige-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
 
       <g:shipping>
@@ -35037,7 +35513,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85713-All-The-Animals-Childrens-Book-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772467956</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85713-All-The-Animals-Childrens-Book-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772467956</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -35290,6 +35766,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -37298,6 +37775,51 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
+      <g:id>CX85836</g:id>
+      <g:item_group_id>14670530052471</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Ladies Pack of 2 Terry Socks</g:title>
+      <g:description>Keep your toes toasty warm this winter with this pack of 2 terry socks. Super soft and extra comfy, these are ideal for helping stay warm in colder weather. One size (UK 4-7)</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-pack-of-2-terry-socks?variant=53481567584631</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85836-Ladies-Terry-Duo-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346315</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85836</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>60% cotton/30% polyester/8% polyamide</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85184</g:id>
       <g:item_group_id>15018126213495</g:item_group_id>
       
@@ -37850,6 +38372,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -38112,9 +38635,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD83961</g:id>
       <g:item_group_id>15454419616119</g:item_group_id>
       
@@ -38245,7 +38766,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85737</g:id>
       <g:item_group_id>15405432799607</g:item_group_id>
       
@@ -38376,6 +38899,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -38421,6 +38945,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -38465,6 +38990,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -38509,6 +39035,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -38551,6 +39078,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -38593,6 +39121,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -38634,6 +39163,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -38674,6 +39204,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -38714,6 +39245,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -38891,6 +39423,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -38937,6 +39470,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -38983,6 +39517,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39027,6 +39562,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39071,6 +39607,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -39115,6 +39652,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39158,6 +39696,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39201,6 +39740,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39242,6 +39782,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39283,6 +39824,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39324,6 +39866,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -39370,6 +39913,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39415,6 +39959,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39428,7 +39973,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83802-Mini-Hand-Warmers-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763051698</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -39460,6 +40005,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39503,6 +40049,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39546,6 +40093,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39589,6 +40137,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -39633,6 +40182,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39676,6 +40226,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -39719,6 +40270,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -39762,6 +40314,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 	
@@ -39804,6 +40357,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 	
@@ -39846,6 +40400,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -41468,6 +42023,50 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
+      <g:id>CX85835</g:id>
+      <g:item_group_id>15129740542327</g:item_group_id>
+      
+      <g:title>Men's Pack of 2 Terry Socks</g:title>
+      <g:description>Step into the season with socks that sleigh! Whether you're lounging by the fire or dashing through the shops, these socks keep your feet feeling merry and bright from morning till night. Designed for all-day comfort, they’re soft, breathable, and bursting with Christmas cheer. </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mens-2-pack-terry-christmas-socks?variant=55762446549367</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85835-Mens-Terry-Duo-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790346315</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85835</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX76497</g:id>
       <g:item_group_id>9521013227837</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -42436,6 +43035,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -44769,47 +45369,6 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
-      <g:id>LW84824</g:id>
-      <g:item_group_id>15057204347255</g:item_group_id>
-      
-      <g:title>MooGoo Rescue Fix-It Balm</g:title>
-      <g:description>For chapped lips, chafing, dry patches, blemishes, redness, cracked skin. This Nourishing Rescue Fix It Balm ditches the traditional petroleum jelly for Shea Butter and Jojoba Oil to make a beautifully moisturising and nourishing balm. This is then amplified with concentrated extracts of Marshmallow, Calendula, Cucumber, Chamomile, Beeswax and natural Vitamin E.  Fix-It can be used alongside MooGoo's Eczema &amp; Psoriasis products as it will aid in nourishing and soothing dry skin, cracks and rashes.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/moogoo-fix-it-balm?variant=55462132285815</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84824-MooGoo-FixItBalm-25g-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753883710</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9335955004942</g:gtin>
- 
-      <g:brand>MooGoo</g:brand>
-      <g:product_type>Balm</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Cancer Care</g:custom_label_0>
-      <g:custom_label_1>Cancer Care</g:custom_label_1>
-      <g:custom_label_2>Skincare</g:custom_label_2>
-      <g:custom_label_4>Cancer Care</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>LW82384</g:id>
       <g:item_group_id>9676877955389</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
@@ -45516,7 +46075,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>Volunteer Fundraising</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_3>Own Brand</g:custom_label_3>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
     </item>
 
@@ -48360,52 +48919,6 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83824CAT</g:id>
-      <g:item_group_id>14668272632183</g:item_group_id>
-      <g:google_product_category>588</g:google_product_category>
-      <g:title>Pom Pom Candle - Tink the Tabby Cat</g:title>
-      <g:description>Add a cute little glow to your living space with this pom-pom lid candle. The vanilla fragranced, glass jar candle is printed with our adorable playful kitten design, and gives approximately 28 hours of burn time. Fancy pouncing on more of Tink? Follow the paw prints to more cat decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/pom-pom-candle-playful-kitten?variant=53469476487543</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83824-Pom-Pom-Candle-Tink-Tabby-Cat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754487117</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83824-Pom-Pom-Candle-Humphrey-Hare-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758273348</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5052460361936</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Candles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>7 cm </g:product_length>
-      <g:product_width>7 cm </g:product_width>
-      <g:product_height>9 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -52117,6 +52630,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -52200,6 +52714,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -57318,48 +57833,6 @@ Blue: 80% polyester/20% cotton</g:material>
 
 	
     <item>
-      <g:id>CX83717</g:id>
-      <g:item_group_id>15089096491383</g:item_group_id>
-      
-      <g:title>Ralph Robin &amp; Family Teabag Tidy</g:title>
-      <g:description>Add festive cheer to your kitchen with this sweet teabag tidy, shaped like a teapot and featuring a charming bird in red boots reaching for a golden star.  A delightful way to keep teabags under control, it’s a thoughtful seasonal gift for tea lovers and fans of whimsical winter designs. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ralph-family-robin-tea-bag-tidy?variant=55599663743351</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83717-Ralph-Robin-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760452410</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83717-Robin-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760446076</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123837170</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Teabag Tidy</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83885</g:id>
       <g:item_group_id>15089097933175</g:item_group_id>
       
@@ -57397,94 +57870,6 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83710</g:id>
-      <g:item_group_id>15089096032631</g:item_group_id>
-      
-      <g:title>Ralph the Robin Spoon Rest</g:title>
-      <g:description>Brighten your kitchen this Christmas with this festive spoon rest, featuring a robin in red boots holding a golden star.  A cheerful way to keep worktops clean while cooking, it’s perfect for those who love robins and makes a thoughtful seasonal gift. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ralph-family-spoon-rest?variant=55599661613431</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83710-Ralph-Robin-Spoon-Rest-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755190840</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83710-Ralph-Robin-Spoon-Rest-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760446794</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-      <g:sale_price>1.69 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123837101</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Spoon Rest</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Melamine</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83851</g:id>
-      <g:item_group_id>15078715818359</g:item_group_id>
-      <g:google_product_category>4143</g:google_product_category>
-      <g:title>Ralph the Robin Wipe-Clean Tablecloth</g:title>
-      <g:description>Deck your table with a dash of Christmas spirit and a whole lot of practicality. This wipe-clean robin Christmas tablecloth is made for real homes and real celebrations—where spills happen, guests gather, and memories are made. With its vibrant seasonal design and easy-clean surface, it’s ready to handle everything from mulled wine mishaps to mince pie crumbs. Just wipe and reset—no laundry, no drama. Suitable for rectangular tables with 4-6 settings, the flannel backed tablecloth protects your table and looks great. Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/robin-design-easy-wipe-clean-tablecloth?variant=55561887777143</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83851-1-Ralph-Robin-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493735</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83851-2-Ralph-Robin-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754493735</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674242045</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Tablecloth</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>178 cm </g:product_length>
-      <g:product_width>132 cm </g:product_width>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -57782,7 +58167,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85896CHECK</g:id>
       <g:item_group_id>15539970933111</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -57901,9 +58288,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW85885WHITE</g:id>
       <g:item_group_id>15539969130871</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -58030,9 +58415,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:id>CW84406</g:id>
       <g:item_group_id>9521171595581</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
-      <g:title>Red and White Gift Tags - 20 Pack</g:title>
+      <g:title>Red and White Gift Tags - 20 Pack - Fa La La</g:title>
       <g:description>Elevate your gift-giving with our elegant red and white gift labels. Designed to bring a pop of festive charm, these labels are perfect for the festive gifting.   20 gift tags with metallic string, Recyclable packaging, Co-ordinating gift wrap available, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/red-white-gift-tags-20-pack?variant=49004184371517</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/red-white-gift-tags-20-pack?variant=57492012269943</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84406-Red-White-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758036535</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -58053,6 +58438,46 @@ Blue: 80% polyester/20% cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5012128616440</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Christmas Gift Tags</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85906</g:id>
+      <g:item_group_id>9521171595581</g:item_group_id>
+      <g:google_product_category>8213</g:google_product_category>
+      <g:title>Red and White Gift Tags - 20 Pack - Ho Ho Ho</g:title>
+      <g:description>Elevate your gift-giving with our elegant red and white gift labels. Designed to bring a pop of festive charm, these labels are perfect for the festive gifting.   20 gift tags with metallic string, Recyclable packaging, Co-ordinating gift wrap available, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/red-white-gift-tags-20-pack?variant=57492012302711</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85906-Red-and-White-Christmas-Gift-Tag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671354</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128632235</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Christmas Gift Tags</g:product_type>
@@ -59067,6 +59492,7 @@ Inner Lining: 100% Polypropylene
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -59149,6 +59575,48 @@ Inner Lining: 100% Polypropylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86106</g:id>
+      <g:item_group_id>15519192088951</g:item_group_id>
+      
+      <g:title>Robin Choir Patterned Luxury Blanket Throw</g:title>
+      <g:description>Stay warm in style this winter with this thick and warm Robin design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Design is exclusive to Cancer Research UK.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/robin-choir-patterned-luxury-blanket-throw?variant=57321552773495</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86106-Robin-Choir-Luxury-Robin-Throw-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253225</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Blanket</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -74120,52 +74588,6 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
-      <g:id>CX81539</g:id>
-      <g:item_group_id>14670590640503</g:item_group_id>
-      
-      <g:title>Santa I Have Been... Decoration</g:title>
-      <g:description>Are you on Santa's naughty or nice list? Tell him how you think you've behaved with this LED lit sign. Playful and interactive this red grotto decoration brings a warm festive glow to shelves, mantels, or bedside tables.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/santa-i-have-been-decoration?variant=53481734275447</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81539-LED-Lit-Santa-Stop-Here-Sign-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682912</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-      <g:sale_price>4.89 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX81539</g:mpn>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-      <g:color>Red</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyresin</g:material>
-      <g:product_length>6 cm </g:product_length>
-      <g:product_width>15 cm </g:product_width>
-      <g:product_height>22 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX85839SANTA</g:id>
       <g:item_group_id>15214005223799</g:item_group_id>
       <g:google_product_category>328</g:google_product_category>
@@ -74499,6 +74921,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -79890,6 +80313,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -79939,6 +80363,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -79986,6 +80411,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -80033,6 +80459,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -80080,6 +80507,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -80127,6 +80555,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -80507,6 +80936,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -80551,6 +80981,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -81101,7 +81532,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Temerity Jones</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Yellow</g:color>
+      <g:color>Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81120,7 +81551,7 @@ Filling: Aggregate and Polyester fibre
       <g:link>https://shop.cancerresearchuk.org/products/soleil-round-tin-tray?variant=57019344912759</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86248-33.5cm-Soleil-Round-Tin-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442565</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.99 GBP</g:price>
       <g:sale_price>3.19 GBP</g:sale_price>
 
@@ -81143,7 +81574,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Temerity Jones</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Yellow</g:color>
+      <g:color>Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -81185,7 +81616,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Temerity Jones</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Yellow</g:color>
+      <g:color>Blue</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -82820,6 +83251,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
 	
@@ -82866,6 +83298,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
 
@@ -83002,93 +83435,6 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SU84279</g:id>
-      <g:item_group_id>15144672723319</g:item_group_id>
-      
-      <g:title>Stand Up To Cancer Ladies Wellington Socks - Leopard Print</g:title>
-      <g:description>Perfect for a country walk with the dog, jobs in the garden, or just Standing Up To Cancer, keep your feet warm with these wellie socks. Features:  1 pair ladies wellington socks, One size: 4-7, Available two different designs, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-ladies-wellington-socks?variant=55832117281143</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84279-SUTC-Ladies-Wellington-1-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724198</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84278-SUTC-Ladies-Wellington-Star-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724147</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84279-SUTC-Ladies-Wellington-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724253</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>SU84279</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>SU84278</g:id>
-      <g:item_group_id>15144672723319</g:item_group_id>
-      
-      <g:title>Stand Up To Cancer Ladies Wellington Socks - Star Print</g:title>
-      <g:description>Perfect for a country walk with the dog, jobs in the garden, or just Standing Up To Cancer, keep your feet warm with these wellie socks. Features:  1 pair ladies wellington socks, One size: 4-7, Available two different designs, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/stand-up-to-cancer-ladies-wellington-socks?variant=55832117313911</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84278-SUTC-Ladies-Wellington-Star-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724160</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84278-SUTC-Ladies-Wellington-Star-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724147</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84279-SUTC-Ladies-Wellington-2-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758724253</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>SU84278</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Stand Up To Cancer</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
 
 	
@@ -85769,6 +86115,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -88049,7 +88396,9 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU84827</g:id>
       <g:item_group_id>14902231466359</g:item_group_id>
       
@@ -88142,9 +88491,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU84829</g:id>
       <g:item_group_id>14902238052727</g:item_group_id>
       
@@ -89136,15 +89483,15 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
-      <g:id>CW85844</g:id>
+      <g:id>CW85844GOLD</g:id>
       <g:item_group_id>15525952094583</g:item_group_id>
       
-      <g:title>Tom Smith 3m Evergreen Christmas Wrapping Paper</g:title>
+      <g:title>Tom Smith 3m Evergreen Christmas Wrapping Paper - Gold</g:title>
       <g:description>Wrap your presents in style with our luxury Tom Smith gift wrap design featuring elegant festive foliage. Each roll of wrapping paper contains approx. 3 metres of paper and has a useful cutting grid on the reverse  to enable straight, precise cuts. Features  Made in the UK, Plastic free packaging , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-3m-evergreen-christmas-wrapping-paper?variant=57358852030839</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-3m-evergreen-christmas-wrapping-paper?variant=57491941261687</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85844-Tom-Smith-Evergreen-Haven-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153887</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -89166,6 +89513,49 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Tom Smith</g:brand>
       <g:product_type>Christmas Wrapping Paper</g:product_type>
 
+      <g:color>Gold</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85844GREEN</g:id>
+      <g:item_group_id>15525952094583</g:item_group_id>
+      
+      <g:title>Tom Smith 3m Evergreen Christmas Wrapping Paper - Green</g:title>
+      <g:description>Wrap your presents in style with our luxury Tom Smith gift wrap design featuring elegant festive foliage. Each roll of wrapping paper contains approx. 3 metres of paper and has a useful cutting grid on the reverse  to enable straight, precise cuts. Features  Made in the UK, Plastic free packaging , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-3m-evergreen-christmas-wrapping-paper?variant=57491941294455</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85844-Tom-Smith-Evergreen-Haven-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153887</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CW85844GREEN</g:mpn>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Gold</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -89177,15 +89567,15 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
-      <g:id>CW85854</g:id>
+      <g:id>CW85854RED</g:id>
       <g:item_group_id>15525952422263</g:item_group_id>
       
-      <g:title>Tom Smith 4m Christmas Nest Christmas Wrapping Paper</g:title>
+      <g:title>Tom Smith 4m Christmas Nest Christmas Wrapping Paper - Red</g:title>
       <g:description>Wrap your presents in style with our luxury Tom Smith gift wrap design featuring a painterly portrayal of robins nestled among holly and ivy. Each roll of wrapping paper contains approx. 4 metres of luxury paper and has a useful cutting grid on the reverse to enable straight, precise cuts. Features  Made in the UK, Plastic free packaging , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/4m-x-69cm-christmas-nest-wrap?variant=57358852522359</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/4m-x-69cm-christmas-nest-wrap?variant=57491995263351</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85854-Tom-Smith-Christmas-Nest-Christmas-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153888</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -89207,6 +89597,49 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Tom Smith</g:brand>
       <g:product_type>Christmas Wrapping Paper</g:product_type>
 
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85854WHITE</g:id>
+      <g:item_group_id>15525952422263</g:item_group_id>
+      
+      <g:title>Tom Smith 4m Christmas Nest Christmas Wrapping Paper - White</g:title>
+      <g:description>Wrap your presents in style with our luxury Tom Smith gift wrap design featuring a painterly portrayal of robins nestled among holly and ivy. Each roll of wrapping paper contains approx. 4 metres of luxury paper and has a useful cutting grid on the reverse to enable straight, precise cuts. Features  Made in the UK, Plastic free packaging , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/4m-x-69cm-christmas-nest-wrap?variant=57491995296119</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85854-Tom-Smith-Christmas-Nest-Christmas-Wrap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153888</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CW85854WHITE</g:mpn>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -89218,15 +89651,15 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
-      <g:id>CW85845</g:id>
+      <g:id>CW85845WHITE</g:id>
       <g:item_group_id>15525952127351</g:item_group_id>
       
-      <g:title>Tom Smith 4m Gentle Snowfall Christmas Wrapping Paper</g:title>
+      <g:title>Tom Smith 4m Gentle Snowfall Christmas Wrapping Paper - White</g:title>
       <g:description>Wrap your presents in style with our luxury Tom Smith gift wrap design featuring delicate silver snowflakes. Each roll of wrapping paper contains approx. 4 metres of luxury paper and has a useful cutting grid on the reverse of the paper to enable straight, precise cuts.  Features  Made in the UK, Plastic free packaging , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-4m-gentle-snowfall-christmas-wrapping-paper?variant=57358852063607</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-4m-gentle-snowfall-christmas-wrapping-paper?variant=57491947815287</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85845-Tom-Smith-Gentle-Snowfall-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153888</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -89248,6 +89681,49 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Tom Smith</g:brand>
       <g:product_type>Christmas Wrapping Paper</g:product_type>
 
+      <g:color>White</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85845SILVER</g:id>
+      <g:item_group_id>15525952127351</g:item_group_id>
+      
+      <g:title>Tom Smith 4m Gentle Snowfall Christmas Wrapping Paper - Silver</g:title>
+      <g:description>Wrap your presents in style with our luxury Tom Smith gift wrap design featuring delicate silver snowflakes. Each roll of wrapping paper contains approx. 4 metres of luxury paper and has a useful cutting grid on the reverse of the paper to enable straight, precise cuts.  Features  Made in the UK, Plastic free packaging , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-4m-gentle-snowfall-christmas-wrapping-paper?variant=57491947848055</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85845-Tom-Smith-Gentle-Snowfall-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153888</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CW85845SILVER</g:mpn>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>White</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -89259,15 +89735,15 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
-      <g:id>CW85843</g:id>
+      <g:id>CW85843GOLD</g:id>
       <g:item_group_id>15525952061815</g:item_group_id>
       
-      <g:title>Tom Smith 4m Toy Box Christmas Wrapping Paper</g:title>
+      <g:title>Tom Smith 4m Toy Box Christmas Wrapping Paper - Gold</g:title>
       <g:description>Wrap your presents in style with our luxury Tom Smith gift wrap design featuring an illustration of nostalgic toys with contemporary flair in deep jewel tones. Each roll of wrapping paper contains approx. 4 metres of luxury paper and has a useful cutting grid on the reverse to enable straight, precise cuts. Features  Made in the UK, Plastic free packaging , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-4m-toy-box-christmas-wrapping-paper?variant=57358851998071</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-4m-toy-box-christmas-wrapping-paper?variant=57491938443639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85843-Tom-Smith-Toy-Box-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153888</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -89289,6 +89765,49 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Tom Smith</g:brand>
       <g:product_type>Christmas Wrapping Paper</g:product_type>
 
+      <g:color>Gold</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
+      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CW85843PURPLE</g:id>
+      <g:item_group_id>15525952061815</g:item_group_id>
+      
+      <g:title>Tom Smith 4m Toy Box Christmas Wrapping Paper - Purple</g:title>
+      <g:description>Wrap your presents in style with our luxury Tom Smith gift wrap design featuring an illustration of nostalgic toys with contemporary flair in deep jewel tones. Each roll of wrapping paper contains approx. 4 metres of luxury paper and has a useful cutting grid on the reverse to enable straight, precise cuts. Features  Made in the UK, Plastic free packaging , </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tom-smith-4m-toy-box-christmas-wrapping-paper?variant=57491938476407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85843-Tom-Smith-Toy-Box-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787153888</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CW85843PURPLE</g:mpn>
+ 
+      <g:brand>Tom Smith</g:brand>
+      <g:product_type>Christmas Wrapping Paper</g:product_type>
+
+      <g:color>Gold</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -90838,7 +91357,7 @@ Filling: Aggregate and Polyester fibre
       <g:link>https://shop.cancerresearchuk.org/products/touch-our-lives-remembrance-heart-stone?variant=56136491303287</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80528-Those-Who-Touch-Our-Lives-Heart-Stone-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762444197</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.49 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -96811,6 +97330,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -96854,6 +97374,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -96898,6 +97419,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -96942,6 +97464,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -96986,6 +97509,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 	
@@ -97030,6 +97554,7 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
