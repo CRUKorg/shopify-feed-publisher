@@ -1277,7 +1277,7 @@ PINEWOOD
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85715-555-Sticker-Fun-Trains-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772023563</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85715-555-Sticker-Fun-Trains-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772023563</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -2865,7 +2865,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-happy-plaque?variant=55353698615671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR83091_Sage_Green_plaque_featuring_bee_design_1024x1024.jpg?v=1757884629</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
       <g:sale_price>1.99 GBP</g:sale_price>
 
@@ -4625,50 +4625,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>CX84563</g:id>
-      <g:item_group_id>15087421489527</g:item_group_id>
-      
-      <g:title>Betty and Jake Duo Tea Towels</g:title>
-      <g:description>Featuring both a cheeky Jack Russell and a sweet Border Terrier, this duo set of tea towels brings a fun and festive feel to your kitchen. Great for absorbency and durability, they’re ideal for drying dishes, wiping surfaces, or handling everyday spills. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-duo-tea-towels?variant=55594625204599</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84563-Dog-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509472</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674245268</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Tea Towel</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>48 cm </g:product_width>
-      <g:product_height>74 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX84544</g:id>
       <g:item_group_id>15089097441655</g:item_group_id>
       <g:google_product_category>673</g:google_product_category>
@@ -4754,51 +4710,6 @@ Ground sheet: 100% Polyethylene
       <g:material>Polyester</g:material>
       <g:product_length>12 cm </g:product_length>
       <g:product_width>22 cm </g:product_width>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84555</g:id>
-      <g:item_group_id>15087421227383</g:item_group_id>
-      
-      <g:title>Betty the Border Terrier Cushion</g:title>
-      <g:description>This charming Border Terrier cushion is a delightful addition to any home. Designed with dog lovers in mind, it features a heart-warming illustration and a luxuriously soft feel that’s perfect for cosy evenings. A thoughtful gift or a seasonal treat, it’s sure to be a favourite all year round. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/betty-the-border-terrier-cushion?variant=55594624811383</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84556-Betty-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762509197</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.49 GBP</g:price>
-      <g:sale_price>4.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674245190</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Cushion</g:product_type>
-      <g:color>White</g:color>
-      <g:size>3</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Polyester</g:material>
-      <g:product_width>43 cm </g:product_width>
-      <g:product_height>43 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -9828,7 +9739,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB82858-Bowelbabe-Tight-Fit-White-TShirt-1_1024x1024.jpg?v=1748534831</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB82858-Bowelbabe-Tight-Fit-White-TShirt-2_1024x1024.jpg?v=1748534831</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.00 GBP</g:price>
       <g:sale_price>6.00 GBP</g:sale_price>
 
@@ -24851,7 +24762,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX83845</g:id>
       <g:item_group_id>15078089687415</g:item_group_id>
       <g:google_product_category>4453</g:google_product_category>
@@ -24979,9 +24892,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85945RED</g:id>
       <g:item_group_id>15541911617911</g:item_group_id>
       
@@ -32187,7 +32098,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/hanging-ribbon-3-pack?variant=57491453149559</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85923-Hanging-Ribon-Set-of-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671488</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -32227,7 +32138,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/hanging-ribbon-3-pack?variant=57491453051255</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85923-Hanging-Ribon-Set-of-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671488</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -32267,7 +32178,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/hanging-ribbon-3-pack?variant=57491453116791</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85923-Hanging-Ribon-Set-of-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671488</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -32307,7 +32218,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/hanging-ribbon-3-pack?variant=57491453084023</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85923-Hanging-Ribon-Set-of-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671488</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -38635,7 +38546,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD83961</g:id>
       <g:item_group_id>15454419616119</g:item_group_id>
       
@@ -38720,9 +38633,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF30432</g:id>
       <g:item_group_id>9521005855037</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -47481,7 +47392,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/paint-your-own-baubles-set?variant=57355369677175</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85793-Paint-Your-Own-Baubles-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907525</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -47522,7 +47433,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/paint-your-own-festive-mug?variant=57355371938167</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85795-Paint-Your-Own-Festive-Mug-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907522</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -47563,7 +47474,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/paint-your-own-snow-village-set?variant=57355370889591</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85794-Paint-Your-Own-Snow-Village-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907522</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -58288,7 +58199,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85885WHITE</g:id>
       <g:item_group_id>15539969130871</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -58490,9 +58403,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW85925</g:id>
       <g:item_group_id>15106163245431</g:item_group_id>
       
@@ -88491,7 +88402,9 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU84829</g:id>
       <g:item_group_id>14902238052727</g:item_group_id>
       
@@ -88584,9 +88497,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU84831</g:id>
       <g:item_group_id>9520924033341</g:item_group_id>
       <g:google_product_category>7237</g:google_product_category>
