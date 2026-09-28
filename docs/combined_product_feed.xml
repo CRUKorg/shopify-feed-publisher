@@ -3198,46 +3198,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>CR85069</g:id>
-      <g:item_group_id>15459974218103</g:item_group_id>
-      
-      <g:title>Bee Kneeling Pads</g:title>
-      <g:description>Make gardening kinder on your knees with this duo of green kneeling pads, styled with a sweet bee print. Soft and supportive, each pad provides cushioned comfort while planting bulbs, weeding or tackling low‑level jobs, helping you garden for longer with less strain.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bee-kneeling-pads-duo?variant=57024684097911</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85069-Green-Bee-Pack-of-2-Kneeling-Pads-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776679392</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247941</g:gtin>
-
-      <g:product_type>Kneeling Pads</g:product_type>
-      <g:color>green</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR85213</g:id>
       <g:item_group_id>15499659772279</g:item_group_id>
       
@@ -9269,7 +9229,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB82865-Bowelbabe-Loose-Fit-Black-TShirt-1_1024x1024.jpg?v=1748532448</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB82865-Bowelbabe-Loose-Fit-Black-TShirt-2_1024x1024.jpg?v=1748532448</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.00 GBP</g:price>
       <g:sale_price>6.00 GBP</g:sale_price>
 
@@ -24892,7 +24852,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX85945RED</g:id>
       <g:item_group_id>15541911617911</g:item_group_id>
       
@@ -24973,9 +24935,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CD85575</g:id>
       <g:item_group_id>15520895631735</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -31008,47 +30968,6 @@ Backing: TPE
 
 	
     <item>
-      <g:id>CR85059</g:id>
-      <g:item_group_id>15459960226167</g:item_group_id>
-      <g:google_product_category>5913</g:google_product_category>
-      <g:title>Green Bee Bench Cushion</g:title>
-      <g:description>Add an instant layer of comfort to your garden bench with this sweet bee inspired bench cushion. Designed as an easy update, this cushion simply ties onto your existing bench, transforming everyday seating into somewhere you’ll want to linger. The bee print brings a cheerful nod to British wildlife, making it ideal for sunny afternoons spent reading, relaxing or enjoying the garden in comfort.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/green-bee-bench-cushion?variant=57024633864567</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85059-Green-Bee-Bench-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776677854</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>13.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247842</g:gtin>
-
-      <g:product_type>Outdoor Accessories</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester with water resistant backing</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR85066</g:id>
       <g:item_group_id>15459991683447</g:item_group_id>
       
@@ -34691,7 +34610,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tea-bag-tidy?variant=57077050245495</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85081-Highland-Cow-Face-Beige-Tea-Bag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778225232</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -34736,7 +34655,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tea-bag-tidy?variant=57077050278263</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85082-Highland-Cow-Face-Grey-Tea-Bag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778225232</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -38633,7 +38552,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF30432</g:id>
       <g:item_group_id>9521005855037</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -38725,9 +38646,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW85914</g:id>
       <g:item_group_id>15541869052279</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -42960,7 +42879,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/pumpkin-nest?variant=57451547656567</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85224-Mini-Pumpkin-Nest-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789145016</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -44379,7 +44298,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-full-cream-moisturiser?variant=55305190998391</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42323-MooGoo-Full-Cream-200g-3-Cancer-Research-UK-Online-Shop_8c9b1cbb-8bfe-49c0-a9e5-4f907c8a4355_1024x1024.jpg?v=1719230314</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.49 GBP</g:price>
 
       <g:shipping>
@@ -44401,7 +44320,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Moisturiser</g:product_type>
 
-<g:size>200g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -44441,7 +44360,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Moisturiser</g:product_type>
 
-<g:size>200g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -58403,7 +58322,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85925</g:id>
       <g:item_group_id>15106163245431</g:item_group_id>
       
@@ -58485,9 +58406,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF32587</g:id>
       <g:item_group_id>9521167302973</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -73395,7 +73314,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40398-Royce-Front-Fastening-Silver-Post-Surgery-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405432</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>37.50 GBP</g:price>
 
       <g:shipping>
@@ -88497,7 +88416,9 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU84831</g:id>
       <g:item_group_id>9520924033341</g:item_group_id>
       <g:google_product_category>7237</g:google_product_category>
@@ -88585,9 +88506,7 @@ Filling: Aggregate and Polyester fibre
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85700</g:id>
       <g:item_group_id>15391334105463</g:item_group_id>
       
