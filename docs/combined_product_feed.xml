@@ -13,7 +13,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/10-5cm-christmas-tree-decoration?variant=57435129184631</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85768-10.5cm-Battery-Operated-Tree-Light-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326611</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -1467,7 +1467,7 @@ PINEWOOD
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85772-37cm-Indoor-Outdoor-Big-Nose-Reindeer-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326618</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85772-37cm-Indoor-Outdoor-Big-Nose-Reindeer-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326619</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -1948,7 +1948,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/80cm-golden-elegance-twist-tree?variant=57435151761783</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85773-80cm-Golden-Elegance-Twist-4-Sided-Tree-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326621</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -14521,7 +14521,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262738</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262739</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>28.99 GBP</g:price>
 
       <g:shipping>
@@ -28504,7 +28504,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81530-Foldable-Handy-Cart-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738855082</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81530-Foldable-Handy-Cart-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738855082</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>59.99 GBP</g:price>
       <g:sale_price>49.99 GBP</g:sale_price>
 
@@ -38510,6 +38510,383 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
+      <g:id>CX81571-10</g:id>
+      <g:item_group_id>14868051624311</g:item_group_id>
+      
+      <g:title>Ladies Velour Loungewear Set - Grey / 8-10</g:title>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119503735</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894887</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5054476845882</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Loungewear</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>8-10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81571-14</g:id>
+      <g:item_group_id>14868051624311</g:item_group_id>
+      
+      <g:title>Ladies Velour Loungewear Set - Grey / 12-14</g:title>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119536503</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894887</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5054476845790</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Loungewear</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>8-10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81571-18</g:id>
+      <g:item_group_id>14868051624311</g:item_group_id>
+      
+      <g:title>Ladies Velour Loungewear Set - Grey / 16-18</g:title>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119569271</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894887</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5054476845806</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Loungewear</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>8-10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81571-22</g:id>
+      <g:item_group_id>14868051624311</g:item_group_id>
+      
+      <g:title>Ladies Velour Loungewear Set - Grey / 20-22</g:title>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119602039</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894887</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5054476845875</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Loungewear</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>8-10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81572-10</g:id>
+      <g:item_group_id>14868051624311</g:item_group_id>
+      
+      <g:title>Ladies Velour Loungewear Set - Pink / 8-10</g:title>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119634807</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894861</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5054476845844</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Loungewear</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>8-10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81572-14</g:id>
+      <g:item_group_id>14868051624311</g:item_group_id>
+      
+      <g:title>Ladies Velour Loungewear Set - Pink / 12-14</g:title>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119667575</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894861</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5054476845813</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Loungewear</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>8-10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81572-18</g:id>
+      <g:item_group_id>14868051624311</g:item_group_id>
+      
+      <g:title>Ladies Velour Loungewear Set - Pink / 16-18</g:title>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119700343</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894861</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5054476845820</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Loungewear</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>8-10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81572-22</g:id>
+      <g:item_group_id>14868051624311</g:item_group_id>
+      
+      <g:title>Ladies Velour Loungewear Set - Pink / 20-22</g:title>
+      <g:description>Available in charming grey and pink, the Ladies Velour Loungewear Set is your winter go-to for warmth and comfort. With a snug velour fabric and matching top and bottom, this cosy set will keep you snug and stylish through the chilly season.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-velour-loungewear-set?variant=54791119733111</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894861</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81571-Ladies-Velour-Lounge-Set-Grey-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894874</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81572-Ladies-Velour-Lounge-Set-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770894847</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:sale_price>4.99 GBP</g:sale_price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5054476845837</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Loungewear</g:product_type>
+
+      <g:color>Pink</g:color>
+<g:size>8-10</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85184</g:id>
       <g:item_group_id>15018126213495</g:item_group_id>
       
@@ -38893,9 +39270,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX86033</g:id>
       <g:item_group_id>15523968811383</g:item_group_id>
       
@@ -38935,7 +39310,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX86042</g:id>
       <g:item_group_id>15523969565047</g:item_group_id>
       
@@ -58436,9 +58813,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW84466FALA</g:id>
       <g:item_group_id>9521164091709</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -58563,7 +58938,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX86035</g:id>
       <g:item_group_id>15523969007991</g:item_group_id>
       
@@ -89024,9 +89401,7 @@ LED
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU82404</g:id>
       <g:item_group_id>15351454237047</g:item_group_id>
       
@@ -89069,7 +89444,9 @@ LED
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU85440</g:id>
       <g:item_group_id>15351500603767</g:item_group_id>
       
@@ -95476,7 +95853,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
