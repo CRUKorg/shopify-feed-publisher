@@ -2146,6 +2146,7 @@ Ground sheet: 100% Polyethylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -2189,6 +2190,7 @@ Ground sheet: 100% Polyethylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -2922,6 +2924,7 @@ Ground sheet: 100% Polyethylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -2965,6 +2968,7 @@ Ground sheet: 100% Polyethylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -5698,6 +5702,7 @@ Ground sheet: 100% Polyethylene
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -10617,6 +10622,7 @@ Ground sheet: 100% Polyethylene
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -10660,6 +10666,7 @@ Ground sheet: 100% Polyethylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -10703,6 +10710,7 @@ Ground sheet: 100% Polyethylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -10745,6 +10753,7 @@ Ground sheet: 100% Polyethylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -17210,6 +17219,93 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX85777RED</g:id>
+      <g:item_group_id>15550438736247</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Christmas Baby Bib - Red</g:title>
+      <g:description>Keep festive messes at bay with this adorable Christmas Baby Bib, available in two charming designs. Choose from a cheerful Santa face or a playful elf with the slogan "Santa's #1 Elf". Designed to add a touch of Christmas magic to mealtimes, these colourful bibs help keep little outfits cleaner while making feeds, family gatherings and festive photos even more memorable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-baby-bibs?variant=57435208483191</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85777GREEN-Baby-Bibs-Green-and-CX85777RED-Baby-Bibs-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326618</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85777RED-Baby-Bibs-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326620</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85777GREEN-Baby-Bibs-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326620</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844400951</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Baby Bib</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85777GREEN</g:id>
+      <g:item_group_id>15550438736247</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Christmas Baby Bib - Green</g:title>
+      <g:description>Keep festive messes at bay with this adorable Christmas Baby Bib, available in two charming designs. Choose from a cheerful Santa face or a playful elf with the slogan "Santa's #1 Elf". Designed to add a touch of Christmas magic to mealtimes, these colourful bibs help keep little outfits cleaner while making feeds, family gatherings and festive photos even more memorable.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-baby-bibs?variant=57435208515959</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85777GREEN-Baby-Bibs-Green-and-CX85777RED-Baby-Bibs-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326618</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85777RED-Baby-Bibs-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326620</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85777GREEN-Baby-Bibs-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790326620</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844400951</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Baby Bib</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85981</g:id>
       <g:item_group_id>15517345022327</g:item_group_id>
       
@@ -17705,6 +17801,91 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX85778ELF</g:id>
+      <g:item_group_id>15550446043511</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Christmas Hat and Baby Bib - Elf</g:title>
+      <g:description>Make mealtimes merrier with these adorable Christmas Baby Bib.  Available in two festive designs, a cheeky reindeer and a jolly elf, each bib adds a sprinkle of seasonal fun while helping to keep little outfits clean. Soft, comfortable and perfect for Christmas cuddles, feeds and festive photo moments.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-hat-and-baby-bibs?variant=57435211923831</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85778REINDEER-Hat-and-Baby-Bib-Reindeer-and-CX85778ELF-Hat-and-Baby-Bib-Elf-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327162</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85778ELF-Hat-and-Baby-Bib-Elf-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327235</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85778REINDEER-Hat-and-Baby-Bib-Reindeer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327213</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844476543</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Baby Bib</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85778REINDEER</g:id>
+      <g:item_group_id>15550446043511</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Christmas Hat and Baby Bib - Reindeer</g:title>
+      <g:description>Make mealtimes merrier with these adorable Christmas Baby Bib.  Available in two festive designs, a cheeky reindeer and a jolly elf, each bib adds a sprinkle of seasonal fun while helping to keep little outfits clean. Soft, comfortable and perfect for Christmas cuddles, feeds and festive photo moments.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-hat-and-baby-bibs?variant=57435211956599</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85778REINDEER-Hat-and-Baby-Bib-Reindeer-and-CX85778ELF-Hat-and-Baby-Bib-Elf-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327162</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85778ELF-Hat-and-Baby-Bib-Elf-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327235</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85778REINDEER-Hat-and-Baby-Bib-Reindeer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327213</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844476543</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Baby Bib</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX86047</g:id>
       <g:item_group_id>15523512516983</g:item_group_id>
       
@@ -18036,6 +18217,7 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -18078,6 +18260,7 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -18712,6 +18895,87 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX85764DOG</g:id>
+      <g:item_group_id>15526182682999</g:item_group_id>
+      
+      <g:title>Christmas Pet Stockings - Dog</g:title>
+      <g:description>Don't let your furry family members miss out on Christmas morning with these Christmas Pet Stockings. Perfect for filling with treats, toys and surprises, these dog and cat stockings add a playful touch to your decorations. A fun way to include pets in the celebrations and make Christmas even more special.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-stockings-dog-and-cats?variant=57497026101623</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85764-Christmas-Pet-Stockings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786447168</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418740803</g:gtin>
+ 
+      <g:brand>Pet Parlour</g:brand>
+      <g:product_type>Christmas Stocking</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85764CAT</g:id>
+      <g:item_group_id>15526182682999</g:item_group_id>
+      
+      <g:title>Christmas Pet Stockings - Cat</g:title>
+      <g:description>Don't let your furry family members miss out on Christmas morning with these Christmas Pet Stockings. Perfect for filling with treats, toys and surprises, these dog and cat stockings add a playful touch to your decorations. A fun way to include pets in the celebrations and make Christmas even more special.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-stockings-dog-and-cats?variant=57497026134391</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85764-Christmas-Pet-Stockings-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786447168</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418740803</g:gtin>
+ 
+      <g:brand>Pet Parlour</g:brand>
+      <g:product_type>Christmas Stocking</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CW84430</g:id>
       <g:item_group_id>15106117009783</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -18839,7 +19103,7 @@ Lining 100% Cotton</g:material>
       <g:title>Christmas Pets Gift Bag - M</g:title>
       <g:description>Make gifting fun with this charming Christmas Pets Gift Bag, available in sizes medium to extra large. Its festive design adds a playful touch to your holiday presents, making every gift feel extra special and ready to surprise. Whether for small treats or larger treasures, this bag is a cheerful way to share joy this Christmas.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-pets-gift-bag-2026?variant=57393345429879</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85866-Christmas-Pets-Medium-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786464082</g:image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85866-Christmas-Pets-Medium-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791217910</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
@@ -19070,6 +19334,7 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -19112,11 +19377,52 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86066</g:id>
+      <g:item_group_id>15526183633271</g:item_group_id>
+      
+      <g:title>Christmas Pudding Napkins - 12 pack</g:title>
+      <g:description>Serve festive food and treats in style with these Christmas Pudding Napkins. Featuring a traditional Christmas pudding design, this pack of 12 is ideal for Christmas dinners, buffets and parties. Practical and decorative, they add festive charm to your table while helping create a welcoming atmosphere for family and friends.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-pudding-napkins-12-pack?variant=57360493117815</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86066-Christmas-Pudding-Napkins-Set-of-12-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786448118</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418633853</g:gtin>
+
+      <g:product_type>Napkins</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -19370,6 +19676,7 @@ Lining 100% Cotton</g:material>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -21295,9 +21602,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW85909</g:id>
       <g:item_group_id>15541694562679</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -22833,7 +23138,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85512</g:id>
       <g:item_group_id>15509515698551</g:item_group_id>
       
@@ -25428,6 +25735,7 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>20.5 cm </g:product_width>
       <g:product_height>15.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -25470,6 +25778,7 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>20.5 cm </g:product_width>
       <g:product_height>15.5 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -25597,6 +25906,7 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>12 cm </g:product_width>
       <g:product_height>12 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -25640,6 +25950,7 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>12 cm </g:product_width>
       <g:product_height>12 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -26677,6 +26988,7 @@ Ground Sheet: 100% Polyethylene
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -28008,6 +28320,7 @@ Backing: TPE
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -28691,6 +29004,7 @@ Backing: TPE
       <g:description>Add a touch festive fun to your Christmas display with this adorable sitting reindeer decoration. With its soft fabric finish, cute character design, and cosy seated pose, this charming reindeer is ready to bring a little magic to any room.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/fabric-reindeer-decoration?variant=57399251370359</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85803-Fabric-Reindeer-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788437482</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85803-Fabric-Reindeer-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193981</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
@@ -29044,6 +29358,7 @@ Backing: TPE
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -29529,6 +29844,179 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CX86057BROWN</g:id>
+      <g:item_group_id>15526183272823</g:item_group_id>
+      
+      <g:title>Fluffy Reindeer Decoration - Brown / Small</g:title>
+      <g:description>Bring a fun and festive touch to your home with this Fluffy Reindeer Decoration. Featuring a soft textured finish and charming reindeer design, it makes a delightful addition to shelves, side tables and mantel displays. Perfect for adding warmth and character to your Christmas decorations.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/fluffy-reindeer-decoration?variant=57369818825079</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193479</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193592</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418722397</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Brown</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>12 cm </g:product_width>
+      <g:product_height>13 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86056BROWN</g:id>
+      <g:item_group_id>15526183272823</g:item_group_id>
+      
+      <g:title>Fluffy Reindeer Decoration - Brown / Large</g:title>
+      <g:description>Bring a fun and festive touch to your home with this Fluffy Reindeer Decoration. Featuring a soft textured finish and charming reindeer design, it makes a delightful addition to shelves, side tables and mantel displays. Perfect for adding warmth and character to your Christmas decorations.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/fluffy-reindeer-decoration?variant=57369818890615</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193479</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193592</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418722380</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Brown</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>13 cm </g:product_width>
+      <g:product_height>16 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86057WHITE</g:id>
+      <g:item_group_id>15526183272823</g:item_group_id>
+      
+      <g:title>Fluffy Reindeer Decoration - White / Small</g:title>
+      <g:description>Bring a fun and festive touch to your home with this Fluffy Reindeer Decoration. Featuring a soft textured finish and charming reindeer design, it makes a delightful addition to shelves, side tables and mantel displays. Perfect for adding warmth and character to your Christmas decorations.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/fluffy-reindeer-decoration?variant=57369818857847</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193479</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193592</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418722397</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Brown</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>12 cm </g:product_width>
+      <g:product_height>13 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86056WHTIE</g:id>
+      <g:item_group_id>15526183272823</g:item_group_id>
+      
+      <g:title>Fluffy Reindeer Decoration - White / Large</g:title>
+      <g:description>Bring a fun and festive touch to your home with this Fluffy Reindeer Decoration. Featuring a soft textured finish and charming reindeer design, it makes a delightful addition to shelves, side tables and mantel displays. Perfect for adding warmth and character to your Christmas decorations.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/fluffy-reindeer-decoration?variant=57369818923383</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193479</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193592</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>7.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418722380</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Brown</g:color>
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>13 cm </g:product_width>
+      <g:product_height>16 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85948</g:id>
       <g:item_group_id>15517326377335</g:item_group_id>
       
@@ -29606,6 +30094,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -29650,6 +30139,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -31569,6 +32059,90 @@ LED
 
 	
     <item>
+      <g:id>CX85779GOLD</g:id>
+      <g:item_group_id>15541718352247</g:item_group_id>
+      
+      <g:title>Gold Tinsel Bauble</g:title>
+      <g:description>Bring a touch of golden glamour to your festive display with this sparkling Gold Tinsel Bauble Decoration. Featuring a glittering gold tinsel finish with shimmering silver accents, this eye-catching ornament catches the light beautifully from every angle.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gold-tinsel-bauble?variant=57435232698743</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85779GOLD-Tinsel-Baubles-Gold-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327346</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844476918</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Bauble</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85780</g:id>
+      <g:item_group_id>15541719466359</g:item_group_id>
+      
+      <g:title>Gold Tinsel Christmas Tree Decoration</g:title>
+      <g:description>Bring instant festive sparkle to your home with this Gold Tinsel Christmas Tree Decoration. Featuring shimmering gold tinsel branches, a matching gold pot, and a classic star topper, this charming tabletop tree is perfect for adding seasonal cheer to shelves, desks, mantelpieces, and side tables. Its compact size makes it ideal for smaller spaces, while the glittering finish catches the light beautifully to create a warm and festive display.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/gold-tinsel-christmas-tree-decoration?variant=57400744870263</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85780-Gold-Tinsel-Christmas-Tree-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790684949</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844411575</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+      <g:color>gold</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>12.2 cm </g:product_width>
+      <g:product_height>41.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD85579</g:id>
       <g:item_group_id>15520895828343</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -31602,6 +32176,7 @@ LED
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -31906,6 +32481,49 @@ LED
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85781</g:id>
+      <g:item_group_id>15541720416631</g:item_group_id>
+      
+      <g:title>Green Tinsel Christmas Tree Decoration</g:title>
+      <g:description>Bring instant festive sparkle to your home with this Green Tinsel Christmas Tree Decoration. Featuring shimmering green tinsel branches, a matching green pot, and a classic star topper, this charming tabletop tree is perfect for adding seasonal cheer to shelves, desks, mantelpieces, and side tables. Its compact size makes it ideal for smaller spaces, while the glittering finish catches the light beautifully to create a warm and festive display.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/tinsel-tree-green?variant=57400746606967</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85781-Green-Tinsel-Christmas-Tree-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790684938</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844428429</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_width>12.2 cm </g:product_width>
+      <g:product_height>41.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -32290,6 +32908,7 @@ LED
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -32333,6 +32952,7 @@ LED
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -37680,6 +38300,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>12 cm </g:product_width>
       <g:product_height>12 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -38462,9 +39083,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85836</g:id>
       <g:item_group_id>14670530052471</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -39087,6 +39706,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -39270,7 +39890,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX86033</g:id>
       <g:item_group_id>15523968811383</g:item_group_id>
       
@@ -39693,6 +40315,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -39780,6 +40403,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -40948,7 +41572,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83801-Mini-Hand-Warmers-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763051698</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -40970,7 +41594,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -40994,7 +41618,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83803-Mini-Hand-Warmers-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763051698</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -41016,7 +41640,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -41062,7 +41686,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -41086,7 +41710,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86158-Mini-Hand-Warmers-Taupe-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -41108,7 +41732,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -41152,7 +41776,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -41196,7 +41820,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Nougat</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -46962,6 +47586,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_length>15 cm </g:product_length>
       <g:product_width>15 cm </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -47140,6 +47765,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>12 cm </g:product_width>
       <g:product_height>12 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -47266,6 +47892,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -48964,6 +49591,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>12 cm </g:product_width>
       <g:product_height>12 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -49006,6 +49634,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>12 cm </g:product_width>
       <g:product_height>12 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -58283,9 +58912,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC38912</g:id>
       <g:item_group_id>9521154916669</g:item_group_id>
       <g:google_product_category>3509</g:google_product_category>
@@ -58552,6 +59179,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -58813,7 +59441,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW84466FALA</g:id>
       <g:item_group_id>9521164091709</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -59668,6 +60298,47 @@ LED
 
 	
     <item>
+      <g:id>CX85779RED</g:id>
+      <g:item_group_id>15566488830327</g:item_group_id>
+      
+      <g:title>Red Tinsel Bauble</g:title>
+      <g:description>Bring a touch of golden glamour to your festive display with this sparkling Red Tinsel Bauble Decoration. Featuring a glittering red tinsel finish with shimmering white accents, this eye-catching ornament catches the light beautifully from every angle.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/red-tinsel-bauble?variant=57512224063863</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85779RED-Tinsel-Baubles-Red-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327295</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844476918</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Bauble</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84396</g:id>
       <g:item_group_id>15106138046839</g:item_group_id>
       
@@ -60144,6 +60815,7 @@ LED
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -61290,6 +61962,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -61333,6 +62006,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -75876,6 +76550,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -75918,6 +76593,7 @@ Backing: 100% Polypropylene</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -76591,6 +77267,7 @@ Filling: Aggregate and Polyester fibre
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -76645,7 +77322,7 @@ Filling: Aggregate and Polyester fibre
     <item>
       <g:id>CD85603</g:id>
       <g:item_group_id>15520896942455</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Season's Bleatings 10 Welsh Bilingual Christmas Cards</g:title>
       <g:description>Send Nadolig Llawen and festive wishes with this fun-filled bilingual Welsh Christmas card, featuring a playful pyramid of sheep dressed for the celebrations. Complete with Santa hats, a festive scarf, and plenty of cheerful ‘bahs’, this quirky design is bursting with personality and humour.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Coated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/seasons-bleatings-10-welsh-bilingual-christmas-cards?variant=57337929466231</g:link>
@@ -76676,6 +77353,7 @@ Filling: Aggregate and Polyester fibre
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -79433,6 +80111,286 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
+      <g:id>CX86049</g:id>
+      <g:item_group_id>15526182912375</g:item_group_id>
+      
+      <g:title>Set of 4 Gold Taper Candles</g:title>
+      <g:description>Bring a luxurious touch to your Christmas decorations with this set of 4 gold taper candles. Their classic shape and eye-catching gold finish make them ideal for festive centrepieces, dining tables and mantel displays. Perfect for adding warmth and elegance to your Christmas celebrations.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-gold-taper-candles?variant=57360492396919</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86049-Gold-Taper-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193066</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434870</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86052</g:id>
+      <g:item_group_id>15526183076215</g:item_group_id>
+      
+      <g:title>Set of 4 Gold Twist Taper Candles</g:title>
+      <g:description>Bring contemporary elegance to your Christmas decorations with this set of 4 gold twist taper candles. Their distinctive twisted design and metallic gold finish make them ideal for festive table settings and decorative arrangements, adding a refined touch to your home.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-gold-twist-taper-candles?variant=57360492593527</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86052-Gold-Twist-Taper-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791192933</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434900</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86055</g:id>
+      <g:item_group_id>15526183240055</g:item_group_id>
+      
+      <g:title>Set of 4 Red Twist Taper Candles</g:title>
+      <g:description>Bring contemporary elegance to your Christmas decorations with this set of 4 red twist taper candles. Their distinctive twisted design and red finish make them ideal for festive table settings and decorative arrangements, adding a refined touch to your home.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-red-twist-taper-candles?variant=57360492757367</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86055-Red-Twist-Taper-Candles-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1791192313</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434955</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86051</g:id>
+      <g:item_group_id>15526183043447</g:item_group_id>
+      
+      <g:title>Set of 4 Silver Taper Candles</g:title>
+      <g:description>Add a touch of elegance to your Christmas décor with this set of 4 silver taper candles. Their classic design and shimmering metallic finish make them ideal for table centrepieces, mantelpieces and festive displays.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-silver-taper-candles?variant=57360492560759</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86051-Silver-Taper-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791192976</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434894</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86054</g:id>
+      <g:item_group_id>15526183174519</g:item_group_id>
+      
+      <g:title>Set of 4 Silver Twist Taper Candles</g:title>
+      <g:description>Bring contemporary elegance to your Christmas decorations with this set of 4 silver twist taper candles. Their distinctive twisted design and metallic silver finish make them ideal for festive table settings and decorative arrangements, adding a refined touch to your home.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-silver-twist-taper-candles?variant=57360492691831</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86054-Silver-Twist-Taper-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791192547</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434924</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86050</g:id>
+      <g:item_group_id>15526182945143</g:item_group_id>
+      
+      <g:title>Set of 4 White Taper Candles</g:title>
+      <g:description>Create a timeless festive display with this set of 4 white taper candles. Featuring a simple and elegant design, they are perfect for Christmas tables, candle holders and decorative arrangements. Their crisp white finish complements a wide range of Christmas themes while adding warmth and sophistication to your home.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-white-taper-candles?variant=57360492429687</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86050-White-Taper-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193027</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434887</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86053</g:id>
+      <g:item_group_id>15526183141751</g:item_group_id>
+      
+      <g:title>Set of 4 White Twist Taper Candles</g:title>
+      <g:description>Bring contemporary elegance to your Christmas decorations with this set of 4 white twist taper candles. Their distinctive twisted design and white finish make them ideal for festive table settings and decorative arrangements, adding a refined touch to your home.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-white-twist-taper-candles?variant=57360492659063</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86053-White-Twist-Taper-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791192882</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434917</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85711</g:id>
       <g:item_group_id>15391333253495</g:item_group_id>
       
@@ -79507,6 +80465,7 @@ Filling: Aggregate and Polyester fibre
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_length>15 cm </g:product_length>
       <g:product_width>15 cm </g:product_width>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -79550,6 +80509,7 @@ Filling: Aggregate and Polyester fibre
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -79592,6 +80552,7 @@ Filling: Aggregate and Polyester fibre
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -80807,6 +81768,7 @@ Filling: Aggregate and Polyester fibre
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -80850,6 +81812,7 @@ Filling: Aggregate and Polyester fibre
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -81316,6 +82279,47 @@ LED
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85779SILVER</g:id>
+      <g:item_group_id>15566489452919</g:item_group_id>
+      
+      <g:title>Silver Tinsel Bauble</g:title>
+      <g:description>Bring a touch of golden glamour to your festive display with this sparkling Silver Tinsel Bauble Decoration. Featuring a glittering silver tinsel finish with shimmering white accents, this eye-catching ornament catches the light beautifully from every angle.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/silver-tinsel-bauble?variant=57512225964407</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85779SILVER-Tinsel-Baubles-Silver-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790327267</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844476918</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Bauble</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -82031,6 +83035,7 @@ LED
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -82073,6 +83078,7 @@ LED
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -87296,6 +88302,7 @@ LED
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
@@ -88131,9 +89138,7 @@ LED
       <g:custom_label_2>Virtual Gifts Unrestricted</g:custom_label_2>
       <g:custom_label_4>Digital Products</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>VG86737</g:id>
       <g:item_group_id>15551268585847</g:item_group_id>
       
@@ -89401,7 +90406,9 @@ LED
       <g:custom_label_2>Bake Off</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU82404</g:id>
       <g:item_group_id>15351454237047</g:item_group_id>
       
@@ -90413,7 +91420,7 @@ LED
       <g:item_group_id>15454419485047</g:item_group_id>
       
       <g:title>Titch &amp; Humphrey Duo 24 Christmas Cards</g:title>
-      <g:description>Send a little festive magic (and a lot of cuteness) with this beautifully illustrated Christmas card pack, featuring two heart-melting designs full of character. Features  Pack of 24 cards with envelopes., Designs exclusive to Cancer Research UK., The message inside Titch the Tiny Mouse reads: “Wishing you a wonderful Christmas and a very happy New Year"., The message inside Humphrey Hare reads "Happy Christmas"., 15 x15 cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Send a little festive magic (and a lot of cuteness) with this beautifully illustrated Christmas card pack, featuring two heart-melting Christmas animal designs. Features  Pack of 24 cards with envelopes., Designs exclusive to Cancer Research UK., The message inside Titch the Tiny Mouse reads: “Wishing you a wonderful Christmas and a very happy New Year"., The message inside Humphrey Hare reads "Happy Christmas"., 15 x15 cm, posts as Royal Mail letter., Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/titch-humphrey-duo-24-pack-christmas-cards?variant=57005242450295</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83955-Titch-Humphrey-Duo-3Up-24-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776079947</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83907-Titch-the-Tiny-Mouse-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185415</g:additional_image_link>
@@ -94079,7 +95086,7 @@ Backing: TPE
     <item>
       <g:id>CD85594</g:id>
       <g:item_group_id>15520896647543</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Trimmed Up Tree 10/20 Christmas Cards - 10</g:title>
       <g:description>Send heartfelt Christmas wishes with this elegant contemporary Christmas card, featuring a beautifully decorated tree adorned with delicate baubles, shimmering garlands, and a radiant golden star.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trimmed-up-tree-10-20-christmas-cards?variant=57337929171319</g:link>
@@ -94110,6 +95117,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -94121,7 +95129,7 @@ Backing: TPE
     <item>
       <g:id>CD86083</g:id>
       <g:item_group_id>15520896647543</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Trimmed Up Tree 10/20 Christmas Cards - 20</g:title>
       <g:description>Send heartfelt Christmas wishes with this elegant contemporary Christmas card, featuring a beautifully decorated tree adorned with delicate baubles, shimmering garlands, and a radiant golden star.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trimmed-up-tree-10-20-christmas-cards?variant=57338969063799</g:link>
@@ -94152,6 +95160,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -98348,7 +99357,7 @@ Backing: TPE
     <item>
       <g:id>CD85595</g:id>
       <g:item_group_id>15520896680311</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Unexpected Visitor 10/20 Christmas Cards - 10</g:title>
       <g:description>Step into a magical Christmas Eve scene with this enchanting Christmas card, where a group of curious dogs gathers around the fireplace as Santa makes a sparkling surprise arrival. Surrounded by twinkling lights, festive stockings, beautifully wrapped gifts, and a decorated Christmas tree, the heart-warming scene captures the wonder and excitement of Christmas night  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/unexpected-visitor-10-20-christmas-cards?variant=57337929204087</g:link>
@@ -98380,6 +99389,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -98391,7 +99401,7 @@ Backing: TPE
     <item>
       <g:id>CD86076</g:id>
       <g:item_group_id>15520896680311</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Unexpected Visitor 10/20 Christmas Cards - 20</g:title>
       <g:description>Step into a magical Christmas Eve scene with this enchanting Christmas card, where a group of curious dogs gathers around the fireplace as Santa makes a sparkling surprise arrival. Surrounded by twinkling lights, festive stockings, beautifully wrapped gifts, and a decorated Christmas tree, the heart-warming scene captures the wonder and excitement of Christmas night  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/unexpected-visitor-10-20-christmas-cards?variant=57338934428023</g:link>
@@ -98423,6 +99433,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -98905,6 +99916,7 @@ Backing: TPE
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>170 mm </g:product_width>
       <g:product_height>120 mm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -99776,7 +100788,7 @@ Backing: TPE
     <item>
       <g:id>CD85596</g:id>
       <g:item_group_id>15520896713079</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Winston's Winter Woolies 10 Christmas Cards</g:title>
       <g:description>Send warm Christmas wishes with this adorable cat Christmas card, featuring Winston, a sweet ginger kitten, wrapped up in a cosy knitted hat and matching scarf. Against a softly falling snowy backdrop, the charming illustration captures the warmth, comfort, and gentle magic of Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winstons-winter-woolies-10-christmas-cards?variant=57337929236855</g:link>
@@ -99807,6 +100819,7 @@ Backing: TPE
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>120 mm </g:product_width>
       <g:product_height>120 mm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -99819,7 +100832,7 @@ Backing: TPE
     <item>
       <g:id>CD85597</g:id>
       <g:item_group_id>15520896745847</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Winter Bird Wreath 10 Christmas Cards</g:title>
       <g:description>Send Season’s Greetings with this elegant contemporary Christmas card, featuring a beautifully illustrated wreath adorned with winter foliage, pinecones, berries, and a charming collection of garden birds.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Season's Greetings , Gold foil highlights, Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-bird-wreath-10-christmas-cards?variant=57337929269623</g:link>
@@ -99850,6 +100863,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -99862,7 +100876,7 @@ Backing: TPE
     <item>
       <g:id>CD85598</g:id>
       <g:item_group_id>15520896778615</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Winter On The Farm 10 Christmas Cards</g:title>
       <g:description>Step into a charming countryside Christmas with this beautifully illustrated greeting card, capturing a peaceful snowy farm wrapped in winter magic.  As snowflakes drift softly through the air, a vintage green Land Rover rests beside a cosy cottage while sheep, loyal sheepdogs, and festive lights create a scene of warmth and wonder.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-on-the-farm-10-christmas-cards?variant=57337929302391</g:link>
@@ -99894,6 +100908,7 @@ Backing: TPE
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -99938,6 +100953,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -100235,7 +101251,7 @@ Backing: TPE
     <item>
       <g:id>CD85599</g:id>
       <g:item_group_id>15520896811383</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Winter Woodland Gathering 10/20 Christmas Cards - 10</g:title>
       <g:description>Step into an enchanting woodland wonderland with this beautifully illustrated Christmas card, where a gathering of forest friends comes together beneath softly falling snow. A curious fox, gentle badger, rabbit, hedgehog, squirrels, and robins surround a charming woodland cottage adorned with festive greenery and twinkling lights  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-woodland-gathering-10-20-christmas-cards?variant=57337929335159</g:link>
@@ -100266,6 +101282,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -100277,7 +101294,7 @@ Backing: TPE
     <item>
       <g:id>CD86084</g:id>
       <g:item_group_id>15520896811383</g:item_group_id>
-      
+      <g:google_product_category>95</g:google_product_category>
       <g:title>Winter Woodland Gathering 10/20 Christmas Cards - 20</g:title>
       <g:description>Step into an enchanting woodland wonderland with this beautifully illustrated Christmas card, where a gathering of forest friends comes together beneath softly falling snow. A curious fox, gentle badger, rabbit, hedgehog, squirrels, and robins surround a charming woodland cottage adorned with festive greenery and twinkling lights  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-woodland-gathering-10-20-christmas-cards?variant=57338549633399</g:link>
@@ -100308,6 +101325,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -100353,6 +101371,7 @@ Backing: TPE
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -100778,6 +101797,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -100820,6 +101840,7 @@ Backing: TPE
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
       <g:product_width>15 cm </g:product_width>
       <g:product_height>15 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
