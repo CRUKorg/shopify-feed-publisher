@@ -9333,49 +9333,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>BB84973GREEN</g:id>
-      <g:item_group_id>15449265865079</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Green Leopard Print Drawstring Travel Toiletries Bag</g:title>
-      <g:description>Travelling with toiletries and makeup can quickly become chaotic, so this spacious toiletries bag keeps everything in one place and easy to access. With built‑in compartments, elastic loops and zipped pockets, it keeps your beauty essentials neatly organised on the go. Contents not included.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-green-leopard-print-drawstring-travel-toiletries-bag?variant=56988997812599</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973GREEN-Leopard-Teal-Makeup-Bag-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774011363</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973-Inside-Makeup-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776248193</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973GREEN-Leopard-Teal-Makeup-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774011376</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247743</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
-      <g:color>green</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>BB84945</g:id>
       <g:item_group_id>15454961500535</g:item_group_id>
       
@@ -21596,7 +21553,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF79733</g:id>
       <g:item_group_id>9520802693437</g:item_group_id>
       <g:google_product_category>2781</g:google_product_category>
@@ -21636,9 +21595,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85740</g:id>
       <g:item_group_id>15405432635767</g:item_group_id>
       
@@ -33705,7 +33662,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/halloween-easy-wipe-clean-tablecloth?variant=57370926776695</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85283-Halloween-Tablecloth-Black-Cancer-Research-UK-Online-Shop_8b2c4c94-5164-47d5-b31f-e5b3470e5260_1024x1024.jpg?v=1786525255</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -33727,7 +33684,7 @@ LED
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tablecloth</g:product_type>
 
-      <g:color>Black</g:color>
+      <g:color>White</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -33769,7 +33726,7 @@ LED
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tablecloth</g:product_type>
 
-      <g:color>Black</g:color>
+      <g:color>White</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -34188,7 +34145,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/small-hanging-angels-decoration?variant=56763373126007</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83680-Pink-Angel-Hanging-Decoration-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373552</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -36821,90 +36778,6 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
-      <g:id>CR85121GREY</g:id>
-      <g:item_group_id>15477889958263</g:item_group_id>
-      
-      <g:title>Highland Cow Short Wellie Socks - Grey</g:title>
-      <g:description>When pulling on wellies, the right socks can make all the difference. These short socks are designed to sit comfortably inside wellington boots, adding a soft layer without extra bulk. Finished with a Highland cow design, they bring a touch of countryside charm to outdoor jobs, dog walks or muddy days out. Features:  1 pair ladies wellington socks, One size: 4-8, Available two different designs, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-short-wellie-socks?variant=57138824708471</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85121GREY-Highland-Cow-short-wellie-socks-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983343</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033326851218</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:color>Grey</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR85121BEIGE</g:id>
-      <g:item_group_id>15477889958263</g:item_group_id>
-      
-      <g:title>Highland Cow Short Wellie Socks - Beige</g:title>
-      <g:description>When pulling on wellies, the right socks can make all the difference. These short socks are designed to sit comfortably inside wellington boots, adding a soft layer without extra bulk. Finished with a Highland cow design, they bring a touch of countryside charm to outdoor jobs, dog walks or muddy days out. Features:  1 pair ladies wellington socks, One size: 4-8, Available two different designs, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-short-wellie-socks?variant=57138824741239</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85121BEIGE-Highland-Cow-short-wellie-socks-Beige-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983343</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CR85121BEIGE</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:color>Grey</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX86122</g:id>
       <g:item_group_id>15077054284151</g:item_group_id>
       
@@ -39302,7 +39175,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CD85581</g:id>
       <g:item_group_id>15520895893879</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -39393,9 +39268,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85734</g:id>
       <g:item_group_id>15405432865143</g:item_group_id>
       
@@ -40161,6 +40034,95 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85832RED</g:id>
+      <g:item_group_id>9520788799805</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Ladies Pack of 2 Christmas Socks - Dogs and Robin</g:title>
+      <g:description>Bring a little festive fun to your sock drawer with these charming ladies Christmas socks. Featuring two delightful designs in each set, one showcasing cheerful robins and festive sausage dogs, the other Christmassy flamingos and FAB ULE US text. Soft, comfortable and ideal for winter wear, they're a wonderful treat for yourself or a thoughtful gift for someone who loves Christmas. Features  One size: UK 4-7, Pack of 2 Festive Socks, Ideal Stocking Filler or Secret Santa Gift, Soft and Comfortable for Everyday Wear, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-pack-of-2-christmas-socks?variant=53481539010935</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85832-Ladies-Dogs-and-Robins-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791282531</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85832RED</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>75% cotton, 23% polyamide, 2% elastane</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85832BLACK</g:id>
+      <g:item_group_id>9520788799805</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Ladies Pack of 2 Christmas Socks - Flamingos and Fabulous</g:title>
+      <g:description>Bring a little festive fun to your sock drawer with these charming ladies Christmas socks. Featuring two delightful designs in each set, one showcasing cheerful robins and festive sausage dogs, the other Christmassy flamingos and FAB ULE US text. Soft, comfortable and ideal for winter wear, they're a wonderful treat for yourself or a thoughtful gift for someone who loves Christmas. Features  One size: UK 4-7, Pack of 2 Festive Socks, Ideal Stocking Filler or Secret Santa Gift, Soft and Comfortable for Everyday Wear, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/ladies-pack-of-2-christmas-socks?variant=53481539043703</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85832-Ladies-Fabulous-Flamingos-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791282563</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85832BLACK</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>female</g:gender>
+      <g:material>75% cotton, 23% polyamide, 2% elastane</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -41013,6 +40975,92 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX76460</g:id>
+      <g:item_group_id>14671901720951</g:item_group_id>
+      
+      <g:title>LED Candle with Drip Effect</g:title>
+      <g:description>Bring a warm, nostalgic glow to your home with this traditional-style LED candle. Designed to resemble a classic wax taper, it features a flickering flame effect and elegant drip detailing. Crafted from clear acrylic, it offers timeless charm and safe, flameless ambience—perfect for festive displays or year-round décor.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/led-candles-with-drip-effect?variant=53486086652279</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76460-LED-Acrylic-Drip-Effect-Candle-Pack-of-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682904</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81126-Berry-Pinecone-Wreath-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682944</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418503965</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>4.8 cm </g:product_length>
+      <g:product_width>4.8 cm </g:product_width>
+      <g:product_height>10 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX81284</g:id>
+      <g:item_group_id>15090028478839</g:item_group_id>
+      
+      <g:title>LED Lantern</g:title>
+      <g:description>Infuse your home with classic charm using this ornate LED lantern. Crafted from clear plastic with intricate detailing, it mimics the gentle flicker of candlelight. The warm glow evokes traditional festive warmth, perfect for hanging or tabletop displays steeped in seasonal heritage.  This product is 4 cm x 4cm x 9.5 cm., Batteries included., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/led-lantern?variant=55604443382135</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81284-Acrylic-LED-Lantern-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756226876</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81284-Acrylic-LED-Lantern-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756226876</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418590651</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% PS</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -44795,6 +44843,97 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85833CARS</g:id>
+      <g:item_group_id>9520789455165</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Men's Pack of 2 Christmas Socks - Cars and Tis the Season</g:title>
+      <g:description>Bring a little extra comfort to cold winter mornings with these festive men's Christmas socks. Whether you're opening presents on Christmas Day, relaxing by the fire, or tackling the annual family board game marathon, these cosy socks are made to keep your feet feeling warm and comfortable throughout winter.  Features  One size: UK 6-11, Pack of 2 Festive Socks, Ideal Stocking Filler or Secret Santa Gift, Soft and Comfortable for Everyday Wear, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mens-pack-of-2-christmas-socks?variant=53481522102647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85833-Mens-Cars-and-Stripes-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791283474</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85833-Mens-Striped-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791283513</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85833CARS</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>75% cotton, 23% polyamide, 2% elastane</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85833GREEN</g:id>
+      <g:item_group_id>9520789455165</g:item_group_id>
+      <g:google_product_category>209</g:google_product_category>
+      <g:title>Men's Pack of 2 Christmas Socks - Classic Stripes</g:title>
+      <g:description>Bring a little extra comfort to cold winter mornings with these festive men's Christmas socks. Whether you're opening presents on Christmas Day, relaxing by the fire, or tackling the annual family board game marathon, these cosy socks are made to keep your feet feeling warm and comfortable throughout winter.  Features  One size: UK 6-11, Pack of 2 Festive Socks, Ideal Stocking Filler or Secret Santa Gift, Soft and Comfortable for Everyday Wear, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mens-pack-of-2-christmas-socks?variant=53481522135415</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85833-Mens-Cars-and-Stripes-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791283474</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85833-Mens-Striped-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791283513</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85833GREEN</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Socks</g:product_type>
+
+      <g:size>3</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>75% cotton, 23% polyamide, 2% elastane</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -56737,9 +56876,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80511</g:id>
       <g:item_group_id>9522285510973</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -57165,7 +57302,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC30386</g:id>
       <g:item_group_id>9521145184573</g:item_group_id>
       <g:google_product_category>187</g:google_product_category>
@@ -78683,6 +78822,50 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
+      <g:id>CX86117</g:id>
+      <g:item_group_id>15519192514935</g:item_group_id>
+      
+      <g:title>Scruffy Mutt Doorstop</g:title>
+      <g:description>Bring a little festive puppy charm to your home with this adorable fluffy dog doorstop. With its super-soft grey fur, floppy ears and sweet button nose, this cuddly companion is always on guard.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/scruffy-mutt-doorstop?variant=57321553330551</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86117-Scruffy-Mutt-Doorstop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253331</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Doorstop</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Cover: 100% Polyester
+Filling: Aggregate and Polyester fibre
+</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR85560</g:id>
       <g:item_group_id>15509501215095</g:item_group_id>
       
@@ -81472,6 +81655,46 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
+      <g:id>CX86059</g:id>
+      <g:item_group_id>15526183403895</g:item_group_id>
+      
+      <g:title>Set of 4 Dark Red Taper Candles</g:title>
+      <g:description>Bring timeless festive style to your home with this set of 4 red taper candles. Ideal for candle holders, table displays and Christmas centrepieces, these wonderful candles add a touch of traditional elegance.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-dark-red-taper-candles?variant=57360492921207</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86059-Red-Taper-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791537461</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434931</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR79697</g:id>
       <g:item_group_id>9521260691773</g:item_group_id>
       <g:google_product_category>583</g:google_product_category>
@@ -81582,6 +81805,46 @@ Filling: Aggregate and Polyester fibre
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5024418434900</g:gtin>
+
+      <g:product_type>Candle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86060</g:id>
+      <g:item_group_id>15526183436663</g:item_group_id>
+      
+      <g:title>Set of 4 Red Taper Candles</g:title>
+      <g:description>Bring timeless festive style to your home with this set of 4 red taper candles. Ideal for candle holders, table displays and Christmas centrepieces, they add a touch of traditional elegance.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/set-of-4-red-taper-candles?variant=57360492953975</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86060-Red-Taper-Candles-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791537730</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418434948</g:gtin>
 
       <g:product_type>Candle</g:product_type>
 
@@ -88260,9 +88523,7 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85716</g:id>
       <g:item_group_id>15391332925815</g:item_group_id>
       
@@ -89077,7 +89338,9 @@ LED
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW31909</g:id>
       <g:item_group_id>9521335599421</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -103267,6 +103530,47 @@ Backing: TPE
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84280</g:id>
+      <g:item_group_id>15087278260599</g:item_group_id>
+      
+      <g:title>Woodland Treehouse 500-Piece Jigsaw Puzzle</g:title>
+      <g:description>Escape into a magical winter scene with the Woodland Treehouse Jigsaw. This 500-piece puzzle (61 x 46 cm) features a cosy treehouse nestled in a snowy forest, complete with festive décor and charming woodland animals. Ideal for ages 10+, it's perfect for family fun or a thoughtful seasonal gift. Features:  500-piece Woodland Treehouse design jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK ,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/woodland-treehouse-500-piece-jigsaw-puzzle?variant=55594039279991</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84280-Woodland-Treehouse-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185388</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>5.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5056238558863</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Puzzle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
