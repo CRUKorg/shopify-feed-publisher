@@ -14792,7 +14792,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262738</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262739</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.99 GBP</g:price>
 
       <g:shipping>
@@ -15269,7 +15269,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262738</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW37614-Cancer-Research-UK-Post-Surgery-Mastectomy-Bra-Blush-2025-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753262739</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>28.99 GBP</g:price>
 
       <g:shipping>
@@ -29546,7 +29546,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81530-Foldable-Handy-Cart-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738855082</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR81530-Foldable-Handy-Cart-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738855082</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>59.99 GBP</g:price>
       <g:sale_price>49.99 GBP</g:sale_price>
 
@@ -33132,49 +33132,6 @@ LED
       <g:size_system>UK</g:size_system>
       <g:product_width>11.5 cm </g:product_width>
       <g:product_height>21 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR85066</g:id>
-      <g:item_group_id>15459991683447</g:item_group_id>
-      
-      <g:title>Green Bee Cooler Bag</g:title>
-      <g:description>Keep drinks and snacks cool during warm summer days with this handy cool bag, designed for easy days outdoors. The sweet bee print adds a fun, summer touch, while the practical shape makes it simple to pack for picnics, beach trips or days out. Features:  Aluminium foil lined with foam insulation and a polyester outer, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/green-bee-striped-coolbag?variant=57024764936567</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85066-Green-Bee-Small-Cooler-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776681459</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247910</g:gtin>
-
-      <g:product_type>Coolbags</g:product_type>
-      <g:color>green</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>20 cm </g:product_length>
-      <g:product_width>20 cm </g:product_width>
-      <g:product_height>17 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -39268,7 +39225,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85734</g:id>
       <g:item_group_id>15405432865143</g:item_group_id>
       
@@ -39314,9 +39273,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR84931</g:id>
       <g:item_group_id>15521270235511</g:item_group_id>
       
@@ -46348,7 +46305,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-baby-soothing-moisturiser?variant=49421984366909</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82395-MooGoo-Soothing_20Moisturiser_20Nut_20Oil_20Free-120g-Cancer-Rsearch-UK-Online-Shop_0_1024x1024.jpg?v=1727361395</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.50 GBP</g:price>
 
       <g:shipping>
@@ -46556,7 +46513,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-creamy-hydrating-face-cleanser?variant=49004028231997</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42333-MooGoo-Creamy-Hydrating-Face-Cleanser-1-Cancer-Research-UK-Online-Shop_1f55bfbf-b166-4e5b-9017-72adca8d4715_1024x1024.jpg?v=1719230298</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>11.99 GBP</g:price>
 
       <g:shipping>
@@ -48272,7 +48229,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Cream</g:product_type>
 
-<g:size>120g</g:size>
+<g:size>200g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -48290,7 +48247,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-skin-milk-udder-cream?variant=55305216622967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84657-MooGoo-Skin-Milk-Udder-Cream-120g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749653629</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -48312,7 +48269,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>MooGoo</g:brand>
       <g:product_type>Cream</g:product_type>
 
-<g:size>120g</g:size>
+<g:size>200g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -48371,7 +48328,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-soothing-msm-moisturiser?variant=55305243754871</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84658-MooGoo-Soothing-MSM-Moisturiser-120g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749653971</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.49 GBP</g:price>
 
       <g:shipping>
@@ -56876,7 +56833,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80511</g:id>
       <g:item_group_id>9522285510973</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -56973,9 +56932,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80386</g:id>
       <g:item_group_id>9522285642045</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -75966,7 +75923,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608657271</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -88523,7 +88480,9 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85716</g:id>
       <g:item_group_id>15391332925815</g:item_group_id>
       
@@ -88566,9 +88525,7 @@ LED
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW85919</g:id>
       <g:item_group_id>15523690054007</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
