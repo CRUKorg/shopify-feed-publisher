@@ -5746,7 +5746,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/betty-the-border-terrier-small-tray?variant=55599665447287</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84546-Betty-the-Border-Terrier-Small-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1768495512</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -10055,48 +10055,6 @@ Ground sheet: 100% Polyethylene
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Travel Accessories</g:product_type>
-      <g:color>pink</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>BB84972PINK</g:id>
-      <g:item_group_id>15454960353655</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Pink Leopard Print Storage Bag</g:title>
-      <g:description>Take some Deborah James inspiration wherever you go with this vibrant pink storage bag, designed to bring both positivity and practicality to everyday organisation. Whether you’re sorting daily essentials, carrying lunch on the go or transporting books, this versatile storage solution is made to fit seamlessly into busy, on‑the‑move lifestyles.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-pink-leopard-print-storage-bag?variant=57007283274103</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84972PINK-Leopard-Pink-Storage-Bag-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776241086</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84972PINK-Storage-Bag-Leopard-Pink-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776241086</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247736</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
       <g:color>pink</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -21595,7 +21553,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85740</g:id>
       <g:item_group_id>15405432635767</g:item_group_id>
       
@@ -21640,9 +21600,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR84933CRAB</g:id>
       <g:item_group_id>15363566928247</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -22963,7 +22921,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85488-Dutch-Tulip-354-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585327</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85489-Mossy-Meadow-398-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585327</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.29 GBP</g:price>
 
       <g:shipping>
@@ -31356,49 +31314,6 @@ Backing: TPE
 
 	
     <item>
-      <g:id>SN85339</g:id>
-      <g:item_group_id>15088088187255</g:item_group_id>
-      
-      <g:title>Ghost Hand Soap Dispenser</g:title>
-      <g:description>Make handwashing fun this Halloween with this playful Ghost Soap Dispenser filled with a spiced pumpkin scent soap. Featuring a spooky seasonal design, it’s perfect for encouraging kids to keep clean. Durable, easy to refill, this makes an ideal bathroom or kitchen addition. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/ghost-hand-soap-dispenser?variant=55596181455223</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83407-Ghost-Hand-Soap-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755117548</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Ghost-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755789655</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-2025-Soap-Group-2048x2048-Cancer-Research-UK-Online-Shop_9f5ec276-5adf-4310-a4f1-c70124c436e4_1024x1024.jpg?v=1755789711</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5063322189469</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Soap Dispensers</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CW81785PUDDING</g:id>
       <g:item_group_id>14670532706679</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -33611,15 +33526,15 @@ LED
 
 	
     <item>
-      <g:id>SN85283B</g:id>
+      <g:id>SN85283W</g:id>
       <g:item_group_id>15528719810935</g:item_group_id>
       
-      <g:title>Halloween Easy Wipe-Clean Tablecloth - Black</g:title>
+      <g:title>Halloween Easy Wipe-Clean Tablecloth - White</g:title>
       <g:description>Durable and easy to clean, these Halloween indoor/outdoor tablecloths are perfect for spooky picnics, haunted house parties, and frightfully fun family gatherings. Suitable for rectangular tables with 4-6 place settings, these flannel-backed tablecloths helps protect surfaces from spills and scratches. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-easy-wipe-clean-tablecloth?variant=57370926776695</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85283-Halloween-Tablecloth-Black-Cancer-Research-UK-Online-Shop_8b2c4c94-5164-47d5-b31f-e5b3470e5260_1024x1024.jpg?v=1786525255</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/halloween-easy-wipe-clean-tablecloth?variant=57370926743927</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85283-Halloween-Tablecloth-White-Cancer-Research-UK-Online-Shop_e3812ec0-6a09-438c-9ec0-5b5775ea006a_1024x1024.jpg?v=1786525254</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -33653,15 +33568,15 @@ LED
     </item>
 	
     <item>
-      <g:id>SN85283W</g:id>
+      <g:id>SN85283B</g:id>
       <g:item_group_id>15528719810935</g:item_group_id>
       
-      <g:title>Halloween Easy Wipe-Clean Tablecloth - White</g:title>
+      <g:title>Halloween Easy Wipe-Clean Tablecloth - Black</g:title>
       <g:description>Durable and easy to clean, these Halloween indoor/outdoor tablecloths are perfect for spooky picnics, haunted house parties, and frightfully fun family gatherings. Suitable for rectangular tables with 4-6 place settings, these flannel-backed tablecloths helps protect surfaces from spills and scratches. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-easy-wipe-clean-tablecloth?variant=57370926743927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85283-Halloween-Tablecloth-White-Cancer-Research-UK-Online-Shop_e3812ec0-6a09-438c-9ec0-5b5775ea006a_1024x1024.jpg?v=1786525254</g:image_link>
+      <g:link>https://shop.cancerresearchuk.org/products/halloween-easy-wipe-clean-tablecloth?variant=57370926776695</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85283-Halloween-Tablecloth-Black-Cancer-Research-UK-Online-Shop_8b2c4c94-5164-47d5-b31f-e5b3470e5260_1024x1024.jpg?v=1786525255</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -33882,7 +33797,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/small-hanging-angels-decoration?variant=55680305889655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83680-Grey-Angel-Hanging-Decoration-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373562</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -33926,7 +33841,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/small-hanging-angels-decoration?variant=56763373158775</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83680-Grey-Angel-Hanging-Decoration-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756373562</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -35548,47 +35463,6 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR85090</g:id>
-      <g:item_group_id>15477889892727</g:item_group_id>
-      
-      <g:title>Highland Cow Ankle Socks</g:title>
-      <g:description>Everyday socks should feel comfortable while adding a little personality to your outfit. These ankle socks are ideal for daily wear, sitting neatly with trainers or casual shoes. Finished with a Highland cow design, they bring subtle country charm without being over the top. Features  Size UK 4-8, Pack of 3, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-ankle-socks?variant=57087323275639</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85090-Highland-Cow-Ankle-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1779983342</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033326850907</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -39273,7 +39147,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR84931</g:id>
       <g:item_group_id>15521270235511</g:item_group_id>
       
@@ -39459,9 +39335,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR84926</g:id>
       <g:item_group_id>15521271873911</g:item_group_id>
       
@@ -56932,7 +56806,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80386</g:id>
       <g:item_group_id>9522285642045</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -58387,9 +58263,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80343</g:id>
       <g:item_group_id>9522285805885</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -86398,7 +86272,7 @@ LED
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85289-Spider-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85289-Spider-Ear-Muffs-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961370</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -88525,7 +88399,9 @@ LED
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85919</g:id>
       <g:item_group_id>15523690054007</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -89251,9 +89127,7 @@ LED
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85691</g:id>
       <g:item_group_id>9521333469501</g:item_group_id>
       <g:google_product_category>543543</g:google_product_category>
@@ -103243,7 +103117,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81274-Joy-To-The-World-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1771247479</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81276-Woodbridge-Large-Jar-Candle-AI-Lifestyle-Image-Cancer-Research-Online-Shop_1024x1024.jpg?v=1771247479</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -103500,7 +103374,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/woodland-treehouse-500-piece-jigsaw-puzzle?variant=55594039279991</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84280-Woodland-Treehouse-FSC-Jigsaw-Puzzle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185388</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
