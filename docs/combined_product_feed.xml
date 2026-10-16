@@ -19,7 +19,7 @@
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83457-Battery-Operated-10-Colour-Changing-Ghost-Lights-Blue-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756814075</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN83457-Battery-Operated-10-Colour-Changing-Ghost-Lights-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756814090</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -5397,7 +5397,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/betty-and-jake-draught-excluder?variant=55594624844151</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84557-Winter-Dogs-Draught-Excluder_1024x1024.jpg?v=1762509272</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>7.49 GBP</g:price>
       <g:sale_price>4.49 GBP</g:sale_price>
 
@@ -7323,6 +7323,47 @@ Ground sheet: 100% Polyethylene
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_3>Own Brand</g:custom_label_3>
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>SN85339</g:id>
+      <g:item_group_id>15088088187255</g:item_group_id>
+      
+      <g:title>Boo Hand Soap Dispenser</g:title>
+      <g:description>Make handwashing fun this Halloween with this playful Boo Pumpkin Soap Dispenser filled with a spiced pumpkin scent soap. Featuring a spooky seasonal design, it’s perfect for encouraging kids to keep clean. Durable, easy to refill, this makes an ideal bathroom or kitchen addition. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/boo-hand-soap-dispenser?variant=55596181455223</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85339-Boo-Soap-500ml-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792055513</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322189469</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Soap Dispensers</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -11043,7 +11084,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15087266267511</g:item_group_id>
       
       <g:title>Cancer Research UK 2027 Square Calendar</g:title>
-      <g:description>Stay organised throughout 2027 with this square calendar, designed to hang easily on any wall. It offers dedicated spaces for writing appointments and special dates, helping you keep track of important moments with ease and clarity. Perfect for planning ahead while adding a practical touch to your home or office. Features:  Illustrations by Bev Ibbotson, Square month to view hanging calendar with drilled hole for hanging on a pin or nail. , All notable UK dates are included., Space provided on each date to write appointments and special dates., </g:description>
+      <g:description>Stay organised throughout 2027 with this square calendar, designed to hang easily on any wall. It offers dedicated spaces for writing appointments and special dates, helping you keep track of important moments with ease and clarity. Perfect for planning ahead while adding a practical touch to your home or office. Features:  Illustrations by Bev Ibbotson., Month to view hanging calendar with drilled hole for hanging on a pin or nail. , All notable UK dates are included., Space provided on each date to write appointments and special dates., Unfolds to 30 x 60cm when displayed., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-square-calendar?variant=55594017751415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85612-Bev-Ibbotson-2027-Square-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85612-Bev-Ibbotson-2027-Square-Calendar-Inside-Month-to-View-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788876506</g:additional_image_link>
@@ -17742,6 +17783,48 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id />
+      <g:item_group_id>15177335374199</g:item_group_id>
+      
+      <g:title>Christmas Character Mugs Bundle</g:title>
+      <g:description>Stock up your cupboards and bring a little winter charm to every tea break with this delightful bundle of 5 fine china mugs. Perfect for cosy mornings and afternoon brews, this bundle makes a wonderful gift for loved ones or a charming addition to your own kitchen. This bundle of 5 fine china mugs features one of each of our exclusive designs:  Hector the Heffer, Purrkins the Tabby, Robin Choir, Scamp the Scruffy Mutt, Theo the Mouse,  Each breakfast mug measures approximately 13x10cm.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-character-mugs-bundle?variant=55943344324983</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-Character-Mug-Bundle-2026-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791978537</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>22.29 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn />
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84376</g:id>
       <g:item_group_id>15128260510071</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
@@ -21511,9 +21594,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>WF79733</g:id>
       <g:item_group_id>9520802693437</g:item_group_id>
       <g:google_product_category>2781</g:google_product_category>
@@ -21600,7 +21681,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR84933CRAB</g:id>
       <g:item_group_id>15363566928247</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -33611,6 +33694,99 @@ LED
 
 	
     <item>
+      <g:id>SN85347PURPLE</g:id>
+      <g:item_group_id>15533574586743</g:item_group_id>
+      
+      <g:title>Halloween Flashing Watch - Purple</g:title>
+      <g:description>Light up Halloween celebrations with these colourful flashing watches, available in spooky orange and purple designs. Featuring a bright LED flashing light effect, they're perfect for trick-or-treating, party bags, classroom rewards and Halloween events. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/halloween-flash-watch?variant=57387457347959</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-3-Flashing-Halloween-Watch-Purple-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907514</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-1-Flashing-Halloween-Watch-Purple-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907516</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-2-Flashing-Halloween-Watch-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907518</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-Flashing-Halloween-Watch-Orange-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788262682</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-Flashing-Halloween-Watch-Orange-and-Purple-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788262682</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-Flashing-Halloween-Watch-Purple-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788262682</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844463895</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Purple</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>SN85347ORANGE</g:id>
+      <g:item_group_id>15533574586743</g:item_group_id>
+      
+      <g:title>Halloween Flashing Watch - Orange</g:title>
+      <g:description>Light up Halloween celebrations with these colourful flashing watches, available in spooky orange and purple designs. Featuring a bright LED flashing light effect, they're perfect for trick-or-treating, party bags, classroom rewards and Halloween events. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/halloween-flash-watch?variant=57387457380727</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-4-Flashing-Halloween-Watch-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907513</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-1-Flashing-Halloween-Watch-Purple-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907516</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-2-Flashing-Halloween-Watch-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907518</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-Flashing-Halloween-Watch-Orange-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788262682</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-Flashing-Halloween-Watch-Orange-and-Purple-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788262682</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-Flashing-Halloween-Watch-Purple-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788262682</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844463895</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Halloween Decorations</g:product_type>
+
+      <g:color>Purple</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD85580</g:id>
       <g:item_group_id>15520895861111</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -35286,6 +35462,48 @@ Inner Lining: 100% Polypropylene
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Fine China</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id />
+      <g:item_group_id>15568445210999</g:item_group_id>
+      
+      <g:title>Hector the Heffer Teatime Bundle</g:title>
+      <g:description>Gather the herd, pop the kettle on and enjoy a cosy moment with this Highland Cow Teatime Bundle. This wonderful set includes a fine china breakfast mug, ceramic coaster and teabag tidy. Each piece features our exclusive Highland Cow design, bringing a little countryside charm to every tea break.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-highland-cow-teatime-bundle?variant=57517053444471</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Hector-the-Highland-Cow-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791977763</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.79 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn />
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -39099,9 +39317,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85734</g:id>
       <g:item_group_id>15405432865143</g:item_group_id>
       
@@ -39166,7 +39382,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84931-Dinosaur-Kids-Case-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785408322</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84931-Dinosaur-Kids-Case-Pink-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785408322</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -39189,7 +39405,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Luggage</g:product_type>
 
-      <g:color>Pink</g:color>
+      <g:color>Blue</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -39239,7 +39455,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Luggage</g:product_type>
 
-      <g:color>Pink</g:color>
+      <g:color>Blue</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -39335,7 +39551,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR84926</g:id>
       <g:item_group_id>15521271873911</g:item_group_id>
       
@@ -41010,6 +41228,88 @@ Backing: 100% Polypropylene</g:material>
       <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85761SNOW</g:id>
+      <g:item_group_id>15526182879607</g:item_group_id>
+      
+      <g:title>LED Star and Snowflake Lights - Pack of 2 - Snowflake</g:title>
+      <g:description>Brighten up your home with these charming LED Star and Snowflake Tealight Decorations. Perfect for adding a warm festive glow to windowsills, shelves, mantelpieces and Christmas displays, these delightful light-up accents bring a touch of winter magic to any room.  Packs of 2 (2 Snowflakes or 2 Stars), Soft LED illumination, Ideal for shelves, windows and festive displays, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mixed-cdu-of-star-and-snowflake-led-lights?variant=57557129331063</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85761-Snowflake-Lights-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792059693</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85761-Mixed-Star-and-Snowflake-Lights-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786447168</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.98 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418740742</g:gtin>
+
+      <g:product_type>Christmas Lights</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85761STAR</g:id>
+      <g:item_group_id>15526182879607</g:item_group_id>
+      
+      <g:title>LED Star and Snowflake Lights - Pack of 2 - Star</g:title>
+      <g:description>Brighten up your home with these charming LED Star and Snowflake Tealight Decorations. Perfect for adding a warm festive glow to windowsills, shelves, mantelpieces and Christmas displays, these delightful light-up accents bring a touch of winter magic to any room.  Packs of 2 (2 Snowflakes or 2 Stars), Soft LED illumination, Ideal for shelves, windows and festive displays, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mixed-cdu-of-star-and-snowflake-led-lights?variant=57557129363831</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85761-Star-Lights-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792059693</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85761-Mixed-Star-and-Snowflake-Lights-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786447168</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.98 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX85761STAR</g:mpn>
+
+      <g:product_type>Christmas Lights</g:product_type>
+
+      <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -48375,7 +48675,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-soothing-msm-moisturiser?variant=55305243722103</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42325-MooGoo-Soothing-MSM-Moisturiser-200g-3-Cancer-Research-UK-Online-Shop_856e4f38-0c78-499d-b345-1dd0d497ad21_1024x1024.jpg?v=1719230356</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>16.49 GBP</g:price>
 
       <g:shipping>
@@ -56037,6 +56337,48 @@ Blue: 80% polyester/20% cotton/with velcro fastening
 
 	
     <item>
+      <g:id />
+      <g:item_group_id>15568516088183</g:item_group_id>
+      
+      <g:title>Purrkins the Tabby Teatime Bundle</g:title>
+      <g:description>Take a paws for a well-earned tea break with this Tabby Cat Teatime Bundle. This wonderful set includes a breakfast mug, set of four coasters and a teabag tidy, with each piece features our exclusive tabby cat design, bringing a cosy dose of feline charm to every brew.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-cat-teatime-bundle?variant=57517172294007</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Purrkins-the-Tabby-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791977789</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.29 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn />
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85623</g:id>
       <g:item_group_id>15552117244279</g:item_group_id>
       
@@ -56263,9 +56605,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80495</g:id>
       <g:item_group_id>9521140498749</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -57348,7 +57688,9 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC30386</g:id>
       <g:item_group_id>9521145184573</g:item_group_id>
       <g:google_product_category>187</g:google_product_category>
@@ -63174,6 +63516,48 @@ Inner Lining: 100% Polypropylene
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Fine China</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84889TeaRobin</g:id>
+      <g:item_group_id>15181823672695</g:item_group_id>
+      
+      <g:title>Robin Choir Teatime Bundle</g:title>
+      <g:description>Take a moment to perch, pour and unwind with this Robin Choir Teatime Bundle. Including a breakfast mug, ceramic coaster and teabag tidy, each piece features our exclusive Ralph Robin &amp; Family design, bringing a little festive charm to every tea break. Items also sold separately along with other co-ordinating products. Enjoying our Robin character? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-robin-teatime-bundle?variant=55954950586743</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Robin-Choir-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791978181</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.79 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX84889TeaRobin</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -75875,7 +76259,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608558967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -78653,6 +79037,48 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
+      <g:id />
+      <g:item_group_id>15568529457527</g:item_group_id>
+      
+      <g:title>Scamp the Scruffy Mutt Teatime Bundle</g:title>
+      <g:description>Take the lead on a cosy tea break with this Scamp the Scruffy Mutt Teatime Bundle. This marvellous bundle includes a ceramic breakfast mug, set of four coasters and a teabag tidy. Perfect for relaxing after a busy day, enjoying a morning coffee or settling down with an afternoon cuppa, this delightful set adds warmth, character and a little canine cheer to your kitchen.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/scamp-the-scruffy-mutt-teatime-bundle?variant=57517196476791</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Scamp-the-Scruffy-Mutt-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791977805</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>9.29 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn />
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85624</g:id>
       <g:item_group_id>15552117277047</g:item_group_id>
       
@@ -79383,7 +79809,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84303-Serenity-Balance-Wax-Melts-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754054430</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84303-Serenity-Balance-Wax-Melts-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754054430</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -87443,9 +87869,7 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>VFSU2CSOCKM</g:id>
       <g:item_group_id>9521309712701</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -88653,7 +89077,9 @@ LED
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR82851YELLOW</g:id>
       <g:item_group_id>9521331667261</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -92968,6 +93394,48 @@ LED
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Fine China</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX84889TeaMouse</g:id>
+      <g:item_group_id>15185208213879</g:item_group_id>
+      
+      <g:title>Theo the Mouse Teatime Bundle</g:title>
+      <g:description>Take a break from the hustle and enjoy a little teatime magic with this Theo the Mouse Teatime Bundle. This sweet bundle includes a fine china breakfast mug, ceramic coaster and teabag tidy. Each piece features our exclusive Theo the Mouse design, bringing a cosy touch of festive charm to every brew. Scurry down the hole and discover the rest of our sweet mouse decorations, homewares and gifts.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-mouse-teatime-bundle?variant=55962561642871</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Theo-the-Mouse-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791977985</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.79 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX84889TeaMouse</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bundle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
