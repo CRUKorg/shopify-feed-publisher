@@ -1753,6 +1753,8 @@ PINEWOOD
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
+      <g:product_length>5 cm </g:product_length>
+      <g:product_width>42 cm </g:product_width>
       <g:product_height>42 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
@@ -26345,6 +26347,90 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX85823</g:id>
+      <g:item_group_id>15552116982135</g:item_group_id>
+      
+      <g:title>Dancing Christmas Tree with Music</g:title>
+      <g:description>Rock around the Christmas tree with this jolly dancing decoration! Complete with festive music and playful moves, this merry tree is guaranteed to spread smiles and keep everyone entertained throughout Christmas. Features  Animated Christmas decoration, Press button to play Rocking Around the Christmas Tree, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/dancing-christmas-tree-with-music?variant=57442380087671</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85823-Dancing-Christmas-Tree-with-Music-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053705</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85823-Dancing-Christmas-Tree-with-Music-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791304999</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858236</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decoration</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85824</g:id>
+      <g:item_group_id>15552117014903</g:item_group_id>
+      
+      <g:title>Dancing Dog with Music</g:title>
+      <g:description>Get tails wagging this Christmas with this adorable dancing dog decoration! Press play and watch as this festive pup dances along to cheerful tunes, bringing fun, laughter and plenty of personality to your celebrations. Features  Animated Christmas decoration, Press button to play Christmas Party, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/dancing-dog-with-music?variant=57442380120439</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85824-Dancing-Dog-with-Music-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053696</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85824-Dancing-Dog-with-Music-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791304800</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858243</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD85574</g:id>
       <g:item_group_id>15062462169463</g:item_group_id>
       
@@ -29543,7 +29629,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW86504-Evenly-Subtle-Shaper-Presentation-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780480241</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Subtle-Shaper-Bra-Inserts-Size-Chart-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1781796946</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>29.00 GBP</g:price>
 
       <g:shipping>
@@ -33697,9 +33783,9 @@ LED
       <g:id>SN85347PURPLE</g:id>
       <g:item_group_id>15533574586743</g:item_group_id>
       
-      <g:title>Halloween Flashing Watch - Purple</g:title>
-      <g:description>Light up Halloween celebrations with these colourful flashing watches, available in spooky orange and purple designs. Featuring a bright LED flashing light effect, they're perfect for trick-or-treating, party bags, classroom rewards and Halloween events. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-flash-watch?variant=57387457347959</g:link>
+      <g:title>Halloween Flashing Bracelet - Purple</g:title>
+      <g:description>Light up Halloween celebrations with these colourful flashing watch-style bracelets, available in spooky orange and purple designs. Featuring a bright LED flashing light effect, they're perfect for trick-or-treating, party bags, classroom rewards and Halloween events. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/halloween-flashing-bracelet?variant=57387457347959</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-3-Flashing-Halloween-Watch-Purple-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907514</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-1-Flashing-Halloween-Watch-Purple-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907516</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-2-Flashing-Halloween-Watch-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907518</g:additional_image_link>
@@ -33743,9 +33829,9 @@ LED
       <g:id>SN85347ORANGE</g:id>
       <g:item_group_id>15533574586743</g:item_group_id>
       
-      <g:title>Halloween Flashing Watch - Orange</g:title>
-      <g:description>Light up Halloween celebrations with these colourful flashing watches, available in spooky orange and purple designs. Featuring a bright LED flashing light effect, they're perfect for trick-or-treating, party bags, classroom rewards and Halloween events. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/halloween-flash-watch?variant=57387457380727</g:link>
+      <g:title>Halloween Flashing Bracelet - Orange</g:title>
+      <g:description>Light up Halloween celebrations with these colourful flashing watch-style bracelets, available in spooky orange and purple designs. Featuring a bright LED flashing light effect, they're perfect for trick-or-treating, party bags, classroom rewards and Halloween events. Sink your teeth into our matching Halloween merch.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/halloween-flashing-bracelet?variant=57387457380727</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-4-Flashing-Halloween-Watch-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907513</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-1-Flashing-Halloween-Watch-Purple-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907516</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85347-2-Flashing-Halloween-Watch-Orange-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907518</g:additional_image_link>
@@ -34695,6 +34781,95 @@ Backing: TPE
 
 	
     <item>
+      <g:id>CX85821</g:id>
+      <g:item_group_id>15552116916599</g:item_group_id>
+      
+      <g:title>Hatty the Highland Cow Sitting Decoration - Small</g:title>
+      <g:description>Say hello to the cutest coo in the herd! Wrapped up in a bright red scarf and matching hat, this fluffy Highland Cow Hatty is full of Christmas charm. Perched happily on shelves, mantelpieces or nestled among your Christmas displays, this adorable Highland cow decoration is sure to bring warmth, smiles and a touch of Scottish-inspired cheer to your home year after year.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hatty-the-highland-cow-sitting-decoration?variant=57535657050487</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85821-Hatty-the-Highland-Cow-Sitting-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053733</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85820-Henry-the-Highland-Cow-Standing-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791545546</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858212</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decoration</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>29 cm </g:product_length>
+      <g:product_width>25 cm </g:product_width>
+      <g:product_height>18 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85822</g:id>
+      <g:item_group_id>15552116916599</g:item_group_id>
+      
+      <g:title>Hatty the Highland Cow Sitting Decoration - Large</g:title>
+      <g:description>Say hello to the cutest coo in the herd! Wrapped up in a bright red scarf and matching hat, this fluffy Highland Cow Hatty is full of Christmas charm. Perched happily on shelves, mantelpieces or nestled among your Christmas displays, this adorable Highland cow decoration is sure to bring warmth, smiles and a touch of Scottish-inspired cheer to your home year after year.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/hatty-the-highland-cow-sitting-decoration?variant=57535657083255</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85822-Hatty-the-Highland-Cow-Sitting-Large-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053721</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85820-Henry-the-Highland-Cow-Standing-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791545546</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>24.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858229</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decoration</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>40 cm </g:product_length>
+      <g:product_width>35.5 cm </g:product_width>
+      <g:product_height>26 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX81337</g:id>
       <g:item_group_id>9520939827517</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
@@ -35591,6 +35766,95 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX85819</g:id>
+      <g:item_group_id>15552117113207</g:item_group_id>
+      
+      <g:title>Henry the Highland Cow Standing Decoration - Small</g:title>
+      <g:description>Bring a wee taste of the Highlands to your Christmas celebrations with Henry the Highland Cow. Standing proudly in his festive Santa hat and cosy red scarf, this cheeky coo is ready to spread Christmas cheer from the moment he arrives. Whether he's greeting guests from a hallway table, or standing proudly on a mantelpiece, Henry is sure to steal the spotlight.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/henry-the-highland-cow-standing-decoration?variant=57535603540343</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85819-Henry-the-Highland-Cow-Standing-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053780</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85820-Henry-the-Highland-Cow-Standing-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791545546</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858199</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decoration</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>13 cm </g:product_length>
+      <g:product_width>21 cm </g:product_width>
+      <g:product_height>43 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX85820</g:id>
+      <g:item_group_id>15552117113207</g:item_group_id>
+      
+      <g:title>Henry the Highland Cow Standing Decoration - Large</g:title>
+      <g:description>Bring a wee taste of the Highlands to your Christmas celebrations with Henry the Highland Cow. Standing proudly in his festive Santa hat and cosy red scarf, this cheeky coo is ready to spread Christmas cheer from the moment he arrives. Whether he's greeting guests from a hallway table, or standing proudly on a mantelpiece, Henry is sure to steal the spotlight.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/henry-the-highland-cow-standing-decoration?variant=57535603573111</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85820-Henry-the-Highland-Cow-Standing-Large-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053745</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85820-Henry-the-Highland-Cow-Standing-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791545546</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>24.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123858205</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Christmas Decoration</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>21 cm </g:product_length>
+      <g:product_width>31 cm </g:product_width>
+      <g:product_height>63.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
@@ -39038,9 +39302,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW71095</g:id>
       <g:item_group_id>9520993173821</g:item_group_id>
       <g:google_product_category>181</g:google_product_category>
@@ -39317,7 +39579,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85734</g:id>
       <g:item_group_id>15405432865143</g:item_group_id>
       
@@ -39830,7 +40094,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW76516-Kraft-Large-Christmas-Gift-Bag-2-Pack-2-Cancer-Research-UK-Online-Shop_9fda32d5-eb9e-4a64-aecd-8c0e92ab695b_1024x1024.jpg?v=1719230077</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW76516-Kraft-Large-Christmas-Gift-Bag-2-Pack-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405141</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -47067,7 +47331,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-dry-shampoo?variant=49421685784893</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82398-MooGoo-DryShampoo-100g-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727358196</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.49 GBP</g:price>
 
       <g:shipping>
@@ -56376,9 +56640,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85623</g:id>
       <g:item_group_id>15552117244279</g:item_group_id>
       
@@ -56605,7 +56867,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80495</g:id>
       <g:item_group_id>9521140498749</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -76259,7 +76523,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608558967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfibra-Blush-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753356886</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -82092,7 +82356,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84296-Serenity-Yin-Yang-Relax-Candle-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749215584</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84296-Serenity-Yin-Yang-Relax-Candle-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749215584</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>21.99 GBP</g:price>
 
       <g:shipping>
@@ -87518,9 +87782,7 @@ LED
       <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU81077</g:id>
       <g:item_group_id>14933588377975</g:item_group_id>
       
@@ -87869,7 +88131,9 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>VFSU2CSOCKM</g:id>
       <g:item_group_id>9521309712701</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -89777,7 +90041,7 @@ LED
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85691-Sudoku-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585387</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85691-Sudoku-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585388</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -98022,7 +98286,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-active-flow-breast-form?variant=55488999555447</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42290-Trulife-Active-Flow-Triangle-Breast-Form-Beige-Cancer-Research-UK-Cancer-Care-Collection_0_61b5004e-a9c9-4bf1-b74a-9475cda83e7a_1024x1024.jpg?v=1753431578</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>47.00 GBP</g:price>
 
       <g:shipping>
@@ -98884,7 +99148,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -98906,7 +99170,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -98951,7 +99215,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -98973,7 +99237,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -98995,7 +99259,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99040,7 +99304,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99084,7 +99348,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99129,7 +99393,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99173,7 +99437,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99218,7 +99482,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99262,7 +99526,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99307,7 +99571,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99329,7 +99593,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -99351,7 +99615,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99396,7 +99660,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99440,7 +99704,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99485,7 +99749,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99529,7 +99793,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99574,7 +99838,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99618,7 +99882,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99663,7 +99927,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99685,7 +99949,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40473-Trulife-Softie-Breastform-Cancer-Research-UK-Online-Shop_8ec10bc8-b647-411e-86d2-3b91c1ebe827_1024x1024.jpg?v=1753434915</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82620-Trulife-Initial-Softie-Breastform-with-Bag-in-Dark-Tone-Cancer-Research-UK-Online-Shop-Back_1024x1024.jpg?v=1753434915</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -99707,7 +99971,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99752,7 +100016,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99797,7 +100061,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99842,7 +100106,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99887,7 +100151,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -99932,7 +100196,7 @@ Backing: TPE
       <g:brand>Trulife</g:brand>
       <g:product_type>Breast Form</g:product_type>
 
-      <g:color>Dark Tone</g:color>
+      <g:color>Light Tone</g:color>
 <g:size>3</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -100811,7 +101075,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129185655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -100983,7 +101247,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129316727</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -101026,7 +101290,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129349495</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -101241,7 +101505,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129513335</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -101284,7 +101548,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129546103</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
