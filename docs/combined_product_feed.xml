@@ -24608,7 +24608,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR39987-Cygnet-Pato-Everyday-DK-Yarn-Apple-988-Cancer-Research-UK-Online-Shop_png_1024x1024.jpg?v=1771587181</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR30588-Cygnet-Pato-Everyday-DK-Knitting-Yarn-Royal-990-Cancer-Research-UK-Online-Shop_d88b160c-9d93-41d9-aaeb-f87dd38bd876_1024x1024.jpg?v=1771587041</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.69 GBP</g:price>
 
       <g:shipping>
@@ -41460,6 +41460,49 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
+      <g:id>CX76461</g:id>
+      <g:item_group_id>15090028446071</g:item_group_id>
+      
+      <g:title>LED Ribbed Single Tealight - 4 pack</g:title>
+      <g:description>Add a touch of timeless charm with this classic-style LED candle. Featuring a ridged clear body and flame-shaped tip, it evokes the elegance of traditional taper candles. Its gentle glow brings warmth to festive displays, perfect for honouring seasonal traditions with subtle sophistication.  This product is 3.8 x 3.8 x 6.5 cm., Pack of 4., Batteries included., </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/led-ribbed-single-tealight-pack-of-4?variant=55604443349367</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76461-Acrylic-Ribbed-LED-Tealights-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755267865</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76461-Acrylic-Ribbed-LED-Tealights-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756226922</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76461-LED-Tealight-Lifestyle-Cancer-Research-UK-Online-Shop_cc34f345-02fe-4848-b3c1-663f1b434cca_1024x1024.jpg?v=1756226922</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.96 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418503972</g:gtin>
+
+      <g:product_type>Candles</g:product_type>
+
+      <g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Acrylic</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX86046</g:id>
       <g:item_group_id>15523969728887</g:item_group_id>
       
@@ -46421,97 +46464,6 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN85280</g:id>
-      <g:item_group_id>15528721613175</g:item_group_id>
-      
-      <g:title>Mini Plush Pumpkin</g:title>
-      <g:description>More adorable than spooky, this Mini Plush Pumpkin is packed with Halloween fun. Its soft plush fabric and cheerful expression make it the perfect friend for playtime, cuddles, and seasonal gifting. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mini-plush-pumpkin?variant=57370933526903</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85280-Mini-Plush-Pumpkin-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907526</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674250804</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Toy</g:product_type>
-      <g:color>orange</g:color>
-      <g:size>3</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>kids</g:age_group>
-      <g:material>Fabric</g:material>
-      <g:product_width>7 cm </g:product_width>
-      <g:product_height>10 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SN85281</g:id>
-      <g:item_group_id>15528722366839</g:item_group_id>
-      
-      <g:title>Mini Plush Spider</g:title>
-      <g:description>Bring home a little Halloween fun with this Mini Plush Spider. Soft to the touch and irresistibly cuddly, its fluffy legs and friendly smile make it a lovable companion for all ages. Sink your teeth into our matching Halloween merch.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/mini-plush-spider?variant=57370936181111</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85281-Mini-Plush-Spider-Cancer-Research-UK-Online-Shop_7ca33b09-20de-4722-85d8-94c9be4eae17_1024x1024.jpg?v=1786525415</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674250811</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Toy</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>kids</g:age_group>
-      <g:material>100% Polyester
-</g:material>
-      <g:product_width>12 cm </g:product_width>
-      <g:product_height>5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -53280,6 +53232,87 @@ Silicone</g:material>
       <g:product_length>4.5 cm </g:product_length>
       <g:product_width>10 cm </g:product_width>
       <g:product_height>19 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX83506</g:id>
+      <g:item_group_id>9680621601085</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier White LED Indoor/Outdoor Battery Operated Timer Lights - 50 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered white LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Features:  Cool white LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-white-led-indoor-outdoor-battery-operated-timer-lights?variant=49433375736125</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81327-Premier-Timelights-MultiAction-Battery-50-LEDs-Cool-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682949</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>3.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450680</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX83510</g:id>
+      <g:item_group_id>9680621601085</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier White LED Indoor/Outdoor Battery Operated Timer Lights - 100 LEDs</g:title>
+      <g:description>Let your home and garden shine this Christmas with these battery powered white LED lights. Perfect for places where you can't reach a power socket, for decorating the garden, or for children's rooms where you don't want trailing cables. Features:  Cool white LEDs, available in 3 lengths:  50 LEDs, 5m lit length, 100 LEDs, 10m lit length ,  , Timer function: 6 hours on, 18 hours off meaning lights automatically come on at the same time every day, Multi-action facility with 8 sequences, including static, 30cm from battery pack to first light, Suitable for indoor or outdoor use, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-white-led-indoor-outdoor-battery-operated-timer-lights?variant=49433375768893</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81331-Premier-Timelights-MultiAction-Battery-100-LEDs-Cool-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734682949</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>4.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844450727</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+
+<g:size>50 LEDs</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -73752,7 +73785,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -79935,7 +79968,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84289-Serenity-Balance-Candle-270g-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1748617127</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84288-Serenity-Balance-Candle-120g-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1748617127</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -79957,7 +79990,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candle</g:product_type>
 
-<g:size>270g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Soy Wax</g:material>
@@ -80005,7 +80038,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candle</g:product_type>
 
-<g:size>270g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Soy Wax</g:material>
@@ -80073,7 +80106,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84303-Serenity-Balance-Wax-Melts-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754054430</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84303-Serenity-Balance-Wax-Melts-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754054430</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -80216,7 +80249,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84302-Serenity-Breathe-Diffuser-_-Candle-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749220130</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84302-Serenity-Breathe-Diffuser-_-Candle-6-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749220130</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -80306,7 +80339,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84294-Serenity-Breathe-Wax-Melts-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754053936</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84294-Serenity-Breathe-Wax-Melts-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754053936</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -80398,7 +80431,7 @@ Filling: Aggregate and Polyester fibre
       <g:link>https://shop.cancerresearchuk.org/products/serenity-cleanse-10-incense-cones-palo-santo?variant=55527372095863</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84309-Serenity-Cleanse-Incense-Sticks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754055871</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -80532,7 +80565,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84291-Serenity-Flow-Candle-270g-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1748617228</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84290-Serenity-Flow-Canlde-120g-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1748617228</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -80554,7 +80587,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candle</g:product_type>
 
-<g:size>270g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Soy Wax</g:material>
@@ -80602,7 +80635,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candle</g:product_type>
 
-<g:size>270g</g:size>
+<g:size>120g</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>Soy Wax</g:material>
@@ -81016,7 +81049,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84313-Serenity-Lotus-Incese-Holder-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749224561</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84313-Serenity-Lotus-Incese-Holder-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749224561</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -81057,7 +81090,7 @@ Filling: Aggregate and Polyester fibre
       <g:link>https://shop.cancerresearchuk.org/products/serenity-meditate-10-incense-cones-nag-champa?variant=55527376978295</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84310-Serenity-Meditate-Incense-Cones-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754056173</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -81098,7 +81131,7 @@ Filling: Aggregate and Polyester fibre
       <g:link>https://shop.cancerresearchuk.org/products/serenity-meditate-10-incense-sticks-nag-champa?variant=55527207600503</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84306-Serenity-Meditate-Incense-Sticks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754054956</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -82078,7 +82111,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84301-Serenity-3-Diffuser-set-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749219499</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84301-Serenity-3-Diffuser-set-7-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749219499</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>18.99 GBP</g:price>
 
       <g:shipping>
@@ -82356,7 +82389,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84296-Serenity-Yin-Yang-Relax-Candle-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749215584</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84296-Serenity-Yin-Yang-Relax-Candle-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749215584</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>21.99 GBP</g:price>
 
       <g:shipping>
