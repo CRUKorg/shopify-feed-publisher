@@ -1626,6 +1626,88 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
+      <g:id>CX86065RED</g:id>
+      <g:item_group_id>15526183600503</g:item_group_id>
+      
+      <g:title>35cm Sitting Elf Decoration - Red</g:title>
+      <g:description>Add a sprinkle of Christmas mischief to your home with this 35cm Sitting Elf Decoration. Perched and ready for festive fun, this cheerful elf is perfect for shelves, mantelpieces and windowsills. With its bright colours and playful design, it's sure to delight children and bring plenty of Christmas magic to your decorations.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/35cm-sitting-elf-decoration?variant=57629130490231</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86065-35cm-Sitting-Elf-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792579356</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>5.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418157526</g:gtin>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86065GREEN</g:id>
+      <g:item_group_id>15526183600503</g:item_group_id>
+      
+      <g:title>35cm Sitting Elf Decoration - Green</g:title>
+      <g:description>Add a sprinkle of Christmas mischief to your home with this 35cm Sitting Elf Decoration. Perched and ready for festive fun, this cheerful elf is perfect for shelves, mantelpieces and windowsills. With its bright colours and playful design, it's sure to delight children and bring plenty of Christmas magic to your decorations.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/35cm-sitting-elf-decoration?variant=57629130522999</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86065-35cm-Sitting-Elf-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792579356</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>5.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX86065GREEN</g:mpn>
+
+      <g:product_type>Christmas Decorations</g:product_type>
+
+      <g:color>Red</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CR86294</g:id>
       <g:item_group_id>15457010942327</g:item_group_id>
       
@@ -2686,7 +2768,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/always-in-our-hearts-small-robin-stone?variant=57355372102007</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85796-Always-In-Our-Hearts-Small-Robin-Remembrance-Stone-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907522</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -2727,7 +2809,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/angel-mantel-plaque-with-xmas-wording?variant=57355366760823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85790-Xmas-Angel-Mantel-Plaque-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -3364,52 +3446,6 @@ Ground sheet: 100% Polyethylene
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>LW43805</g:id>
-      <g:item_group_id>9520713695549</g:item_group_id>
-      <g:google_product_category>543543</g:google_product_category>
-      <g:title>Be Strong : kind words for difficult times</g:title>
-      <g:description>You are enough, you are brave and determined, and you can overcome any obstacle or setback that stands in your way. Whenever you struggle with your self-belief, pick yourself up with this little book of feel-good quotations and statements that will remind you how incredibly strong you are.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/be-strong-kind-words-difficult-times?variant=49003675713853</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43805-9781787839960-Be-Strong-Kind-Words-For-Difficult-Times-Cancer-Research-UK-Online-Shop-1_4a7840a6-cbb4-4061-8a63-c3b54883dca0_1024x1024.jpg?v=1719229074</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43805-9781787839960-Be-Strong-Kind-Words-For-Difficult-Times-Cancer-Research-UK-Online-Shop-2_1024x1024.jpg?v=1719405901</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43805-9781787839960-Be-Strong-Kind-Words-For-Difficult-Times-Cancer-Research-UK-Online-Shop-3_1024x1024.jpg?v=1719405901</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43805-9781787839960-Be-Strong-Kind-Words-For-Difficult-Times-Cancer-Research-UK-Online-Shop-4_1024x1024.jpg?v=1719405901</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW43805-9781787839960-Be-Strong-Kind-Words-For-Difficult-Times-Cancer-Research-UK-Online-Shop-5_1024x1024.jpg?v=1719405901</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9781787839960</g:gtin>
-
-      <g:product_type>Books</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>10 cm </g:product_width>
-      <g:product_height>14 cm </g:product_height>
-      <g:custom_label_0>Cancer Care</g:custom_label_0>
-      <g:custom_label_1>Cancer Care</g:custom_label_1>
-      <g:custom_label_2>Books</g:custom_label_2>
-      <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
 
 	
@@ -8582,48 +8618,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>BB84972BLUE</g:id>
-      <g:item_group_id>15454960517495</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Blue Zebra Stripe Storage Bag</g:title>
-      <g:description>Take some Deborah James inspiration wherever you go with this vibrant blue storage bag, designed to bring both positivity and practicality to everyday organisation. Whether you’re sorting daily essentials, carrying lunch on the go or transporting books, this versatile storage solution is made to fit seamlessly into busy, on‑the‑move lifestyles.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-blue-zebra-stripe-storage-bag?variant=57007284781431</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84972BLUE-Storage-Bag-Zebra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776181012</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84972BLUE-Storage-Bag-Zebra-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776181012</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247736</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
-      <g:color>pink</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>BB84970BLUE</g:id>
       <g:item_group_id>15449035211127</g:item_group_id>
       
@@ -10684,7 +10678,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/breast-cancer-awareness-heart-print-set?variant=55050804068727</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80905-BCA-Accessories-Set-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1770145799</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.49 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -10728,7 +10722,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/breast-cancer-awareness-zebra-print-set?variant=55050806460791</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80906-BCA-Set-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1742489015</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.49 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -10758,49 +10752,6 @@ Ground sheet: 100% Polyethylene
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR82175</g:id>
-      <g:item_group_id>9520758456637</g:item_group_id>
-      <g:google_product_category>543543</g:google_product_category>
-      <g:title>Breathe by Jean Hall</g:title>
-      <g:description>Breathing properly is one of the simplest ways to increase your energy, improve your sleep and reduce stress. Moreover, you can practise alone, and it's free. Drawing on the practices of yoga, meditation and mindfulness, this book provides clear, step-by-step instructions for 20 exercises to improve the way you breathe. Learn the essentials such as moving breath, mindful breathing and how to rebalance the breath, and open yourself up to feelings of renewed energy.   Breathe : simple breathing techniques for a calmer, happier life by Jean Hall, ISBN: 9781837830718, Hardback, 19 x 14 x 2cm, 378g, 142 pages, Quadrille Publishing, 2024, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/breathe?variant=49003721589053</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82175-Breathe-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761309457</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82175-Breathe-Page-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761309561</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82175-Breathe-Page-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761309548</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82175-Breathe-Page-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761309572</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>14.00 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9781837830718</g:gtin>
-
-      <g:product_type>Books</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -17067,7 +17018,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128632266</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Advent Calendars</g:product_type>
+      <g:product_type>Advent Calendar</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -17769,7 +17720,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128617133</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Advent Calendars</g:product_type>
+      <g:product_type>Advent Calendar</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -17855,7 +17806,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5012128621291</g:gtin>
  
       <g:brand>Giftmaker</g:brand>
-      <g:product_type>Advent Calendars</g:product_type>
+      <g:product_type>Advent Calendar</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -20872,6 +20823,90 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX86069SILVER</g:id>
+      <g:item_group_id>15526183797111</g:item_group_id>
+      
+      <g:title>Christmas Tree Shaped Napkins - 12 pack - Silver</g:title>
+      <g:description>Complete your Christmas table setting with this pack of 12 Christmas Tree Napkins. Featuring a festive tree shape, these disposable napkins are perfect for Christmas dinner, parties and family gatherings. Both practical and decorative, they add a cheerful touch to place settings and help create a warm, welcoming atmosphere for guests.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pk12-xmas-tree-napkins?variant=57629135602039</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86069-Silver-Christmas-Tree-Napkins-Set-of-12-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792580204</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86069-Christmas-Tree-Napkins-Set-of-12-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786447168</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5024418559740</g:gtin>
+
+      <g:product_type>Napkins</g:product_type>
+
+      <g:color>Silver</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86069GOLD</g:id>
+      <g:item_group_id>15526183797111</g:item_group_id>
+      
+      <g:title>Christmas Tree Shaped Napkins - 12 pack - Gold</g:title>
+      <g:description>Complete your Christmas table setting with this pack of 12 Christmas Tree Napkins. Featuring a festive tree shape, these disposable napkins are perfect for Christmas dinner, parties and family gatherings. Both practical and decorative, they add a cheerful touch to place settings and help create a warm, welcoming atmosphere for guests.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/pk12-xmas-tree-napkins?variant=57629135634807</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86069-Gold-Christmas-Tree-Napkins-Set-of-12-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792580204</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86069-Christmas-Tree-Napkins-Set-of-12-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786447168</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX86069GOLD</g:mpn>
+
+      <g:product_type>Napkins</g:product_type>
+
+      <g:color>Silver</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85839TREE</g:id>
       <g:item_group_id>9520792863037</g:item_group_id>
       <g:google_product_category>328</g:google_product_category>
@@ -21173,47 +21208,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR85058</g:id>
-      <g:item_group_id>14965073445239</g:item_group_id>
-      <g:google_product_category>5913</g:google_product_category>
-      <g:title>Coastal Striped Bench Cushion</g:title>
-      <g:description>Add an instant layer of comfort to your garden bench with this striped bench cushion. Designed as an easy update, this cushion simply ties onto your existing bench, transforming everyday seating into somewhere you’ll want to linger. The coastal stripes bring a pop of summer fun to outdoor spaces, making it ideal for sunny afternoons spent reading, relaxing or enjoying the garden in comfort.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/stripe-bench-cushion?variant=55149470155127</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85058-Coastal-Stripe-Bench-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776677404</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>13.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247835</g:gtin>
-
-      <g:product_type>Outdoor Accessories</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester with water resistant backing</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -21596,7 +21590,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF79733</g:id>
       <g:item_group_id>9520802693437</g:item_group_id>
       <g:google_product_category>2781</g:google_product_category>
@@ -21683,9 +21679,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR84933CRAB</g:id>
       <g:item_group_id>15363566928247</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -22034,52 +22028,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Books</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR85690</g:id>
-      <g:item_group_id>9520811704637</g:item_group_id>
-      <g:google_product_category>543543</g:google_product_category>
-      <g:title>Crosswords</g:title>
-      <g:description>Ready to challenge yourself? Dive into this lively collection of crosswords packed with clever clues and satisfying “aha!” moments. Perfect for word lovers and general‑knowledge fans alike, each puzzle delivers a delightful mental workout. Perfect for treatment days or long waits, these puzzles offer a soothing way to stay engaged and pass the time at your own pace.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/crosswords?variant=49003779195197</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85690-Crosswords-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771583408</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85690-Crosswords-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771583408</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85690-Crosswords-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771583408</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85690-Crosswords-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771583408</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85690-Crosswords-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771583410</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9781398860193</g:gtin>
-
-      <g:product_type>Puzzle</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>135 mm </g:product_width>
-      <g:product_height>188 mm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Books</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -26374,9 +26322,8 @@ Lining 100% Cotton</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123858236</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decoration</g:product_type>
+
+      <g:product_type>Christmas Decorations</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -26807,7 +26754,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5023674242229</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Doorstops</g:product_type>
+      <g:product_type>Doorstop</g:product_type>
 
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
@@ -27002,7 +26949,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85719-Dragon-Memory-Game-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772026980</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85719-Dragon-Memory-Game-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772026980</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -30922,10 +30869,10 @@ Backing: TPE
     </item>
 	
     <item>
-      <g:id>CX86057WHITE</g:id>
+      <g:id>CX86057CREAM</g:id>
       <g:item_group_id>15526183272823</g:item_group_id>
       
-      <g:title>Fluffy Reindeer Decoration - White / Small</g:title>
+      <g:title>Fluffy Reindeer Decoration - Cream / Small</g:title>
       <g:description>Bring a fun and festive touch to your home with this Fluffy Reindeer Decoration. Featuring a soft textured finish and charming reindeer design, it makes a delightful addition to shelves, side tables and mantel displays. Perfect for adding warmth and character to your Christmas decorations.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/fluffy-reindeer-decoration?variant=57369818857847</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193479</g:image_link>
@@ -30965,10 +30912,10 @@ Backing: TPE
     </item>
 	
     <item>
-      <g:id>CX86056WHTIE</g:id>
+      <g:id>CX86056CREAM</g:id>
       <g:item_group_id>15526183272823</g:item_group_id>
       
-      <g:title>Fluffy Reindeer Decoration - White / Large</g:title>
+      <g:title>Fluffy Reindeer Decoration - Cream / Large</g:title>
       <g:description>Bring a fun and festive touch to your home with this Fluffy Reindeer Decoration. Featuring a soft textured finish and charming reindeer design, it makes a delightful addition to shelves, side tables and mantel displays. Perfect for adding warmth and character to your Christmas decorations.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/fluffy-reindeer-decoration?variant=57369818923383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86056-Fluffy-Reindeer-Decorations-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193479</g:image_link>
@@ -31317,6 +31264,337 @@ Backing: TPE
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW87034</g:id>
+      <g:item_group_id>15583521538423</g:item_group_id>
+      
+      <g:title>Frank's Pants - The Everyday Leakproof Pants - S</g:title>
+      <g:description>Leaks have a habit of picking their moment: the long meeting, the commute, the round of golf, the dash to the loo you only just win. The Everyday is built for those days. These soft modal boxer briefs have a discreet 50 ml absorbent panel sewn in, so frequent drips, dribbles and urgency are handled quietly while you carry on. A quick-dry core draws moisture away from your skin, and a leakproof layer locks it in and helps keep odour in check. The slim, flexible panel stays flat, with no bulk, rustle or sticky tabs to give the game away under chinos, light shorts or jeans. Top tip: Wash before first wear to activate full absorbency. Features:  Up to 50 ml built-in absorbency, Quick-dry microfibre core, Breathable leakproof layer (TPU), Ultra-soft modal blend (92% modal, 8% elastane), Flat-sewn, slim panel, Mid-rise boxer-brief cut, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/franks-pants-the-everyday-leakproof-pants?variant=57627750269303</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Flatlay-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Hero-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Model-Standing-Hand-on-Hips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Technology-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Close-Up-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Side-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW87034</g:mpn>
+ 
+      <g:brand>Frank's Pants</g:brand>
+      <g:product_type>Briefs</g:product_type>
+
+<g:size>S</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>Body: 92% Modal/ 8% Elastane
+
+Breathable TPU
+
+Middle: 80% Polyester/ 20% Nylon
+
+Lining: 92% Modal/ 8% elastane</g:material>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>LW87035</g:id>
+      <g:item_group_id>15583521538423</g:item_group_id>
+      
+      <g:title>Frank's Pants - The Everyday Leakproof Pants - M</g:title>
+      <g:description>Leaks have a habit of picking their moment: the long meeting, the commute, the round of golf, the dash to the loo you only just win. The Everyday is built for those days. These soft modal boxer briefs have a discreet 50 ml absorbent panel sewn in, so frequent drips, dribbles and urgency are handled quietly while you carry on. A quick-dry core draws moisture away from your skin, and a leakproof layer locks it in and helps keep odour in check. The slim, flexible panel stays flat, with no bulk, rustle or sticky tabs to give the game away under chinos, light shorts or jeans. Top tip: Wash before first wear to activate full absorbency. Features:  Up to 50 ml built-in absorbency, Quick-dry microfibre core, Breathable leakproof layer (TPU), Ultra-soft modal blend (92% modal, 8% elastane), Flat-sewn, slim panel, Mid-rise boxer-brief cut, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/franks-pants-the-everyday-leakproof-pants?variant=57627750400375</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Flatlay-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Hero-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Model-Standing-Hand-on-Hips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Technology-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Close-Up-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Side-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW87035</g:mpn>
+ 
+      <g:brand>Frank's Pants</g:brand>
+      <g:product_type>Briefs</g:product_type>
+
+<g:size>S</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>Body: 92% Modal/ 8% Elastane
+
+Breathable TPU
+
+Middle: 80% Polyester/ 20% Nylon
+
+Lining: 92% Modal/ 8% elastane</g:material>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>LW87036</g:id>
+      <g:item_group_id>15583521538423</g:item_group_id>
+      
+      <g:title>Frank's Pants - The Everyday Leakproof Pants - L</g:title>
+      <g:description>Leaks have a habit of picking their moment: the long meeting, the commute, the round of golf, the dash to the loo you only just win. The Everyday is built for those days. These soft modal boxer briefs have a discreet 50 ml absorbent panel sewn in, so frequent drips, dribbles and urgency are handled quietly while you carry on. A quick-dry core draws moisture away from your skin, and a leakproof layer locks it in and helps keep odour in check. The slim, flexible panel stays flat, with no bulk, rustle or sticky tabs to give the game away under chinos, light shorts or jeans. Top tip: Wash before first wear to activate full absorbency. Features:  Up to 50 ml built-in absorbency, Quick-dry microfibre core, Breathable leakproof layer (TPU), Ultra-soft modal blend (92% modal, 8% elastane), Flat-sewn, slim panel, Mid-rise boxer-brief cut, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/franks-pants-the-everyday-leakproof-pants?variant=57627750531447</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Flatlay-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Hero-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Model-Standing-Hand-on-Hips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Technology-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Close-Up-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Side-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW87036</g:mpn>
+ 
+      <g:brand>Frank's Pants</g:brand>
+      <g:product_type>Briefs</g:product_type>
+
+<g:size>S</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>Body: 92% Modal/ 8% Elastane
+
+Breathable TPU
+
+Middle: 80% Polyester/ 20% Nylon
+
+Lining: 92% Modal/ 8% elastane</g:material>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>LW87037</g:id>
+      <g:item_group_id>15583521538423</g:item_group_id>
+      
+      <g:title>Frank's Pants - The Everyday Leakproof Pants - XL</g:title>
+      <g:description>Leaks have a habit of picking their moment: the long meeting, the commute, the round of golf, the dash to the loo you only just win. The Everyday is built for those days. These soft modal boxer briefs have a discreet 50 ml absorbent panel sewn in, so frequent drips, dribbles and urgency are handled quietly while you carry on. A quick-dry core draws moisture away from your skin, and a leakproof layer locks it in and helps keep odour in check. The slim, flexible panel stays flat, with no bulk, rustle or sticky tabs to give the game away under chinos, light shorts or jeans. Top tip: Wash before first wear to activate full absorbency. Features:  Up to 50 ml built-in absorbency, Quick-dry microfibre core, Breathable leakproof layer (TPU), Ultra-soft modal blend (92% modal, 8% elastane), Flat-sewn, slim panel, Mid-rise boxer-brief cut, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/franks-pants-the-everyday-leakproof-pants?variant=57627750662519</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Flatlay-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Hero-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Model-Standing-Hand-on-Hips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Technology-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Close-Up-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Side-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW87037</g:mpn>
+ 
+      <g:brand>Frank's Pants</g:brand>
+      <g:product_type>Briefs</g:product_type>
+
+<g:size>S</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>Body: 92% Modal/ 8% Elastane
+
+Breathable TPU
+
+Middle: 80% Polyester/ 20% Nylon
+
+Lining: 92% Modal/ 8% elastane</g:material>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>LW87038</g:id>
+      <g:item_group_id>15583521538423</g:item_group_id>
+      
+      <g:title>Frank's Pants - The Everyday Leakproof Pants - 2XL</g:title>
+      <g:description>Leaks have a habit of picking their moment: the long meeting, the commute, the round of golf, the dash to the loo you only just win. The Everyday is built for those days. These soft modal boxer briefs have a discreet 50 ml absorbent panel sewn in, so frequent drips, dribbles and urgency are handled quietly while you carry on. A quick-dry core draws moisture away from your skin, and a leakproof layer locks it in and helps keep odour in check. The slim, flexible panel stays flat, with no bulk, rustle or sticky tabs to give the game away under chinos, light shorts or jeans. Top tip: Wash before first wear to activate full absorbency. Features:  Up to 50 ml built-in absorbency, Quick-dry microfibre core, Breathable leakproof layer (TPU), Ultra-soft modal blend (92% modal, 8% elastane), Flat-sewn, slim panel, Mid-rise boxer-brief cut, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/franks-pants-the-everyday-leakproof-pants?variant=57627750793591</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Flatlay-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Hero-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Model-Standing-Hand-on-Hips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Technology-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Close-Up-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Side-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW87038</g:mpn>
+ 
+      <g:brand>Frank's Pants</g:brand>
+      <g:product_type>Briefs</g:product_type>
+
+<g:size>S</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>Body: 92% Modal/ 8% Elastane
+
+Breathable TPU
+
+Middle: 80% Polyester/ 20% Nylon
+
+Lining: 92% Modal/ 8% elastane</g:material>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>LW87039</g:id>
+      <g:item_group_id>15583521538423</g:item_group_id>
+      
+      <g:title>Frank's Pants - The Everyday Leakproof Pants - 3XL</g:title>
+      <g:description>Leaks have a habit of picking their moment: the long meeting, the commute, the round of golf, the dash to the loo you only just win. The Everyday is built for those days. These soft modal boxer briefs have a discreet 50 ml absorbent panel sewn in, so frequent drips, dribbles and urgency are handled quietly while you carry on. A quick-dry core draws moisture away from your skin, and a leakproof layer locks it in and helps keep odour in check. The slim, flexible panel stays flat, with no bulk, rustle or sticky tabs to give the game away under chinos, light shorts or jeans. Top tip: Wash before first wear to activate full absorbency. Features:  Up to 50 ml built-in absorbency, Quick-dry microfibre core, Breathable leakproof layer (TPU), Ultra-soft modal blend (92% modal, 8% elastane), Flat-sewn, slim panel, Mid-rise boxer-brief cut, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/franks-pants-the-everyday-leakproof-pants?variant=57627750924663</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Flatlay-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Hero-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Model-Standing-Hand-on-Hips-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Technology-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Close-Up-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW87034-Franks-Pants-The-Everyday-Leakproof-Pants-Side-Shot-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1792574188</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>22.00 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>LW87039</g:mpn>
+ 
+      <g:brand>Frank's Pants</g:brand>
+      <g:product_type>Briefs</g:product_type>
+
+<g:size>S</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:age_group>adult</g:age_group>
+      <g:gender>male</g:gender>
+      <g:material>Body: 92% Modal/ 8% Elastane
+
+Breathable TPU
+
+Middle: 80% Polyester/ 20% Nylon
+
+Lining: 92% Modal/ 8% elastane</g:material>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
 
 	
@@ -33357,7 +33635,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/green-bee-picnic-blanket?variant=57024661553527</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85063-Green-Bee-Stripe-Picnic-Blanket-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776678538</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -34808,9 +35086,8 @@ Backing: TPE
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123858212</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decoration</g:product_type>
+
+      <g:product_type>Christmas Decorations</g:product_type>
 
 <g:size>Small</g:size>
       <g:size_type>regular</g:size_type>
@@ -34852,9 +35129,8 @@ Backing: TPE
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123858229</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decoration</g:product_type>
+
+      <g:product_type>Christmas Decorations</g:product_type>
 
 <g:size>Small</g:size>
       <g:size_type>regular</g:size_type>
@@ -34870,59 +35146,14 @@ Backing: TPE
 
 	
     <item>
-      <g:id>CX81337</g:id>
-      <g:item_group_id>9520939827517</g:item_group_id>
-      <g:google_product_category>1985</g:google_product_category>
-      <g:title>Heated Electric Over Blanket - Grey</g:title>
-      <g:description>Snuggle up on the sofa or add an extra warming layer to your bed with this super-soft heated over blanket. Mains powered, the grey blanket offers 10 heat settings and an auto shut-off feature (selectable for 1, 2, 4, 6, or 8 hours).</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/heated-electric-over-blanket?variant=57268013662583</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81337-Heated-Throw-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683100</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86132-Heated-Luxury-Blanket-Brown-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790594755</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86132-Heated-Blanket-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789055381</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>34.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674232800</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Blanket</g:product_type>
-
-      <g:color>Grey</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_3>Winter Warmers</g:custom_label_3>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CX86132</g:id>
       <g:item_group_id>9520939827517</g:item_group_id>
       <g:google_product_category>1985</g:google_product_category>
       <g:title>Heated Electric Over Blanket - Brown</g:title>
       <g:description>Snuggle up on the sofa or add an extra warming layer to your bed with this super-soft heated over blanket. Mains powered, the grey blanket offers 10 heat settings and an auto shut-off feature (selectable for 1, 2, 4, 6, or 8 hours).</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/heated-electric-over-blanket?variant=57268013695351</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81337-Heated-Throw-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683100</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86132-Heated-Luxury-Blanket-Brown-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790594755</g:additional_image_link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86132-Heated-Luxury-Blanket-Brown-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790594755</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81337-Heated-Throw-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683100</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86132-Heated-Blanket-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789055381</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -34947,7 +35178,52 @@ Backing: TPE
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Blanket</g:product_type>
 
-      <g:color>Grey</g:color>
+      <g:color>Brown</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX81337</g:id>
+      <g:item_group_id>9520939827517</g:item_group_id>
+      <g:google_product_category>1985</g:google_product_category>
+      <g:title>Heated Electric Over Blanket - Grey</g:title>
+      <g:description>Snuggle up on the sofa or add an extra warming layer to your bed with this super-soft heated over blanket. Mains powered, the grey blanket offers 10 heat settings and an auto shut-off feature (selectable for 1, 2, 4, 6, or 8 hours).</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/heated-electric-over-blanket?variant=57268013662583</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86132-Heated-Luxury-Blanket-Brown-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790594755</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81337-Heated-Throw-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683100</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86132-Heated-Blanket-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789055381</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>34.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674232800</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Blanket</g:product_type>
+
+      <g:color>Brown</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -35798,9 +36074,8 @@ Backing: 100% Polypropylene</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123858199</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decoration</g:product_type>
+
+      <g:product_type>Christmas Decorations</g:product_type>
 
 <g:size>Small</g:size>
       <g:size_type>regular</g:size_type>
@@ -35842,9 +36117,8 @@ Backing: 100% Polypropylene</g:material>
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5034123858205</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Christmas Decoration</g:product_type>
+
+      <g:product_type>Christmas Decorations</g:product_type>
 
 <g:size>Small</g:size>
       <g:size_type>regular</g:size_type>
@@ -35946,6 +36220,174 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86129SMALL</g:id>
+      <g:item_group_id>15519192646007</g:item_group_id>
+      
+      <g:title>Highland Cow Adult Pyjamas - Small</g:title>
+      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-adult-pyjamas?variant=57629160341879</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86129-Highland-Cow-Adults-Pyjamas-Top-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044562</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86129-Highland-Cow-Adults-Pyjamas-Bottoms-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253454</g:gtin>
+
+      <g:product_type>Pyjamas</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86129MED</g:id>
+      <g:item_group_id>15519192646007</g:item_group_id>
+      
+      <g:title>Highland Cow Adult Pyjamas - Medium</g:title>
+      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-adult-pyjamas?variant=57629160374647</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86129-Highland-Cow-Adults-Pyjamas-Top-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044562</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86129-Highland-Cow-Adults-Pyjamas-Bottoms-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX86129MED</g:mpn>
+
+      <g:product_type>Pyjamas</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86129LARGE</g:id>
+      <g:item_group_id>15519192646007</g:item_group_id>
+      
+      <g:title>Highland Cow Adult Pyjamas - Large</g:title>
+      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-adult-pyjamas?variant=57629160407415</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86129-Highland-Cow-Adults-Pyjamas-Top-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044562</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86129-Highland-Cow-Adults-Pyjamas-Bottoms-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX86129LARGE</g:mpn>
+
+      <g:product_type>Pyjamas</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86129XL</g:id>
+      <g:item_group_id>15519192646007</g:item_group_id>
+      
+      <g:title>Highland Cow Adult Pyjamas - XL</g:title>
+      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-adult-pyjamas?variant=57629160440183</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86129-Highland-Cow-Adults-Pyjamas-Top-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044562</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86129-Highland-Cow-Adults-Pyjamas-Bottoms-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>10.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX86129XL</g:mpn>
+
+      <g:product_type>Pyjamas</g:product_type>
+
+<g:size>Small</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% Polyester</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -36207,6 +36649,129 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX861305</g:id>
+      <g:item_group_id>15519192678775</g:item_group_id>
+      
+      <g:title>Highland Cow Childrens Pyjamas - 5-7 Years</g:title>
+      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-childrens-pyjamas?variant=57629186392439</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Folded-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253461</g:gtin>
+
+      <g:product_type>Pyjamas</g:product_type>
+
+<g:size>5-7 Years</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX861308</g:id>
+      <g:item_group_id>15519192678775</g:item_group_id>
+      
+      <g:title>Highland Cow Childrens Pyjamas - 8-9 Years</g:title>
+      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-childrens-pyjamas?variant=57629186425207</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Folded-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX861308</g:mpn>
+
+      <g:product_type>Pyjamas</g:product_type>
+
+<g:size>5-7 Years</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX8613010</g:id>
+      <g:item_group_id>15519192678775</g:item_group_id>
+      
+      <g:title>Highland Cow Childrens Pyjamas - 10-11 Years</g:title>
+      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-childrens-pyjamas?variant=57629186457975</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Folded-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CX8613010</g:mpn>
+
+      <g:product_type>Pyjamas</g:product_type>
+
+<g:size>5-7 Years</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Clothing</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -36512,6 +37077,51 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86115</g:id>
+      <g:item_group_id>15077061624183</g:item_group_id>
+      <g:google_product_category>696</g:google_product_category>
+      <g:title>Highland Cow Doorstop</g:title>
+      <g:description>Christmas is the busiest time in any home, with guests arriving, presents moving about and everyone wandering between rooms. This charming Highland Cow door stop keeps doors exactly where you want them, adding a touch of countryside character to your festive home. It’s a practical little helper that’s sure to get a smile from visitors. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-doorstop?variant=55554715943287</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83867-Highland-Cow-Doorstop-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754478724</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83867-Highland-Cow-Doorstop-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758878434</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253317</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Doorstop</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>Polyester/aggregate</g:material>
+      <g:product_width>18 cm </g:product_width>
+      <g:product_height>25 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
@@ -39257,9 +39867,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42309</g:id>
       <g:item_group_id>9520986259773</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
@@ -39302,7 +39910,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW71095</g:id>
       <g:item_group_id>9520993173821</g:item_group_id>
       <g:google_product_category>181</g:google_product_category>
@@ -39499,7 +40109,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85581-Just-A-Little-Something-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374588</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/2026-traditional-Christmas-card-range-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -39646,7 +40256,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84931-Dinosaur-Kids-Case-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785408322</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84931-Dinosaur-Kids-Case-Pink-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785408322</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -39669,7 +40279,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Luggage</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>Pink</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -39719,7 +40329,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Luggage</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>Pink</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -40954,7 +41564,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85801-Large-Forest-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786099416</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85801-Forest-Advent-Calendar-Lifestyle-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787825300</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>29.99 GBP</g:price>
 
       <g:shipping>
@@ -41038,7 +41648,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85802-Large-Tree-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786092944</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85802-Large-Tree-Advent-Calendar-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786092971</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>29.99 GBP</g:price>
 
       <g:shipping>
@@ -42680,136 +43290,6 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
-      <g:id>CX83771</g:id>
-      <g:item_group_id>15100896674167</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Hot Water Bottle - Nougat</g:title>
-      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665403767</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83771-Fur-Hot-Water-Bottle-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772013479</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1765370140</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.49 GBP</g:price>
-      <g:sale_price>5.89 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241277</g:gtin>
-
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Nougat</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83773</g:id>
-      <g:item_group_id>15100896674167</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Hot Water Bottle - Charcoal</g:title>
-      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665469303</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83773-Fur-Hot-Water-Bottle-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772013479</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1765370140</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.49 GBP</g:price>
-      <g:sale_price>5.89 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241291</g:gtin>
-
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Nougat</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX83772</g:id>
-      <g:item_group_id>15100896674167</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Hot Water Bottle - Rose</g:title>
-      <g:description>Enjoy cosy comfort without the hassle. This faux hot water bottle features a fluffy, soft-touch cover and is designed for easy wear making it perfect for bedtime warmth.  Ideal for soothing relaxation and helping you drift off to sleep, just snuggle in and unwind. Natural rubber hot water bottle with faux fur cover. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/luxury-faux-fur-hot-water-bottle?variant=55648665436535</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83772-Fut-Hot-Water-Bottle-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772013479</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-10-2048x2048-Cancer-Research-UK-Online-Shop_7ee5f921-9e58-48d2-bc06-69155a739643_1024x1024.jpg?v=1765370140</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.49 GBP</g:price>
-      <g:sale_price>5.89 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241284</g:gtin>
-
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Nougat</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Rubber/polyester</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX83777</g:id>
       <g:item_group_id>15099834433911</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -43262,6 +43742,138 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
+      <g:id>CX86160</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Chateau</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520136567</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86160-Mini-Hand-Warmers-Chateau-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044574</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253768</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Chateau</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86159</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Chocolate</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520103799</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86159-Mini-Hand-Warmers-Chocolate-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253751</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Chateau</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CX86158</g:id>
+      <g:item_group_id>14798686224759</g:item_group_id>
+      <g:google_product_category>6205</g:google_product_category>
+      <g:title>Luxury Faux Fur Mini Hand Warmer - Taupe</g:title>
+      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520071031</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86158-Mini-Hand-Warmers-Taupe-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253744</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Hot Water Bottle</g:product_type>
+
+      <g:color>Chateau</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester cover</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_3>Winter Warmers</g:custom_label_3>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+	
+    <item>
       <g:id>CX83801</g:id>
       <g:item_group_id>14798686224759</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
@@ -43293,7 +43905,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chocolate</g:color>
+      <g:color>Chateau</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -43339,7 +43951,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chocolate</g:color>
+      <g:color>Chateau</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -43385,145 +43997,13 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chocolate</g:color>
+      <g:color>Chateau</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>100% polyester cover</g:material>
       <g:product_width>10 cm </g:product_width>
       <g:product_height>14 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_3>Winter Warmers</g:custom_label_3>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX86158</g:id>
-      <g:item_group_id>14798686224759</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Mini Hand Warmer - Taupe</g:title>
-      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520071031</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86158-Mini-Hand-Warmers-Taupe-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674253744</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Chocolate</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester cover</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_3>Winter Warmers</g:custom_label_3>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX86159</g:id>
-      <g:item_group_id>14798686224759</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Mini Hand Warmer - Chocolate</g:title>
-      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520103799</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86159-Mini-Hand-Warmers-Chocolate-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674253751</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Chocolate</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester cover</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_3>Winter Warmers</g:custom_label_3>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CX86160</g:id>
-      <g:item_group_id>14798686224759</g:item_group_id>
-      <g:google_product_category>6205</g:google_product_category>
-      <g:title>Luxury Faux Fur Mini Hand Warmer - Chateau</g:title>
-      <g:description>Keep your fingers toasty with this super-soft, faux fur-covered mini hand warmer. Available in three colour options, they're guaranteed to keep you warm this winter. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520136567</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86160-Mini-Hand-Warmers-Chateau-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044574</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674253768</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Hot Water Bottle</g:product_type>
-
-      <g:color>Chocolate</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester cover</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
@@ -48769,7 +49249,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-shea-sorbet-vanilla-butter-balm?variant=49422127268157</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82379-MooG00-Shea_20Sorbet_20Vanilla-50g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727365013</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -52033,7 +52513,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/plush-velvet-printed-santa-sack?variant=49371872985405</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81813-Giftmaker-Plush-Velvet-Santa-Sack-Cancer-Research-UK-Online-Shop_cbb0ad81-a545-45cf-bdbe-b75159579d62_1024x1024.jpg?v=1734683004</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -54861,7 +55341,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80414-Race-for-Life-Pretty-Muddy-Ladies-Pink-Ombre-Vest-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404803</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC80414-Race-for-Life-Pretty-Muddy-Ladies-Pink-Ombre-Vest-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>11.00 GBP</g:price>
 
       <g:shipping>
@@ -60696,7 +61176,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC83020-Race-For-Life-Towel-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743502977</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC83020-Race-For-Life-Towel-V2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743502977</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.00 GBP</g:price>
       <g:sale_price>2.75 GBP</g:sale_price>
 
@@ -63096,7 +63576,7 @@ LED
 
 	
     <item>
-      <g:id>CX83843</g:id>
+      <g:id>CX86091</g:id>
       <g:item_group_id>15078053773687</g:item_group_id>
       <g:google_product_category>4453</g:google_product_category>
       <g:title>Robin Choir Applique Cushion</g:title>
@@ -63104,7 +63584,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/robin-applique-cushion?variant=55558793167223</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86091-Robin-Choir-Applique-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907526</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -63121,7 +63601,7 @@ LED
         <g:service>Next Working Day</g:service>
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674241963</g:gtin>
+      <g:gtin>5023674253072</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Cushion</g:product_type>
@@ -63988,50 +64468,6 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
-      <g:id>CX83676</g:id>
-      <g:item_group_id>15101539746167</g:item_group_id>
-      
-      <g:title>Robin Duo Wooden Stump Decoration</g:title>
-      <g:description>Add a touch of woodland charm to your home with this adorable duo of robin decorations. Each robin is perched on a rustic, wood-look log, bringing warmth and character to shelves, mantels, or table settings. Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/robin-duo-wooden-stump-decoration?variant=55651315876215</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/cx83676-robin-stump-decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757593936</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.29 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5053844454152</g:gtin>
- 
-      <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Christmas Decorations</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>4 cm </g:product_length>
-      <g:product_width>8 cm </g:product_width>
-      <g:product_height>11 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CW85816</g:id>
       <g:item_group_id>15521901576567</g:item_group_id>
       
@@ -64164,7 +64600,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/robins-appear-when-loved-ones-are-near-large-robin-stone?variant=57355373511031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85798-1-Robins-Appear-Small-Remembrance-Stone-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907520</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -64612,7 +65048,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-georgia-pocketed-t-shirt-bra?variant=49006115258685</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/GEORGIASKIN_1024x1024.jpg?v=1719236146</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -80476,7 +80912,7 @@ Filling: Aggregate and Polyester fibre
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84314-Serenity-Aroma-Diffuser-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749223208</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84314-Serenity-Aroma-Diffuser-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749223208</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>16.99 GBP</g:price>
 
       <g:shipping>
@@ -87777,7 +88213,9 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU80560</g:id>
       <g:item_group_id>9521300308285</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -87820,9 +88258,7 @@ LED
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>VFSU2CSOCKF</g:id>
       <g:item_group_id>9521307124029</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -89081,7 +89517,7 @@ LED
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU27829-Stand-Up-To-Cancer-Womens-Short-Logo-Black-TShirt-1-Cancer-Research-UK-Online-Shop_713823c0-6d4c-4df7-bb75-db9fd9ed0bd1_1024x1024.jpg?v=1719231542</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/WBLACKBACK2000X2000_2_1024x1024.jpg?v=1719404374</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>10.00 GBP</g:price>
       <g:sale_price>4.99 GBP</g:sale_price>
 
@@ -89977,50 +90413,6 @@ LED
       <g:custom_label_1>Cancer Care</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR85691</g:id>
-      <g:item_group_id>9521333469501</g:item_group_id>
-      <g:google_product_category>543543</g:google_product_category>
-      <g:title>Sudoku</g:title>
-      <g:description>Give your mind a moment of focus with this beautifully designed puzzle book. Inside, you’ll find a collection of graded Sudoku grids that offer gentle challenge in short bursts of free time. Lightweight and easy to carry, it encourages you to pause, solve and reset anywhere in the day. A thoughtful way to support someone who enjoys quiet puzzles or needs a comforting distraction.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/sudoku?variant=49004370395453</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85691-Sudoku-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585388</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85691-Sudoku-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585387</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85691-Sudoku-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585388</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9781398860209</g:gtin>
-
-      <g:product_type>Puzzle</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>135 mm </g:product_width>
-      <g:product_height>187 mm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Books</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
@@ -94922,7 +95314,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-festive-foliage-recyclable-gift-bag?variant=49005600014653</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW76530-Giftmaker-Festive-Foliage-Medium-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719231622</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.69 GBP</g:price>
       <g:sale_price>1.00 GBP</g:sale_price>
 
@@ -102005,7 +102397,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/until-we-meet-again-small-robin-stone?variant=57355373445495</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85797-Until-We-Meet-Again-Small-Robin-Remembrance-Stone-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907520</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -103150,52 +103542,6 @@ Backing: TPE
 
 	
     <item>
-      <g:id>CR85694</g:id>
-      <g:item_group_id>15391334400375</g:item_group_id>
-      
-      <g:title>Winnie the Pooh: Love From Pooh</g:title>
-      <g:description>Step into the Hundred Acre Wood and wrap someone you love in the warm, fuzzy hug only Winnie‑the‑Pooh can give. Love from Pooh is a charming mini hardback book filled with original quotations from A.A. Milne and decorated with E.H. Shepard’s timeless illustrations. This book is a lovely way to cheer someone up, bring a smile to their day, and remind them they’re never alone.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/winnie-the-pooh-love-from-pooh?variant=56764609626487</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85694-Love-From-Pooh-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771518316</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85694-Love-From-Pooh-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771518328</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85694-Love-From-Pooh-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771518343</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85694-Love-From-Pooh-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771518354</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85694-Love-From-Pooh-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771518366</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>9.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9780008779696</g:gtin>
-
-      <g:product_type>Books</g:product_type>
-
-      <g:size>1</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_width>180 mm </g:product_width>
-      <g:product_height>147 mm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Books</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CD85596</g:id>
       <g:item_group_id>15520896713079</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -104298,50 +104644,6 @@ Backing: TPE
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR85692</g:id>
-      <g:item_group_id>9521424630077</g:item_group_id>
-      <g:google_product_category>543543</g:google_product_category>
-      <g:title>Wordsearch</g:title>
-      <g:description>Exercise your brain, reduce stress, and expand your vocabulary with this pretty, pocket-sized wordsearch. Inside, you’ll find a variety of themed wordsearches, from pets to baking, offering bite‑sized challenges that fit effortlessly into free time. Lightweight and simple to enjoy anywhere, it’s a lovely way to unwind or to gift someone who needs gentle distraction and comfort during treatment or recovery.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/wordsearch?variant=49004470731069</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85692-Wordsearch-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771586059</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85692-Wordsearch-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771586071</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>6.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9781398860216</g:gtin>
-
-      <g:product_type>Puzzle</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:product_width>135 mm </g:product_width>
-      <g:product_height>188 mm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Books</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
