@@ -8794,7 +8794,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84969BLUE-Neck-Pillow-Zebra-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774011271</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84969BLUE-Neck-Pillow-Zebra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774011271</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -9206,7 +9206,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -9225,7 +9225,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-tote-bag?variant=49005483655485</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80623-Bowelbabe-Floral-Tote-Bag-Green-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1763736391</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -9249,7 +9249,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -9291,7 +9291,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -10427,48 +10427,6 @@ Ground sheet: 100% Polyethylene
         <g:price>6.99 GBP</g:price>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247705</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Travel Accessories</g:product_type>
-      <g:color>pink</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>BB84970PINK</g:id>
-      <g:item_group_id>15421206069623</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Pink Leopard Print Travel Tag</g:title>
-      <g:description>Inspired by a legacy that encouraged us to live boldly and unapologetically, this pink leopard print travel tag brings colour, confidence and personality to every journey. Designed for those who aren’t afraid to stand out, its bright pattern makes identifying your luggage quick and stress‑free at airport carousels and busy travel hubs.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-pink-leopard-print-travel-tag?variant=56906832380279</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84970PINK-Luggage-Tag-Leopard-Pink-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774013156</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84970PINK-Luggage-Tag-Leopard-Pink-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774013156</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247712</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Travel Accessories</g:product_type>
@@ -16897,49 +16855,6 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
-      <g:id>CR80235</g:id>
-      <g:item_group_id>14891528192375</g:item_group_id>
-      
-      <g:title>Cars 500-Piece Jigsaw Puzzle</g:title>
-      <g:description>Rev up your puzzle game with this 500-piece Car Jigsaw Puzzle, the perfect blend of challenge and charm for car enthusiasts and puzzle lovers alike. Features:  500-piece Car design jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/cars-500-piece-jigsaw-puzzle-copy?variant=54885336416631</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80235-Car-Jigsaw-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1737040042</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>5.99 GBP</g:price>
-      <g:sale_price>4.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CR80235</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Puzzles</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Crafts</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>WF77005</g:id>
       <g:item_group_id>9520774086973</g:item_group_id>
       <g:google_product_category>197</g:google_product_category>
@@ -21757,7 +21672,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85060</g:id>
       <g:item_group_id>14907874050423</g:item_group_id>
       <g:google_product_category>4143</g:google_product_category>
@@ -21841,9 +21758,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR81543</g:id>
       <g:item_group_id>15483202044279</g:item_group_id>
       <g:google_product_category>6367</g:google_product_category>
@@ -31564,7 +31479,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/forever-in-our-hearts-remembrance-heart-stone?variant=56136491368823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80527-Forever-In-Our-Hearts-Stone-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762444175</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.49 GBP</g:price>
       <g:sale_price>3.99 GBP</g:sale_price>
 
@@ -39936,7 +39851,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84556</g:id>
       <g:item_group_id>15087421194615</g:item_group_id>
       
@@ -40024,9 +39941,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84537</g:id>
       <g:item_group_id>15089096819063</g:item_group_id>
       <g:google_product_category>631</g:google_product_category>
@@ -57368,7 +57283,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX85830</g:id>
       <g:item_group_id>15552116752759</g:item_group_id>
       
@@ -57450,9 +57367,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85628</g:id>
       <g:item_group_id>15552118620535</g:item_group_id>
       
@@ -74891,7 +74806,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -88441,7 +88356,9 @@ LED
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85918</g:id>
       <g:item_group_id>15523689693559</g:item_group_id>
       <g:google_product_category>8213</g:google_product_category>
@@ -88563,9 +88480,7 @@ LED
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SN84908</g:id>
       <g:item_group_id>15352163500407</g:item_group_id>
       <g:google_product_category>538</g:google_product_category>
