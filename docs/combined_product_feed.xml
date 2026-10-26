@@ -8695,49 +8695,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>BB84973BLUE</g:id>
-      <g:item_group_id>15421205938551</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Blue Zebra Stripe Drawstring Travel Toiletries Bag</g:title>
-      <g:description>Travelling with toiletries and makeup can quickly become chaotic, so this spacious toiletries bag keeps everything in one place and easy to access. With built‑in compartments, elastic loops and zipped pockets, it keeps your beauty essentials neatly organised on the go. Contents not included.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-blue-zebra-stripe-drawstring-travel-toiletries-bag?variant=56906854072695</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973BLUE-Zebra-Makeup-Bag-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774011363</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973-Inside-Makeup-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776248193</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973BLUE-Zebra-Makeup-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774011376</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247743</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
-      <g:color>blue</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>BB84975</g:id>
       <g:item_group_id>15421205807479</g:item_group_id>
       
@@ -9206,7 +9163,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Pink</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -9225,7 +9182,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-tote-bag?variant=49005483655485</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80623-Bowelbabe-Floral-Tote-Bag-Green-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1763736391</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -9249,7 +9206,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Pink</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -9291,7 +9248,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Pink</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21758,7 +21715,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR81543</g:id>
       <g:item_group_id>15483202044279</g:item_group_id>
       <g:google_product_category>6367</g:google_product_category>
@@ -21798,9 +21757,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Furniture</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CW85893GOLD</g:id>
       <g:item_group_id>15539970572663</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -33922,49 +33879,6 @@ LED
 
 	
     <item>
-      <g:id>CR85057</g:id>
-      <g:item_group_id>15459980476791</g:item_group_id>
-      <g:google_product_category>5913</g:google_product_category>
-      <g:title>Green Bee Outdoor Seat Pads - Pack of 2</g:title>
-      <g:description>Add a welcome pop of floral colour and extra comfort to your garden or patio with these outdoor seat pads.  Designed to sit neatly on existing chairs, they’re an easy way to refresh outdoor furniture without replacing what you already have.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/green-bee-outdoor-seat-pads-pack-of-2?variant=57024717816183</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85057-Green-Bee-Outdoor-Seat-Pads-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776680208</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>13.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247828</g:gtin>
-
-      <g:product_type>Outdoor Accessories</g:product_type>
-      <g:color>green</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester with water resistant backing</g:material>
-      <g:product_length>38 cm </g:product_length>
-      <g:product_height>38 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR85061</g:id>
       <g:item_group_id>15459918283127</g:item_group_id>
       <g:google_product_category>4143</g:google_product_category>
@@ -34014,7 +33928,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/green-bee-picnic-blanket?variant=57024661553527</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85063-Green-Bee-Stripe-Picnic-Blanket-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776678538</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -39941,7 +39855,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84537</g:id>
       <g:item_group_id>15089096819063</g:item_group_id>
       <g:google_product_category>631</g:google_product_category>
@@ -40112,9 +40028,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84540</g:id>
       <g:item_group_id>15089097113975</g:item_group_id>
       <g:google_product_category>638</g:google_product_category>
@@ -57367,7 +57281,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX85628</g:id>
       <g:item_group_id>15552118620535</g:item_group_id>
       
@@ -57448,9 +57364,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85638</g:id>
       <g:item_group_id>15552118161783</g:item_group_id>
       
@@ -88480,7 +88394,9 @@ LED
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SN84908</g:id>
       <g:item_group_id>15352163500407</g:item_group_id>
       <g:google_product_category>538</g:google_product_category>
@@ -88608,9 +88524,7 @@ LED
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84021</g:id>
       <g:item_group_id>15090028839287</g:item_group_id>
       
