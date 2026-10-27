@@ -236,6 +236,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
+      <g:sale_price>2.79 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -448,7 +449,7 @@
       <g:link>https://shop.cancerresearchuk.org/products/13x17cm-paint-your-own-suncatcher?variant=57015401251191</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86271-13x17cm-Paint-Your-Own-Suncatcher-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776697350</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -1894,6 +1895,7 @@ PINEWOOD
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -2153,7 +2155,7 @@ PINEWOOD
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85714-555-Sticker-Fun-Football-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771596148</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85714-555-Sticker-Fun-Football-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771596148</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -2628,7 +2630,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520895304055</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Alan &amp; Friends 10/20 Christmas Cards - 10</g:title>
-      <g:description>Bring a touch of festive fun to your Christmas greetings with this charming donkey Christmas card, featuring four adorable donkeys gathered around a snowy fence. Dressed in cosy winter accessories, including a Santa hat and colourful scarf, these lovable characters are surrounded by seasonal greenery, twinkling lights, and a sprinkling of snow.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Bring a touch of festive fun to your Christmas greetings with this charming donkey Christmas card, featuring four adorable donkeys gathered around a snowy fence. Dressed in cosy winter accessories, including a Santa hat and colourful scarf, these lovable characters are surrounded by seasonal greenery, twinkling lights, and a sprinkling of snow.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/alan-friends-10-20-christmas-cards?variant=57337926648183</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85565-Alan-and-Friends-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848622</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85565-Alan-and-Friends-Pack-of-10-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -2672,7 +2674,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520895304055</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Alan &amp; Friends 10/20 Christmas Cards - 20</g:title>
-      <g:description>Bring a touch of festive fun to your Christmas greetings with this charming donkey Christmas card, featuring four adorable donkeys gathered around a snowy fence. Dressed in cosy winter accessories, including a Santa hat and colourful scarf, these lovable characters are surrounded by seasonal greenery, twinkling lights, and a sprinkling of snow.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Bring a touch of festive fun to your Christmas greetings with this charming donkey Christmas card, featuring four adorable donkeys gathered around a snowy fence. Dressed in cosy winter accessories, including a Santa hat and colourful scarf, these lovable characters are surrounded by seasonal greenery, twinkling lights, and a sprinkling of snow.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/alan-friends-10-20-christmas-cards?variant=57337981895031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85565-Alan-and-Friends-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848622</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85565-Alan-and-Friends-Pack-of-10-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -3533,7 +3535,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520895336823</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Bah-Humbug Pyramid 10/20 Christmas Cards - 10</g:title>
-      <g:description>Bring a little ewe-mour to Christmas with this fun sheep Christmas card, featuring a festive flock, a cheeky 'Season’s Bleatings' message, and one grumbling sheep who clearly isn't feeling the Christmas spirit. A brilliant choice for anyone who appreciates quirky festive humour.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a happy Christmas and a wonderful New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Bring a little ewe-mour to Christmas with this fun sheep Christmas card, featuring a festive flock, a cheeky 'Season’s Bleatings' message, and one grumbling sheep who clearly isn't feeling the Christmas spirit. A brilliant choice for anyone who appreciates quirky festive humour.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a happy Christmas and a wonderful New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/bah-humbug-pyramid-10-20-christmas-cards?variant=57337926680951</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85566-Bah-Humbug-Pyramid-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848620</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Geese-Sheep-Christmas-Cards-Lifestyle-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787820530</g:additional_image_link>
@@ -3577,7 +3579,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520895336823</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Bah-Humbug Pyramid 10/20 Christmas Cards - 20</g:title>
-      <g:description>Bring a little ewe-mour to Christmas with this fun sheep Christmas card, featuring a festive flock, a cheeky 'Season’s Bleatings' message, and one grumbling sheep who clearly isn't feeling the Christmas spirit. A brilliant choice for anyone who appreciates quirky festive humour.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a happy Christmas and a wonderful New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Bring a little ewe-mour to Christmas with this fun sheep Christmas card, featuring a festive flock, a cheeky 'Season’s Bleatings' message, and one grumbling sheep who clearly isn't feeling the Christmas spirit. A brilliant choice for anyone who appreciates quirky festive humour.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a happy Christmas and a wonderful New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/bah-humbug-pyramid-10-20-christmas-cards?variant=57337982288247</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85566-Bah-Humbug-Pyramid-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848620</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Geese-Sheep-Christmas-Cards-Lifestyle-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787820530</g:additional_image_link>
@@ -6266,7 +6268,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520895369591</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Black &amp; White Christmas 10 Christmas Cards</g:title>
-      <g:description>Finished with exquisite gold foil detailing, this elegant Christmas card showcases a stylish festive street scene gathered around a beautifully decorated Christmas tree. The striking monochrome illustration, complemented by touches of gold, creates a refined and timeless design perfect for sharing warm Christmas greetings.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a happy New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Finished with exquisite gold foil detailing, this elegant Christmas card showcases a stylish festive street scene gathered around a beautifully decorated Christmas tree. The striking monochrome illustration, complemented by touches of gold, creates a refined and timeless design perfect for sharing warm Christmas greetings.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a happy New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/black-white-christmas-10-christmas-cards?variant=57337926713719</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85567-Black-and-White-Christmas-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -7584,6 +7586,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -8784,48 +8787,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>BB84970BLUE</g:id>
-      <g:item_group_id>15449035211127</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Blue Zebra Stripe Travel Tag</g:title>
-      <g:description>Inspired by a legacy that encouraged us to live boldly and unapologetically, this blue zebra stripe travel tag brings colour, confidence and personality to every journey. Designed for those who aren’t afraid to stand out, its bright pattern makes identifying your luggage quick and stress‑free at airport carousels and busy travel hubs.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-blue-zebra-stripe-travel-tag?variant=56988605022583</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84970BLUE-Luggage-Tag-Zebra-Pk-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774013156</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84970BLUE-Luggage-Tag-Zebra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774013156</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247712</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Travel Accessories</g:product_type>
-      <g:color>blue</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>BB84980GREEN</g:id>
       <g:item_group_id>15448841093495</g:item_group_id>
       
@@ -9163,7 +9124,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -9182,7 +9143,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-floral-tote-bag?variant=49005483655485</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80623-Bowelbabe-Floral-Tote-Bag-Green-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1763736391</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.29 GBP</g:sale_price>
 
@@ -9206,7 +9167,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -9248,7 +9209,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Pink</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -10314,49 +10275,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>BB84973PINK</g:id>
-      <g:item_group_id>15449257869687</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Pink Leopard Print Drawstring Travel Toiletries Bag</g:title>
-      <g:description>Travelling with toiletries and makeup can quickly become chaotic, so this spacious toiletries bag keeps everything in one place and easy to access. With built‑in compartments, elastic loops and zipped pockets, it keeps your beauty essentials neatly organised on the go. Contents not included.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-pink-leopard-print-drawstring-travel-toiletries-bag?variant=56988979364215</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973PINK-Leopard-Pink-Makeup-Bag-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1774011363</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973-Inside-Makeup-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776248193</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84973PINK-Leopard-Pink-Makeup-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776248193</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>3.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247743</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
-      <g:color>pink</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>BB84969PINK</g:id>
       <g:item_group_id>15449216844151</g:item_group_id>
       
@@ -11060,7 +10978,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520895402359</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Burgundy Twelve Days 10 Christmas Cards</g:title>
-      <g:description>Inspired by the timeless festive carol, this beautifully designed Christmas card showcases all twelve days of Christmas in a striking collection of detailed illustrations. Finished with elegant satin gold-effect accents and rich seasonal colours, it offers a classic and sophisticated way to share heartfelt Christmas greetings.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Satin gold foil finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Inspired by the timeless festive carol, this beautifully designed Christmas card showcases all twelve days of Christmas in a striking collection of detailed illustrations. Finished with elegant satin gold-effect accents and rich seasonal colours, it offers a classic and sophisticated way to share heartfelt Christmas greetings.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Satin gold foil finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/burgundy-twelve-days-10-christmas-cards?variant=57337926746487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85568-Burgundy-Twelve-Days-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785853274</g:image_link>
       <g:condition>new</g:condition>
@@ -11104,7 +11022,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520897007991</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Busy Christmas Market 10 Welsh Bilingual Christmas Cards</g:title>
-      <g:description>Send Nadolig Llawen and festive wishes with this delightful bilingual Welsh Christmas card, featuring a vibrant market square filled with Christmas cheer. From twinkling lights and decorated stalls to seasonal treats and shoppers enjoying the festivities, every detail captures the warmth and excitement of a traditional Christmas market. A joyful design that's perfect for sharing Christmas greetings in both Welsh and English.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Send Nadolig Llawen and festive wishes with this delightful bilingual Welsh Christmas card, featuring a vibrant market square filled with Christmas cheer. From twinkling lights and decorated stalls to seasonal treats and shoppers enjoying the festivities, every detail captures the warmth and excitement of a traditional Christmas market. A joyful design that's perfect for sharing Christmas greetings in both Welsh and English.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/busy-christmas-market-10-welsh-bilingual-christmas-cards?variant=57337929728375</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85604-Busy-Christmas-Market-Welsh-Edition-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858567</g:image_link>
       <g:condition>new</g:condition>
@@ -11148,7 +11066,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520895435127</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Busy Christmas Market 10/20 Christmas Cards - 10</g:title>
-      <g:description>Step into a vibrant Christmas market filled with festive charm, where sparkling lights, cosy wooden stalls, and a magnificent Christmas tree create a scene of warmth and wonder. Bursting with colour and joyful detail, this enchanting Christmas card perfectly captures the excitement and magic of Christmas.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into a vibrant Christmas market filled with festive charm, where sparkling lights, cosy wooden stalls, and a magnificent Christmas tree create a scene of warmth and wonder. Bursting with colour and joyful detail, this enchanting Christmas card perfectly captures the excitement and magic of Christmas.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/busy-christmas-market-10-20-christmas-cards?variant=57337926779255</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85569-Busy-Christmas-Market-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -11191,7 +11109,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>15520895435127</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Busy Christmas Market 10/20 Christmas Cards - 20</g:title>
-      <g:description>Step into a vibrant Christmas market filled with festive charm, where sparkling lights, cosy wooden stalls, and a magnificent Christmas tree create a scene of warmth and wonder. Bursting with colour and joyful detail, this enchanting Christmas card perfectly captures the excitement and magic of Christmas.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into a vibrant Christmas market filled with festive charm, where sparkling lights, cosy wooden stalls, and a magnificent Christmas tree create a scene of warmth and wonder. Bursting with colour and joyful detail, this enchanting Christmas card perfectly captures the excitement and magic of Christmas.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/busy-christmas-market-10-20-christmas-cards?variant=57337992708471</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85569-Busy-Christmas-Market-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -16869,6 +16787,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16951,6 +16870,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -16994,6 +16914,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17037,6 +16958,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17080,6 +17002,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17123,6 +17046,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -17166,6 +17090,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.69 GBP</g:price>
+      <g:sale_price>1.29 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -18994,7 +18919,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15520895467895</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Christmas Miracle 10/20 Christmas Cards - 10</g:title>
-      <g:description>Reflect on the miracle of Christmas with this stunning 3D-effect Nativity card, beautifully depicting the birth of Christ beneath the guiding Star of Bethlehem. Framed by palm trees and gathered visitors, the peaceful scene radiates faith, love, and hope, making it a meaningful way to send Christmas greetings and celebrate the heart of the Christmas story.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy at Christmas , 3D effect card - Handwritten messages will need to be written on the reverse side of the card, Gold foil and special fold finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Reflect on the miracle of Christmas with this stunning 3D-effect Nativity card, beautifully depicting the birth of Christ beneath the guiding Star of Bethlehem. Framed by palm trees and gathered visitors, the peaceful scene radiates faith, love, and hope, making it a meaningful way to send Christmas greetings and celebrate the heart of the Christmas story.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy at Christmas , 3D effect card - Handwritten messages will need to be written on the reverse side of the card, Gold foil and special fold finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-miracle-10-20-christmas-cards?variant=57337926812023</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85571-Christmas-Miracle-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -19037,7 +18962,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15520895467895</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Christmas Miracle 10/20 Christmas Cards - 20</g:title>
-      <g:description>Reflect on the miracle of Christmas with this stunning 3D-effect Nativity card, beautifully depicting the birth of Christ beneath the guiding Star of Bethlehem. Framed by palm trees and gathered visitors, the peaceful scene radiates faith, love, and hope, making it a meaningful way to send Christmas greetings and celebrate the heart of the Christmas story.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy at Christmas , 3D effect card - Handwritten messages will need to be written on the reverse side of the card, Gold foil and special fold finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Reflect on the miracle of Christmas with this stunning 3D-effect Nativity card, beautifully depicting the birth of Christ beneath the guiding Star of Bethlehem. Framed by palm trees and gathered visitors, the peaceful scene radiates faith, love, and hope, making it a meaningful way to send Christmas greetings and celebrate the heart of the Christmas story.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy at Christmas , 3D effect card - Handwritten messages will need to be written on the reverse side of the card, Gold foil and special fold finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-miracle-10-20-christmas-cards?variant=57337996083575</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85571-Christmas-Miracle-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -20192,7 +20117,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15520895533431</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Christmas Pud Mouse 10/20 Christmas Cards - 10</g:title>
-      <g:description>Celebrate a classic British Christmas with this delightful greeting card, showcasing a curious little mouse perched on a traditional Christmas pudding beneath softly falling snow. Cute, cosy, and full of festive character, this enchanting design is perfect for sending warm Christmas wishes.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Celebrate a classic British Christmas with this delightful greeting card, showcasing a curious little mouse perched on a traditional Christmas pudding beneath softly falling snow. Cute, cosy, and full of festive character, this enchanting design is perfect for sending warm Christmas wishes.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-pud-mouse-10-20-christmas-cards?variant=57337927074167</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85572-Christmas-Pud-Mouse-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848616</g:image_link>
       <g:condition>new</g:condition>
@@ -20235,7 +20160,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15520895533431</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Christmas Pud Mouse 10/20 Christmas Cards - 20</g:title>
-      <g:description>Celebrate a classic British Christmas with this delightful greeting card, showcasing a curious little mouse perched on a traditional Christmas pudding beneath softly falling snow. Cute, cosy, and full of festive character, this enchanting design is perfect for sending warm Christmas wishes.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Celebrate a classic British Christmas with this delightful greeting card, showcasing a curious little mouse perched on a traditional Christmas pudding beneath softly falling snow. Cute, cosy, and full of festive character, this enchanting design is perfect for sending warm Christmas wishes.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-pud-mouse-10-20-christmas-cards?variant=57337997099383</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85572-Christmas-Pud-Mouse-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848616</g:image_link>
       <g:condition>new</g:condition>
@@ -20534,7 +20459,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15520895598967</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Christmas Seaside Scene 10 Christmas Cards</g:title>
-      <g:description>Capture the magic of a coastal Christmas with this beautifully illustrated card, showcasing a charming harbour adorned with twinkling lights, festive boats, and a magnificent Christmas tree. Framed by snowy skies and a moonlit shoreline, this delightful design brings together the beauty of the seaside and the warmth of Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Capture the magic of a coastal Christmas with this beautifully illustrated card, showcasing a charming harbour adorned with twinkling lights, festive boats, and a magnificent Christmas tree. Framed by snowy skies and a moonlit shoreline, this delightful design brings together the beauty of the seaside and the warmth of Christmas.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-seaside-scene-10-christmas-cards?variant=57337927139703</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85573-Christmas-Seaside-Scene-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -21757,7 +21682,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Furniture</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CW85893GOLD</g:id>
       <g:item_group_id>15539970572663</g:item_group_id>
       <g:google_product_category>2816</g:google_product_category>
@@ -21921,9 +21848,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85740</g:id>
       <g:item_group_id>15405432635767</g:item_group_id>
       
@@ -23452,7 +23377,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85501-Firebrick-656-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585958</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85498-Seafoam-651-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585958</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -23474,7 +23399,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23523,7 +23448,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23572,7 +23497,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23621,7 +23546,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23670,7 +23595,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23719,7 +23644,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23768,7 +23693,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23817,7 +23742,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23866,7 +23791,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23915,7 +23840,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23964,7 +23889,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -24013,7 +23938,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Funshine</g:color>
+      <g:color>Raindrop</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -26550,7 +26475,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83845-Dachshund-Applique-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754477699</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83845-Dachshund-Applique-Cushion-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1756815319</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -26843,7 +26768,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15520895631735</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Delicate Silver Bird Tree 10/20 Christmas Cards - 10</g:title>
-      <g:description>Beautifully understated and effortlessly stylish, this contemporary Christmas card showcases a delicate tree filled with colourful garden birds beneath softly falling snow. The clean design and elegant winter palette create a refined festive greeting with timeless appeal.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Silver mirror foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Beautifully understated and effortlessly stylish, this contemporary Christmas card showcases a delicate tree filled with colourful garden birds beneath softly falling snow. The clean design and elegant winter palette create a refined festive greeting with timeless appeal.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Silver mirror foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/delicate-silver-bird-tree-10-20-christmas-cards?variant=57337927172471</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85575-Delicate-Silver-Bird-Tree-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848612</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85575-Delicate-Silver-Bird-Tree-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374591</g:additional_image_link>
@@ -26887,7 +26812,7 @@ Lining 100% Cotton</g:material>
       <g:item_group_id>15520895631735</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Delicate Silver Bird Tree 10/20 Christmas Cards - 20</g:title>
-      <g:description>Beautifully understated and effortlessly stylish, this contemporary Christmas card showcases a delicate tree filled with colourful garden birds beneath softly falling snow. The clean design and elegant winter palette create a refined festive greeting with timeless appeal.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Silver mirror foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Beautifully understated and effortlessly stylish, this contemporary Christmas card showcases a delicate tree filled with colourful garden birds beneath softly falling snow. The clean design and elegant winter palette create a refined festive greeting with timeless appeal.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Silver mirror foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/delicate-silver-bird-tree-10-20-christmas-cards?variant=57337997623671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85575-Delicate-Silver-Bird-Tree-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848612</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85575-Delicate-Silver-Bird-Tree-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374591</g:additional_image_link>
@@ -28052,7 +27977,7 @@ Ground Sheet: 100% Polyethylene
       <g:item_group_id>15520896876919</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Dylan the Welsh Dragon 10 Welsh Bilingual Christmas Cards</g:title>
-      <g:description>Bring a smile to someone's Christmas with this enchanting bilingual Welsh Christmas card, featuring Wales' iconic red dragon curled up with a festive book in a magical winter scene. Full of charm, imagination, and Welsh spirit, it's perfect for sending heartfelt Christmas greetings in both Welsh and English.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Gold foil finish, Coated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Bring a smile to someone's Christmas with this enchanting bilingual Welsh Christmas card, featuring Wales' iconic red dragon curled up with a festive book in a magical winter scene. Full of charm, imagination, and Welsh spirit, it's perfect for sending heartfelt Christmas greetings in both Welsh and English.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Gold foil finish, Coated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/dylan-the-welsh-dragon-10-christmas-cards?variant=57337929400695</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85601-Dylan-The-Welsh-Dragon-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858566</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85601-Dylan-The-Welsh-Dragon-Pack-of-10-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -29386,7 +29311,7 @@ Backing: TPE
       <g:item_group_id>15520895697271</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Ethereal Angel 10 Christmas Cards</g:title>
-      <g:description>Send heartfelt Christmas Wishes with this beautiful traditional angel Christmas card, featuring a graceful angel adorned with a crown of winter greenery and berries, gently holding a candle's guiding light. Surrounded by delicate stars and soft festive tones, the enchanting artwork evokes peace, hope, and the timeless spirit of Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Silver mirror foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Send heartfelt Christmas Wishes with this beautiful traditional angel Christmas card, featuring a graceful angel adorned with a crown of winter greenery and berries, gently holding a candle's guiding light. Surrounded by delicate stars and soft festive tones, the enchanting artwork evokes peace, hope, and the timeless spirit of Christmas.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Silver mirror foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/ethereal-angel-10-christmas-cards?variant=57337927238007</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85576-Ethereal-Angel-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -29961,6 +29886,7 @@ Backing: TPE
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30099,6 +30025,7 @@ Backing: TPE
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>8.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -30560,7 +30487,7 @@ Backing: TPE
       <g:item_group_id>15520895762807</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Fergus &amp; Friends First Snow 10 Christmas Cards</g:title>
-      <g:description>From snowy fields to frost-covered trees, this delightful Christmas card captures the beauty of the countryside in winter. Featuring three woolly sheep braving the first snowfall, it's a charming choice for lovers of rural life.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>From snowy fields to frost-covered trees, this delightful Christmas card captures the beauty of the countryside in winter. Featuring three woolly sheep braving the first snowfall, it's a charming choice for lovers of rural life.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/fergus-friends-first-snow-10-christmas-cards?variant=57337927303543</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85577-Fergus-and-Friends-First-Snow-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -31294,7 +31221,7 @@ Backing: TPE
       <g:item_group_id>15520895795575</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Following Yonder Star 10/20 Christmas Cards - 10</g:title>
-      <g:description>Share the true meaning of Christmas with this beautiful religious Christmas card, featuring the Three Kings travelling beneath the guiding Star of Bethlehem. Richly illustrated with vibrant colours and intricate details, the peaceful desert scene captures the wonder of the Nativity story as the Wise Men journey to honour the new-born King.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy at Christmas , Gold foil finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Share the true meaning of Christmas with this beautiful religious Christmas card, featuring the Three Kings travelling beneath the guiding Star of Bethlehem. Richly illustrated with vibrant colours and intricate details, the peaceful desert scene captures the wonder of the Nativity story as the Wise Men journey to honour the new-born King.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy at Christmas , Gold foil finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/following-yonder-star-10-20-christmas-cards?variant=57337927336311</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85578-Following-Yonder-Star-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85578-Following-Yonder-Star-Pack-of-10-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -31339,7 +31266,7 @@ Backing: TPE
       <g:item_group_id>15520895795575</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Following Yonder Star 10/20 Christmas Cards - 20</g:title>
-      <g:description>Share the true meaning of Christmas with this beautiful religious Christmas card, featuring the Three Kings travelling beneath the guiding Star of Bethlehem. Richly illustrated with vibrant colours and intricate details, the peaceful desert scene captures the wonder of the Nativity story as the Wise Men journey to honour the new-born King.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy at Christmas , Gold foil finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Share the true meaning of Christmas with this beautiful religious Christmas card, featuring the Three Kings travelling beneath the guiding Star of Bethlehem. Richly illustrated with vibrant colours and intricate details, the peaceful desert scene captures the wonder of the Nativity story as the Wise Men journey to honour the new-born King.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy at Christmas , Gold foil finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/following-yonder-star-10-20-christmas-cards?variant=57337999786359</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85578-Following-Yonder-Star-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85578-Following-Yonder-Star-Pack-of-10-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -33710,7 +33637,7 @@ LED
       <g:item_group_id>15520895828343</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Gonk's Driving Home For Christmas 10 Christmas Cards</g:title>
-      <g:description>Take a festive road trip with this adorable gonk Christmas card, showcasing two merry gonks, a car full of presents, and plenty of Christmas spirit. Colourful, cheerful, and full of character, this playful design is the perfect way to send fun-filled Christmas wishes.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Gold foil finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Take a festive road trip with this adorable gonk Christmas card, showcasing two merry gonks, a car full of presents, and plenty of Christmas spirit. Colourful, cheerful, and full of character, this playful design is the perfect way to send fun-filled Christmas wishes.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Gold foil finish, Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/gonks-driving-home-for-christmas-10-christmas-cards?variant=57337927369079</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85579-Gonks-Driving-Home-For-Christmas-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -34366,6 +34293,7 @@ LED
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -34412,6 +34340,7 @@ LED
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -34448,7 +34377,7 @@ LED
       <g:item_group_id>15520895861111</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Hamish &amp; Family Ready For Santa 10/20 Christmas Cards - 10</g:title>
-      <g:description>Bring a smile to someone’s Christmas with this adorable Highland Cow card, featuring a charming trio of shaggy cows peeking over a snowy fence with colourful festive stockings hanging below.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Make someone’s Christmas that bit brighter with this adorable Highland Cow card, where three fluffy-fringed cows peek over a snow-dusted fence above their colourful stockings.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hamish-family-ready-for-santa-10-20-christmas-cards?variant=57337927401847</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85580-Hamish-Family-Ready-For-Santa-Pack-of-10-Christmas-CardS-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785852442</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85580-Hamish--Family-Ready-For-Santa-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -34492,7 +34421,7 @@ LED
       <g:item_group_id>15520895861111</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Hamish &amp; Family Ready For Santa 10/20 Christmas Cards - 20</g:title>
-      <g:description>Bring a smile to someone’s Christmas with this adorable Highland Cow card, featuring a charming trio of shaggy cows peeking over a snowy fence with colourful festive stockings hanging below.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Make someone’s Christmas that bit brighter with this adorable Highland Cow card, where three fluffy-fringed cows peek over a snow-dusted fence above their colourful stockings.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hamish-family-ready-for-santa-10-20-christmas-cards?variant=57338001391991</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85580-Hamish-Family-Ready-For-Santa-Pack-of-10-Christmas-CardS-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785852442</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85580-Hamish--Family-Ready-For-Santa-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -35193,8 +35122,9 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85282-Enter-If-You-Dare-Happy-Halloween-Tea-Towels-Duo-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907528</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85282S-and-SN85282P-Halloween-Tea-Towels-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961372</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -40028,7 +39958,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84540</g:id>
       <g:item_group_id>15089097113975</g:item_group_id>
       <g:google_product_category>638</g:google_product_category>
@@ -40118,9 +40050,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42307</g:id>
       <g:item_group_id>14909141811575</g:item_group_id>
       
@@ -40397,7 +40327,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520895893879</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Just A Little Something 10 Christmas Cards</g:title>
-      <g:description>Beautifully simple and full of festive charm, this minimalist Christmas card features a delightful wren carrying a special gift beneath softly falling snow. With its delicate artwork and understated design, it offers a thoughtful and elegant way to send Christmas Wishes to loved ones.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Beautifully simple and full of festive charm, this minimalist Christmas card features a delightful wren carrying a special gift beneath softly falling snow. With its delicate artwork and understated design, it offers a thoughtful and elegant way to send Christmas Wishes to loved ones.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/just-a-little-something-10-christmas-cards?variant=57337927434615</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85581-Just-A-Little-Something-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848609</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85581-Just-A-Little-Something-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374588</g:additional_image_link>
@@ -40645,6 +40575,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -41221,6 +41152,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -41979,7 +41911,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520895926647</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Last Post To Santa 10 Christmas Cards</g:title>
-      <g:description>Step into a magical snowy Christmas scene, where a faithful little puppy delivers a special letter to Santa beneath a starlit winter sky. With cheerful robins perched nearby, a glowing Christmas tree, and snowflakes gently drifting through the air, this charming card celebrates the wonder, hope, and joy of Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into a magical snowy Christmas scene, where a faithful little puppy delivers a special letter to Santa beneath a starlit winter sky. With cheerful robins perched nearby, a glowing Christmas tree, and snowflakes gently drifting through the air, this charming card celebrates the wonder, hope, and joy of Christmas.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/last-post-to-santa-10-christmas-cards?variant=57337928122743</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85582-Last-Post-To-Santa-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -42799,7 +42731,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520897237367</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>London City Scene 10 Christmas Cards</g:title>
-      <g:description>Capture the magic of Christmas in the heart of the capital with this stunning London-themed Christmas card. Complete with a classic red double-decker bus, sparkling Christmas lights, a magnificent tree, and some of London's most iconic landmarks, this card beautifully celebrates the charm of the city at Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads:  Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Capture the magic of Christmas in the heart of the capital with this stunning London-themed Christmas card. Complete with a classic red double-decker bus, sparkling Christmas lights, a magnificent tree, and some of London's most iconic landmarks, this card beautifully celebrates the charm of the city at Christmas.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads:  Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/london-city-scene-10-christmas-cards?variant=57337929957751</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85610-London-City-Scene-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785944451</g:image_link>
       <g:condition>new</g:condition>
@@ -42887,7 +42819,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520897204599</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>London Icons 10 Christmas Cards</g:title>
-      <g:description>Send festive greetings from the capital with this stylish London Christmas card, showcasing a collection of the city's most beloved landmarks beneath a sparkling winter sky. From Big Ben and the London Eye to the Tower of London and the iconic red telephone box, this beautifully illustrated design captures the unique character of London at Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Send festive greetings from the capital with this stylish London Christmas card, showcasing a collection of the city's most beloved landmarks beneath a sparkling winter sky. From Big Ben and the London Eye to the Tower of London and the iconic red telephone box, this beautifully illustrated design captures the unique character of London at Christmas.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/london-icons-10-christmas-cards?variant=57337929924983</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85609-London-Icons-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785944450</g:image_link>
       <g:condition>new</g:condition>
@@ -46321,6 +46253,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -47337,6 +47270,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -48346,7 +48280,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-flake-free-anti-dandruff-shampoo?variant=55823491465591</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW85013-MooGoo-Flakefree-Shampoo-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1758641041</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.49 GBP</g:price>
 
       <g:shipping>
@@ -50032,7 +49966,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520895959415</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Moonlight Prancer 10 Christmas Cards</g:title>
-      <g:description>Step into a magical woodland wonderland with this enchanting Christmas card, where moonlight dances across a snow-covered forest and woodland creatures quietly roam beneath the stars. A graceful fox wanders through the sparkling snow while robins, rabbits, and an owl watch from their wintery surroundings.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Season's Greetings, Silver foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into a magical woodland wonderland with this enchanting Christmas card, where moonlight dances across a snow-covered forest and woodland creatures quietly roam beneath the stars. A graceful fox wanders through the sparkling snow while robins, rabbits, and an owl watch from their wintery surroundings.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Season's Greetings, Silver foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/moonlight-prancer-10-christmas-cards?variant=57337928155511</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85583-Moonlight-Prancer-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -50211,7 +50145,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520896024951</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Nativity Silhouette 10 Christmas Cards</g:title>
-      <g:description>Share the blessing of Christmas with this beautiful traditional Christmas card, featuring the Holy Family gathered beneath the radiant Star of Bethlehem. Framed by elegant golden details and rich colours, the sacred Nativity scene captures the wonder of Christ’s birth and the hope, peace, and joy at the heart of the Christmas story.  This card has a die-cut front frame rather than a full front cover.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Blank inside for your own message , Gold foil and die cut finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Share the blessing of Christmas with this beautiful traditional Christmas card, featuring the Holy Family gathered beneath the radiant Star of Bethlehem. Framed by elegant golden details and rich colours, the sacred Nativity scene captures the wonder of Christ’s birth and the hope, peace, and joy at the heart of the Christmas story.  This card has a die-cut front frame rather than a full front cover.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Blank inside for your own message , Gold foil and die cut finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/nativity-silhouette-10-christmas-cards?variant=57337928221047</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85584-Nativity-Silhouette-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848616</g:image_link>
       <g:condition>new</g:condition>
@@ -50338,7 +50272,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520896090487</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>No Peeking! 10 Christmas Cards</g:title>
-      <g:description>Step into a magical winter scene with this enchanting Christmas card, where three inquisitive dogs peek through a bright red gate beneath softly falling snow. Accented with festive holly, winter berries, and a friendly robin, this delightful design captures the wonder of Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into a magical winter scene with this enchanting Christmas card, where three inquisitive dogs peek through a bright red gate beneath softly falling snow. Accented with festive holly, winter berries, and a friendly robin, this delightful design captures the wonder of Christmas.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/no-peeking-10-christmas-cards?variant=57337928384887</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85585-No-Peeking-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -52037,7 +51971,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520896123255</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Peace On Earth Dove 10/20 Christmas Cards - 10</g:title>
-      <g:description>Share a timeless Christmas message with this traditional card, featuring a graceful white dove carrying an olive branch as it glides through a festive wreath of holly and winter foliage. Set against a soft blue background, the elegant artwork is accompanied by the heartfelt greeting ‘Peace on Earth’, making it a meaningful choice for sending warm wishes to family, friends, and loved ones.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Share a timeless Christmas message with this traditional card, featuring a graceful white dove carrying an olive branch as it glides through a festive wreath of holly and winter foliage. Set against a soft blue background, the elegant artwork is accompanied by the heartfelt greeting ‘Peace on Earth’, making it a meaningful choice for sending warm wishes to family, friends, and loved ones.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/peace-on-earth-dove-10-20-christmas-cards?variant=57337928417655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85586-Peace-On-Earth-Dove-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848622</g:image_link>
       <g:condition>new</g:condition>
@@ -52080,7 +52014,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520896123255</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Peace On Earth Dove 10/20 Christmas Cards - 20</g:title>
-      <g:description>Share a timeless Christmas message with this traditional card, featuring a graceful white dove carrying an olive branch as it glides through a festive wreath of holly and winter foliage. Set against a soft blue background, the elegant artwork is accompanied by the heartfelt greeting ‘Peace on Earth’, making it a meaningful choice for sending warm wishes to family, friends, and loved ones.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Share a timeless Christmas message with this traditional card, featuring a graceful white dove carrying an olive branch as it glides through a festive wreath of holly and winter foliage. Set against a soft blue background, the elegant artwork is accompanied by the heartfelt greeting ‘Peace on Earth’, making it a meaningful choice for sending warm wishes to family, friends, and loved ones.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you peace and joy , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/peace-on-earth-dove-10-20-christmas-cards?variant=57338016203127</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85586-Peace-On-Earth-Dove-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848622</g:image_link>
       <g:condition>new</g:condition>
@@ -53356,6 +53290,49 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
+      <g:id>LW31644</g:id>
+      <g:item_group_id>9521081418045</g:item_group_id>
+      <g:google_product_category>4453</g:google_product_category>
+      <g:title>Post-Surgery Heart Comfort Cushion - Grey</g:title>
+      <g:description>This post‑surgery heart cushion is thoughtfully designed to offer soothing comfort and support after mastectomy, lumpectomy, or lymph node procedures. Its gentle heart‑shaped design sits naturally under the arm and across the chest, helping to ease pressure on sensitive areas, reduce rubbing from clothing, and cushion tender incision sites. A satin ribbon is attached so the cushion can be tied over the shoulder, keeping it securely in place without the need to hold it. Fully adjustable, the ribbon allows you to position the cushion exactly where you need extra relief, offering personalised comfort as swelling, sensitivity, or mobility changes throughout the healing process. Features:  Super soft faux velvet , 40 x 27 cm approx., Ribbon fastening, Fabrics may vary slightly, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/post-surgery-heart-comfort-cushion?variant=49004085084477</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW31644-Grey-Heart-Comfort-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727445480</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>14.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674196331</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Cushion</g:product_type>
+
+      <g:color>Grey</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% polyester hollowfibre filling</g:material>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_3>Own Brand</g:custom_label_3>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+	
+    <item>
       <g:id>LW42349</g:id>
       <g:item_group_id>9521081418045</g:item_group_id>
       <g:google_product_category>4453</g:google_product_category>
@@ -53383,49 +53360,6 @@ Backing: 100% Polypropylene</g:material>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin />
       <g:mpn>LW42349</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Cushion</g:product_type>
-
-      <g:color>Grey</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>100% polyester hollowfibre filling</g:material>
-      <g:custom_label_0>Cancer Care</g:custom_label_0>
-      <g:custom_label_1>Cancer Care</g:custom_label_1>
-      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
-      <g:custom_label_3>Own Brand</g:custom_label_3>
-      <g:custom_label_4>Cancer Care</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>LW31644</g:id>
-      <g:item_group_id>9521081418045</g:item_group_id>
-      <g:google_product_category>4453</g:google_product_category>
-      <g:title>Post-Surgery Heart Comfort Cushion - Grey</g:title>
-      <g:description>This post‑surgery heart cushion is thoughtfully designed to offer soothing comfort and support after mastectomy, lumpectomy, or lymph node procedures. Its gentle heart‑shaped design sits naturally under the arm and across the chest, helping to ease pressure on sensitive areas, reduce rubbing from clothing, and cushion tender incision sites. A satin ribbon is attached so the cushion can be tied over the shoulder, keeping it securely in place without the need to hold it. Fully adjustable, the ribbon allows you to position the cushion exactly where you need extra relief, offering personalised comfort as swelling, sensitivity, or mobility changes throughout the healing process. Features:  Super soft faux velvet , 40 x 27 cm approx., Ribbon fastening, Fabrics may vary slightly, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/post-surgery-heart-comfort-cushion?variant=49004085084477</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW31644-Grey-Heart-Comfort-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727445480</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>14.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674196331</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Cushion</g:product_type>
@@ -56546,6 +56480,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56589,6 +56524,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56635,6 +56571,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56678,6 +56615,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
+      <g:sale_price>1.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56724,6 +56662,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56767,6 +56706,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56813,6 +56753,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56856,6 +56797,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56902,6 +56844,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56945,6 +56888,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -56991,6 +56935,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -57034,6 +56979,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
+      <g:sale_price>3.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -57127,6 +57073,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>3.49 GBP</g:price>
+      <g:sale_price>2.39 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -57364,7 +57311,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX85638</g:id>
       <g:item_group_id>15552118161783</g:item_group_id>
       
@@ -57444,9 +57393,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85643</g:id>
       <g:item_group_id>15552118030711</g:item_group_id>
       
@@ -62101,7 +62048,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:item_group_id>15520896221559</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Radiant Robin 10 Christmas Cards</g:title>
-      <g:description>Send a little Christmas warmth with this charming robin card, featuring Britain’s favourite festive bird perched among frosted holly, winter berries, and delicate seasonal foliage. Set against a peaceful snowy night sky, the robin’s bright red breast brings a delightful pop of colour to the beautifully detailed illustration.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Season's Greetings , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Send a little Christmas warmth with this charming robin card, featuring Britain’s favourite festive bird perched among frosted holly, winter berries, and delicate seasonal foliage. Set against a peaceful snowy night sky, the robin’s bright red breast brings a delightful pop of colour to the beautifully detailed illustration.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Season's Greetings , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/radiant-robin-10-christmas-cards?variant=57337928712567</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85587-Radiant-Robin-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85587-Radiant-Robin-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -63820,7 +63767,7 @@ LED
       <g:item_group_id>15520897171831</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Repeat Scotties 10 Christmas Cards</g:title>
-      <g:description>Add a little canine charm to your Christmas greetings with this fun Scottish terrier Christmas card, featuring a playful pattern of adorable Scotties dressed in festive jumpers, scarves, and seasonal accessories.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads:  With best wishes for Christmas and the New Year , Red foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Add a little canine charm to your Christmas greetings with this fun Scottish terrier Christmas card, featuring a playful pattern of adorable Scotties dressed in festive jumpers, scarves, and seasonal accessories.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads:  With best wishes for Christmas and the New Year , Red foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/repeat-scotties-10-christmas-cards?variant=57337929892215</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85608-Repeat-Scotties-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858557</g:image_link>
       <g:condition>new</g:condition>
@@ -65095,7 +65042,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520896287095</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Robins' Chorus 10/20 Christmas Cards - 10</g:title>
-      <g:description>Bring a smile to someone's Christmas with this sweet robin Christmas card, showcasing three cheerful robins singing together beneath softly falling snow.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Bring a smile to someone's Christmas with this sweet robin Christmas card, showcasing three cheerful robins singing together beneath softly falling snow.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/robins-chorus-10-20-christmas-cards?variant=57337928778103</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85588-Robins-Chorus-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848617</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85588-Robins-Chorus-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -65139,7 +65086,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520896287095</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Robins' Chorus 10/20 Christmas Cards - 20</g:title>
-      <g:description>Bring a smile to someone's Christmas with this sweet robin Christmas card, showcasing three cheerful robins singing together beneath softly falling snow.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Bring a smile to someone's Christmas with this sweet robin Christmas card, showcasing three cheerful robins singing together beneath softly falling snow.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/robins-chorus-10-20-christmas-cards?variant=57338064863607</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85588-Robins-Chorus-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848617</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85588-Robins-Chorus-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -79773,7 +79720,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520896319863</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Santa Special 10/20 Christmas Cards - 10</g:title>
-      <g:description>All aboard for a magical Christmas journey with this wonderfully festive card featuring the enchanting Santa Special steam train. Adorned with twinkling lights, vibrant wreaths, and rich seasonal colours, the beautifully decorated locomotive steams through a snowy woodland landscape as Santa waves from the carriage.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wises for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>All aboard for a magical Christmas journey with this wonderfully festive card featuring the enchanting Santa Special steam train. Adorned with twinkling lights, vibrant wreaths, and rich seasonal colours, the beautifully decorated locomotive steams through a snowy woodland landscape as Santa waves from the carriage.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wises for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/santa-special-10-20-christmas-cards?variant=57337928810871</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85589-Santa-Special-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -79816,7 +79763,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15520896319863</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Santa Special 10/20 Christmas Cards - 20</g:title>
-      <g:description>All aboard for a magical Christmas journey with this wonderfully festive card featuring the enchanting Santa Special steam train. Adorned with twinkling lights, vibrant wreaths, and rich seasonal colours, the beautifully decorated locomotive steams through a snowy woodland landscape as Santa waves from the carriage.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wises for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>All aboard for a magical Christmas journey with this wonderfully festive card featuring the enchanting Santa Special steam train. Adorned with twinkling lights, vibrant wreaths, and rich seasonal colours, the beautifully decorated locomotive steams through a snowy woodland landscape as Santa waves from the carriage.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wises for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/santa-special-10-20-christmas-cards?variant=57338327400823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85589-Santa-Special-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -80532,7 +80479,7 @@ Filling: Aggregate and Polyester fibre
       <g:item_group_id>15520897106295</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Scottish Icons 10 Christmas Cards</g:title>
-      <g:description>Celebrate Christmas with a charming illustration of Edinburgh alongside some of Scotland’s most iconic landmarks. From the historic city skyline to picturesque winter scenes, this beautifully detailed card captures the magic of Scotland at Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Uncoated 250gsm FSC board, Silver foil finish, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Celebrate Christmas with a charming illustration of Edinburgh alongside some of Scotland’s most iconic landmarks. From the historic city skyline to picturesque winter scenes, this beautifully detailed card captures the magic of Scotland at Christmas.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Uncoated 250gsm FSC board, Silver foil finish, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/scottish-icons-10-christmas-cards?variant=57337929826679</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85607-Scottish-Icons-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858556</g:image_link>
       <g:condition>new</g:condition>
@@ -80662,7 +80609,7 @@ Filling: Aggregate and Polyester fibre
       <g:item_group_id>15520896942455</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Season's Bleatings 10 Welsh Bilingual Christmas Cards</g:title>
-      <g:description>Send Nadolig Llawen and festive wishes with this fun-filled bilingual Welsh Christmas card, featuring a playful pyramid of sheep dressed for the celebrations. Complete with Santa hats, a festive scarf, and plenty of cheerful ‘bahs’, this quirky design is bursting with personality and humour.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Coated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Send Nadolig Llawen and festive wishes with this fun-filled bilingual Welsh Christmas card, featuring a playful pyramid of sheep dressed for the celebrations. Complete with Santa hats, a festive scarf, and plenty of cheerful ‘bahs’, this quirky design is bursting with personality and humour.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Coated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/seasons-bleatings-10-welsh-bilingual-christmas-cards?variant=57337929466231</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85603-Seasons-Bleatings-Welsh-Edition-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858566</g:image_link>
       <g:condition>new</g:condition>
@@ -83850,11 +83797,53 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
+      <g:id>CR80233</g:id>
+      <g:item_group_id>14891526979959</g:item_group_id>
+      
+      <g:title>Sheep 1000-Piece Jigsaw Puzzle</g:title>
+      <g:description>Welcome to the cosiest flock in the meadow! This charming jigsaw is packed with fluffy, wide-eyed sheep wandering through a sunny field of wildflowers, and many of them are snug in hand-knitted jumpers, bobble hats and bows. Features:  1,000-piece Sheep design jigsaw puzzle, Made from high quality coated board, Exclusive to Cancer Research UK,  When you've completed your puzzle, why not donate it to your nearest Cancer Research UK shop to be loved by someone else? Find your nearest shop or superstore here.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/sheep-1000-piece-jigsaw-puzzle?variant=54885331468663</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80233-Sheep-Jigsaw-Online-Shop-Cancer-Research-UK_1024x1024.jpg?v=1737039955</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>out of stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin />
+      <g:mpn>CR80233</g:mpn>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Puzzle</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CD85605</g:id>
       <g:item_group_id>15520897040759</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Shimmery Silver Tree 10 Welsh Bilingual Christmas Cards</g:title>
-      <g:description>Send Nadolig Llawen and Season’s Greetings with this elegant bilingual Welsh Christmas card, featuring a beautifully illustrated tree adorned with delicate festive details. The minimalist design and soft, understated artwork create a sense of tranquillity and timeless charm, making it a thoughtful choice for sharing Christmas wishes with family, friends, and loved ones.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Fluted holographic foil finish, Uncoated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Send Nadolig Llawen and Season’s Greetings with this elegant bilingual Welsh Christmas card, featuring a beautifully illustrated tree adorned with delicate festive details. The minimalist design and soft, understated artwork create a sense of tranquillity and timeless charm, making it a thoughtful choice for sharing Christmas wishes with family, friends, and loved ones.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Fluted holographic foil finish, Uncoated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/shimmery-silver-tree-10-welsh-bilingual-christmas-cards?variant=57337929761143</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85605-Shimmery-Silver-Tree-Welsh-Edition-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858567</g:image_link>
       <g:condition>new</g:condition>
@@ -83898,7 +83887,7 @@ Filling: Aggregate and Polyester fibre
       <g:item_group_id>15520896385399</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Shimmery Silver Tree 10/20 Christmas Cards - 10</g:title>
-      <g:description>Embrace the beauty of simplicity with this elegant Christmas card, featuring a delicately illustrated tree adorned with subtle festive touches. The intricate branches and understated design create a timeless, sophisticated look.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year , Fluted holographic foil, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Embrace the beauty of simplicity with this elegant Christmas card, featuring a delicately illustrated tree adorned with subtle festive touches. The intricate branches and understated design create a timeless, sophisticated look.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year , Fluted holographic foil, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/shimmery-silver-tree-10-20-christmas-cards?variant=57337928909175</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85590-Shimmery-Silver-Tree-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -83941,7 +83930,7 @@ Filling: Aggregate and Polyester fibre
       <g:item_group_id>15520896385399</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Shimmery Silver Tree 10/20 Christmas Cards - 20</g:title>
-      <g:description>Embrace the beauty of simplicity with this elegant Christmas card, featuring a delicately illustrated tree adorned with subtle festive touches. The intricate branches and understated design create a timeless, sophisticated look.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year , Fluted holographic foil, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Embrace the beauty of simplicity with this elegant Christmas card, featuring a delicately illustrated tree adorned with subtle festive touches. The intricate branches and understated design create a timeless, sophisticated look.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year , Fluted holographic foil, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/shimmery-silver-tree-10-20-christmas-cards?variant=57338344604023</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85590-Shimmery-Silver-Tree-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -85156,7 +85145,7 @@ Filling: Aggregate and Polyester fibre
       <g:item_group_id>15520896516471</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Silly Geese 10/20 Christmas Cards - 10</g:title>
-      <g:description>Bring a touch of festive fun to your Christmas greetings with this delightful card featuring a lively parade of geese dressed for the season. Set against a starry winter night, these cheerful feathered friends waddle through the snow adorned with twinkling lights, cosy scarves, a sparkling crown, and a Santa hat.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Bring a touch of festive fun to your Christmas greetings with this delightful card featuring a lively parade of geese dressed for the season. Set against a starry winter night, these cheerful feathered friends waddle through the snow adorned with twinkling lights, cosy scarves, a sparkling crown, and a Santa hat.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/silly-geese-10-20-christmas-cards?variant=57337929040247</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85591-Silly-Geese-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848622</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Geese-Sheep-Christmas-Cards-Lifestyle-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787820530</g:additional_image_link>
@@ -85200,7 +85189,7 @@ Filling: Aggregate and Polyester fibre
       <g:item_group_id>15520896516471</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Silly Geese 10/20 Christmas Cards - 20</g:title>
-      <g:description>Bring a touch of festive fun to your Christmas greetings with this delightful card featuring a lively parade of geese dressed for the season. Set against a starry winter night, these cheerful feathered friends waddle through the snow adorned with twinkling lights, cosy scarves, a sparkling crown, and a Santa hat.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Bring a touch of festive fun to your Christmas greetings with this delightful card featuring a lively parade of geese dressed for the season. Set against a starry winter night, these cheerful feathered friends waddle through the snow adorned with twinkling lights, cosy scarves, a sparkling crown, and a Santa hat.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Have a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/silly-geese-10-20-christmas-cards?variant=57338499858807</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85591-Silly-Geese-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848622</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Geese-Sheep-Christmas-Cards-Lifestyle-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787820530</g:additional_image_link>
@@ -86483,7 +86472,7 @@ LED
       <g:item_group_id>15520896549239</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Soft Green Wreath 10/20 Christmas Cards - 10</g:title>
-      <g:description>Celebrate Christmas with this beautifully refined wreath card, showcasing a graceful arrangement of evergreen sprigs, seasonal foliage, and golden details. The soft colour palette and elegant design create a timeless festive greeting that's both stylish and heart-warming.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Celebrate Christmas with this beautifully refined wreath card, showcasing a graceful arrangement of evergreen sprigs, seasonal foliage, and golden details. The soft colour palette and elegant design create a timeless festive greeting that's both stylish and heart-warming.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/soft-green-wreath-10-20-christmas-cards?variant=57366671262071</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85592-Soft-Green-Wreath-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -86526,7 +86515,7 @@ LED
       <g:item_group_id>15520896549239</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Soft Green Wreath 10/20 Christmas Cards - 20</g:title>
-      <g:description>Celebrate Christmas with this beautifully refined wreath card, showcasing a graceful arrangement of evergreen sprigs, seasonal foliage, and golden details. The soft colour palette and elegant design create a timeless festive greeting that's both stylish and heart-warming.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Celebrate Christmas with this beautifully refined wreath card, showcasing a graceful arrangement of evergreen sprigs, seasonal foliage, and golden details. The soft colour palette and elegant design create a timeless festive greeting that's both stylish and heart-warming.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/soft-green-wreath-10-20-christmas-cards?variant=57366671294839</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85592-Soft-Green-Wreath-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -86866,130 +86855,6 @@ LED
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:product_height>50 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR86259GREEN</g:id>
-      <g:item_group_id>15458028388727</g:item_group_id>
-      
-      <g:title>Soleil Outdoor Seat Pad - Green</g:title>
-      <g:description>Perfect for outdoor seating this summer, this lightly padded seat pad makes garden chairs, benches and picnic spots more comfortable. The vibrant striped design comes in fresh summer tones, finished with tie fastenings to help keep it securely in place. Easy to move and style, it works well for alfresco dining or relaxed afternoons outside.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-seat-pad?variant=57056618381687</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86259-40x40cm-Soleil-Seat-Pad-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442740</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418689140</g:gtin>
- 
-      <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Cushion</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR86259YELLOW</g:id>
-      <g:item_group_id>15458028388727</g:item_group_id>
-      
-      <g:title>Soleil Outdoor Seat Pad - Yellow</g:title>
-      <g:description>Perfect for outdoor seating this summer, this lightly padded seat pad makes garden chairs, benches and picnic spots more comfortable. The vibrant striped design comes in fresh summer tones, finished with tie fastenings to help keep it securely in place. Easy to move and style, it works well for alfresco dining or relaxed afternoons outside.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-seat-pad?variant=57056618414455</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86259-40x40cm-Soleil-Seat-Pad-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442740</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418689140</g:gtin>
- 
-      <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Cushion</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
-      <g:id>CR86259BLUE</g:id>
-      <g:item_group_id>15458028388727</g:item_group_id>
-      
-      <g:title>Soleil Outdoor Seat Pad - Blue</g:title>
-      <g:description>Perfect for outdoor seating this summer, this lightly padded seat pad makes garden chairs, benches and picnic spots more comfortable. The vibrant striped design comes in fresh summer tones, finished with tie fastenings to help keep it securely in place. Easy to move and style, it works well for alfresco dining or relaxed afternoons outside.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/soleil-outdoor-seat-pad?variant=57056618447223</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86259-40x40cm-Soleil-Seat-Pad-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442740</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>8.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418689140</g:gtin>
- 
-      <g:brand>Temerity Jones</g:brand>
-      <g:product_type>Cushion</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -88239,6 +88104,7 @@ LED
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>2.99 GBP</g:price>
+      <g:sale_price>1.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -88524,7 +88390,9 @@ LED
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84021</g:id>
       <g:item_group_id>15090028839287</g:item_group_id>
       
@@ -88612,9 +88480,7 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU84274</g:id>
       <g:item_group_id>15144570683767</g:item_group_id>
       
@@ -91576,7 +91442,7 @@ LED
       <g:item_group_id>15520896582007</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>The Everlasting Light 10 Christmas Cards</g:title>
-      <g:description>Inspired by the timeless Christmas story, this traditional Christmas card portrays the Nativity beneath a shining heavenly star, as the Three Kings make their sacred journey across the desert. Rich in colour, symbolism, and festive beauty, it offers a meaningful way to share Christmas greetings with loved ones.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Coated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Inspired by the timeless Christmas story, this traditional Christmas card portrays the Nativity beneath a shining heavenly star, as the Three Kings make their sacred journey across the desert. Rich in colour, symbolism, and festive beauty, it offers a meaningful way to share Christmas greetings with loved ones.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Coated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/the-everlasting-light-10-christmas-cards?variant=57337929105783</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85593-The-Everlasting-Light-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -93541,7 +93407,7 @@ LED
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79632-Great-Stand-Up-To-Cancer-Bake-Off-2024-Kids-Star-Baker-Apron-Hat-Bundle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405340</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU79632-Great-Stand-Up-To-Cancer-Bake-Off-2024-Kids-Apron-Hat-Bundle-Lifestyle-1-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405340</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>8.99 GBP</g:sale_price>
 
@@ -98351,7 +98217,7 @@ Backing: TPE
       <g:item_group_id>15520896647543</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Trimmed Up Tree 10/20 Christmas Cards - 10</g:title>
-      <g:description>Send heartfelt Christmas wishes with this elegant contemporary Christmas card, featuring a beautifully decorated tree adorned with delicate baubles, shimmering garlands, and a radiant golden star.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Send heartfelt Christmas wishes with this elegant contemporary Christmas card, featuring a beautifully decorated tree adorned with delicate baubles, shimmering garlands, and a radiant golden star.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trimmed-up-tree-10-20-christmas-cards?variant=57337929171319</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85594-Trimmed-Up-Tree-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -98394,7 +98260,7 @@ Backing: TPE
       <g:item_group_id>15520896647543</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Trimmed Up Tree 10/20 Christmas Cards - 20</g:title>
-      <g:description>Send heartfelt Christmas wishes with this elegant contemporary Christmas card, featuring a beautifully decorated tree adorned with delicate baubles, shimmering garlands, and a radiant golden star.  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Send heartfelt Christmas wishes with this elegant contemporary Christmas card, featuring a beautifully decorated tree adorned with delicate baubles, shimmering garlands, and a radiant golden star.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Gold foil finish, Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/trimmed-up-tree-10-20-christmas-cards?variant=57338969063799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85594-Trimmed-Up-Tree-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
@@ -102622,7 +102488,7 @@ Backing: TPE
       <g:item_group_id>15520896680311</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Unexpected Visitor 10/20 Christmas Cards - 10</g:title>
-      <g:description>Step into a magical Christmas Eve scene with this enchanting Christmas card, where a group of curious dogs gathers around the fireplace as Santa makes a sparkling surprise arrival. Surrounded by twinkling lights, festive stockings, beautifully wrapped gifts, and a decorated Christmas tree, the heart-warming scene captures the wonder and excitement of Christmas night  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Step into a magical Christmas Eve scene with this enchanting Christmas card, where a group of curious dogs gathers around the fireplace as Santa makes a sparkling surprise arrival. Surrounded by twinkling lights, festive stockings, beautifully wrapped gifts, and a decorated Christmas tree, the heart-warming scene captures the wonder and excitement of Christmas night  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/unexpected-visitor-10-20-christmas-cards?variant=57337929204087</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85595-Unexpected-Visitor-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85595-Unexpected-Visitor-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374591</g:additional_image_link>
@@ -102666,7 +102532,7 @@ Backing: TPE
       <g:item_group_id>15520896680311</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Unexpected Visitor 10/20 Christmas Cards - 20</g:title>
-      <g:description>Step into a magical Christmas Eve scene with this enchanting Christmas card, where a group of curious dogs gathers around the fireplace as Santa makes a sparkling surprise arrival. Surrounded by twinkling lights, festive stockings, beautifully wrapped gifts, and a decorated Christmas tree, the heart-warming scene captures the wonder and excitement of Christmas night  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Step into a magical Christmas Eve scene with this enchanting Christmas card, where a group of curious dogs gathers around the fireplace as Santa makes a sparkling surprise arrival. Surrounded by twinkling lights, festive stockings, beautifully wrapped gifts, and a decorated Christmas tree, the heart-warming scene captures the wonder and excitement of Christmas night  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/unexpected-visitor-10-20-christmas-cards?variant=57338934428023</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85595-Unexpected-Visitor-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85595-Unexpected-Visitor-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374591</g:additional_image_link>
@@ -103235,7 +103101,7 @@ Backing: TPE
       <g:item_group_id>15520897270135</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>We Are All Made Of Stars 10 Christmas Cards</g:title>
-      <g:description>This beautiful Christmas card features an original design by Seirian, aged 10, from North Wales. After being diagnosed with acute lymphoblastic leukaemia in 2022, her extraordinary bravery earned her a Cancer Research UK Children &amp; Young People's Star Award. Titled We Are All Made of Stars, Seirian's Christmas card design is rich with symbolism. The rainbow represents hope, the birds symbolise love, the castle ruin stands for strength, the daisy reflects determination, and Seirian herself embodies courage. Together, they create a powerful and uplifting design that celebrates resilience, hope and the strength of the human spirit. Share the ultimate meaning of Christmas, hope, love and compassion, with this truly special card. Read more about Seirian's story.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>This beautiful Christmas card features an original design by Seirian, aged 10, from North Wales. After being diagnosed with acute lymphoblastic leukaemia in 2022, her extraordinary bravery earned her a Cancer Research UK Children &amp; Young People's Star Award. Titled We Are All Made of Stars, Seirian's Christmas card design is rich with symbolism. The rainbow represents hope, the birds symbolise love, the castle ruin stands for strength, the daisy reflects determination, and Seirian herself embodies courage. Together, they create a powerful and uplifting design that celebrates resilience, hope and the strength of the human spirit. Share the ultimate meaning of Christmas, hope, love and compassion, with this truly special card. Read more about Seirian's story.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/we-are-all-made-of-stars-10-christmas-cards?variant=57337929990519</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85611-We-Are-All-Made-Of-Stars-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786451182</g:image_link>
       <g:condition>new</g:condition>
@@ -104177,7 +104043,7 @@ Backing: TPE
       <g:item_group_id>15520896713079</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Winston's Winter Woolies 10 Christmas Cards</g:title>
-      <g:description>Send warm Christmas wishes with this adorable cat Christmas card, featuring Winston, a sweet ginger kitten, wrapped up in a cosy knitted hat and matching scarf. Against a softly falling snowy backdrop, the charming illustration captures the warmth, comfort, and gentle magic of Christmas.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Send warm Christmas wishes with this adorable cat Christmas card, featuring Winston, a sweet ginger kitten, wrapped up in a cosy knitted hat and matching scarf. Against a softly falling snowy backdrop, the charming illustration captures the warmth, comfort, and gentle magic of Christmas.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winstons-winter-woolies-10-christmas-cards?variant=57337929236855</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85596-Winstons-Winter-Woolies-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848616</g:image_link>
       <g:condition>new</g:condition>
@@ -104221,7 +104087,7 @@ Backing: TPE
       <g:item_group_id>15520896745847</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Winter Bird Wreath 10 Christmas Cards</g:title>
-      <g:description>Send Season’s Greetings with this elegant contemporary Christmas card, featuring a beautifully illustrated wreath adorned with winter foliage, pinecones, berries, and a charming collection of garden birds.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Season's Greetings , Gold foil highlights, Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Send Season’s Greetings with this elegant contemporary Christmas card, featuring a beautifully illustrated wreath adorned with winter foliage, pinecones, berries, and a charming collection of garden birds.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: Season's Greetings , Gold foil highlights, Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-bird-wreath-10-christmas-cards?variant=57337929269623</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85597-Winter-Bird-Wreath-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848622</g:image_link>
       <g:condition>new</g:condition>
@@ -104265,7 +104131,7 @@ Backing: TPE
       <g:item_group_id>15520896778615</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Winter On The Farm 10 Christmas Cards</g:title>
-      <g:description>Step into a charming countryside Christmas with this beautifully illustrated greeting card, capturing a peaceful snowy farm wrapped in winter magic.  As snowflakes drift softly through the air, a vintage green Land Rover rests beside a cosy cottage while sheep, loyal sheepdogs, and festive lights create a scene of warmth and wonder.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Step into a charming countryside Christmas with this beautifully illustrated greeting card, capturing a peaceful snowy farm wrapped in winter magic.  As snowflakes drift softly through the air, a vintage green Land Rover rests beside a cosy cottage while sheep, loyal sheepdogs, and festive lights create a scene of warmth and wonder.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: With best wishes for Christmas and the New Year , Coated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-on-the-farm-10-christmas-cards?variant=57337929302391</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85598-Winter-On-The-Farm-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85598-Winter-On-The-Farm-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -104310,7 +104176,7 @@ Backing: TPE
       <g:item_group_id>15520897073527</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Winter On The Farm 10 Welsh Bilingual Christmas Cards</g:title>
-      <g:description>Send Nadolig Llawen and Season’s Greetings with this beautiful bilingual Welsh Christmas card, featuring a charming snowy countryside scene complete with a vintage green Land Rover, a cosy cottage, and sheep gathered along a snow-covered lane.  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Coated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Send Nadolig Llawen and Season’s Greetings with this beautiful bilingual Welsh Christmas card, featuring a charming snowy countryside scene complete with a vintage green Land Rover, a cosy cottage, and sheep gathered along a snow-covered lane.  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Coated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-on-the-farm-10-welsh-bilingual-christmas-cards?variant=57337929793911</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85606-Winter-On-The-Farm-Welsh-Edition-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858566</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85598-Winter-On-The-Farm-Pack-of-10-Christmas-Cards-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -104640,7 +104506,7 @@ Backing: TPE
       <g:item_group_id>15520896811383</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Winter Woodland Gathering 10/20 Christmas Cards - 10</g:title>
-      <g:description>Step into an enchanting woodland wonderland with this beautifully illustrated Christmas card, where a gathering of forest friends comes together beneath softly falling snow. A curious fox, gentle badger, rabbit, hedgehog, squirrels, and robins surround a charming woodland cottage adorned with festive greenery and twinkling lights  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into an enchanting woodland wonderland with this beautifully illustrated Christmas card, where a gathering of forest friends comes together beneath softly falling snow. A curious fox, gentle badger, rabbit, hedgehog, squirrels, and robins surround a charming woodland cottage adorned with festive greenery and twinkling lights  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-woodland-gathering-10-20-christmas-cards?variant=57337929335159</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85599-Winter-Woodland-Gathering-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -104683,7 +104549,7 @@ Backing: TPE
       <g:item_group_id>15520896811383</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Winter Woodland Gathering 10/20 Christmas Cards - 20</g:title>
-      <g:description>Step into an enchanting woodland wonderland with this beautifully illustrated Christmas card, where a gathering of forest friends comes together beneath softly falling snow. A curious fox, gentle badger, rabbit, hedgehog, squirrels, and robins surround a charming woodland cottage adorned with festive greenery and twinkling lights  Pack of 10 or 20 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into an enchanting woodland wonderland with this beautifully illustrated Christmas card, where a gathering of forest friends comes together beneath softly falling snow. A curious fox, gentle badger, rabbit, hedgehog, squirrels, and robins surround a charming woodland cottage adorned with festive greenery and twinkling lights  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Coated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/winter-woodland-gathering-10-20-christmas-cards?variant=57338549633399</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85599-Winter-Woodland-Gathering-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -104727,7 +104593,7 @@ Backing: TPE
       <g:item_group_id>15520896909687</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Wonderful Welsh Ladies 10 Welsh Bilingual Christmas Cards</g:title>
-      <g:description>Brimming with festive charm, this bilingual Welsh Christmas card features three traditionally dressed Welsh ladies carrying Christmas greenery and decorations. Combining Welsh heritage with a joyful Christmas spirit, this enchanting design is perfect for sharing festive wishes near and far  Pack of 10 Christmas cards, Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Uncoated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Brimming with festive charm, this bilingual Welsh Christmas card features three traditionally dressed Welsh ladies carrying Christmas greenery and decorations. Combining Welsh heritage with a joyful Christmas spirit, this enchanting design is perfect for sharing festive wishes near and far  Pack of 10 Christmas cards and envelopes, Design exclusive to Cancer Research UK., Inside greeting reads: Nadolig Llawen a Blwyddyn Newydd Dda / With best wishes for Christmas and the New Year , Uncoated 250gsm FSC board , 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/wonderful-welsh-ladies-10-christmas-cards?variant=57337929433463</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85602-Wonderful-Welsh-Ladies-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785858566</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85602-Wonderful-Welsh-Ladies-Pack-of-10-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786374592</g:additional_image_link>
@@ -105155,7 +105021,7 @@ Backing: TPE
       <g:item_group_id>15520896844151</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Woodland Scene Santa 10/20 Christmas Cards - 10</g:title>
-      <g:description>Step into a winter wonderland with this charming Christmas card, where Santa shares a magical moment among snowy woodland friends. Surrounded by sparkling snowflakes, bunting, and beautifully wrapped gifts, a cheerful snowman, curious fox, gentle deer, and woodland creatures bring this heart-warming scene to life.  Pack of 10 or 20 Christmas cards , Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into a winter wonderland with this charming Christmas card, where Santa shares a magical moment among snowy woodland friends. Surrounded by sparkling snowflakes, bunting, and beautifully wrapped gifts, a cheerful snowman, curious fox, gentle deer, and woodland creatures bring this heart-warming scene to life.  Pack of 10 or 20 Christmas cards and envelopes , Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/woodland-scene-santa-10-20-christmas-cards?variant=57337929367927</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85600-Woodland-Scene-Santa-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
@@ -105198,7 +105064,7 @@ Backing: TPE
       <g:item_group_id>15520896844151</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Woodland Scene Santa 10/20 Christmas Cards - 20</g:title>
-      <g:description>Step into a winter wonderland with this charming Christmas card, where Santa shares a magical moment among snowy woodland friends. Surrounded by sparkling snowflakes, bunting, and beautifully wrapped gifts, a cheerful snowman, curious fox, gentle deer, and woodland creatures bring this heart-warming scene to life.  Pack of 10 or 20 Christmas cards , Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
+      <g:description>Step into a winter wonderland with this charming Christmas card, where Santa shares a magical moment among snowy woodland friends. Surrounded by sparkling snowflakes, bunting, and beautifully wrapped gifts, a cheerful snowman, curious fox, gentle deer, and woodland creatures bring this heart-warming scene to life.  Pack of 10 or 20 Christmas cards and envelopes , Design exclusive to Cancer Research UK., Inside greeting reads: Wishing you a wonderful Christmas and a very happy New Year , Uncoated 250gsm FSC board., 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com., </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/woodland-scene-santa-10-20-christmas-cards?variant=57338625098103</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85600-Woodland-Scene-Santa-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848624</g:image_link>
       <g:condition>new</g:condition>
