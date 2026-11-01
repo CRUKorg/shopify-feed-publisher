@@ -21501,7 +21501,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/stripe-duo-of-tea-towels?variant=55149636977015</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82900-Citrus-Stripe-Tea-Towel-2-Pack-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1745412460</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -27647,48 +27647,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>RC28803</g:id>
-      <g:item_group_id>14950348783991</g:item_group_id>
-      
-      <g:title>Disposable Car Seat Cover</g:title>
-      <g:description>You've done an amazing job having fun and raising money at a Race for Life Pretty Muddy event - but you don't want to traipse mud into your car afterwards. Help keep your car clean with these disposable car seat covers. Sold singly.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/disposable-car-seat-cover?variant=55094591750519</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/RC24686-Pretty-Muddy-Car-Seat-Cover-1_1024x1024.jpg?v=1743765708</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.00 GBP</g:price>
-      <g:sale_price>0.75 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5060321962420</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Accessories</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>Race For Life</g:custom_label_0>
-      <g:custom_label_1>Race For Life</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
 
 	
@@ -39980,7 +39938,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84553HERE</g:id>
       <g:item_group_id>15134554030455</g:item_group_id>
       
@@ -40105,9 +40065,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84540</g:id>
       <g:item_group_id>15089097113975</g:item_group_id>
       <g:google_product_category>638</g:google_product_category>
@@ -49128,7 +49086,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/moogoo-moothpaste-fluoride-free-toothpaste?variant=49004040782141</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42344-MooGoo-Fluroride-Fee-Toothpaste-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771447734</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>7.99 GBP</g:price>
 
       <g:shipping>
@@ -57335,7 +57293,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX85648</g:id>
       <g:item_group_id>15552117801335</g:item_group_id>
       
@@ -57374,9 +57334,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85638</g:id>
       <g:item_group_id>15552118161783</g:item_group_id>
       
@@ -70723,7 +70681,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -88369,7 +88327,9 @@ LED
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SN84908</g:id>
       <g:item_group_id>15352163500407</g:item_group_id>
       <g:google_product_category>538</g:google_product_category>
@@ -88452,9 +88412,7 @@ LED
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX86007</g:id>
       <g:item_group_id>15517751279991</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -94701,7 +94659,7 @@ LED
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83907-Titch-the-Tiny-Mouse-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185415</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83920-Humphrey-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185414</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>8.99 GBP</g:sale_price>
 
