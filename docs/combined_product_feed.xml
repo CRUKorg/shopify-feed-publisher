@@ -2884,48 +2884,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>CR79583</g:id>
-      <g:item_group_id>14950306775415</g:item_group_id>
-      
-      <g:title>Alpine Design 2-Seater Bistro Garden Furniture Set</g:title>
-      <g:description>Perfect for a bite to eat on the balcony, or grabbing a cuppa in the garden, this two-seater bistro garden set makes a great contemporary addition to your outdoor space. Features:  2 single folding chairs and table, Chair: 90 x 37cm, Table: 71 x 60cm , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/alpine-design-2-seater-bistro-garden-furniture-set?variant=55094190702967</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79583-Alpine-Bistro-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1743761427</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>99.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CR79583</g:mpn>
-
-      <g:product_type>Outdoor Furniture</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Furniture</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CX85796</g:id>
       <g:item_group_id>15523970646391</g:item_group_id>
       
@@ -18118,7 +18076,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-cinnamon-pot-pourri?variant=57499928199543</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85663CIN-Christmas-Cinnamon-Pot-Pourri-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790696819</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -21836,7 +21794,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85062</g:id>
       <g:item_group_id>15459966878071</g:item_group_id>
       <g:google_product_category>5913</g:google_product_category>
@@ -21876,9 +21836,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR81543</g:id>
       <g:item_group_id>15483202044279</g:item_group_id>
       <g:google_product_category>6367</g:google_product_category>
@@ -23118,7 +23076,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23170,7 +23128,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23200,7 +23158,7 @@ Lining 100% Cotton</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85488-Dutch-Tulip-354-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585327</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85489-Mossy-Meadow-398-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771585327</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.29 GBP</g:price>
 
       <g:shipping>
@@ -23222,7 +23180,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23274,7 +23232,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23326,7 +23284,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23378,7 +23336,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23430,7 +23388,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23482,7 +23440,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23534,7 +23492,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -23586,7 +23544,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Cygnet</g:brand>
       <g:product_type>Yarn</g:product_type>
 
-      <g:color>Rosebud</g:color>
+      <g:color>April Showers</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -37205,7 +37163,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84428-Highland-Cow-Gift-Bag-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758618240</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84428-Highland-Cow-Gift-Bag--1Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1758618240</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -38170,7 +38128,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-small-tray?variant=57077389787511</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85086-Highland-Cow-Grey-Small-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778237072</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -38193,7 +38151,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Beige</g:color>
+      <g:color>Grey</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -38238,7 +38196,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Beige</g:color>
+      <g:color>Grey</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -40065,7 +40023,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Decorations</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX84540</g:id>
       <g:item_group_id>15089097113975</g:item_group_id>
       <g:google_product_category>638</g:google_product_category>
@@ -40109,9 +40069,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84536</g:id>
       <g:item_group_id>15089096786295</g:item_group_id>
       <g:google_product_category>638</g:google_product_category>
@@ -57334,7 +57292,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX85638</g:id>
       <g:item_group_id>15552118161783</g:item_group_id>
       
@@ -57373,9 +57333,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX85656</g:id>
       <g:item_group_id>15552117440887</g:item_group_id>
       
@@ -76968,7 +76926,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608132983</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfi-bra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405577</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -88412,7 +88370,9 @@ LED
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX86007</g:id>
       <g:item_group_id>15517751279991</g:item_group_id>
       <g:google_product_category>596</g:google_product_category>
@@ -88455,9 +88415,7 @@ LED
       <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CX84021</g:id>
       <g:item_group_id>15090028839287</g:item_group_id>
       
