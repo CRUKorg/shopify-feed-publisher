@@ -2892,7 +2892,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/always-in-our-hearts-small-robin-stone?variant=57355372102007</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85796-Always-In-Our-Hearts-Small-Robin-Remembrance-Stone-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907522</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -4389,7 +4389,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-print-100ml-diffuser?variant=57224100053367</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85213-Bee-Print-Diffuser-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782401879</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -5137,7 +5137,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/floral-bee-teabag-tidy-copy?variant=57188168696183</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85172-Bee-Print-Tea-Bag-Tidy-Cream-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144144</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -5159,7 +5159,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Teabag Tidy</g:product_type>
 
-      <g:color>White</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -5200,7 +5200,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Teabag Tidy</g:product_type>
 
-      <g:color>White</g:color>
+      <g:color>Green</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -5982,52 +5982,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>CX84542</g:id>
-      <g:item_group_id>15089097376119</g:item_group_id>
-      <g:google_product_category>638</g:google_product_category>
-      <g:title>Betty the Border Terrier Teabag Tidy</g:title>
-      <g:description>Keep your surfaces clean and your tea breaks tidy with this charming teabag tidy featuring a sweet Border Terrier design. Ideal for placing used teabags while you enjoy your brew, it’s easy to rinse and ready to use. Enjoying Jake and Betty? Unleash more Terrier gifts and homewares!</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/betty-the-border-terrier-teabag-tidy?variant=55599664955767</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84542-Betty-the-Border-Terrier-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1768484856</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-      <g:sale_price>1.29 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123845427</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Teabag Tidy</g:product_type>
-      <g:color>Sand</g:color>
-      <g:size>3</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>Melamine</g:material>
-      <g:product_length>9.5 cm </g:product_length>
-      <g:product_width>12.5 cm </g:product_width>
-      <g:product_height>1.5 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>LW71092</g:id>
       <g:item_group_id>9522257133885</g:item_group_id>
       <g:google_product_category>181</g:google_product_category>
@@ -6268,7 +6222,7 @@ Ground sheet: 100% Polyethylene
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84788-and-CR84792-Grey-Bee-Blenheim-Plant-Pot-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84790-and-CR84795-Sea-Green-Bee-Blenheim-Plant-Pot-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -6358,7 +6312,7 @@ Ground sheet: 100% Polyethylene
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84788-and-CR84792-Grey-Bee-Blenheim-Plant-Pot-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84790-and-CR84795-Sea-Green-Bee-Blenheim-Plant-Pot-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778065609</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -21790,7 +21744,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>WF79733</g:id>
       <g:item_group_id>9520802693437</g:item_group_id>
       <g:google_product_category>2781</g:google_product_category>
@@ -21830,9 +21786,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85740</g:id>
       <g:item_group_id>15405432635767</g:item_group_id>
       
@@ -29596,7 +29550,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Bra-Balancer-2-3-Cup-Size-MASTECTOMY-USE-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1781102349</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Bra-Balancer-2-3-Cup-Size-ASYMMETRY-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1781102349</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>49.00 GBP</g:price>
 
       <g:shipping>
@@ -30106,7 +30060,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85803-Fabric-Reindeer-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788437482</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85803-Fabric-Reindeer-Decoration-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791193981</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -37940,7 +37894,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Grey</g:color>
+      <g:color>Beige</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -37962,7 +37916,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-small-tray?variant=57077389820279</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85085-Highland-Cow-Grey-Small-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778237072</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -37985,7 +37939,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Grey</g:color>
+      <g:color>Beige</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -39945,7 +39899,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW42309</g:id>
       <g:item_group_id>9520986259773</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
@@ -39988,9 +39944,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW71095</g:id>
       <g:item_group_id>9520993173821</g:item_group_id>
       <g:google_product_category>181</g:google_product_category>
@@ -50175,7 +50129,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/no-peeking-10-christmas-cards?variant=57337928384887</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85585-No-Peeking-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785848623</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -57292,7 +57246,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CX85623</g:id>
       <g:item_group_id>15552117244279</g:item_group_id>
       
@@ -57331,9 +57287,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80502</g:id>
       <g:item_group_id>9522284790077</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -68590,7 +68544,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-georgia-pocketed-t-shirt-bra?variant=54951529120119</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/GEORGIASKIN_1024x1024.jpg?v=1719236146</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -71613,7 +71567,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924778</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40332-Royce-Jasmine-White-Bra-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770924803</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -77384,7 +77338,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608526199</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfi-bra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405577</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -86426,7 +86380,7 @@ LED
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86171-Khaki-Gloves-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86170-Black-Gloves-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044572</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -86448,7 +86402,7 @@ LED
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Gloves</g:product_type>
 
-      <g:color>Black</g:color>
+      <g:color>Brown</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -86493,7 +86447,7 @@ LED
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Gloves</g:product_type>
 
-      <g:color>Black</g:color>
+      <g:color>Brown</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -88260,7 +88214,9 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU81078</g:id>
       <g:item_group_id>14933584544119</g:item_group_id>
       
@@ -88303,9 +88259,7 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU80561</g:id>
       <g:item_group_id>9521305682237</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -95084,7 +95038,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-6-premium-3-colour-kraft-christmas-crackers?variant=56039321928055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC76558-Tom-Smith-6-Premium-3-Colour-Kraft-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761319131</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -95416,7 +95370,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/tom-smith-festive-foliage-recyclable-gift-bag?variant=49005600080189</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW76532-Giftmaker-Festive-Foliage-Small-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738258499</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
       <g:sale_price>1.00 GBP</g:sale_price>
 
@@ -101778,7 +101732,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/trulife-silk-triangle-breast-form?variant=55489129415031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42244-Trulife-Silk-Triangle-Breast-Form-Cancer-Research-UK-Cancer-Care-Collection_10c8c217-9c30-452e-a052-8cd7ce5ec058_1024x1024.jpg?v=1753435637</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>193.00 GBP</g:price>
 
       <g:shipping>
@@ -102711,7 +102665,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82182-9781783255627-Walking-Meditations-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404216</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR82182-9781783255627-Walking-Meditations-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719404216</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
