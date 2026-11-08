@@ -4472,7 +4472,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-print-ankle-socks?variant=57193841951095</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85166-Ladies-Assorted-Bee-Short-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784646279</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -17379,7 +17379,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Blue-and-Grey-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790609197</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85834-Kids-Pink-and-Red-Christmas-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1790609221</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -96394,54 +96394,6 @@ LED
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR85693</g:id>
-      <g:item_group_id>15391334498679</g:item_group_id>
-      
-      <g:title>Treehouses: A Nature Activity Book</g:title>
-      <g:description>Discover the amazing wildlife that lives in and around trees with this beautifully illustrated children's sticker activity book. Packed with fun on and off‑page activities, children can design their own treehouse, build a bug hotel and complete nature scenes using 100 plastic‑free stickers.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/treehouses-a-nature-activity-book?variant=56764611068279</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85693-Treehouses-Activity-Book-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771588768</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85693-Treehouses-Activity-Book-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771588778</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85693-Treehouses-Activity-Book-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771588787</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85693-Treehouses-Activity-Book-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771588798</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85693-Treehouses-Activity-Book-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771588808</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>9781526662248</g:gtin>
-
-      <g:product_type>Books</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>kids</g:age_group>
-      <g:product_length>4 mm </g:product_length>
-      <g:product_width>276 mm </g:product_width>
-      <g:product_height>216 mm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Books</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
 	
