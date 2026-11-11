@@ -10658,49 +10658,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>CR80785-HEARTS</g:id>
-      <g:item_group_id>14620269019511</g:item_group_id>
-      
-      <g:title>Breast Cancer Awareness 3 Pack Ladies Heart Print Trainer Socks</g:title>
-      <g:description>Ideal for the gym, on a run or just around the house, these handy trainer socks look great. 3 pairs in 3 heart print designs. Features:  Breast Cancer Awareness 3 Pack Ladies Trainer Socks, 3 pairs of socks, One size, UK 4-7, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/breast-cancer-awareness-3-pack-ladies-heart-print-trainer-socks?variant=53466598244727</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR80785Heart-Hearts-Trainer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728054195</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8033324807859</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-      <g:color>Pink</g:color>
-      <g:size>One Size</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR80905</g:id>
       <g:item_group_id>14937224118647</g:item_group_id>
       <g:google_product_category>2915</g:google_product_category>
@@ -18214,7 +18171,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Pet Parlour</g:brand>
       <g:product_type>Pet Toy</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -18233,7 +18190,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-dog-ball?variant=57497002967415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85766-Christmas-Pet-Dog-Ball-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786447167</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -18255,7 +18212,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Pet Parlour</g:brand>
       <g:product_type>Pet Toy</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>Red</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -21786,7 +21743,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85740</g:id>
       <g:item_group_id>15405432635767</g:item_group_id>
       
@@ -21831,9 +21790,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR84933CRAB</g:id>
       <g:item_group_id>15363566928247</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -33236,7 +33193,7 @@ LED
       <g:link>https://shop.cancerresearchuk.org/products/gold-stag-gift-bag?variant=49005508821309</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW70824-Gold-Stag-Gift-Bag-Medium-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719229771</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
       <g:sale_price>1.00 GBP</g:sale_price>
 
@@ -39944,7 +39901,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW71095</g:id>
       <g:item_group_id>9520993173821</g:item_group_id>
       <g:google_product_category>181</g:google_product_category>
@@ -40078,9 +40037,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
 
-
-	
-    <item>
+<item>
       <g:id>CR80262</g:id>
       <g:item_group_id>15512003608951</g:item_group_id>
       
@@ -42025,12 +41982,12 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15523968811383</g:item_group_id>
       
       <g:title>LED Light Up Flame Light Bauble - Red</g:title>
-      <g:description>Inspired by traditional Christmas ornaments, these LED Light Up Flame Light Baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
+      <g:description>Inspired by traditional Christmas ornaments, these LED baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/led-light-up-flame-light-bauble?variant=57677057818999</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034280</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034048</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -42067,12 +42024,12 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15523968811383</g:item_group_id>
       
       <g:title>LED Light Up Flame Light Bauble - Gold</g:title>
-      <g:description>Inspired by traditional Christmas ornaments, these LED Light Up Flame Light Baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
+      <g:description>Inspired by traditional Christmas ornaments, these LED baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/led-light-up-flame-light-bauble?variant=57677057851767</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034280</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034048</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -42110,12 +42067,12 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>15523968811383</g:item_group_id>
       
       <g:title>LED Light Up Flame Light Bauble - Green</g:title>
-      <g:description>Inspired by traditional Christmas ornaments, these LED Light Up Flame Light Baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
+      <g:description>Inspired by traditional Christmas ornaments, these LED baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/led-light-up-flame-light-bauble?variant=57677057884535</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034280</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034048</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -45584,7 +45541,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85531-Meg-Hawkins-Hare-Diffuser-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771844076</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85531-Meg-Hawkins-Hare-Diffuser-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771844076</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>16.49 GBP</g:price>
 
       <g:shipping>
@@ -57292,7 +57249,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80502</g:id>
       <g:item_group_id>9522284790077</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -57388,9 +57347,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80505</g:id>
       <g:item_group_id>9521138434365</g:item_group_id>
       <g:google_product_category>3032</g:google_product_category>
@@ -62290,8 +62247,8 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:id>CX86040</g:id>
       <g:item_group_id>15523969401207</g:item_group_id>
       
-      <g:title>Red &amp; Green Finial Hanging Christmas Tree Decorations - 6 Pack</g:title>
-      <g:description>Add a touch of classic elegance to your Christmas tree with this 6 pack of hanging decorations. Featuring traditional festive colours and an eye-catching finial shape, it brings depth, texture, and seasonal sparkle to your Christmas tree.</g:description>
+      <g:title>Red &amp; Green Finial Hanging Christmas Tree Decorations</g:title>
+      <g:description>Add a touch of classic elegance to your Christmas tree with this hanging decorations. Featuring traditional festive colours and an eye-catching finial shape, it brings depth, texture, and seasonal sparkle to your Christmas tree.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/red-green-finial-hanging-christmas-tree-decoration?variant=57355359256951</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86040-Regal-Tidings-Red--Green-Finial-Hanging-Christmas-Tree-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034279</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86040-Regal-Tidings-Red--Green-Finial-Hanging-Christmas-Tree-Decoration-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034050</g:additional_image_link>
@@ -62458,8 +62415,8 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:id>CX86039</g:id>
       <g:item_group_id>15523969335671</g:item_group_id>
       
-      <g:title>Red &amp; Green Swirl Hanging Christmas Tree Decoration - 6 Pack</g:title>
-      <g:description>Bring timeless festive sophistication to your home with this pack of 6 Red &amp; Green Swirl Hanging Tree Decorations. Their rich colours and decorative gold detailing offer a premium look, making it a stunning addition to Christmas trees, wreaths, and seasonal displays.</g:description>
+      <g:title>Red &amp; Green Swirl Hanging Christmas Tree Decoration</g:title>
+      <g:description>Bring timeless festive sophistication to your home with this Red &amp; Green Swirl Hanging Tree Decoration. Their rich colours and decorative gold detailing offer a premium look, making it a stunning addition to Christmas trees, wreaths, and seasonal displays.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/red-green-swirl-hanging-christmas-tree-decoration?variant=57355358208375</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86039-Regal-Tidings-Red--Green-Swirl-Hanging-Christmas-Tree-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034279</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86039-Regal-Tidings-Red--Green-Swirl-Hanging-Christmas-Tree-Decoration-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034050</g:additional_image_link>
@@ -82436,7 +82393,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candle</g:product_type>
 
-<g:size>L</g:size>
+<g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -82455,7 +82412,7 @@ Filling: Aggregate and Polyester fibre
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32304-Serenity-Revive-Small-Candle-Orange-Jasmine-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719231283</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32307-Serenity-Revive-Large-Candle-Orange-Jasmine-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719403987</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>14.99 GBP</g:price>
 
       <g:shipping>
@@ -82478,7 +82435,7 @@ Filling: Aggregate and Polyester fibre
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Candle</g:product_type>
 
-<g:size>L</g:size>
+<g:size>M</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>Cancer Care</g:custom_label_0>
@@ -88316,7 +88273,9 @@ LED
       <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU81077</g:id>
       <g:item_group_id>14933588377975</g:item_group_id>
       
@@ -88359,9 +88318,7 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU80560</g:id>
       <g:item_group_id>9521300308285</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -92723,52 +92680,6 @@ LED
       <g:age_group>adult</g:age_group>
       <g:gender>unisex</g:gender>
       <g:material>100% Cotton</g:material>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>SU71327</g:id>
-      <g:item_group_id>9520920527165</g:item_group_id>
-      <g:google_product_category>639</g:google_product_category>
-      <g:title>The Great Stand Up To Cancer Bake Off 2023 Star Baker Bundle</g:title>
-      <g:description>You'll have everything you need to bake in style with this Great Stand up to Cancer Bake Off Star Baker bundle. The bundle includes:  1 x Star Baker Apron, 1 x Star Baker Double Oven Gloves, 3 x Star Baker Tea Towels,  Please note, our next day delivery service is not available for this item. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2023.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/great-stand-cancer-bake-2023-star-baker-bundle?variant=49003907612989</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71327-Stand-Up-To-Cancer-Bake-Off-2023-Bundle-Cancer-Research-UK-Online-Shop_72a40268-f89c-464c-a30f-094dc0296a47_1024x1024.jpg?v=1719229799</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71324-Stand-Up-To-Cancer-Bake-Off-2023-Apron-1-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71325-Stand-Up-To-Cancer-Bake-Off-2023-Oven-Gloves-1-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU71326-Stand-Up-To-Cancer-Bake-Off-2023-Tea-Towel-4-Cancer-Research-UK-Online-Shop_1_1024x1024.jpg?v=1719405381</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU2C-Bake-Off-2023-Lifestyle-0123-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1719405381</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>22.99 GBP</g:price>
-      <g:sale_price>10.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674216251</g:gtin>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Bundle</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
       <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
       <g:custom_label_1>Bake Off</g:custom_label_1>
       <g:custom_label_2>Bake Off</g:custom_label_2>
@@ -103116,48 +103027,6 @@ Backing: TPE
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX76949</g:id>
-      <g:item_group_id>9521405034813</g:item_group_id>
-      <g:google_product_category>3144</g:google_product_category>
-      <g:title>White Wool Christmas Tree Decoration</g:title>
-      <g:description>Add a soft, wintry touch to your décor with this elegant wool tree decoration. Its minimalist cone shape and snowy white texture bring a calm, Scandi-inspired feel—perfect for shelves, mantels, or festive tables. Finished with frosted greenery and a natural wooden base, it blends tradition with contemporary style.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/white-wool-christmas-tree-decoration?variant=49004449104189</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76949-White-Christmas-Tree-Wool-Decoration-With-Wooden-Base-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1783681667</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>10.99 GBP</g:price>
-      <g:sale_price>1.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>CX76949</g:mpn>
-
-      <g:product_type>Christmas Decorations</g:product_type>
-      <g:color>white</g:color>
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
 	
