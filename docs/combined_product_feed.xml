@@ -9662,7 +9662,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-green-umbrella?variant=56988693168503</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84942-Green-Bowelbabe-Umbrella-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776687403</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -18050,7 +18050,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -18068,7 +18068,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-dachshund-gift-bag?variant=55673476678007</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84434-Dachshund-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761697112</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -18090,7 +18090,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -18130,7 +18130,7 @@ Lining 100% Cotton</g:material>
       <g:brand>Giftmaker</g:brand>
       <g:product_type>Gift Bags</g:product_type>
 
-<g:size>XL</g:size>
+<g:size>L</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
@@ -20724,6 +20724,50 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX86105</g:id>
+      <g:item_group_id>9520791814461</g:item_group_id>
+      <g:google_product_category>576</g:google_product_category>
+      <g:title>Christmas Tree Guest Towel</g:title>
+      <g:description>Freshen up your bathroom for the festive season with this cheerful Christmas Tree Guest Towel. Crafted from soft cotton for a comfortable, absorbent finish, it's ideal for keeping close to hand when guests pop by. Features:  Red cotton towel with embroidered design, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-tree-guest-towel?variant=49003758682429</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86105-Christmas-Tree-Guest-Towel-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907526</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253218</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% cotton</g:material>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>60 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX84395</g:id>
       <g:item_group_id>15106143912311</g:item_group_id>
       
@@ -21743,9 +21787,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR85740</g:id>
       <g:item_group_id>15405432635767</g:item_group_id>
       
@@ -21790,7 +21832,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR84933CRAB</g:id>
       <g:item_group_id>15363566928247</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -35482,6 +35526,51 @@ Inner Lining: 100% Polypropylene
 
 	
     <item>
+      <g:id>CX86103</g:id>
+      <g:item_group_id>14668923371895</g:item_group_id>
+      <g:google_product_category>576</g:google_product_category>
+      <g:title>Hector the Heffer Guest Towel</g:title>
+      <g:description>Celebrate the season with this Highland Cow Guest Towel. Crafted from soft, absorbent cotton, it's designed to provide comfort while adding a welcoming feel to your bathroom. The much-loved Highland cow design brings rustic charm and a touch of countryside character, making it a perfect addition for the festive period. Features:  Red cotton towel with embroidered design, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-guest-towel?variant=53471380865399</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86103-Hector-Highland-Cow-Guest-Towel-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86103-Hector-Highland-Cow-Guest-Towel-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791301451</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253195</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% cotton</g:material>
+      <g:product_width>40 cm </g:product_width>
+      <g:product_height>60 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX86109</g:id>
       <g:item_group_id>15519192252791</g:item_group_id>
       
@@ -39516,7 +39605,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/jake-the-jack-russell-dog-food-bowl?variant=55599664759159</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84541-Jake-the-Jack-Russell-Food-Bowl-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1768484577</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.49 GBP</g:price>
       <g:sale_price>1.99 GBP</g:sale_price>
 
@@ -39856,9 +39945,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW42309</g:id>
       <g:item_group_id>9520986259773</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
@@ -40037,7 +40124,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
 
-<item>
+
+	
+    <item>
       <g:id>CR80262</g:id>
       <g:item_group_id>15512003608951</g:item_group_id>
       
@@ -45570,54 +45659,6 @@ Backing: 100% Polypropylene</g:material>
       <g:product_length>89 mm </g:product_length>
       <g:product_width>223 mm </g:product_width>
       <g:product_height>105 mm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CR85526</g:id>
-      <g:item_group_id>15393216659831</g:item_group_id>
-      
-      <g:title>Meg Hawkins Diffuser Highland Cow - Apple Orchard</g:title>
-      <g:description>Bring a touch of countryside charm to your home with this Scottish‑inspired reed diffuser, featuring a gorgeous watercolour Highland cow illustration. Its apple orchard fragrance offers gentle aromatherapy benefits while working hard to combat bad odours, leaving your home fresh, and luxurious. Features  Apple scented, Lasts 2-3 months, Elegant watercolour design, </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/meg-hawkins-diffuser-highland-cow-apple-orchard?variant=56773070848375</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85526-Meg-Hawkins-Highland-Cow-Apple-Diffuser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771952306</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85526-Meg-Hawkins-Highland-Cow-Apple-Diffuser-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771952305</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85526-Meg-Hawkins-Highland-Cow-Apple-Diffuser-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771952306</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85526-Meg-Hawkins-Highland-Cow-Apple-Diffuser-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771952305</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>16.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5063322116069</g:gtin>
- 
-      <g:brand>Meg Hawkins</g:brand>
-      <g:product_type>Diffuser</g:product_type>
-
-      <g:size>2</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>glass</g:material>
-      <g:product_length>89 mm </g:product_length>
-      <g:product_width>223 mm </g:product_width>
-      <g:product_height>104 mm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>General Merchandise</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -57249,9 +57290,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80502</g:id>
       <g:item_group_id>9522284790077</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -57347,7 +57386,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80505</g:id>
       <g:item_group_id>9521138434365</g:item_group_id>
       <g:google_product_category>3032</g:google_product_category>
@@ -62253,7 +62294,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86040-Regal-Tidings-Red--Green-Finial-Hanging-Christmas-Tree-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034279</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86040-Regal-Tidings-Red--Green-Finial-Hanging-Christmas-Tree-Decoration-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034050</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
 
       <g:shipping>
@@ -62421,7 +62462,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86039-Regal-Tidings-Red--Green-Swirl-Hanging-Christmas-Tree-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034279</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86039-Regal-Tidings-Red--Green-Swirl-Hanging-Christmas-Tree-Decoration-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034050</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>3.99 GBP</g:price>
 
       <g:shipping>
@@ -64090,6 +64131,49 @@ Filling: Aggregate and Polyester fibre
 Filling: 100% Polyester
 Inner Lining: 100% Polypropylene
 </g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86102</g:id>
+      <g:item_group_id>9659089420605</g:item_group_id>
+      
+      <g:title>Robin Choir Guest Towel</g:title>
+      <g:description>Bring a little festive charm to your bathroom with this delightful Robin Guest Towel. Made from soft, absorbent cotton, it feels gentle against the skin and is perfect for everyday use. Featuring Britain's favourite winter bird, this cosy towel adds a welcoming touch to guest bathrooms, cloakrooms or downstairs loos throughout the Christmas season. Features:  Red cotton towel with embroidered design, Design exclusive to Cancer Research UK,  Enjoying Ralph Robin? Nestle into the rest of our Christmas robin decorations, homewares and gifts.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/robin-guest-towel?variant=49371923808573</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86102-Robin-Choir-Guest-Towel-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86102-Robin-Choir-Guest-Towel-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791301140</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253188</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
@@ -88179,9 +88263,7 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU80561</g:id>
       <g:item_group_id>9521305682237</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -88318,7 +88400,9 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU80560</g:id>
       <g:item_group_id>9521300308285</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -93681,6 +93765,48 @@ LED
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
       <g:material>CERAMIC / CORK BACKED</g:material>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Homeware</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>CX86104</g:id>
+      <g:item_group_id>9521011392829</g:item_group_id>
+      <g:google_product_category>576</g:google_product_category>
+      <g:title>Theo the Mouse Guest Towel</g:title>
+      <g:description>Add a playful touch to your bathroom with this charming Mouse Guest Towel. Made from wonderfully soft cotton, it combines everyday practicality with plenty of festive character. Featuring an adorable mouse design, it's a lovely way to make guests feel at home while bringing a hint of Christmas cheer to your bathroom. Features:  Red cotton towel with embroidered design, Design exclusive to Cancer Research UK, </g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/mouse-guest-towel?variant=49004007522621</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86104-Theo-Mouse-Guest-Towel-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5023674253201</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Towel</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>100% cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
