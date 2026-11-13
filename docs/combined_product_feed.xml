@@ -7508,7 +7508,7 @@ Ground sheet: 100% Polyethylene
       <g:gtin>5063322189469</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Soap Dispensers</g:product_type>
+      <g:product_type>Soap Dispenser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -16623,7 +16623,7 @@ Lining 100% Cotton</g:material>
       <g:gtin>5063322108521</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Soap Dispensers</g:product_type>
+      <g:product_type>Soap Dispenser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -17596,6 +17596,50 @@ Lining 100% Cotton</g:material>
 
 	
     <item>
+      <g:id>CX84375</g:id>
+      <g:item_group_id>15106160722295</g:item_group_id>
+      <g:google_product_category>5359</g:google_product_category>
+      <g:title>Christmas Advent Calendar</g:title>
+      <g:description>Countdown to Christmas with this charming advent calendar. Behind each of the 24 numbered doors is a delightful seasonal illustration, making every day a joyful surprise. With 24 draws to fill with your own festive treats, this advent calendar makes a fantastic option for those with preferred tastes.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-card-advent-calendar?variant=55673655656823</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84375-Adult-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787137893</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>5.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128617133</g:gtin>
+ 
+      <g:brand>Giftmaker</g:brand>
+      <g:product_type>Advent Calendar</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:product_length>5 cm </g:product_length>
+      <g:product_width>27 cm </g:product_width>
+      <g:product_height>27 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX85777RED</g:id>
       <g:item_group_id>15550438736247</g:item_group_id>
       <g:google_product_category>2608</g:google_product_category>
@@ -17800,50 +17844,6 @@ Lining 100% Cotton</g:material>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX84375</g:id>
-      <g:item_group_id>15106160722295</g:item_group_id>
-      <g:google_product_category>5359</g:google_product_category>
-      <g:title>Christmas Card Advent Calendar</g:title>
-      <g:description>Countdown to Christmas with this charming card-style advent calendar. Behind each of the 24 numbered doors is a delightful seasonal illustration, making every day a joyful surprise. With 24 draws to fill with your own festive treats, this advent calendar makes a fantastic option for those with preferred tastes.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-card-advent-calendar?variant=55673655656823</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84375-Adult-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787137893</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>5.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128617133</g:gtin>
- 
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Advent Calendar</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:product_length>5 cm </g:product_length>
-      <g:product_width>27 cm </g:product_width>
-      <g:product_height>27 cm </g:product_height>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Decorations</g:custom_label_2>
@@ -21568,7 +21568,7 @@ Lining 100% Cotton</g:material>
       </g:shipping><g:ships_from_country>GB</g:ships_from_country>
       <g:gtin>5023674247873</g:gtin>
 
-      <g:product_type>Blankets</g:product_type>
+      <g:product_type>Blanket</g:product_type>
       <g:color>blue</g:color>
       <g:size>2</g:size>
       <g:size_type>regular</g:size_type>
@@ -30250,7 +30250,7 @@ Backing: TPE
       <g:link>https://shop.cancerresearchuk.org/products/fabric-standing-reindeer-decoration?variant=57399252320631</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85804-Fabric-Standing-Reindeer-Decoration-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788437528</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
 
       <g:shipping>
@@ -32177,7 +32177,7 @@ Lining: 92% Modal/ 8% elastane</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/giftmaker-6-make-your-own-christmas-crackers?variant=57393527980407</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CC85933-Traditional-Make-Your-Own-Christmas-Crackers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787669369</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -41004,7 +41004,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/ladies-halloween-welly-socks?variant=55637095973239</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SN85296-Ladies-Halloween-Wellie-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907526</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -45349,7 +45349,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85541-Meg-Hawkins-Hare-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771852582</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85541-Meg-Hawkins-Hare-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771852591</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.49 GBP</g:price>
 
       <g:shipping>
@@ -56864,7 +56864,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:gtin>5063322189476</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Soap Dispensers</g:product_type>
+      <g:product_type>Soap Dispenser</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -61481,7 +61481,7 @@ Blue: 80% polyester/20% cotton</g:material>
       <g:gtin>5023674217265</g:gtin>
  
       <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Blankets</g:product_type>
+      <g:product_type>Blanket</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -76844,7 +76844,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608132983</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfi-bra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405577</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -77024,7 +77024,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/royce-pocketed-softcup-comfi-bra?variant=55485608264055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW40232-Royce-Comfi-Bra-White-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405597</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -93324,54 +93324,6 @@ LED
 
 	
     <item>
-      <g:id>SU84828</g:id>
-      <g:item_group_id>14902237528439</g:item_group_id>
-      
-      <g:title>The Great Stand Up To Cancer Bake Off 2026 Star Baker Double Oven Glove</g:title>
-      <g:description>Whether it’s biscuits, cupcakes, or a brilliant loaf, pull every creation out of the oven like the Star Baker you are with these double oven gloves. Designed to keep your hands safe while you’re handling hot trays and rising masterpieces, they add a dash of Bake Off excitement to every step. Star Baker® and Bake Off® are the registered trademarks of Love Productions Limited. The Great British Bake Off®. © Love Productions 2026.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/the-great-stand-up-to-cancer-bake-off-star-baker-double-oven-gloves?variant=54925707936119</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771601515</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771601515</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769690922</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771602408</g:additional_image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU84828-Great-Stand-Up-To-Cancer-Star-Baker-Oven-Glove-2026-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1769690922</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674246128</g:gtin>
- 
-      <g:brand>Stand Up To Cancer</g:brand>
-      <g:product_type>Oven Gloves</g:product_type>
-      <g:color>White</g:color>
-      <g:size>4</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>unisex</g:gender>
-      <g:material>Cotton</g:material>
-      <g:custom_label_0>Stand Up To Cancer</g:custom_label_0>
-      <g:custom_label_1>Bake Off</g:custom_label_1>
-      <g:custom_label_2>Bake Off</g:custom_label_2>
-      <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>SU84829</g:id>
       <g:item_group_id>14902238052727</g:item_group_id>
       
@@ -94270,49 +94222,6 @@ LED
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Cards</g:custom_label_1>
       <g:custom_label_2>Cards</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>CX83703</g:id>
-      <g:item_group_id>15089095442807</g:item_group_id>
-      
-      <g:title>Titch the Tiny Mouse Set of 4 Placemats</g:title>
-      <g:description>Add a touch of woodland charm to your Christmas table with this pack of four placemats, featuring a sweet mouse in a Father Christmas hat holding festive greenery.  Ideal for family gatherings, its heart warming design makes it a lovely choice all year round. Scurry down the hole and discover the rest of our sweet mouse decorations, homewares and gifts.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/titch-the-tiny-mouse-set-of-4-placemats?variant=55599660695927</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83703-Titch-Tiny-Mouse-4-Placemats-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755191855</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.49 GBP</g:price>
-      <g:sale_price>4.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123837033</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Placemats</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:material>CORK BACKED</g:material>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
 
