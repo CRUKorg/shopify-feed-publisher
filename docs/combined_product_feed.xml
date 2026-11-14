@@ -28403,7 +28403,7 @@ Ground Sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/eco-nature-festive-foraging-recycled-medium-gift-bag?variant=53484801360247</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81881-Eco-Nature-Festive-Foraging-Medium-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1729176167</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.59 GBP</g:price>
 
       <g:shipping>
@@ -37292,51 +37292,6 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
-      <g:id>CR85071</g:id>
-      <g:item_group_id>15477890154871</g:item_group_id>
-      
-      <g:title>Highland Cow Face Cushion Grey</g:title>
-      <g:description>Sometimes a room needs a softer, country touch to feel truly welcoming. This cushion brings gentle character into your home, featuring a beautifully illustrated Highland cow set against a grey background. Perfect for layering on a sofa, armchair or bed, it adds warmth without overpowering your space.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-face-cushion-grey?variant=57087323505015</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85071-Highland-Cow-Face-Cushion-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778683603</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>7.49 GBP</g:price>
-      <g:sale_price>4.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5023674247774</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Cushion</g:product_type>
-      <g:color>grey</g:color>
-      <g:size>3</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:product_width>43 cm </g:product_width>
-      <g:product_height>43 cm </g:product_height>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>CR85088</g:id>
       <g:item_group_id>15477890089335</g:item_group_id>
       
@@ -39945,7 +39900,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Skincare</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW42309</g:id>
       <g:item_group_id>9520986259773</g:item_group_id>
       <g:google_product_category>2592</g:google_product_category>
@@ -39988,9 +39945,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>LW71095</g:id>
       <g:item_group_id>9520993173821</g:item_group_id>
       <g:google_product_category>181</g:google_product_category>
@@ -44006,7 +43961,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86160-Mini-Hand-Warmers-Chateau-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044574</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -44028,7 +43983,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chateau</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -44072,7 +44027,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chateau</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -44116,7 +44071,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chateau</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -44160,7 +44115,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chateau</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -44206,7 +44161,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chateau</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -44252,7 +44207,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Hot Water Bottle</g:product_type>
 
-      <g:color>Chateau</g:color>
+      <g:color>Chocolate</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -46489,7 +46444,7 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/merry-christmas-gift-bag?variant=55673459376503</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84438-Merry-Christmas-Text-Gift-Bag-Extra-Large-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784194901</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -57290,7 +57245,9 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>RC80502</g:id>
       <g:item_group_id>9522284790077</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -57386,9 +57343,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>RC80505</g:id>
       <g:item_group_id>9521138434365</g:item_group_id>
       <g:google_product_category>3032</g:google_product_category>
@@ -84261,49 +84216,6 @@ Filling: Aggregate and Polyester fibre
 
 	
     <item>
-      <g:id>SH79613</g:id>
-      <g:item_group_id>9521265344829</g:item_group_id>
-      <g:google_product_category>3509</g:google_product_category>
-      <g:title>Shine Night Walk Glow in the Dark Temporary Tattoos</g:title>
-      <g:description>Add to your Shine look with this pack of 2 glow in the dark temporary tattoos.Features:  Shine Night Walk Glow in the Dark Temporary Tattoos, Approximately 3.8 x 3.8cm each, Easy to apply using water, easy to remove using baby oil, Suitable for ages 5+, Not suitable for sensitive skin,  Make sure you look the part when you light up the streets for your Shine Night Walk. </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/shine-night-walk-glow-dark-temporary-tattoos?variant=49004294668605</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH79613-Shine-Tattoo-2-Cancer-Research-UK-Online-Shop_d51f8dde-7968-4b76-b115-5bdc76247502_1024x1024.jpg?v=1719231334</g:image_link>
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SH79613-Shine-Tattoo-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727614508</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.00 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin />
-      <g:mpn>SH79613</g:mpn>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Temporary Tattoo</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Shine</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
       <g:id>SH86578</g:id>
       <g:item_group_id>15535198929271</g:item_group_id>
       <g:google_product_category>5192</g:google_product_category>
@@ -86119,12 +86031,12 @@ LED
 
 	
     <item>
-      <g:id>CX85977SNOW</g:id>
+      <g:id>CX85977TREE</g:id>
       <g:item_group_id>14671572238711</g:item_group_id>
       
-      <g:title>Snowman and Tree Novelty Christmas Glasses - Snowman</g:title>
+      <g:title>Snowman and Tree Novelty Christmas Glasses - Tree</g:title>
       <g:description>Christmas parties are better when everyone joins in, and these novelty glasses make it easy. Put them on, and you’ve got an instant icebreaker, a guaranteed giggle and the perfect excuse to get the photos out. They’re a simple way to turn a good party into a great one, and they’re guaranteed to get everyone in the festive spirit.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/novelty-christmas-glasses?variant=53484724846967</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/novelty-christmas-glasses?variant=53484724879735</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85977-Novelty-Christmas-Glasses-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671905</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81812-Christmas-Novelty-Glasses-Snowman-Lifestyle-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787827059</g:additional_image_link>
       <g:condition>new</g:condition>
@@ -86160,16 +86072,16 @@ LED
     </item>
 	
     <item>
-      <g:id>CX85977TREE</g:id>
+      <g:id>CX85977SNOW</g:id>
       <g:item_group_id>14671572238711</g:item_group_id>
       
-      <g:title>Snowman and Tree Novelty Christmas Glasses - Tree</g:title>
+      <g:title>Snowman and Tree Novelty Christmas Glasses - Snowman</g:title>
       <g:description>Christmas parties are better when everyone joins in, and these novelty glasses make it easy. Put them on, and you’ve got an instant icebreaker, a guaranteed giggle and the perfect excuse to get the photos out. They’re a simple way to turn a good party into a great one, and they’re guaranteed to get everyone in the festive spirit.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/novelty-christmas-glasses?variant=53484724879735</g:link>
+      <g:link>https://shop.cancerresearchuk.org/products/novelty-christmas-glasses?variant=53484724846967</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85977-Novelty-Christmas-Glasses-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671905</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81812-Christmas-Novelty-Glasses-Snowman-Lifestyle-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787827059</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.49 GBP</g:price>
 
       <g:shipping>
@@ -88263,7 +88175,9 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>SU80561</g:id>
       <g:item_group_id>9521305682237</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -88355,9 +88269,7 @@ LED
       <g:custom_label_3>Winter Warmers</g:custom_label_3>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU81077</g:id>
       <g:item_group_id>14933588377975</g:item_group_id>
       
