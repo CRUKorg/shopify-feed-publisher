@@ -2623,7 +2623,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>9521165336893</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
       <g:title>Advent Candle with Glass Holder - Cream</g:title>
-      <g:description>Mark the days until Christmas in candlelight with this simple Advent Candle. These printed candles offers a traditional alternative to an advent calendar and comes with a dainty glass candle holder.</g:description>
+      <g:description>Mark the days until Christmas by candlelight with this traditional Advent candlestick candle. Taller than standard advent candles, it features printed numbered dates from 1 to 24, offering a simple alternative to an advent calendar. Available in festive red or classic white, it comes with a dainty glass holder designed to help catch wax drips and protect tables and displays. A thoughtful seasonal decoration, with every purchase helping to fund vital cancer research.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/advent-candle-with-glass-holder?variant=53484967526775</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81323-Cream-Advent-Calendar-Cancer-Research-UK-Online-Shop_b5bba3b1-b888-4f36-88bb-3218dbdd8079_1024x1024.jpg?v=1764863484</g:image_link>
       <g:condition>new</g:condition>
@@ -2647,7 +2647,7 @@ Ground sheet: 100% Polyethylene
       <g:gtin>5053844414453</g:gtin>
  
       <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Candle</g:product_type>
+      <g:product_type>Advent Candles</g:product_type>
 
       <g:color>Cream</g:color>
       <g:size>1</g:size>
@@ -2667,7 +2667,7 @@ Ground sheet: 100% Polyethylene
       <g:item_group_id>9521165336893</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
       <g:title>Advent Candle with Glass Holder - Red</g:title>
-      <g:description>Mark the days until Christmas in candlelight with this simple Advent Candle. These printed candles offers a traditional alternative to an advent calendar and comes with a dainty glass candle holder.</g:description>
+      <g:description>Mark the days until Christmas by candlelight with this traditional Advent candlestick candle. Taller than standard advent candles, it features printed numbered dates from 1 to 24, offering a simple alternative to an advent calendar. Available in festive red or classic white, it comes with a dainty glass holder designed to help catch wax drips and protect tables and displays. A thoughtful seasonal decoration, with every purchase helping to fund vital cancer research.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/advent-candle-with-glass-holder?variant=53484967494007</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81323-Red-Advent-Calendar-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1764863484</g:image_link>
       <g:condition>new</g:condition>
@@ -2691,7 +2691,7 @@ Ground sheet: 100% Polyethylene
       <g:gtin>5053844414453</g:gtin>
  
       <g:brand>Premier Decorations</g:brand>
-      <g:product_type>Candle</g:product_type>
+      <g:product_type>Advent Candles</g:product_type>
 
       <g:color>Cream</g:color>
       <g:size>1</g:size>
@@ -4993,7 +4993,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>White</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -5012,7 +5012,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/bee-small-tray?variant=57189603017079</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85183-Bee-Print-Small-Tray-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144146</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -5034,7 +5034,7 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Tray</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>White</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -5417,47 +5417,6 @@ Ground sheet: 100% Polyethylene
 
 	
     <item>
-      <g:id>CR85175</g:id>
-      <g:item_group_id>15018128966007</g:item_group_id>
-      
-      <g:title>Bee Tote Bag - Green</g:title>
-      <g:description>Carry your essentials in style with this charming tote bag duo. One features a cream design, the other a calming green—both finished with a sweet bee print. With sturdy handles and a spacious interior, they’re perfect for shopping trips, travel, or taking lunch to work. Durable, practical, and full of personality, these totes are your go-to companions for everyday adventures.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bee-tote-bag?variant=57188096934263</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85175-Bee-Print-Tote-Bag-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144142</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123851756</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Bag</g:product_type>
-
-      <g:color>Green</g:color>
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-	
-    <item>
       <g:id>CR85174</g:id>
       <g:item_group_id>15018128966007</g:item_group_id>
       
@@ -5488,7 +5447,48 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Bag</g:product_type>
 
-      <g:color>Green</g:color>
+      <g:color>White</g:color>
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>General Merchandise</g:custom_label_1>
+      <g:custom_label_2>Accessories</g:custom_label_2>
+      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
+    </item>
+	
+    <item>
+      <g:id>CR85175</g:id>
+      <g:item_group_id>15018128966007</g:item_group_id>
+      
+      <g:title>Bee Tote Bag - Green</g:title>
+      <g:description>Carry your essentials in style with this charming tote bag duo. One features a cream design, the other a calming green—both finished with a sweet bee print. With sturdy handles and a spacious interior, they’re perfect for shopping trips, travel, or taking lunch to work. Durable, practical, and full of personality, these totes are your go-to companions for everyday adventures.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/bee-tote-bag?variant=57188096934263</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85175-Bee-Print-Tote-Bag-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144142</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5034123851756</g:gtin>
+ 
+      <g:brand>Cancer Research UK</g:brand>
+      <g:product_type>Bag</g:product_type>
+
+      <g:color>White</g:color>
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -9778,49 +9778,6 @@ Ground sheet: 100% Polyethylene
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Bowelbabe</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-
-	
-    <item>
-      <g:id>BB84991PINK</g:id>
-      <g:item_group_id>15421166616951</g:item_group_id>
-      
-      <g:title>Bowelbabe Fund Ladies Pink Leopard Print Ankle Socks</g:title>
-      <g:description>Sometimes everyday basics need a lift. These soft ankle socks add comfort with a bold flash of Bowelbabe style at your feet. The breathable fabric, smooth seams and elasticated cuffs make these socks practical for all‑day wear.  Features:  Sizes Ladies  4- 7 , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/bowelbabe-fund-ladies-ankle-socks?variant=56906695049591</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB84991PINK-Pink-Bowelbabe-Fund-Ankle-Socks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776688212</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>8683655374010</g:gtin>
- 
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Socks</g:product_type>
-
-      <g:size>One Size</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-      <g:age_group>adult</g:age_group>
-      <g:gender>female</g:gender>
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
 
@@ -17818,7 +17775,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-bear-with-antlers?variant=57497134563703</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85760-11cm-Christmas-Bears-with-Antlers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1793364482</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -19852,7 +19809,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84025-love-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755877681</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84025-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755877584</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -20651,7 +20608,7 @@ Lining 100% Cotton</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-traditions-4m-christmas-wrapping-paper?variant=57430879306103</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85889-Christmas-Traditions-Christmas-Wrapping-Paper-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787671068</g:image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -21787,7 +21744,9 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>CR85740</g:id>
       <g:item_group_id>15405432635767</g:item_group_id>
       
@@ -21832,9 +21791,7 @@ Lining 100% Cotton</g:material>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>CR84933CRAB</g:id>
       <g:item_group_id>15363566928247</g:item_group_id>
       <g:google_product_category>5910</g:google_product_category>
@@ -36041,7 +35998,7 @@ Inner Lining: 100% Polypropylene
       <g:item_group_id>15552117178743</g:item_group_id>
       
       <g:title>Hector the Heffer Tote Bag</g:title>
-      <g:description>This festive tote bag is a practical and stylish accessory for the Christmas season. Showcasing a sweet festive character design, it adds a touch of seasonal charm wherever you go. With plenty of space for everyday essentials, shopping trips, and transporting Christmas gifts, it's both versatile and convenient. The comfortable handles make it easy to carry, while the lightweight design is ideal for use throughout the festive period.</g:description>
+      <g:description>Bring a little countryside charm to festive outings with this Christmas tote bag. Showcasing an exclusive design of a Highland cow decorated with colourful baubles on its horns, it makes a distinctive seasonal accessory. Perfect for Christmas shopping, wrapping supplies and everyday essentials, it's designed for life on the go. The spacious interior helps keep belongings organised, while sturdy handles ensure comfortable carrying wherever the season takes you.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-tote-bag?variant=57442380284279</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85622-Hector-the-Heffer-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782230</g:image_link>
       <g:condition>new</g:condition>
@@ -39945,7 +39902,9 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>LW71095</g:id>
       <g:item_group_id>9520993173821</g:item_group_id>
       <g:google_product_category>181</g:google_product_category>
@@ -40079,9 +40038,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Cancer Care</g:custom_label_4>
     </item>
 
-
-	
-    <item>
+<item>
       <g:id>CR80262</g:id>
       <g:item_group_id>15512003608951</g:item_group_id>
       
@@ -40312,7 +40269,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Luggage</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>Pink</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -40339,7 +40296,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84931-Dinosaur-Kids-Case-Pink-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785408322</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR84931-Dinosaur-Kids-Case-Pink-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785408322</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>12.99 GBP</g:price>
 
       <g:shipping>
@@ -40362,7 +40319,7 @@ Backing: 100% Polypropylene</g:material>
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Luggage</g:product_type>
 
-      <g:color>Blue</g:color>
+      <g:color>Pink</g:color>
       <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
@@ -48626,7 +48583,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42347-MooGoo-CancerCarePack-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780395476</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42347-MooGoo-CancerCarePack-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1780395476</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>42.99 GBP</g:price>
 
       <g:shipping>
@@ -53233,6 +53190,54 @@ Backing: 100% Polypropylene</g:material>
 
 	
     <item>
+      <g:id>CX85776</g:id>
+      <g:item_group_id>15541511192951</g:item_group_id>
+      <g:google_product_category>2608</g:google_product_category>
+      <g:title>Premier 20 Warm White 3 Way Lights</g:title>
+      <g:description>Sometimes a small touch of light is all it takes to make a space feel warm and welcoming. These 20 warm white LED Christmas lights are perfect for adding a cosy festive glow to shelves, mantelpieces, windows, table displays and small Christmas trees. Battery operated for flexible placement, they offer both static and flashing settings so you can create the look you want. For indoor use only.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/premier-20-warm-white-3-way-lights?variant=57399671914871</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85776-Premier-20-Warm-White-3-Way-Lights-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1794826156</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>1.69 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5053844465189</g:gtin>
+ 
+      <g:brand>Premier Decorations</g:brand>
+      <g:product_type>Christmas Lights</g:product_type>
+      <g:color>white</g:color>
+      <g:size>2</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:material>PVC
+Copper wire
+Silicone
+</g:material>
+      <g:product_length>5.5 cm </g:product_length>
+      <g:product_width>8.5 cm </g:product_width>
+      <g:product_height>4.5 cm </g:product_height>
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Decorations</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+
+	
+    <item>
       <g:id>CX83678</g:id>
       <g:item_group_id>9521082499389</g:item_group_id>
       <g:google_product_category>276</g:google_product_category>
@@ -57211,7 +57216,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:item_group_id>15552117244279</g:item_group_id>
       
       <g:title>Purrkins the Tabby Tote Bag</g:title>
-      <g:description>This festive tote bag is a practical and stylish accessory for the Christmas season. Showcasing a sweet festive character design, it adds a touch of seasonal charm wherever you go. With plenty of space for everyday essentials, shopping trips, and transporting Christmas gifts, it's both versatile and convenient. The comfortable handles make it easy to carry, while the lightweight design is ideal for use throughout the festive period.</g:description>
+      <g:description>For cat lovers looking to add some festive flair to their everyday routine, this Christmas tote bag is a charming choice. The exclusive design features a cosy cat wrapped in a winter scarf and festive hat, ready for the Christmas season. With room for shopping, gifts and daily necessities, it's ideal for staying organised on the go. Comfortable handles and a lightweight design make it easy to carry from morning errands to seasonal celebrations.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/purrkins-the-tabby-tote-bag?variant=57442380349815</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85623-Purrkins-the-Tabby-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782228</g:image_link>
       <g:condition>new</g:condition>
@@ -63709,7 +63714,7 @@ LED
       <g:item_group_id>9521210229053</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
       <g:title>Robin Advent Candle - Cream</g:title>
-      <g:description>Count down the days of Advent with this charming robin advent candle. This classic pillar candle is numbered down the centre in gold, allowing you to burn the candle each day in the countdown to Christmas. Available in two colour options, white and cream, sold separately. Each candle measures approximately 20cm tall x 5cm diameter, and has its own presentation box and clear glass base.</g:description>
+      <g:description>Mark the countdown to Christmas with a simple daily tradition. Standing 20cm tall, this Advent candle features charming robin illustrations alongside numbered dates from 1 to 24, helping create a moment of reflection each day in December. Available in cream or white, it makes a lovely addition to a mantelpiece, dining table or festive display.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/robin-advent-candle?variant=53484948717943</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063004</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683064</g:additional_image_link>
@@ -63752,7 +63757,7 @@ LED
       <g:item_group_id>9521210229053</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
       <g:title>Robin Advent Candle - White</g:title>
-      <g:description>Count down the days of Advent with this charming robin advent candle. This classic pillar candle is numbered down the centre in gold, allowing you to burn the candle each day in the countdown to Christmas. Available in two colour options, white and cream, sold separately. Each candle measures approximately 20cm tall x 5cm diameter, and has its own presentation box and clear glass base.</g:description>
+      <g:description>Mark the countdown to Christmas with a simple daily tradition. Standing 20cm tall, this Advent candle features charming robin illustrations alongside numbered dates from 1 to 24, helping create a moment of reflection each day in December. Available in cream or white, it makes a lovely addition to a mantelpiece, dining table or festive display.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/robin-advent-candle?variant=53484948750711</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757063037</g:image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81322-Advent-Candle-Robin-Group-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1734683064</g:additional_image_link>
@@ -64606,7 +64611,7 @@ Inner Lining: 100% Polypropylene
       <g:item_group_id>15552117145975</g:item_group_id>
       
       <g:title>Robin Choir Tote Bag</g:title>
-      <g:description>This festive tote bag is a practical and stylish accessory for the Christmas season. Showcasing a sweet festive character design, it adds a touch of seasonal charm wherever you go. With plenty of space for everyday essentials, shopping trips, and transporting Christmas gifts, it's both versatile and convenient. The comfortable handles make it easy to carry, while the lightweight design is ideal for use throughout the festive period.</g:description>
+      <g:description>Capture the spirit of Christmas with this delightful Christmas tote bag featuring an exclusive design of a choir of robins singing festive songs together.  Designed for use on the go, it offers ample space for shopping, gifts and daily essentials. The practical handles make carrying easy, while the versatile design is perfect throughout the festive season and beyond.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/robin-choir-tote-bag?variant=57442380251511</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85621-Robin-Choir-Tote-Bag-Cancer-Research-UK-Online-Shop_d3e93c9a-e349-4e41-84c1-5332ca0b732d_1024x1024.jpg?v=1788782227</g:image_link>
       <g:condition>new</g:condition>
@@ -80208,7 +80213,7 @@ Filling: Aggregate and Polyester fibre
       <g:item_group_id>15552117277047</g:item_group_id>
       
       <g:title>Scamp the Scruffy Mutt Tote Bag</g:title>
-      <g:description>This festive tote bag is a practical and stylish accessory for the Christmas season. Showcasing a sweet festive character design, it adds a touch of seasonal charm wherever you go. With plenty of space for everyday essentials, shopping trips, and transporting Christmas gifts, it's both versatile and convenient. The comfortable handles make it easy to carry, while the lightweight design is ideal for use throughout the festive period.</g:description>
+      <g:description>This Christmas tote bag features an exclusive design of a contented dog relaxing with a favourite bauble. Ideal for keeping everything close at hand on the go, it offers plenty of space for groceries, gifts and daily essentials. The durable handles provide comfortable carrying, making it a reliable companion throughout the Christmas period.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/scamp-the-scruffy-mutt-tote-bag?variant=57442380382583</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85624-Scamp-the-Scruffy-Mutt-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782227</g:image_link>
       <g:condition>new</g:condition>
@@ -82700,6 +82705,51 @@ Filling: Aggregate and Polyester fibre
  
       <g:brand>Serenity by Sophia</g:brand>
       <g:product_type>Incense</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Health &amp; Wellbeing</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+
+	
+    <item>
+      <g:id>LW84318</g:id>
+      <g:item_group_id>15003514044791</g:item_group_id>
+      
+      <g:title>Serenity Self Care Planner</g:title>
+      <g:description>Indulge in tranquillity with the Serenity Self Care Planner.  Features:   Provides practical tools for self-care planning, promoting mindfulness and personal growth., Hardcover design in soft grey,  Explore our Serenity collection to find more ways to enjoy mindful moments.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/serenity-self-care-planner?variant=55288882495863</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84318-Serenity-Self-Care-Planner-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749205611</g:image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84318-Serenity-Self-Care-Planner-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749205611</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84318-Serenity-Self-Care-Planner-5-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749205611</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84318-Serenity-Self-Care-Planner-4-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749205611</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84318-Serenity-Self-Care-Planner-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749205611</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>6.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping><g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5063322070859</g:gtin>
+ 
+      <g:brand>Serenity by Sophia</g:brand>
+      <g:product_type>Books</g:product_type>
 
       <g:size>0</g:size>
       <g:size_type>regular</g:size_type>
@@ -88054,9 +88104,7 @@ LED
       <g:custom_label_2>Clothing</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-
-	
-    <item>
+<item>
       <g:id>SU80560</g:id>
       <g:item_group_id>9521300308285</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -88099,7 +88147,9 @@ LED
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
-<item>
+
+	
+    <item>
       <g:id>VFSU2CSOCKF</g:id>
       <g:item_group_id>9521307124029</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -93756,7 +93806,7 @@ LED
       <g:item_group_id>15552117539191</g:item_group_id>
       
       <g:title>Theo the Mouse Tote Bag</g:title>
-      <g:description>This festive tote bag is a practical and stylish accessory for the Christmas season. Showcasing a sweet festive character design, it adds a touch of seasonal charm wherever you go. With plenty of space for everyday essentials, shopping trips, and transporting Christmas gifts, it's both versatile and convenient. The comfortable handles make it easy to carry, while the lightweight design is ideal for use throughout the festive period.</g:description>
+      <g:description>Whether you're popping to the shops, heading to work or carrying a few festive treats, this Christmas tote bag adds a little seasonal cheer to every outing. Featuring an exclusive design of a curious mouse perched on a Christmas pudding, it's a charming choice for animal lovers. Generously sized for everyday essentials, gift shopping and winter errands, it's designed to fit seamlessly into life on the go. Strong handles make carrying comfortable, while the lightweight construction makes it easy to fold away between uses.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/theo-the-mouse-tote-bag?variant=57442380644727</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85620-Theo-the-Mouse-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782229</g:image_link>
       <g:condition>new</g:condition>
