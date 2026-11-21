@@ -6207,7 +6207,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85193-Bee-Print-Tablecloth-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144142</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -6665,7 +6665,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85175-Bee-Print-Tote-Bag-Green-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144142</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -20321,7 +20321,7 @@ Lining 100% Cotton</g:material>
 
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83753-LED-Lit-Nativity-Kids-House-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1762524034</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -44082,116 +44082,6 @@ Backing: 100% Polypropylene</g:material>
     </item>
   
     <item>
-      <g:id>CR85075</g:id>
-      <g:item_group_id>14950478119287</g:item_group_id>
-      <g:title>Highland Cow Breakfast Mug - Beige</g:title>
-      <g:description>Embrace your mornings with this adorable Highland Cow Breakfast Mug, designed to bring a little countryside comfort to your daily routine. Ideal for tea, coffee or hot chocolate, it adds a cosy, characterful touch to your kitchen or desk.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-breakfast-mug?variant=57075641549175</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85075-Highland-Cow-Face-Beige-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778169356</g:image_link>
-
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123850759</g:gtin>
-
-
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
-      <g:color>Beige</g:color>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-      <g:product_length>10 cm </g:product_length>
-
-      <g:product_width>10 cm </g:product_width>
-
-      <g:product_height>13 cm </g:product_height>
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CR85076</g:id>
-      <g:item_group_id>14950478119287</g:item_group_id>
-      <g:title>Highland Cow Breakfast Mug - Grey</g:title>
-      <g:description>Embrace your mornings with this adorable Highland Cow Breakfast Mug, designed to bring a little countryside comfort to your daily routine. Ideal for tea, coffee or hot chocolate, it adds a cosy, characterful touch to your kitchen or desk.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-breakfast-mug?variant=57075645481335</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85076-Highland-Cow-Face-Grey-Breakfast-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778169356</g:image_link>
-
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>4.99 GBP</g:price>
-      <g:sale_price>3.49 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123850766</g:gtin>
-
-
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Mug</g:product_type>
-      <g:color>Grey</g:color>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-      <g:product_length>10 cm </g:product_length>
-
-      <g:product_width>10 cm </g:product_width>
-
-      <g:product_height>13 cm </g:product_height>
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-  
-    <item>
       <g:id>CX861305</g:id>
       <g:item_group_id>15519192678775</g:item_group_id>
       <g:title>Highland Cow Childrens Pyjamas - 5-7 Years</g:title>
@@ -48332,7 +48222,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>CD85581</g:id>
       <g:item_group_id>15520895893879</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
@@ -48388,7 +48278,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>CR85742</g:id>
       <g:item_group_id>15405432537463</g:item_group_id>
       <g:title>Katie the Plush Light Pink Bunny Keyring</g:title>
@@ -50621,7 +50511,7 @@ Backing: 100% Polypropylene</g:material>
     <item>
       <g:id>CX86033RED</g:id>
       <g:item_group_id>15523968811383</g:item_group_id>
-      <g:title>LED Light Up Flame Light Bauble - Red</g:title>
+      <g:title>LED Light Up Bauble - Red</g:title>
       <g:description>Inspired by traditional Christmas ornaments, these LED baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/led-light-up-flame-light-bauble?variant=57677057818999</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034280</g:image_link>
@@ -50673,7 +50563,7 @@ Backing: 100% Polypropylene</g:material>
     <item>
       <g:id>CX86033GOLD</g:id>
       <g:item_group_id>15523968811383</g:item_group_id>
-      <g:title>LED Light Up Flame Light Bauble - Gold</g:title>
+      <g:title>LED Light Up Bauble - Gold</g:title>
       <g:description>Inspired by traditional Christmas ornaments, these LED baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/led-light-up-flame-light-bauble?variant=57677057851767</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034280</g:image_link>
@@ -50725,7 +50615,7 @@ Backing: 100% Polypropylene</g:material>
     <item>
       <g:id>CX86033GREEN</g:id>
       <g:item_group_id>15523968811383</g:item_group_id>
-      <g:title>LED Light Up Flame Light Bauble - Green</g:title>
+      <g:title>LED Light Up Bauble - Green</g:title>
       <g:description>Inspired by traditional Christmas ornaments, these LED baubles offer a sophisticated twist on festive decorating. Featuring ornate detailing and a realistic flame-effect light, they create a cosy, candlelit atmosphere without the need for an open flame.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/led-light-up-flame-light-bauble?variant=57677057884535</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86033-LED-Light-Up-Flame-Light-Bauble-with-Festive-Pattern-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034280</g:image_link>
@@ -55582,7 +55472,7 @@ Backing: 100% Polypropylene</g:material>
 
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Halloween-Socks-Group-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786961371</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.39 GBP</g:sale_price>
 
@@ -69496,7 +69386,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>RC38915</g:id>
       <g:item_group_id>15499723604343</g:item_group_id>
       <g:google_product_category>3809</g:google_product_category>
@@ -69549,7 +69439,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>RC80495</g:id>
       <g:item_group_id>9521140498749</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -92299,7 +92189,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -92357,7 +92247,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82770-Royce-Maisie-Black-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82989-Royce-Maisie-Ivory-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728571775</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>31.67 GBP</g:price>
 
       <g:shipping>
@@ -106766,7 +106656,7 @@ LED
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>SU31196</g:id>
       <g:item_group_id>9521323147581</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -107031,7 +106921,7 @@ LED
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>VFSU2CSOCKM</g:id>
       <g:item_group_id>9521309712701</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
