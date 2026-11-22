@@ -5288,7 +5288,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85191-Bee-Print-Kneeling-Pad-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782144141</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -36110,7 +36110,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85806-Fabric-Sitting-Angel-Decoration-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788437821</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>5.99 GBP</g:price>
 
       <g:shipping>
@@ -36644,60 +36644,6 @@ Backing: TPE
       <g:product_length>0.3 cm </g:product_length>
 
       <g:product_width>11.5 cm </g:product_width>
-
-      <g:product_height>21.5 cm </g:product_height>
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CW84404</g:id>
-      <g:item_group_id>9520870129981</g:item_group_id>
-      <g:google_product_category>8213</g:google_product_category>
-      <g:title>Festive Fun Kraft Gift Tags - 20 Pack</g:title>
-      <g:description>Elevate your Christmas gift-giving with these charming Festive Fun Gift Tags. Featuring a collection of classic seasonal designs, including Santa, a snowman, a gingerbread house and a traditional Christmas pudding, these decorative tags add a cheerful finishing touch to wrapped presents, gift bags and festive hampers.  Perfect for personalising gifts for family and friends, they combine festive charm with practical gift labelling to help make every present feel that little bit more special. Features:  20 gift tags with metallic cord, Recyclable, Co-ordinating gift wrap and gift bags available , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/festive-fun-kraft-gift-tags-20-pack?variant=49003854561597</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW84404-Festive-Fun-Kraft-Gift-Tags-Gift-Tags-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757433500</g:image_link>
-
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128616471</g:gtin>
-
-
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Christmas Gift Tags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-      <g:product_length>0.5 cm </g:product_length>
-
-      <g:product_width>11 cm </g:product_width>
 
       <g:product_height>21.5 cm </g:product_height>
 
@@ -48278,7 +48224,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>CR85742</g:id>
       <g:item_group_id>15405432537463</g:item_group_id>
       <g:title>Katie the Plush Light Pink Bunny Keyring</g:title>
@@ -48334,7 +48280,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>CR85734</g:id>
       <g:item_group_id>15405432865143</g:item_group_id>
       <g:title>Katie the Plush Long-Leg Light Pink Bunny</g:title>
@@ -69439,7 +69385,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>RC80495</g:id>
       <g:item_group_id>9521140498749</g:item_group_id>
       <g:google_product_category>5004</g:google_product_category>
@@ -69667,7 +69613,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>RC71660</g:id>
       <g:item_group_id>9521142432061</g:item_group_id>
       <g:google_product_category>1483</g:google_product_category>
@@ -77739,7 +77685,7 @@ Inner Lining: 100% Polypropylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86106-Robin-Choir-Luxury-Robin-Throw-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -92857,7 +92803,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW71108-Royce-Pocketed-Softcup-Comfi-bra-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1773405577</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>30.00 GBP</g:price>
 
       <g:shipping>
@@ -106921,7 +106867,7 @@ LED
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>VFSU2CSOCKM</g:id>
       <g:item_group_id>9521309712701</g:item_group_id>
       <g:google_product_category>209</g:google_product_category>
@@ -106976,7 +106922,7 @@ LED
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>SU80554</g:id>
       <g:item_group_id>9522294653245</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
@@ -113147,7 +113093,7 @@ LED
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85700-9781841815961-The-little-book-of-sleep-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772188949</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85700-9781841815961-The-little-book-of-sleep-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1772188949</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
