@@ -5390,7 +5390,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85212-Bee-Print-Diffuser-Cream-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1782401837</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -23635,7 +23635,7 @@ Lining 100% Cotton</g:material>
 
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84025-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755877584</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>6.99 GBP</g:sale_price>
 
@@ -24363,7 +24363,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86003-Christmas-Sticker-Carry-Along-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787672061</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.29 GBP</g:price>
 
       <g:shipping>
@@ -24774,7 +24774,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85940-Christmas-Tree-Paper-Table-Cover-Cancer-Research-UK-Online-Shop_9a8def76-5f23-442e-9c28-b37e29eb51f7_1024x1024.jpg?v=1787671637</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -25505,7 +25505,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85065-Coastal-Stripe-Beach-Bag-Cooler-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776675694</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>6.99 GBP</g:price>
       <g:sale_price>4.89 GBP</g:sale_price>
 
@@ -32222,7 +32222,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83848-Dinky-Dachshund-Duo-Tea-Towels-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754489274</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>4.99 GBP</g:price>
 
       <g:shipping>
@@ -35995,7 +35995,7 @@ Backing: TPE
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84036-Fa-La-La-Cushion-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761924109</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84036-Fa-La-La-Cushion-3-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761924109</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>29.99 GBP</g:price>
       <g:sale_price>20.99 GBP</g:sale_price>
 
@@ -41090,8 +41090,8 @@ LED
     <item>
       <g:id>CX86028</g:id>
       <g:item_group_id>15523968352631</g:item_group_id>
-      <g:title>Hanging 24cm Velvet Red Bows - 6 Pack</g:title>
-      <g:description>Make a statement with these luxurious 24cm Velvet Red Bows. Crafted from soft-touch velvet in a rich festive red, these six decorations are perfect for dressing doors, staircases, wreaths, fireplaces, and Christmas trees. </g:description>
+      <g:title>Hanging 24cm Velvet Red Bow</g:title>
+      <g:description>Make a statement with these luxurious 24cm Velvet Red Bows. Crafted from soft-touch velvet in a rich festive red, these decorations are perfect for dressing doors, staircases, wreaths, fireplaces, and Christmas trees. </g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hanging-24cm-velvet-red-bow?variant=57355351982455</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86028-Regal-Tidings-Velvet-Red-Bow-Hanging-24cm-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1786034281</g:image_link>
 
@@ -44445,110 +44445,6 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CR85079</g:id>
-      <g:item_group_id>14950495093111</g:item_group_id>
-      <g:title>Highland Cow Coaster - Beige</g:title>
-      <g:description>Hot drinks can easily leave marks behind, especially on busy surfaces. These fine china coasters helps protect tables from heat, spills and everyday wear while adding a decorative Highland cow touch. Features  Single coaster, Made from fine china , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-coasters?variant=55095914168695</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85079-Highland-Cow-Standing-Ceramic-Coaster-Beige-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778228132</g:image_link>
-
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123850797</g:gtin>
-
-
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coaster</g:product_type>
-      <g:color>Beige</g:color>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-
-
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CR85080</g:id>
-      <g:item_group_id>14950495093111</g:item_group_id>
-      <g:title>Highland Cow Coaster - Grey</g:title>
-      <g:description>Hot drinks can easily leave marks behind, especially on busy surfaces. These fine china coasters helps protect tables from heat, spills and everyday wear while adding a decorative Highland cow touch. Features  Single coaster, Made from fine china , </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/highland-cow-coasters?variant=57077093302647</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85080-Highland-Cow-Standing-Ceramic-Coaster-Grey-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778228133</g:image_link>
-
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>1.99 GBP</g:price>
-      <g:sale_price>1.39 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5034123850803</g:gtin>
-
-
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Coaster</g:product_type>
-      <g:color>Grey</g:color>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-
-
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>General Merchandise</g:custom_label_1>
-      <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
   
     <item>
@@ -48280,7 +48176,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>CR85734</g:id>
       <g:item_group_id>15405432865143</g:item_group_id>
       <g:title>Katie the Plush Long-Leg Light Pink Bunny</g:title>
@@ -48337,7 +48233,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>CR84931</g:id>
       <g:item_group_id>15521270235511</g:item_group_id>
       <g:title>Kids Dinosaur Suitcase - Pink</g:title>
@@ -52831,7 +52727,6 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520136567</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86160-Mini-Hand-Warmers-Chateau-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044574</g:image_link>
 
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -52886,7 +52781,6 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520103799</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86159-Mini-Hand-Warmers-Chocolate-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044575</g:image_link>
 
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -52941,7 +52835,6 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=57449520071031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86158-Mini-Hand-Warmers-Taupe-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
 
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -52996,7 +52889,6 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=55641287786871</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83801-Mini-Hand-Warmers-Nougat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763051698</g:image_link>
 
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -53053,7 +52945,6 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=55641287852407</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83803-Mini-Hand-Warmers-Charcoal-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763051698</g:image_link>
 
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -53110,7 +53001,6 @@ Backing: 100% Polypropylene</g:material>
       <g:link>https://shop.cancerresearchuk.org/products/faux-fur-mini-hand-warmer?variant=55641287819639</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83802-Mini-Hand-Warmers-Rose-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1763051698</g:image_link>
 
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Christmas-2025-Winter-Warmers-22-2048x2048-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755766114</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
@@ -53697,7 +53587,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX76529-Santa-Make-Your-Own-Hand-Puppet-Cancer-Research-UK-Online-Shop_ab4d3ce0-ffef-4f01-b019-352ea888b306_1024x1024.jpg?v=1734683089</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
 
       <g:shipping>
@@ -55311,7 +55201,7 @@ Backing: 100% Polypropylene</g:material>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85535-Meg-Hawkins-Mini-Diffuser-Set-3-The-Field-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771843538</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85535-Meg-Hawkins-Mini-Diffuser-Set-The-Field-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771843538</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>23.99 GBP</g:price>
 
       <g:shipping>
@@ -59457,7 +59347,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82379-MooG00-Shea_20Sorbet_20Vanilla-50g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727365013</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -69613,7 +69503,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>RC71660</g:id>
       <g:item_group_id>9521142432061</g:item_group_id>
       <g:google_product_category>1483</g:google_product_category>
@@ -69669,7 +69559,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>RC80507</g:id>
       <g:item_group_id>9522285248829</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -106922,7 +106812,7 @@ LED
       <g:custom_label_4>Volunteer Fundraising</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>SU80554</g:id>
       <g:item_group_id>9522294653245</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
@@ -107087,7 +106977,7 @@ LED
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>SU80557</g:id>
       <g:item_group_id>9522294718781</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
@@ -123844,7 +123734,7 @@ Backing: TPE
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85797-Until-We-Meet-Again-Small-Robin-Remembrance-Stone-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907520</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -125105,7 +124995,7 @@ Backing: TPE
 
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83681-Wind-Up-Christmas-Toys-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1757927593</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.29 GBP</g:price>
 
       <g:shipping>
