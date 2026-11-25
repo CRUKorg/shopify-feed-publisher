@@ -3583,15 +3583,18 @@ Ground sheet: 100% Polyethylene
       <g:brand>Cancer Research UK</g:brand>
       <g:product_type>Christmas Decorations</g:product_type>
 
-      <g:size>0</g:size>
+      <g:size>1</g:size>
       <g:size_type>regular</g:size_type>
       <g:size_system>UK</g:size_system>
 
 
 
 
+      <g:product_length>6 cm </g:product_length>
 
+      <g:product_width>6 cm </g:product_width>
 
+      <g:product_height>18 cm </g:product_height>
 
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
@@ -3607,6 +3610,7 @@ Ground sheet: 100% Polyethylene
       <g:link>https://shop.cancerresearchuk.org/products/angel-mantel-plaque-with-xmas-wording?variant=57355366760823</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85790-Xmas-Angel-Mantel-Plaque-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
 
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85790-Xmas-Angel-Mantel-Plaque-Lifestyle-Close-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1795537910</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>4.99 GBP</g:price>
@@ -3640,8 +3644,11 @@ Ground sheet: 100% Polyethylene
 
 
 
+      <g:product_length>4 cm </g:product_length>
 
+      <g:product_width>24 cm </g:product_width>
 
+      <g:product_height>16 cm </g:product_height>
 
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
@@ -3690,8 +3697,11 @@ Ground sheet: 100% Polyethylene
 
 
 
+      <g:product_length>6 cm </g:product_length>
 
+      <g:product_width>12 cm </g:product_width>
 
+      <g:product_height>30 cm </g:product_height>
 
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
@@ -4564,6 +4574,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>7.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -6721,6 +6732,7 @@ Ground sheet: 100% Polyethylene
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>7.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -6776,7 +6788,7 @@ Ground sheet: 100% Polyethylene
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83924-Melchoir-Caspar-Balthazar-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776080027</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD83924-Melchoir-Caspar-Balthazar-Christmas-Cards-Lifestyle-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776080027</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>9.99 GBP</g:price>
       <g:sale_price>8.99 GBP</g:sale_price>
 
@@ -12657,7 +12669,7 @@ Ground sheet: 100% Polyethylene
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85568-Burgundy-Twelve-Days-Pack-of-10-Christmas-Cards-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785853274</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>3.49 GBP</g:price>
 
       <g:shipping>
@@ -25980,6 +25992,7 @@ Lining 100% Cotton</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>3.75 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -34976,6 +34989,7 @@ Backing: TPE
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>7.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -41045,6 +41059,7 @@ LED
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>3.75 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -44977,7 +44992,9 @@ Backing: 100% Polypropylene</g:material>
 
 
 
+      <g:product_width>38 cm </g:product_width>
 
+      <g:product_height>40 cm </g:product_height>
 
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
@@ -48134,6 +48151,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>3.75 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -48191,6 +48209,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>6.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -51317,6 +51336,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>7.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -53696,6 +53716,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>7.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -61165,6 +61186,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>3.75 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -63005,6 +63027,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>3.75 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -63718,56 +63741,6 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_1>Wedding Favours</g:custom_label_1>
       <g:custom_label_2>Accessories</g:custom_label_2>
       <g:custom_label_4>Wedding Favours</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>BB85118</g:id>
-      <g:item_group_id>15456353747319</g:item_group_id>
-      <g:title>Positive Pants Bowelbabe Fund Keyring</g:title>
-      <g:description>Raising awareness can start with the everyday items we carry without thinking. This keyring is a small but powerful reminder of bowel cancer awareness, inspired by Deborah James’ message to keep conversations going. </g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/positive-pants-bowelbabe-fund-keyring?variant=57011308495223</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/BB85118-Positive-Pants-Keyring-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776351816</g:image_link>
-
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5056240000000</g:gtin>
-
-
-      <g:brand>Cancer Research UK</g:brand>
-      <g:product_type>Keyring</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-
-
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Bowelbabe</g:custom_label_1>
-      <g:custom_label_2>Accessories</g:custom_label_2>
-      <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
   
     <item>
@@ -69559,7 +69532,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>RC80507</g:id>
       <g:item_group_id>9522285248829</g:item_group_id>
       <g:google_product_category>173</g:google_product_category>
@@ -69675,7 +69648,7 @@ Blue: 80% polyester/20% cotton/with velcro fastening
       <g:custom_label_4>Race For Life</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>RC80393</g:id>
       <g:item_group_id>9521143611709</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -78562,6 +78535,7 @@ Backing: 100% Polypropylene</g:material>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>15.99 GBP</g:price>
+      <g:sale_price>7.99 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -98865,7 +98839,7 @@ Filling: Aggregate and Polyester fibre
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84306-Serenity-Meditate-Incense-Sticks-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1754054956</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.49 GBP</g:price>
 
       <g:shipping>
@@ -105315,7 +105289,7 @@ LED
 
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86252-100ml-Soleil-Diffuser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442658</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.49 GBP</g:price>
       <g:sale_price>10.79 GBP</g:sale_price>
 
@@ -105368,7 +105342,7 @@ LED
 
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86252-100ml-Soleil-Diffuser-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442658</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>13.49 GBP</g:price>
       <g:sale_price>10.79 GBP</g:sale_price>
 
@@ -106977,7 +106951,7 @@ LED
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>SU80557</g:id>
       <g:item_group_id>9522294718781</g:item_group_id>
       <g:google_product_category>4434</g:google_product_category>
@@ -107142,7 +107116,7 @@ LED
       <g:custom_label_4>Stand Up To Cancer</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>SU31201</g:id>
       <g:item_group_id>9521325539645</g:item_group_id>
       <g:google_product_category>212</g:google_product_category>
@@ -124830,6 +124804,7 @@ Backing: TPE
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>14.99 GBP</g:price>
+      <g:sale_price>7.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -124886,6 +124861,7 @@ Backing: TPE
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7.49 GBP</g:price>
+      <g:sale_price>3.75 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
@@ -124943,6 +124919,7 @@ Backing: TPE
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>12.99 GBP</g:price>
+      <g:sale_price>6.49 GBP</g:sale_price>
 
       <g:shipping>
         <g:country>GB</g:country>
