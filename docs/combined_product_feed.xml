@@ -15346,7 +15346,7 @@ Lining 100% Cotton</g:material>
       <g:id>CX85619</g:id>
       <g:item_group_id>9659257225533</g:item_group_id>
       <g:title>Cancer Research UK Highland Cow 2027 Pocket Diary</g:title>
-      <g:description>Plan the year ahead in style with our handy Cancer Research UK pocket diary featuring a beautifully illustrated highland cow. Ideal for the busiest of people, this diary is packed with useful pages as well as a week to view diary layout. Features:  13-month diary (December 2026 - December 2027), Week to view layout , Padded front and back covers ,  Additional information pages:  Personal information page; 2026, 2027 and 2028 overview calendars; 2028 forward planner; International holidays and notable dates chart; International dialling codes; International clothing sizes; International paper size chart; Conversion charts; Address/contact pages; Full colour world and UK maps; National Rail map; London Underground map; Notes pages, </g:description>
+      <g:description>Plan the year ahead in style with our handy Cancer Research UK pocket diary featuring a beautifully illustrated highland cow. Ideal for the busiest of people, this diary is packed with useful pages as well as a week to view diary layout. Features:  13-month diary (December 2026 - December 2027), Week to view layout , Padded front and back covers ,  Additional information pages:  Personal information page; 2026, 2027 and 2028 overview calendars; 2028 forward planner; International holidays and notable dates chart; International dialling codes; International clothing sizes; International paper size chart; Conversion charts; Address/contact pages; Full colour world and UK maps; National Rail map; London Underground map; Notes page,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/cancer-research-uk-pocket-diary-2027-highland-cow?variant=49372362703165</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85619-2027-Highland-Cow-Pocket-Diary-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
 
@@ -20656,6 +20656,59 @@ Lining 100% Cotton</g:material>
     </item>
   
     <item>
+      <g:id>CX86000</g:id>
+      <g:item_group_id>9520781918525</g:item_group_id>
+      <g:google_product_category>596</g:google_product_category>
+      <g:title>Christmas Activity and Sticker Book</g:title>
+      <g:description>Keep children entertained throughout the Christmas holidays with this Christmas Activity Book. Packed with cheerful seasonal activities and stickers. Perfect for quiet afternoons at home, long car journeys and rainy winter days, this activity book encourages creativity while helping children relax and focus. It's an ideal screen-free activity that can be enjoyed independently or shared with siblings, friends and family members.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/christmas-colouring-book?variant=49003748196669</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86000-Christmas-Activty-Sticker-Book-Front-Cover-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1795695039</g:image_link>
+
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86000-Christmas-Activty-Sticker-Book-Activity-Sheets-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1795695060</g:additional_image_link>
+      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86000-Christmas-Activty-Sticker-Book-Back-Cover-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1795695074</g:additional_image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>2.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>5012128631290</g:gtin>
+
+
+      <g:brand>Kids Create</g:brand>
+      <g:product_type>Christmas Activities</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+
+
+
+
+
+
+
+      <g:custom_label_0>General Merchandise</g:custom_label_0>
+      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
+      <g:custom_label_2>Crafts</g:custom_label_2>
+      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
+    </item>
+  
+    <item>
       <g:id>CX84375</g:id>
       <g:item_group_id>15106160722295</g:item_group_id>
       <g:google_product_category>5359</g:google_product_category>
@@ -20928,7 +20981,7 @@ Lining 100% Cotton</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85760-11cm-Christmas-Bears-with-Antlers-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1793364482</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
 
       <g:shipping>
@@ -21121,57 +21174,6 @@ Lining 100% Cotton</g:material>
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
       <g:custom_label_2>Homeware</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CX86000</g:id>
-      <g:item_group_id>9520781918525</g:item_group_id>
-      <g:google_product_category>596</g:google_product_category>
-      <g:title>Christmas Colouring Book</g:title>
-      <g:description>Keep children entertained throughout the Christmas holidays with this Christmas Colouring Book. Packed with cheerful seasonal illustrations, it provides hours of creative fun as little ones bring Christmas characters, winter scenes and festive designs to life with their favourite colours. Perfect for quiet afternoons at home, long car journeys and rainy winter days, this colouring book encourages creativity while helping children relax and focus. It's an ideal screen-free activity that can be enjoyed independently or shared with siblings, friends and family members.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/christmas-colouring-book?variant=49003748196669</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86000-Christmas-Sticker-Activity-Book-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1787335198</g:image_link>
-
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>2.49 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012128631290</g:gtin>
-
-
-      <g:brand>Kids Create</g:brand>
-      <g:product_type>Christmas Activities</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-
-
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Crafts</g:custom_label_2>
       <g:custom_label_4>Core (Christmas)</g:custom_label_4>
     </item>
   
@@ -35676,7 +35678,7 @@ Backing: TPE
       <g:item_group_id>14798687994231</g:item_group_id>
       <g:google_product_category>6205</g:google_product_category>
       <g:title>Extra Large Highland Cow Hand Warmer</g:title>
-      <g:description>Cute and cosy, this extra Highland Cow hand warmer is great to snuggle down with on the sofa. The soft, shaggy cover has a pouch to slip your hands into to keep them toasty warm. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Cute and cosy, this extra Highland Cow hand warmer is great to snuggle down with on the sofa. The soft, shaggy cover has a pouch to slip your hands into to keep them toasty warm. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/extra-large-highland-cow-hand-warmer?variant=53498738606455</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83823-Highland-Cow-Extra-Large-Hand-Warmer-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755617663</g:image_link>
 
@@ -38109,214 +38111,6 @@ Lining: 92% Modal/ 8% elastane</g:material>
     </item>
   
     <item>
-      <g:id>CW81785PUDDING</g:id>
-      <g:item_group_id>14670532706679</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Christmas Gift Bag - Christmas Pudding</g:title>
-      <g:description>These giant sized gift bags are perfect for the larger, awkward gifts, or for putting together your own goody bag. Available in four styles, puddings, 'ho ho ho', hot air balloon, and festive greetings, all sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giant-square-christmas-gift-bag?variant=53481575055735</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81785-Giftmaker-Christmas-Pudding-Ho-Ho-Ho-Giant-Gift-Bags-Group-Cancer-Research-UK-Online-Shop_2cc83806-39a3-4320-9bf8-f40448fe03fe_1024x1024.jpg?v=1728905694</g:image_link>
-
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81785-Giant-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728906281</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213569620</g:gtin>
-
-
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-
-
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CW81785HOHOHO</g:id>
-      <g:item_group_id>14670532706679</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Christmas Gift Bag - Ho Ho Ho</g:title>
-      <g:description>These giant sized gift bags are perfect for the larger, awkward gifts, or for putting together your own goody bag. Available in four styles, puddings, 'ho ho ho', hot air balloon, and festive greetings, all sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giant-square-christmas-gift-bag?variant=53481575088503</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81785-Giftmaker-Christmas-Pudding-Ho-Ho-Ho-Giant-Gift-Bags-Group-Cancer-Research-UK-Online-Shop_2cc83806-39a3-4320-9bf8-f40448fe03fe_1024x1024.jpg?v=1728905694</g:image_link>
-
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81785-Giant-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728906281</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5012213569620</g:gtin>
-
-
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-
-
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CW81786BALLOON</g:id>
-      <g:item_group_id>14670532706679</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Christmas Gift Bag - Hot Air Balloon</g:title>
-      <g:description>These giant sized gift bags are perfect for the larger, awkward gifts, or for putting together your own goody bag. Available in four styles, puddings, 'ho ho ho', hot air balloon, and festive greetings, all sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giant-square-christmas-gift-bag?variant=53481605235063</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81786-Giftmaker-Hot-Air-Balloon-Text-Giant-Gift-Bags-Group-Cancer-Research-UK-Online-Shop_725cf0f7-8441-420e-ade0-c1f1bca8721f_1024x1024.jpg?v=1728905852</g:image_link>
-
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81785-Giant-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728906281</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-
-      <g:mpn>CW81786BALLOON</g:mpn>
-
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-
-
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CW81786TEXT</g:id>
-      <g:item_group_id>14670532706679</g:item_group_id>
-      <g:google_product_category>5838</g:google_product_category>
-      <g:title>Giant Square Christmas Gift Bag - Greetings</g:title>
-      <g:description>These giant sized gift bags are perfect for the larger, awkward gifts, or for putting together your own goody bag. Available in four styles, puddings, 'ho ho ho', hot air balloon, and festive greetings, all sold separately.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/giant-square-christmas-gift-bag?variant=53481605267831</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW81786-Giftmaker-Hot-Air-Balloon-Text-Giant-Gift-Bags-Group-Cancer-Research-UK-Online-Shop_725cf0f7-8441-420e-ade0-c1f1bca8721f_1024x1024.jpg?v=1728905852</g:image_link>
-
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX81785-Giant-Christmas-Gift-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1728906281</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>2.99 GBP</g:price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-
-      <g:mpn>CW81786TEXT</g:mpn>
-
-      <g:brand>Giftmaker</g:brand>
-      <g:product_type>Gift Bags</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-
-
-
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Giftbags and Wraps</g:custom_label_1>
-      <g:custom_label_2>Giftbags and Wraps</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-  
-    <item>
       <g:id>CW85881SLEIGH</g:id>
       <g:item_group_id>15128434442615</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
@@ -39206,60 +39000,6 @@ Lining: 92% Modal/ 8% elastane</g:material>
       <g:product_width>30 cm </g:product_width>
 
       <g:product_height>40 cm </g:product_height>
-
-      <g:custom_label_0>General Merchandise</g:custom_label_0>
-      <g:custom_label_1>Christmas Gifts</g:custom_label_1>
-      <g:custom_label_2>Decorations</g:custom_label_2>
-      <g:custom_label_4>Core (Christmas)</g:custom_label_4>
-    </item>
-  
-    <item>
-      <g:id>CX84633</g:id>
-      <g:item_group_id>15090030838135</g:item_group_id>
-      <g:title>Gingerbread House Mug</g:title>
-      <g:description>Cosy up this winter with a charming gingerbread house mug, perfect for hot chocolate or your daily brew. Featuring icing-style details, heart accents, and a snow-topped roof lid, it adds festive fun to every sip. A delightful addition to your kitchen or a thoughtful seasonal gift. Snap, sprinkle, and style your space with our full range of gingerbread decorations and homewares.</g:description>
-      <g:link>https://shop.cancerresearchuk.org/products/gingerbread-house-mug?variant=55604446036343</g:link>
-      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84633-Gingerbread-House-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761086343</g:image_link>
-
-      <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84633-Gingerbread-House-Mug-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1761086376</g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
-      <g:price>9.99 GBP</g:price>
-      <g:sale_price>6.99 GBP</g:sale_price>
-
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.99 GBP</g:price>
-      </g:shipping>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Next Working Day</g:service>
-        <g:price>6.99 GBP</g:price>
-      </g:shipping>
-      <g:free_shipping_threshold>
-        <g:country>GB</g:country>
-        <g:price_threshold>50.00 GBP</g:price_threshold>
-      </g:free_shipping_threshold>
-
-      <g:ships_from_country>GB</g:ships_from_country>
-      <g:gtin>5024418635666</g:gtin>
-
-
-      <g:product_type>Mug</g:product_type>
-
-      <g:size>0</g:size>
-      <g:size_type>regular</g:size_type>
-      <g:size_system>UK</g:size_system>
-
-
-
-      <g:material>100% dolomite</g:material>
-
-
-      <g:product_width>9.5 cm </g:product_width>
-
-      <g:product_height>13 cm </g:product_height>
 
       <g:custom_label_0>General Merchandise</g:custom_label_0>
       <g:custom_label_1>Christmas Gifts</g:custom_label_1>
@@ -40781,7 +40521,7 @@ LED
       <g:item_group_id>15520895861111</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Hamish &amp; Family Ready For Santa 10/20 Christmas Cards - 10</g:title>
-      <g:description>Make someone’s Christmas that bit brighter with this adorable Highland Cow Christmas card, where three fluffy-fringed cows peek over a snow-dusted fence above their colourful stockings.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Make someone’s Christmas that bit brighter with this adorable Highland Cow Christmas card, where three fluffy-fringed cows peek over a snow-dusted fence above their colourful stockings.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com ,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hamish-family-ready-for-santa-10-20-christmas-cards?variant=57337927401847</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85580-Hamish-Family-Ready-For-Santa-Pack-of-10-Christmas-CardS-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785852442</g:image_link>
 
@@ -40836,7 +40576,7 @@ LED
       <g:item_group_id>15520895861111</g:item_group_id>
       <g:google_product_category>95</g:google_product_category>
       <g:title>Hamish &amp; Family Ready For Santa 10/20 Christmas Cards - 20</g:title>
-      <g:description>Make someone’s Christmas that bit brighter with this adorable Highland Cow Christmas card, where three fluffy-fringed cows peek over a snow-dusted fence above their colourful stockings.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com , </g:description>
+      <g:description>Make someone’s Christmas that bit brighter with this adorable Highland Cow Christmas card, where three fluffy-fringed cows peek over a snow-dusted fence above their colourful stockings.  Pack of 10 or 20 Christmas cards and envelopes, Design exclusive to Cancer Research UK, Inside greeting reads: Happy Christmas , Uncoated 250gsm FSC board, 100% recyclable card, envelope and packaging. For details on how to reuse or recycle your cards, visit recyclenow.com ,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hamish-family-ready-for-santa-10-20-christmas-cards?variant=57338001391991</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CD85580-Hamish-Family-Ready-For-Santa-Pack-of-10-Christmas-CardS-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1785852442</g:image_link>
 
@@ -41685,7 +41425,7 @@ LED
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR79703-Easter-Range-1.3m-Happy-Easter-Felt-Garland-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1770140602</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.99 GBP</g:price>
       <g:sale_price>1.00 GBP</g:sale_price>
 
@@ -41999,7 +41739,7 @@ Backing: TPE
       <g:id>CX85821</g:id>
       <g:item_group_id>15552116916599</g:item_group_id>
       <g:title>Hatty the Highland Cow Sitting Decoration - Small</g:title>
-      <g:description>Say hello to the cutest coo in the herd! Wrapped up in a bright red scarf and matching hat, this fluffy Highland Cow Hatty is full of Christmas charm. Perched happily on shelves, mantelpieces or nestled among your Christmas displays, this adorable Highland cow decoration is sure to bring warmth, smiles and a touch of Scottish-inspired cheer to your home year after year.</g:description>
+      <g:description>Say hello to the cutest coo in the herd! Wrapped up in a bright red scarf and matching hat, this fluffy Highland Cow Hatty is full of Christmas charm. Perched happily on shelves, mantelpieces or nestled among your Christmas displays, this adorable Highland cow decoration is sure to bring warmth, smiles and a touch of Scottish-inspired cheer to your home year after year. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hatty-the-highland-cow-sitting-decoration?variant=57535657050487</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85821-Hatty-the-Highland-Cow-Sitting-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053733</g:image_link>
 
@@ -42052,7 +41792,7 @@ Backing: TPE
       <g:id>CX85822</g:id>
       <g:item_group_id>15552116916599</g:item_group_id>
       <g:title>Hatty the Highland Cow Sitting Decoration - Large</g:title>
-      <g:description>Say hello to the cutest coo in the herd! Wrapped up in a bright red scarf and matching hat, this fluffy Highland Cow Hatty is full of Christmas charm. Perched happily on shelves, mantelpieces or nestled among your Christmas displays, this adorable Highland cow decoration is sure to bring warmth, smiles and a touch of Scottish-inspired cheer to your home year after year.</g:description>
+      <g:description>Say hello to the cutest coo in the herd! Wrapped up in a bright red scarf and matching hat, this fluffy Highland Cow Hatty is full of Christmas charm. Perched happily on shelves, mantelpieces or nestled among your Christmas displays, this adorable Highland cow decoration is sure to bring warmth, smiles and a touch of Scottish-inspired cheer to your home year after year. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hatty-the-highland-cow-sitting-decoration?variant=57535657083255</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85822-Hatty-the-Highland-Cow-Sitting-Large-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053721</g:image_link>
 
@@ -42217,7 +41957,7 @@ Backing: TPE
       <g:id>CX86100</g:id>
       <g:item_group_id>15519192023415</g:item_group_id>
       <g:title>Hector the Heffer Apron</g:title>
-      <g:description>Bring a touch of festive countryside charm to your kitchen with this delightful Highland Cow Apron. Featuring an adorable Highland cow decorated with colourful Christmas lights, it's perfect for seasonal baking, cooking and entertaining.</g:description>
+      <g:description>Bring a touch of festive countryside charm to your kitchen with this delightful Highland Cow Apron. Featuring an adorable Highland cow decorated with colourful Christmas lights, it's perfect for seasonal baking, cooking and entertaining. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-apron?variant=57321552707959</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86100-Hector-Highland-Cow-Apron-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907528</g:image_link>
 
@@ -42269,7 +42009,7 @@ Backing: TPE
       <g:id>CX85686</g:id>
       <g:item_group_id>15523969925495</g:item_group_id>
       <g:title>Hector the Heffer Bauble</g:title>
-      <g:description>Celebrate the season with the Hector the Heffer Bauble. Featuring an exclusive Highland cow illustration, this decorative bauble adds rustic charm and festive character to your Christmas tree. A wonderful choice for animal lovers, it's the perfect finishing touch for a cosy seasonal display. Features:  Exclusive Hector the Heffer design, Features a charming Highland cow illustration, Hanging loop included for easy display, Lightweight and easy to hang, Ideal for festive decorating and gifting, </g:description>
+      <g:description>Celebrate the season with the Hector the Heffer Bauble. Featuring an exclusive Highland cow illustration, this decorative bauble adds rustic charm and festive character to your Christmas tree. A wonderful choice for animal lovers, it's the perfect finishing touch for a cosy seasonal display. Features:  Exclusive Hector the Heffer design, Features a charming Highland cow illustration, Hanging loop included for easy display, Lightweight and easy to hang, Ideal for festive decorating and gifting,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-bauble?variant=57355365155191</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85686-Hector-Highland-Cow-Bauble-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907525</g:image_link>
 
@@ -42320,7 +42060,7 @@ Backing: TPE
       <g:id>CX85829</g:id>
       <g:item_group_id>15552116851063</g:item_group_id>
       <g:title>Hector the Heffer Candle</g:title>
-      <g:description>Add a warm and inviting touch to your home with this beautifully scented candle, thoughtfully presented in a decorative glass jar that blends fragrance and design in equal measure. Created to enhance everyday moments, it releases a pleasant aroma that gently fills the room, helping to create a cosy and welcoming atmosphere. Features  28 hour burn time, Natural wax candle with a single wick, Design exclusive to Cancer Research UK, </g:description>
+      <g:description>Add a warm and inviting touch to your home with this beautifully scented candle, thoughtfully presented in a decorative glass jar that blends fragrance and design in equal measure. Created to enhance everyday moments, it releases a pleasant aroma that gently fills the room, helping to create a cosy and welcoming atmosphere. Features  28 hour burn time, Natural wax candle with a single wick, Design exclusive to Cancer Research UK,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-highland-cow-character-candle?variant=57442379891063</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85829-Hector-the-Heffer-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789034466</g:image_link>
 
@@ -42371,7 +42111,7 @@ Backing: TPE
       <g:id>CX85632</g:id>
       <g:item_group_id>15552118522231</g:item_group_id>
       <g:title>Hector the Heffer Ceramic Coaster</g:title>
-      <g:description>Start your day with a touch of festive charm as you rest your morning coffee or afternoon tea on this beautifully crafted ceramic coaster. Featuring a delightful Highland Cow design, it captures the warmth of the Christmas season, making it a lovely addition to kitchens, dining tables and cosy living spaces. Both decorative and practical, it's perfect for protecting surfaces while adding a seasonal finishing touch to your home. Features:  Design exclusive to Cancer Research UK, Sold singly, Approximately 10 x 10 x 0.5cm, Cork-backed to prevent scratches to your surfaces, </g:description>
+      <g:description>Start your day with a touch of festive charm as you rest your morning coffee or afternoon tea on this beautifully crafted ceramic coaster. Featuring a delightful Highland Cow design, it captures the warmth of the Christmas season, making it a lovely addition to kitchens, dining tables and cosy living spaces. Both decorative and practical, it's perfect for protecting surfaces while adding a seasonal finishing touch to your home. Features:  Design exclusive to Cancer Research UK, Sold singly, Approximately 10 x 10 x 0.5cm, Cork-backed to prevent scratches to your surfaces,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-ceramic-coaster?variant=57442382152055</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85632-Hector-the-Heffer-Ceramic-Coaster-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782231</g:image_link>
 
@@ -42423,7 +42163,7 @@ Backing: TPE
       <g:id>CX86113</g:id>
       <g:item_group_id>15519192383863</g:item_group_id>
       <g:title>Hector the Heffer Doormat</g:title>
-      <g:description>Keep your floors clean and your entrance full of festive charm with this durable Christmas doormat. Designed to trap dirt and moisture from shoes, it's perfect for busy homes throughout Christmas. Featuring an adorable Highland cow dressed for Christmas, this design brings a cosy countryside feel to any doorway. Suitable for indoor or sheltered outdoor use, it's a practical and welcoming way to greet family and guests.</g:description>
+      <g:description>Keep your floors clean and your entrance full of festive charm with this durable Christmas doormat. Designed to trap dirt and moisture from shoes, it's perfect for busy homes throughout Christmas. Featuring an adorable Highland cow dressed for Christmas, this design brings a cosy countryside feel to any doorway. Suitable for indoor or sheltered outdoor use, it's a practical and welcoming way to greet family and guests. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-doormat?variant=57321553199479</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86113-Hector-Highland-Cow-Door-Mat-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907526</g:image_link>
 
@@ -42476,7 +42216,7 @@ Filling: Aggregate and Polyester fibre
       <g:id>CX86101</g:id>
       <g:item_group_id>15519192056183</g:item_group_id>
       <g:title>Hector the Heffer Double Oven Gloves</g:title>
-      <g:description>Bring festive cheer to your kitchen with these Highland Cow Oven Gloves. Designed with a traditional red plaid pattern and finished with bold red trim, it features a playful illustration of a highland cow wearing a Santa hat and holding a sprig of holly. Crafted from durable, heat-resistant materials, this mitt offers both style and safety while handling hot cookware. A built-in hanging loop makes it easy to store and display during the Christmas season.</g:description>
+      <g:description>Bring festive cheer to your kitchen with these Highland Cow Oven Gloves. Designed with a traditional red plaid pattern and finished with bold red trim, it features a playful illustration of a highland cow wearing a Santa hat and holding a sprig of holly. Crafted from durable, heat-resistant materials, this mitt offers both style and safety while handling hot cookware. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-double-oven-gloves?variant=57321552740727</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86101-Hector-Highland-Cow-Oven-Gloves-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
 
@@ -42586,7 +42326,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX86109</g:id>
       <g:item_group_id>15519192252791</g:item_group_id>
       <g:title>Hector the Heffer Hot Water Bottle</g:title>
-      <g:description>Stay cosy and warm on chilly evenings with this adorable Highland Cow Hot Water Bottle. Perfect for soothing aches, easing muscle tension and providing comforting warmth, it's an ideal companion during the colder months.  Suitable for both children and adults, it's perfect for snuggling up on winter nights.</g:description>
+      <g:description>Stay cosy and warm on chilly evenings with this adorable Highland Cow Hot Water Bottle. Perfect for soothing aches, easing muscle tension and providing comforting warmth, it's an ideal companion during the colder months.  Suitable for both children and adults, it's perfect for snuggling up on winter nights. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-hot-water-bottle?variant=57321553068407</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86109-Hector-the-Heffer-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044571</g:image_link>
 
@@ -42639,7 +42379,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX86107</g:id>
       <g:item_group_id>15519192154487</g:item_group_id>
       <g:title>Hector the Heffer Luxury Blanket Throw</g:title>
-      <g:description>Stay warm in style this winter with this thick and warm Highland cow design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Design is exclusive to Cancer Research UK.</g:description>
+      <g:description>Stay warm in style this winter with this thick and warm Highland cow design throw. It's super-soft and perfect whilst watching your festive favourites on TV, reading your latest books, or just when you need another layer. Design is exclusive to Cancer Research UK. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-luxury-blanket-throw?variant=57321552806263</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86107-Hector-the-Heffer-Luxury-Throw-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044573</g:image_link>
 
@@ -42691,7 +42431,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX85627</g:id>
       <g:item_group_id>15552118587767</g:item_group_id>
       <g:title>Hector the Heffer Mug</g:title>
-      <g:description>Enjoy your morning brew in this generously sized ceramic mug, perfect for coffee, tea, or hot chocolate. Its sturdy build makes it ideal for daily use, while the festive Highland Cow design adds a cheerful touch to your breakfast routine. Easy to clean and comfortable to hold, it’s a great choice for cosy winter mornings or as a seasonal gift.</g:description>
+      <g:description>Enjoy your morning brew in this generously sized ceramic mug, perfect for coffee, tea, or hot chocolate. Its sturdy build makes it ideal for daily use, while the festive Highland Cow design adds a cheerful touch to your breakfast routine. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-mug?variant=57442382217591</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85627-Hector-the-Heffer-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782229</g:image_link>
 
@@ -42743,7 +42483,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX85647</g:id>
       <g:item_group_id>15552117768567</g:item_group_id>
       <g:title>Hector the Heffer Pack of 20 Napkins</g:title>
-      <g:description>Bring festive farmhouse charm to your table with these Hector the Incredible Heffer paper napkins. Showcasing a sweet Christmas Highland cow character design, they make a delightful addition to seasonal dining and entertaining. Features  One design, 20 napkins, Design exclusive to Cancer Research UK, </g:description>
+      <g:description>Bring festive farmhouse charm to your table with these Hector the Incredible Heffer paper napkins. Showcasing a sweet Christmas Highland cow character design, they make a delightful addition to seasonal dining and entertaining. Features  One design, 20 napkins, Design exclusive to Cancer Research UK,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-highland-cow-character-napkins?variant=57442381005175</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85647-Hector-the-Heffer-Napkins-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782231</g:image_link>
 
@@ -42794,7 +42534,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX85634</g:id>
       <g:item_group_id>15552118292855</g:item_group_id>
       <g:title>Hector the Heffer Salt &amp; Pepper Set</g:title>
-      <g:description>Bring a touch of countryside charm to your Christmas dining experience with this delightful pair of fine china Highland cow salt and pepper shakers. Expertly crafted with festive character, they make a stylish addition to Christmas dinner tables. Each pot measures 7 x 4.5 x 4.5cm.</g:description>
+      <g:description>Bring a touch of countryside charm to your Christmas dining experience with this delightful pair of fine china Highland cow salt and pepper shakers. Expertly crafted with festive character, they make a stylish addition to Christmas dinner tables. Each pot measures 7 x 4.5 x 4.5cm. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-salt-pepper-set?variant=57442381922679</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85634-Hector-the-Heffer-Salt-and-Pepper-Shaker-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782231</g:image_link>
 
@@ -42844,7 +42584,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX85637</g:id>
       <g:item_group_id>15552118391159</g:item_group_id>
       <g:title>Hector the Heffer Set of 4 Placemats</g:title>
-      <g:description>Bring a cosy festive touch to your table with the Set of 4 Highland Cow Placemats. Featuring a sweet Highland cow design with seasonal charm, these placemats add warmth and character to any dining space. Perfect for everyday dining or Christmas gatherings, they help protect your table while creating a welcoming atmosphere. Durable and easy to clean, they offer both practicality and festive style. Features  Set of 4 placemats, Approximately 29 x 22cm, Cork backed, </g:description>
+      <g:description>Bring a cosy festive touch to your table with the Set of 4 Highland Cow Placemats. Featuring a sweet Highland cow design with seasonal charm, these placemats add warmth and character to any dining space. Perfect for everyday dining or Christmas gatherings, they help protect your table while creating a welcoming atmosphere. Durable and easy to clean, they offer both practicality and festive style. Features  Set of 4 placemats, Approximately 29 x 22cm, Cork backed,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-placemats?variant=57442382020983</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85637-Hector-the-Heffer-Placemats-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782228</g:image_link>
 
@@ -42895,7 +42635,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX85655</g:id>
       <g:item_group_id>15552117408119</g:item_group_id>
       <g:title>Hector the Heffer Small Tray</g:title>
-      <g:description>Perfect for everyday use, this charming Christmas tray is ideal for carrying teas, coffees and a selection of snacks from kitchen to sofa or desk. The compact size makes it easy to handle, while the characterful design adds a warm, homely touch to breaks.</g:description>
+      <g:description>Perfect for everyday use, this charming Christmas tray is ideal for carrying teas, coffees and a selection of snacks from kitchen to sofa or desk. The compact size makes it easy to handle, while the characterful design adds a warm, homely touch to breaks. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-small-tray?variant=57442380513655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85655-Hector-the-Heffer-Small-Tray-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782228</g:image_link>
 
@@ -42946,7 +42686,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX85652</g:id>
       <g:item_group_id>15552117309815</g:item_group_id>
       <g:title>Hector the Heffer Spoon Rest</g:title>
-      <g:description>Brighten your kitchen this Christmas with this festive spoon rest, featuring an adorable Highland cow design full of seasonal charm. A practical way to keep worktops clean while preparing Christmas dinner, baking festive treats or serving seasonal favourites, it adds a touch of countryside character to the heart of the home.</g:description>
+      <g:description>Brighten your kitchen this Christmas with this festive spoon rest, featuring an adorable Highland cow design full of seasonal charm. A practical way to keep worktops clean while preparing Christmas dinner, baking festive treats or serving seasonal favourites, it adds a touch of countryside character to the heart of the home. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-spoon-rest?variant=57442380415351</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85652-Hector-the-Heffer-Spoon-Rest-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782225</g:image_link>
 
@@ -42996,7 +42736,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX86095</g:id>
       <g:item_group_id>15519191826807</g:item_group_id>
       <g:title>Hector the Heffer Tea Towel Duo</g:title>
-      <g:description>Make kitchen clean-ups moo-re festive with the Hector the Heffer Tea Towel Duo. Showcasing the lovable Highland cow Hector in a charming Christmas design, these tea towels combine practicality with plenty of seasonal character.  Perfect for drying dishes, polishing glassware or simply displaying in the kitchen, they're a delightful addition to any country-inspired Christmas home.</g:description>
+      <g:description>Make kitchen clean-ups moo-re festive with the Hector the Heffer Tea Towel Duo. Showcasing the lovable Highland cow Hector in a charming Christmas design, these tea towels combine practicality with plenty of seasonal character.  Perfect for drying dishes, polishing glassware or simply displaying in the kitchen, they're a delightful addition to any country-inspired Christmas home. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-tea-towel-duo?variant=57321552511351</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86095-Hector-Highland-Cow-Tea-Towels-Duo-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907527</g:image_link>
 
@@ -43048,7 +42788,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX85642</g:id>
       <g:item_group_id>15552117997943</g:item_group_id>
       <g:title>Hector the Heffer Teabag Tidy</g:title>
-      <g:description>This charming Christmas Highland Cow teabag tidy is a practical and decorative addition to any kitchen. Designed to help keep countertops tidy by holding used teabags, it combines everyday functionality with an sweet festive design. A thoughtful gift for tea lovers, it makes a lovely accessory for the home and a useful addition to any tea-making routine.</g:description>
+      <g:description>This charming Christmas Highland Cow teabag tidy is a practical and decorative addition to any kitchen. Designed to help keep countertops tidy by holding used teabags, it combines everyday functionality with an sweet festive design. A thoughtful gift for tea lovers, it makes a lovely accessory for the home and a useful addition to any tea-making routine. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-teabag-tidy?variant=57442381529463</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85642-Hector-the-Heffer-Teabag-Tidy-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782228</g:image_link>
 
@@ -43100,7 +42840,7 @@ Inner Lining: 100% Polypropylene
       <g:id>57517053444471</g:id>
       <g:item_group_id>15568445210999</g:item_group_id>
       <g:title>Hector the Heffer Teatime Bundle</g:title>
-      <g:description>Gather the herd, pop the kettle on and enjoy a cosy moment with this Highland Cow Teatime Bundle. This wonderful set includes a fine china breakfast mug, ceramic coaster and teabag tidy. Each piece features our exclusive Highland Cow design, bringing a little countryside charm to every tea break.</g:description>
+      <g:description>Gather the herd, pop the kettle on and enjoy a cosy moment with this Highland Cow Teatime Bundle. This wonderful set includes a fine china breakfast mug, ceramic coaster and teabag tidy. Each piece features our exclusive Highland Cow design, bringing a little countryside charm to every tea break. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/christmas-highland-cow-teatime-bundle?variant=57517053444471</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/Hector-the-Highland-Cow-Teatime-Bundle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1791977763</g:image_link>
 
@@ -43150,7 +42890,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX85622</g:id>
       <g:item_group_id>15552117178743</g:item_group_id>
       <g:title>Hector the Heffer Tote Bag</g:title>
-      <g:description>Bring a little countryside charm to festive outings with this Christmas tote bag. Showcasing an exclusive design of a Highland cow decorated with colourful baubles on its horns, it makes a distinctive seasonal accessory. Perfect for Christmas shopping, wrapping supplies and everyday essentials, it's designed for life on the go. The spacious interior helps keep belongings organised, while sturdy handles ensure comfortable carrying wherever the season takes you.</g:description>
+      <g:description>Bring a little countryside charm to festive outings with this Christmas tote bag. Showcasing an exclusive design of a Highland cow decorated with colourful baubles on its horns, it makes a distinctive seasonal accessory. Perfect for Christmas shopping, wrapping supplies and everyday essentials, it's designed for life on the go. The spacious interior helps keep belongings organised, while sturdy handles ensure comfortable carrying wherever the season takes you. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-incredible-heffer-tote-bag?variant=57442380284279</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85622-Hector-the-Heffer-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1788782230</g:image_link>
 
@@ -43200,7 +42940,7 @@ Inner Lining: 100% Polypropylene
       <g:id>CX86121</g:id>
       <g:item_group_id>15519192580471</g:item_group_id>
       <g:title>Hector the Heffer Wipeable Tablecloth</g:title>
-      <g:description>Deck your table with a dash of Christmas spirit and a whole lot of practicality. This wipe-clean Christmas tablecloth is made for real homes and real celebrations—where spills happen, guests gather, and memories are made. With its vibrant seasonal design and easy-clean surface, it’s ready to handle everything from mulled wine mishaps to mince pie crumbs. Suitable for rectangular tables with 4-6 settings, the flannel backed tablecloth protects your table and looks great.</g:description>
+      <g:description>Deck your table with a dash of Christmas spirit and a whole lot of practicality. This wipe-clean Christmas tablecloth is made for real homes and real celebrations—where spills happen, guests gather, and memories are made. With its vibrant seasonal design and easy-clean surface, it’s ready to handle everything from mulled wine mishaps to mince pie crumbs. Suitable for rectangular tables with 4-6 settings, the flannel backed tablecloth protects your table and looks great. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/hector-the-heffer-wipeable-tablecloth?variant=57321553396087</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86121-Hector-Highland-Cow-Tablecloth-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907529</g:image_link>
 
@@ -43252,7 +42992,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX85819</g:id>
       <g:item_group_id>15552117113207</g:item_group_id>
       <g:title>Henry the Highland Cow Standing Decoration - Small</g:title>
-      <g:description>Bring a wee taste of the Highlands to your Christmas celebrations with Henry the Highland Cow. Standing proudly in his festive Santa hat and cosy red scarf, this cheeky coo is ready to spread Christmas cheer from the moment he arrives. Whether he's greeting guests from a hallway table, or standing proudly on a mantelpiece, Henry is sure to steal the spotlight.</g:description>
+      <g:description>Bring a wee taste of the Highlands to your Christmas celebrations with Henry the Highland Cow. Standing proudly in his festive Santa hat and cosy red scarf, this cheeky coo is ready to spread Christmas cheer from the moment he arrives. Whether he's greeting guests from a hallway table, or standing proudly on a mantelpiece, Henry is sure to steal the spotlight. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/henry-the-highland-cow-standing-decoration?variant=57535603540343</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85819-Henry-the-Highland-Cow-Standing-Small-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053780</g:image_link>
 
@@ -43305,7 +43045,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX85820</g:id>
       <g:item_group_id>15552117113207</g:item_group_id>
       <g:title>Henry the Highland Cow Standing Decoration - Large</g:title>
-      <g:description>Bring a wee taste of the Highlands to your Christmas celebrations with Henry the Highland Cow. Standing proudly in his festive Santa hat and cosy red scarf, this cheeky coo is ready to spread Christmas cheer from the moment he arrives. Whether he's greeting guests from a hallway table, or standing proudly on a mantelpiece, Henry is sure to steal the spotlight.</g:description>
+      <g:description>Bring a wee taste of the Highlands to your Christmas celebrations with Henry the Highland Cow. Standing proudly in his festive Santa hat and cosy red scarf, this cheeky coo is ready to spread Christmas cheer from the moment he arrives. Whether he's greeting guests from a hallway table, or standing proudly on a mantelpiece, Henry is sure to steal the spotlight. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/henry-the-highland-cow-standing-decoration?variant=57535603573111</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX85820-Henry-the-Highland-Cow-Standing-Large-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789053745</g:image_link>
 
@@ -43467,7 +43207,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX86129SMALL</g:id>
       <g:item_group_id>15519192646007</g:item_group_id>
       <g:title>Highland Cow Adult Pyjamas - Small</g:title>
-      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas.</g:description>
+      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-adult-pyjamas?variant=57629160341879</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
 
@@ -43519,7 +43259,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX86129MED</g:id>
       <g:item_group_id>15519192646007</g:item_group_id>
       <g:title>Highland Cow Adult Pyjamas - Medium</g:title>
-      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas.</g:description>
+      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-adult-pyjamas?variant=57629160374647</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
 
@@ -43571,7 +43311,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX86129LARGE</g:id>
       <g:item_group_id>15519192646007</g:item_group_id>
       <g:title>Highland Cow Adult Pyjamas - Large</g:title>
-      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas.</g:description>
+      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-adult-pyjamas?variant=57629160407415</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
 
@@ -43623,7 +43363,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX86129XL</g:id>
       <g:item_group_id>15519192646007</g:item_group_id>
       <g:title>Highland Cow Adult Pyjamas - XL</g:title>
-      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas.</g:description>
+      <g:description>Christmas is for slowing down, and these pyjamas are made for it. Covered in adorable Highland cows, they bring a touch of woolly charm to the festivities, whether you’re settling in for a film marathon, enjoying a slow Christmas morning or lounging long after the presents are unwrapped.Matching children's versions are available, so the family can coordinate this Christmas. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-adult-pyjamas?variant=57629160440183</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
 
@@ -43732,7 +43472,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>9520950706493</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Highland Cow Blue Christmas Gift Bag - Medium</g:title>
-      <g:description>Don't get tied up in knots wrapping your gifts - our beautiful highland cow gift bag is here to help. Features:  Gift bag with our Highland Cow design, Exclusive to Cancer Research UK, Paper construction,  With every purchase helping fund our life-saving cancer research, give more people affected by cancer more special moments this festive season.</g:description>
+      <g:description>Don't get tied up in knots wrapping your gifts - our beautiful highland cow gift bag is here to help. Features:  Gift bag with our Highland Cow design, Exclusive to Cancer Research UK, Paper construction,  With every purchase helping fund our life-saving cancer research, give more people affected by cancer more special moments this festive season. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-gift-bag?variant=57345042743671</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85810-Hector-Highland-Cow-Gift-Bag-Medium-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
 
@@ -43784,7 +43524,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>9520950706493</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Highland Cow Blue Christmas Gift Bag - Large</g:title>
-      <g:description>Don't get tied up in knots wrapping your gifts - our beautiful highland cow gift bag is here to help. Features:  Gift bag with our Highland Cow design, Exclusive to Cancer Research UK, Paper construction,  With every purchase helping fund our life-saving cancer research, give more people affected by cancer more special moments this festive season.</g:description>
+      <g:description>Don't get tied up in knots wrapping your gifts - our beautiful highland cow gift bag is here to help. Features:  Gift bag with our Highland Cow design, Exclusive to Cancer Research UK, Paper construction,  With every purchase helping fund our life-saving cancer research, give more people affected by cancer more special moments this festive season. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-gift-bag?variant=57345042776439</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85810-Hector-Highland-Cow-Gift-Bag-Medium-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
 
@@ -43836,7 +43576,7 @@ Backing: 100% Polypropylene</g:material>
       <g:item_group_id>9520950706493</g:item_group_id>
       <g:google_product_category>5838</g:google_product_category>
       <g:title>Highland Cow Blue Christmas Gift Bag - Extra Large</g:title>
-      <g:description>Don't get tied up in knots wrapping your gifts - our beautiful highland cow gift bag is here to help. Features:  Gift bag with our Highland Cow design, Exclusive to Cancer Research UK, Paper construction,  With every purchase helping fund our life-saving cancer research, give more people affected by cancer more special moments this festive season.</g:description>
+      <g:description>Don't get tied up in knots wrapping your gifts - our beautiful highland cow gift bag is here to help. Features:  Gift bag with our Highland Cow design, Exclusive to Cancer Research UK, Paper construction,  With every purchase helping fund our life-saving cancer research, give more people affected by cancer more special moments this festive season. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-gift-bag?variant=57345042809207</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CW85810-Hector-Highland-Cow-Gift-Bag-Medium-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1784907523</g:image_link>
 
@@ -43887,7 +43627,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX861305</g:id>
       <g:item_group_id>15519192678775</g:item_group_id>
       <g:title>Highland Cow Childrens Pyjamas - 5-7 Years</g:title>
-      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas.</g:description>
+      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-childrens-pyjamas?variant=57629186392439</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
 
@@ -43937,7 +43677,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX861308</g:id>
       <g:item_group_id>15519192678775</g:item_group_id>
       <g:title>Highland Cow Childrens Pyjamas - 8-9 Years</g:title>
-      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas.</g:description>
+      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-childrens-pyjamas?variant=57629186425207</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
 
@@ -43987,7 +43727,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX8613010</g:id>
       <g:item_group_id>15519192678775</g:item_group_id>
       <g:title>Highland Cow Childrens Pyjamas - 10-11 Years</g:title>
-      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas.</g:description>
+      <g:description>Christmas is a magical time for little ones, and these pyjamas help make it feel even more special. Covered in adorable Highland cows, they bring a touch of woolly charm to bedtime, whether it’s a movie night with hot chocolate, a Christmas Eve full of excitement or a lazy morning of unwrapping presents. Match with adult versions for coordinated family fun this Christmas. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-childrens-pyjamas?variant=57629186457975</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86130-Highland-Cow-Childrens-Pyjama-Set-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044567</g:image_link>
 
@@ -44037,7 +43777,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX84642</g:id>
       <g:item_group_id>15087454847351</g:item_group_id>
       <g:title>Highland Cow Christmas Figurine with Hanging Legs</g:title>
-      <g:description>Bring a wee bit of Highland cheer to your festive décor with this Highland Cow Christmas Figurine. Sporting a snug woolly scarf and a matching hat, this shaggy friend is ready to brave the winter chill in style. Its playful leg-hanging design makes it perfect for perching on shelves, mantelpieces, or ledges—adding movement, character, and a dash of Scottish humour to your holiday setup. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts. </g:description>
+      <g:description>Bring a wee bit of Highland cheer to your festive décor with this Highland Cow Christmas Figurine. Sporting a snug woolly scarf and a matching hat, this shaggy friend is ready to brave the winter chill in style. Its playful leg-hanging design makes it perfect for perching on shelves, mantelpieces, or ledges—adding movement, character, and a dash of Scottish humour to your holiday setup. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-christmas-figurine-with-hanging-legs?variant=55594788422007</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84642-Highland-Cow-Figurine-Hanging-Legs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755185361</g:image_link>
 
@@ -44251,7 +43991,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX83699</g:id>
       <g:item_group_id>15089095377271</g:item_group_id>
       <g:title>Highland Cow Christmas Mug</g:title>
-      <g:description>Cosy up with this charming Highland cow mug, complete with a Father Christmas hat and festive holly detail. Perfect for hot chocolates on chilly winter nights, it’s just as delightful for everyday cuppas.  A sweet seasonal gift. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
+      <g:description>Cosy up with this charming Highland cow mug, complete with a Father Christmas hat and festive holly detail. Perfect for hot chocolates on chilly winter nights, it’s just as delightful for everyday cuppas.  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-shaped-mug?variant=55599660499319</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83699-Highland-Cow-Mug-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755192073</g:image_link>
 
@@ -44416,7 +44156,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX86167</g:id>
       <g:item_group_id>15513778356599</g:item_group_id>
       <g:title>Highland Cow Ear Muffs</g:title>
-      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy Highland cow ear muffs. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Keep your ears warm as you build that snowman, put up your outdoor decorations, or just go out and about with these fabulously fluffy Highland cow ear muffs. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-ear-muffs?variant=57299479265655</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86167-Highland-Cow-Ear-Muffs-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044574</g:image_link>
 
@@ -44521,7 +44261,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX86149</g:id>
       <g:item_group_id>9659088601405</g:item_group_id>
       <g:title>Highland Cow Long Hot Water Bottle</g:title>
-      <g:description>Snuggle up with our cute Highland Cow Long Hot Water Bottle, designed to bring warmth, comfort, and a touch of fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute. Keep the chill out in style – shop the rest of our Winter Warmers range for cosy essentials, from faux fur mittens to hand warmers and more.</g:description>
+      <g:description>Snuggle up with our cute Highland Cow Long Hot Water Bottle, designed to bring warmth, comfort, and a touch of fun to bedtime. With its plush, huggable cover and child-friendly character design, it’s perfect for keeping little (or big) ones cosy on chilly nights. The bottle retains heat for hours, making it ideal for soothing snuggles, bedtime routines, or relaxing after a long day. Safe, easy to use, and irresistibly cute. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-long-hot-water-bottle?variant=49371922268477</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX83789-Highland-Cow-Long-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1755786054</g:image_link>
 
@@ -44684,7 +44424,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CR85083</g:id>
       <g:item_group_id>15475182207351</g:item_group_id>
       <g:title>Highland Cow Placemats - Beige</g:title>
-      <g:description>From knocked drinks to food spills, family gatherings often come with a little mess. These placemats protect your table from stains and food, while the charming Highland cow design brings a friendly, countryside feel to mealtimes. Features  Set of 4 placemats , Cork backed, </g:description>
+      <g:description>From knocked drinks to food spills, family gatherings often come with a little mess. These placemats protect your table from stains and food, while the charming Highland cow design brings a friendly, countryside feel to mealtimes. Features  Set of 4 placemats , Cork backed,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-placemats?variant=57077063745911</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85083-Highland-Cow-Standing-Beige-Placemats-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778226629</g:image_link>
 
@@ -44739,7 +44479,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CR85084</g:id>
       <g:item_group_id>15475182207351</g:item_group_id>
       <g:title>Highland Cow Placemats - Grey</g:title>
-      <g:description>From knocked drinks to food spills, family gatherings often come with a little mess. These placemats protect your table from stains and food, while the charming Highland cow design brings a friendly, countryside feel to mealtimes. Features  Set of 4 placemats , Cork backed, </g:description>
+      <g:description>From knocked drinks to food spills, family gatherings often come with a little mess. These placemats protect your table from stains and food, while the charming Highland cow design brings a friendly, countryside feel to mealtimes. Features  Set of 4 placemats , Cork backed,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-placemats?variant=57077063778679</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85084-Highland-Cow-Standing-Grey-Placemats-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778226629</g:image_link>
 
@@ -44794,7 +44534,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX86093</g:id>
       <g:item_group_id>15513789202807</g:item_group_id>
       <g:title>Highland Cow Plush Cushion</g:title>
-      <g:description>This irresistibly soft Highland Cow plush cushion makes a charming Christmas gift, featuring a fluffy textured finish, adorable character design and soft polyester filling. Perfect for adding festive warmth and personality to any home.</g:description>
+      <g:description>This irresistibly soft Highland Cow plush cushion makes a charming Christmas gift, featuring a fluffy textured finish, adorable character design and soft polyester filling. Perfect for adding festive warmth and personality to any home. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-plush-cushion?variant=57299508167031</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86093-Highland-Cow-Head-Shaped-Cushion-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
 
@@ -44953,7 +44693,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CX86116</g:id>
       <g:item_group_id>15519192482167</g:item_group_id>
       <g:title>Highland Cow Short Hot Water Bottle</g:title>
-      <g:description>Give chilly nights the cold shoulder with this adorable Highland Cow Short Hot Water Bottle. Wrapped in a super-soft plush cover, it's perfect for cosy cuddles, comforting warmth and relaxing evenings. Designed to stay warm for hours, this charming highland cow companion is ideal for bedtime snuggles, soothing aches, or simply keeping warm during the colder months.</g:description>
+      <g:description>Give chilly nights the cold shoulder with this adorable Highland Cow Short Hot Water Bottle. Wrapped in a super-soft plush cover, it's perfect for cosy cuddles, comforting warmth and relaxing evenings. Designed to stay warm for hours, this charming highland cow companion is ideal for bedtime snuggles, soothing aches, or simply keeping warm during the colder months. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-short-hot-water-bottle?variant=57321553297783</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX86116-New-Highland-Cow-Short-Hot-Water-Bottle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1789044576</g:image_link>
 
@@ -45485,7 +45225,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CR85077</g:id>
       <g:item_group_id>14950503383415</g:item_group_id>
       <g:title>Highland Cow Tote Bag - Beige</g:title>
-      <g:description>Extra space always comes in handy, whether you’re shopping, heading out for the day or carrying everyday essentials. This large tote bag offers plenty of room while staying easy to carry. Finished with a sweet all‑over Highland cow design, it adds a touch of countryside charm to practical errands.</g:description>
+      <g:description>Extra space always comes in handy, whether you’re shopping, heading out for the day or carrying everyday essentials. This large tote bag offers plenty of room while staying easy to carry. Finished with a sweet all‑over Highland cow design, it adds a touch of countryside charm to practical errands. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tote-bag?variant=55095959060855</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85078-Highland-Cow-Standing-All-over-Print-Grey-Large-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778229251</g:image_link>
 
@@ -45539,7 +45279,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CR85078</g:id>
       <g:item_group_id>14950503383415</g:item_group_id>
       <g:title>Highland Cow Tote Bag - Grey</g:title>
-      <g:description>Extra space always comes in handy, whether you’re shopping, heading out for the day or carrying everyday essentials. This large tote bag offers plenty of room while staying easy to carry. Finished with a sweet all‑over Highland cow design, it adds a touch of countryside charm to practical errands.</g:description>
+      <g:description>Extra space always comes in handy, whether you’re shopping, heading out for the day or carrying everyday essentials. This large tote bag offers plenty of room while staying easy to carry. Finished with a sweet all‑over Highland cow design, it adds a touch of countryside charm to practical errands. Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/highland-cow-tote-bag?variant=57077123350903</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85077-Highland-Cow-Standing-All-over-Print-Beige-large-Tote-Bag-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1778229251</g:image_link>
 
@@ -48211,7 +47951,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
   
-<item>
+    <item>
       <g:id>SN85357</g:id>
       <g:item_group_id>15533589856631</g:item_group_id>
       <g:title>Kids Halloween Clay Kit</g:title>
@@ -48316,7 +48056,7 @@ Backing: 100% Polypropylene</g:material>
       <g:custom_label_4>Core (Non-Seasonal)</g:custom_label_4>
     </item>
   
-    <item>
+<item>
       <g:id>CR84926</g:id>
       <g:item_group_id>15521271873911</g:item_group_id>
       <g:title>Kids Unicorn Suitcase</g:title>
@@ -54659,7 +54399,7 @@ Backing: 100% Polypropylene</g:material>
       <g:id>CR85523</g:id>
       <g:item_group_id>15393216856439</g:item_group_id>
       <g:title>Meg Hawkins Double Wick Candle 400g Highland Cow - Apple Orchard</g:title>
-      <g:description>Perfect for creating a fresh, welcoming atmosphere, this candle fills your home with a crisp  apple orchard fragrance that brings gentle comfort to any room. As it burns, the scent naturally neutralises unwanted odours, leaving your space soft, clean, and beautifully inviting. Perfect for moments of self‑indulgence, mindful relaxation, or gifting to those who appreciate calm and comfort. Features  Double wick, 50 hour burn time, </g:description>
+      <g:description>Perfect for creating a fresh, welcoming atmosphere, this candle fills your home with a crisp  apple orchard fragrance that brings gentle comfort to any room. As it burns, the scent naturally neutralises unwanted odours, leaving your space soft, clean, and beautifully inviting. Perfect for moments of self‑indulgence, mindful relaxation, or gifting to those who appreciate calm and comfort. Features  Double wick, 50 hour burn time,  Looking for more of this shaggy Scottish icon? Discover the rest of our Highland cow decorations, homewares and gifts.</g:description>
       <g:link>https://shop.cancerresearchuk.org/products/meg-hawkins-2-wick-candle-400g-highland-cow-apple-orchard?variant=56773071143287</g:link>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR85523-Meg-Hawkins-400g-Highland-Cow-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771955323</g:image_link>
 
@@ -55635,7 +55375,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CX84377-Wreath-Holder-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1760705755</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>1.69 GBP</g:price>
 
       <g:shipping>
@@ -57006,7 +56746,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42342-MooGoo-Lip-Balm-Cow-Lick-Group-2-Cancer-Research-UK-Online-Shop_1_1fd1bfc6-1506-4205-9d7c-0b9055421990_1024x1024.jpg?v=1719230292</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -57309,7 +57049,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82398-MooGoo-DryShampoo-100g-Cancer-Research-UK-Online-Shop_0_1024x1024.jpg?v=1727358196</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>12.49 GBP</g:price>
 
       <g:shipping>
@@ -57817,7 +57557,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42341-MooGoo-Deodorant-Sensitive-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771429005</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>6.99 GBP</g:price>
 
       <g:shipping>
@@ -58475,6 +58215,57 @@ Backing: 100% Polypropylene</g:material>
     </item>
   
     <item>
+      <g:id>LW42345</g:id>
+      <g:item_group_id>9521044324669</g:item_group_id>
+      <g:google_product_category>3040</g:google_product_category>
+      <g:title>MooGoo Moothwash 300ml Mouthwash</g:title>
+      <g:description>Formulated for sensitive mouths of all ages, MooGoo Moothwash is a natural mouthwash formulated only with natural ingredients.Chemotherapy and radiotherapy can cause damage to healthy cells in the mouth which can upset the healthy balance of bacteria causing oral sores and infection. Using a gentle mouthwash is imperative to maintaining mucosal health.Features:	MooGoo Moothwash 300ml,	Contains natural anti-bacterial probiotics to encourage healthy oral flora,	Formulated using a blend of essential oils chosen for their anti-bacterial properties and aloe vera to reduce plaque,	Includes Stevia Leaf Extract to make it taste nice - especially for kids!, MooGoo's Moothwash uses new natural technologies such as a Lactobacillus Ferment to control oral bacteria. Each essential oil used is chosen for its anti-bacterial action including Thyme, Cinnamon, Myrrh, and Clovebud.Ingredients:Aqua, Aloe Barbadensis Leaf Juice (Aloe Vera), Xylitol (Natural Sweetener), Lactobacillus Ferment (Natural bug killer), Glycerin, Polysorbate 20 (Food Grade Emulsifier), Mentha Viridis (Spearmint) Leaf Oil, Cocamidopropyl Betaine (Coconut-Derived Cleanser), Sodium Chloride (Sea Salt), Mentha Arvensis (Menthol) Herb Oil, Sclerotium Gum (Food Grade Thickener), Stevia Rebaudiana (Natural Sweetener), Thymus Vulgaris (Thyme) Oil, Cinnamomum Zeylanicum (Cinnamon) Leaf Oil, Commiphora Myrrha (Myrrh) Oil, Eugenia Caryophyllus (Clovebud) Oil.About MooGooAt MooGoo we have the honour of helping make life a little easier for our customers undergoing treatment for cancer. We're a family owned, Australian company with an entire range of natural and gentle products designed to care for the skin and scalp using high quality, natural and edible ingredients since 2005. We are committed to developing safe and effective products to support your skin, scalp, and oral health across your journey. Maintaining skin integrity and promoting a healing environment is important in preventing treatment related reactions such as dry, itchy, red, flaky, or irritated skin. Implementing a healthy skin care routine early in your treatment, including gentle SLS- free mild wash followed by proper skin hydration is an important step to prevent progression and management of skin reactions. Because MooGoo Skincare make their products for their families, MooGoo have a strict ingredient philosophy that excludes ingredients like Parabens, Phenoxyethanol and penetration enhancers.9335955001033</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/moogoo-moothwash-300ml-mouthwash?variant=49004041568573</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42345-MooGoo-Moothwash-Mouthwash-300ml-Cancer-Research-UK-Online-Shop_757fb19c-27c4-4e4a-9a69-e39cf83d599a_1024x1024.jpg?v=1719230334</g:image_link>
+
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>8.49 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>9335955001033</g:gtin>
+
+
+      <g:brand>MooGoo</g:brand>
+      <g:product_type>Mouthwash</g:product_type>
+
+      <g:size>0</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+
+
+
+
+
+
+
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Skincare</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+  
+    <item>
       <g:id>LW84825</g:id>
       <g:item_group_id>15057209196919</g:item_group_id>
       <g:title>MooGoo Natural Frizz Fighter Hydrating Hair Mist</g:title>
@@ -58483,7 +58274,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84825-MooGoo-FrizzFighter-180ml-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753883864</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>23.99 GBP</g:price>
 
       <g:shipping>
@@ -58534,7 +58325,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81505-MooGoo-Body-Care-Lip-Balm-Coconut-Cancer-Research-UK-Online-Shop_c216262c-4cee-4e3d-affd-a4b6a8a8bbfd_1024x1024.jpg?v=1719230336</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -58637,7 +58428,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW81503-MooGoo-Body-Care-Lip-Balm-Tingling-Honey-Cancer-Research-UK-Online-Shop_aa62e899-193f-42ae-9542-2d19c894e585_1024x1024.jpg?v=1719230340</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -58989,6 +58780,56 @@ Backing: 100% Polypropylene</g:material>
     </item>
   
     <item>
+      <g:id>LW84824</g:id>
+      <g:item_group_id>15057204347255</g:item_group_id>
+      <g:title>MooGoo Rescue Fix-It Balm</g:title>
+      <g:description>For chapped lips, chafing, dry patches, blemishes, redness, cracked skin. This nourishing balm ditches the traditional petroleum jelly for shea butter and jojoba oil to make a beautifully moisturising and nourishing balm. This is then amplified with concentrated extracts of marshmallow, calendula, cucumber, chamomile, beeswax and natural vitamin E.  Fix-It can be used alongside MooGoo's Eczema &amp; Psoriasis products as it will aid in nourishing and soothing dry skin, cracks and rashes.</g:description>
+      <g:link>https://shop.cancerresearchuk.org/products/moogoo-fix-it-balm?variant=55462132285815</g:link>
+      <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84824-MooGoo-FixItBalm-25g-2-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1753883710</g:image_link>
+
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>7.99 GBP</g:price>
+
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Standard</g:service>
+        <g:price>3.99 GBP</g:price>
+      </g:shipping>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Next Working Day</g:service>
+        <g:price>6.99 GBP</g:price>
+      </g:shipping>
+      <g:free_shipping_threshold>
+        <g:country>GB</g:country>
+        <g:price_threshold>50.00 GBP</g:price_threshold>
+      </g:free_shipping_threshold>
+
+      <g:ships_from_country>GB</g:ships_from_country>
+      <g:gtin>9335955004942</g:gtin>
+
+
+      <g:brand>MooGoo</g:brand>
+      <g:product_type>Balm</g:product_type>
+
+      <g:size>1</g:size>
+      <g:size_type>regular</g:size_type>
+      <g:size_system>UK</g:size_system>
+
+
+
+
+
+
+
+      <g:custom_label_0>Cancer Care</g:custom_label_0>
+      <g:custom_label_1>Cancer Care</g:custom_label_1>
+      <g:custom_label_2>Skincare</g:custom_label_2>
+      <g:custom_label_4>Cancer Care</g:custom_label_4>
+    </item>
+  
+    <item>
       <g:id>LW82384</g:id>
       <g:item_group_id>9676877955389</g:item_group_id>
       <g:google_product_category>2747</g:google_product_category>
@@ -59152,7 +58993,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW82379-MooG00-Shea_20Sorbet_20Vanilla-50g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1727365013</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>8.99 GBP</g:price>
 
       <g:shipping>
@@ -59356,7 +59197,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW84658-MooGoo-Soothing-MSM-Moisturiser-120g-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1749653971</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>12.49 GBP</g:price>
 
       <g:shipping>
@@ -59407,7 +59248,7 @@ Backing: 100% Polypropylene</g:material>
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW42343-MooGoo-Lip-Balm-SPF-15-5g-Group-2-Cancer-Research-UK-Online-Shop_772dea3b-afdb-4304-908b-452985baea5b_1024x1024.jpg?v=1719230361</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:price>4.49 GBP</g:price>
 
       <g:shipping>
@@ -99158,7 +98999,7 @@ Filling: Aggregate and Polyester fibre
 
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/LW32299-Serenity-Revive-Diffuser-Orange-Jasmine-Lifestyle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1771348597</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>19.99 GBP</g:price>
 
       <g:shipping>
@@ -104689,7 +104530,7 @@ LED
       <g:image_link>https://shop.cancerresearchuk.org/cdn/shop/files/CR86254-8x5cm-Soleil-Travel-Tin-Candle-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1776442731</g:image_link>
 
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>2.99 GBP</g:price>
       <g:sale_price>2.39 GBP</g:sale_price>
 
@@ -112966,7 +112807,7 @@ LED
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU82404-SU2C-Bake-Off-2025-Tea-Towels-Bake-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738330866</g:additional_image_link>
       <g:additional_image_link>https://shop.cancerresearchuk.org/cdn/shop/files/SU82404-SU2C-Bake-Off-2025-Tea-Towels-Lifestyle-1-Cancer-Research-UK-Online-Shop_1024x1024.jpg?v=1738330833</g:additional_image_link>
       <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
+      <g:availability>out of stock</g:availability>
       <g:price>8.49 GBP</g:price>
 
       <g:shipping>
